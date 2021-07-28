@@ -1,0 +1,4 @@
+{"e1": "Antigua and Barbuda", "e2": "St. John's", "rel": "HasCapital", "rel_eval": "HasCapital_reverse", "e2_multi1": "St. John's", "e2_multi2": "Antigua and Barbuda"}
+{"e1": "Argentina", "e2": "Buenos Aires", "rel": "HasCapital", "rel_eval": "HasCapital_reverse", "e2_multi1": "Buenos Aires", "e2_multi2": "Argentina"}
+{"e1": "Argentina", "e2": "South America", "rel": "InContinent", "rel_eval": "InContinent_reverse", "e2_multi1": "South America", "e2_multi2": "Colombia\tBrazil\tChile\tEcuador\tParaguay\tGuyana\tPanama\tUruguay\tArgentina\tVenezuela\tPeru\tBolivia\tSuriname"}
+{"e1": "Argentina", "e2": "Bolivia", "rel": "SharesBorderWith", "rel_eval": "SharesBorderWith_reverse", "e2_multi1": "Brazil\tChile\tParaguay\tUruguay\tBolivia", "e2_multi2": "Brazil\tChile\tParaguay\tArgentina\tPeru"}

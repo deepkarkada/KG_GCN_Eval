@@ -1,0 +1,3770 @@
+Afghanistan	HasCapital	Kabul
+Afghanistan	InContinent	Asia
+Afghanistan	SharesBorderWith	Iran
+Afghanistan	SharesBorderWith	Pakistan
+Afghanistan	SharesBorderWith	People's Republic of China
+Afghanistan	SharesBorderWith	Tajikistan
+Afghanistan	SharesBorderWith	Turkmenistan
+Afghanistan	SharesBorderWith	Uzbekistan
+Albania	HasArea	28748.0
+Albania	HasCapital	Tirana
+Albania	HasLocation	Balkans
+Albania	InContinent	Europe
+Albania	LocatedInOrNextToBodyOfWater	Adriatic Sea
+Albania	SharesBorderWith	European Union
+Albania	SharesBorderWith	Greece
+Albania	SharesBorderWith	Kosovo
+Albania	SharesBorderWith	Montenegro
+Albania	SharesBorderWith	North Macedonia
+Albania	SharesBorderWith	Serbia
+Algeria	HasCapital	Algiers
+Algeria	InContinent	Africa
+Algeria	SharesBorderWith	Libya
+Algeria	SharesBorderWith	Mali
+Algeria	SharesBorderWith	Mauritania
+Algeria	SharesBorderWith	Morocco
+Algeria	SharesBorderWith	Niger
+Algeria	SharesBorderWith	Tunisia
+Algeria	SharesBorderWith	Western Sahara
+Andorra	HasCapital	Andorra la Vella
+Andorra	InContinent	Europe
+Andorra	SharesBorderWith	Catalonia
+Andorra	SharesBorderWith	European Union
+Andorra	SharesBorderWith	France
+Andorra	SharesBorderWith	Occitania
+Andorra	SharesBorderWith	Spain
+Angola	HasCapital	Luanda
+Angola	InContinent	Africa
+Angola	SharesBorderWith	Democratic Republic of the Congo
+Angola	SharesBorderWith	Namibia
+Angola	SharesBorderWith	Republic of the Congo
+Angola	SharesBorderWith	Zambia
+Antigua and Barbuda	HasCapital	St. John's
+Argentina	HasCapital	Buenos Aires
+Argentina	InContinent	South America
+Argentina	SharesBorderWith	Bolivia
+Argentina	SharesBorderWith	Brazil
+Argentina	SharesBorderWith	Chile
+Argentina	SharesBorderWith	Paraguay
+Argentina	SharesBorderWith	Uruguay
+Armenia	HasCapital	Yerevan
+Armenia	InContinent	Asia
+Armenia	InContinent	Europe
+Armenia	SharesBorderWith	Azerbaijan
+Armenia	SharesBorderWith	Georgia
+Armenia	SharesBorderWith	Iran
+Armenia	SharesBorderWith	Turkey
+Australia	HasCapital	Canberra
+Australia	InContinent	Oceania
+Australia	SharesBorderWith	East Timor
+Australia	SharesBorderWith	Indonesia
+Australia	SharesBorderWith	New Zealand
+Australia	SharesBorderWith	Papua New Guinea
+Austria	HasCapital	Vienna
+Austria	InContinent	Europe
+Austria	SharesBorderWith	Czech Republic
+Austria	SharesBorderWith	Germany
+Austria	SharesBorderWith	Hungary
+Austria	SharesBorderWith	Italy
+Austria	SharesBorderWith	Liechtenstein
+Austria	SharesBorderWith	Slovakia
+Austria	SharesBorderWith	Slovenia
+Austria	SharesBorderWith	Switzerland
+Azerbaijan	HasCapital	Baku
+Azerbaijan	InContinent	Asia
+Azerbaijan	InContinent	Europe
+Azerbaijan	SharesBorderWith	Armenia
+Azerbaijan	SharesBorderWith	Artsakh
+Azerbaijan	SharesBorderWith	Georgia
+Azerbaijan	SharesBorderWith	Iran
+Azerbaijan	SharesBorderWith	Russia
+Azerbaijan	SharesBorderWith	Turkey
+Bahrain	HasCapital	Manama
+Bahrain	InContinent	Asia
+Bahrain	SharesBorderWith	Saudi Arabia
+Bangladesh	HasCapital	Dhaka
+Bangladesh	InContinent	Asia
+Bangladesh	SharesBorderWith	India
+Bangladesh	SharesBorderWith	Myanmar
+Barbados	HasCapital	Bridgetown
+Belarus	HasCapital	Minsk
+Belarus	InContinent	Europe
+Belarus	SharesBorderWith	European Union
+Belarus	SharesBorderWith	Latvia
+Belarus	SharesBorderWith	Lithuania
+Belarus	SharesBorderWith	Poland
+Belarus	SharesBorderWith	Russia
+Belarus	SharesBorderWith	Ukraine
+Belgium	HasCapital	Brussels
+Belgium	InContinent	Europe
+Belgium	SharesBorderWith	France
+Belgium	SharesBorderWith	Germany
+Belgium	SharesBorderWith	Kingdom of the Netherlands
+Belgium	SharesBorderWith	Luxembourg
+Belgium	SharesBorderWith	Netherlands
+Belize	HasCapital	Belmopan
+Belize	InContinent	North America
+Belize	SharesBorderWith	Guatemala
+Belize	SharesBorderWith	Mexico
+Benin	HasCapital	Porto-Novo
+Benin	InContinent	Africa
+Benin	SharesBorderWith	Burkina Faso
+Benin	SharesBorderWith	Niger
+Benin	SharesBorderWith	Nigeria
+Benin	SharesBorderWith	Togo
+Bhutan	HasCapital	Thimphu
+Bhutan	InContinent	Asia
+Bhutan	SharesBorderWith	India
+Bhutan	SharesBorderWith	People's Republic of China
+Bolivia	HasCapital	La Paz
+Bolivia	HasCapital	Sucre
+Bolivia	InContinent	South America
+Bolivia	SharesBorderWith	Argentina
+Bolivia	SharesBorderWith	Brazil
+Bolivia	SharesBorderWith	Chile
+Bolivia	SharesBorderWith	Paraguay
+Bolivia	SharesBorderWith	Peru
+Bosnia and Herzegovina	HasArea	51197.0
+Bosnia and Herzegovina	HasCapital	Sarajevo
+Bosnia and Herzegovina	HasLocation	Balkans
+Bosnia and Herzegovina	InContinent	Europe
+Bosnia and Herzegovina	LocatedInOrNextToBodyOfWater	Adriatic Sea
+Bosnia and Herzegovina	SharesBorderWith	Croatia
+Bosnia and Herzegovina	SharesBorderWith	European Union
+Bosnia and Herzegovina	SharesBorderWith	Montenegro
+Bosnia and Herzegovina	SharesBorderWith	Serbia
+Botswana	HasCapital	Gaborone
+Botswana	InContinent	Africa
+Botswana	SharesBorderWith	Namibia
+Botswana	SharesBorderWith	South Africa
+Botswana	SharesBorderWith	Zambia
+Botswana	SharesBorderWith	Zimbabwe
+Brazil	HasCapital	Brasília
+Brazil	InContinent	South America
+Brazil	SharesBorderWith	Argentina
+Brazil	SharesBorderWith	Bolivia
+Brazil	SharesBorderWith	Colombia
+Brazil	SharesBorderWith	European Union
+Brazil	SharesBorderWith	France
+Brazil	SharesBorderWith	French Guiana
+Brazil	SharesBorderWith	Guyana
+Brazil	SharesBorderWith	Paraguay
+Brazil	SharesBorderWith	Peru
+Brazil	SharesBorderWith	Suriname
+Brazil	SharesBorderWith	Uruguay
+Brazil	SharesBorderWith	Venezuela
+Brunei	HasCapital	Bandar Seri Begawan
+Brunei	InContinent	Asia
+Brunei	SharesBorderWith	Malaysia
+Bulgaria	HasCapital	Sofia
+Bulgaria	InContinent	Europe
+Bulgaria	SharesBorderWith	Black Sea
+Bulgaria	SharesBorderWith	Greece
+Bulgaria	SharesBorderWith	North Macedonia
+Bulgaria	SharesBorderWith	Romania
+Bulgaria	SharesBorderWith	Serbia
+Bulgaria	SharesBorderWith	Turkey
+Burkina Faso	HasCapital	Ouagadougou
+Burkina Faso	InContinent	Africa
+Burkina Faso	SharesBorderWith	Benin
+Burkina Faso	SharesBorderWith	Ghana
+Burkina Faso	SharesBorderWith	Ivory Coast
+Burkina Faso	SharesBorderWith	Mali
+Burkina Faso	SharesBorderWith	Niger
+Burkina Faso	SharesBorderWith	Togo
+Burundi	HasCapital	Gitega
+Burundi	InContinent	Africa
+Burundi	SharesBorderWith	Democratic Republic of the Congo
+Burundi	SharesBorderWith	Rwanda
+Burundi	SharesBorderWith	Tanzania
+Cambodia	HasCapital	Phnom Penh
+Cambodia	InContinent	Asia
+Cambodia	SharesBorderWith	Laos
+Cambodia	SharesBorderWith	Thailand
+Cambodia	SharesBorderWith	Vietnam
+Cameroon	HasArea	475442.0
+Cameroon	HasCapital	Yaoundé
+Cameroon	HasLocation	Central Africa
+Cameroon	InContinent	Africa
+Cameroon	LocatedInOrNextToBodyOfWater	Gulf of Guinea
+Cameroon	LocatedInOrNextToBodyOfWater	Lake Chad
+Cameroon	SharesBorderWith	Central African Republic
+Cameroon	SharesBorderWith	Chad
+Cameroon	SharesBorderWith	Equatorial Guinea
+Cameroon	SharesBorderWith	Gabon
+Cameroon	SharesBorderWith	Nigeria
+Cameroon	SharesBorderWith	Republic of the Congo
+Canada	HasCapital	Ottawa
+Canada	InContinent	North America
+Canada	SharesBorderWith	Greenland
+Canada	SharesBorderWith	United States of America
+Cape Verde	HasCapital	Praia
+Central African Republic	HasCapital	Bangui
+Central African Republic	InContinent	Africa
+Central African Republic	SharesBorderWith	Arab League
+Central African Republic	SharesBorderWith	Cameroon
+Central African Republic	SharesBorderWith	Chad
+Central African Republic	SharesBorderWith	Democratic Republic of the Congo
+Central African Republic	SharesBorderWith	Republic of the Congo
+Central African Republic	SharesBorderWith	South Sudan
+Central African Republic	SharesBorderWith	Sudan
+Chad	HasArea	1284000.0
+Chad	HasCapital	N'Djamena
+Chad	HasLocation	Sahel
+Chad	InContinent	Africa
+Chad	LocatedInOrNextToBodyOfWater	Lake Chad
+Chad	SharesBorderWith	Arab League
+Chad	SharesBorderWith	Cameroon
+Chad	SharesBorderWith	Central African Republic
+Chad	SharesBorderWith	Libya
+Chad	SharesBorderWith	Niger
+Chad	SharesBorderWith	Nigeria
+Chad	SharesBorderWith	Sudan
+Chile	HasCapital	Santiago
+Chile	InContinent	South America
+Chile	SharesBorderWith	Argentina
+Chile	SharesBorderWith	Bolivia
+Chile	SharesBorderWith	Peru
+Colombia	HasCapital	Bogota
+Colombia	InContinent	South America
+Colombia	SharesBorderWith	Brazil
+Colombia	SharesBorderWith	Ecuador
+Colombia	SharesBorderWith	Nicaragua
+Colombia	SharesBorderWith	Panama
+Colombia	SharesBorderWith	Peru
+Colombia	SharesBorderWith	Venezuela
+Comoros	HasCapital	Moroni
+Comoros	InContinent	Africa
+Comoros	SharesBorderWith	France
+Comoros	SharesBorderWith	Madagascar
+Comoros	SharesBorderWith	Mozambique
+Comoros	SharesBorderWith	Seychelles
+Comoros	SharesBorderWith	Tanzania
+Costa Rica	HasCapital	San José
+Costa Rica	InContinent	North America
+Costa Rica	SharesBorderWith	Nicaragua
+Costa Rica	SharesBorderWith	Panama
+Croatia	HasArea	56594.0
+Croatia	HasCapital	Zagreb
+Croatia	HasLocation	Balkans
+Croatia	InContinent	Europe
+Croatia	LocatedInOrNextToBodyOfWater	Adriatic Sea
+Croatia	SharesBorderWith	Bosnia and Herzegovina
+Croatia	SharesBorderWith	Hungary
+Croatia	SharesBorderWith	Liberland
+Croatia	SharesBorderWith	Montenegro
+Croatia	SharesBorderWith	Serbia
+Croatia	SharesBorderWith	Slovenia
+Cuba	HasCapital	Havana
+Cuba	InContinent	North America
+Cuba	SharesBorderWith	United States of America
+Czech Republic	HasCapital	Prague
+Czech Republic	InContinent	Europe
+Czech Republic	SharesBorderWith	Austria
+Czech Republic	SharesBorderWith	Germany
+Czech Republic	SharesBorderWith	Poland
+Czech Republic	SharesBorderWith	Slovakia
+Democratic Republic of the Congo	HasCapital	Kinshasa
+Democratic Republic of the Congo	InContinent	Africa
+Democratic Republic of the Congo	SharesBorderWith	Angola
+Democratic Republic of the Congo	SharesBorderWith	Burundi
+Democratic Republic of the Congo	SharesBorderWith	Cameroon
+Democratic Republic of the Congo	SharesBorderWith	Central African Republic
+Democratic Republic of the Congo	SharesBorderWith	Republic of the Congo
+Democratic Republic of the Congo	SharesBorderWith	Rwanda
+Democratic Republic of the Congo	SharesBorderWith	South Sudan
+Democratic Republic of the Congo	SharesBorderWith	Sudan
+Democratic Republic of the Congo	SharesBorderWith	Tanzania
+Democratic Republic of the Congo	SharesBorderWith	Uganda
+Democratic Republic of the Congo	SharesBorderWith	Zambia
+Denmark	HasArea	42925.46
+Denmark	HasCapital	Copenhagen
+Denmark	HasLocation	Scandinavia
+Denmark	InContinent	Europe
+Denmark	LocatedInOrNextToBodyOfWater	Baltic Sea
+Denmark	LocatedInOrNextToBodyOfWater	North Sea
+Denmark	SharesBorderWith	Germany
+Denmark	SharesBorderWith	Norway
+Denmark	SharesBorderWith	Sweden
+Djibouti	HasCapital	Djibouti
+Djibouti	InContinent	Africa
+Djibouti	SharesBorderWith	Eritrea
+Djibouti	SharesBorderWith	Ethiopia
+Djibouti	SharesBorderWith	Somalia
+Dominica	HasCapital	Roseau
+Dominica	InContinent	North America
+Dominican Republic	HasCapital	Santo Domingo
+Dominican Republic	InContinent	North America
+Dominican Republic	SharesBorderWith	Haiti
+Dominican Republic	SharesBorderWith	United States of America
+Dominican Republic	SharesBorderWith	Venezuela
+Dominica	SharesBorderWith	Venezuela
+East Timor	HasCapital	Dili
+East Timor	InContinent	Asia
+East Timor	SharesBorderWith	ASEAN
+East Timor	SharesBorderWith	Australia
+East Timor	SharesBorderWith	Indonesia
+Ecuador	HasCapital	Quito
+Ecuador	InContinent	South America
+Ecuador	SharesBorderWith	Colombia
+Ecuador	SharesBorderWith	Peru
+Egypt	HasCapital	Cairo
+Egypt	InContinent	Africa
+Egypt	InContinent	Asia
+Egypt	SharesBorderWith	Bir Tawil
+Egypt	SharesBorderWith	Gaza Strip
+Egypt	SharesBorderWith	Israel
+Egypt	SharesBorderWith	Libya
+Egypt	SharesBorderWith	Sudan
+El Salvador	HasCapital	San Salvador
+El Salvador	InContinent	North America
+El Salvador	SharesBorderWith	Guatemala
+El Salvador	SharesBorderWith	Honduras
+Equatorial Guinea	HasCapital	Malabo
+Equatorial Guinea	InContinent	Africa
+Equatorial Guinea	SharesBorderWith	Cameroon
+Equatorial Guinea	SharesBorderWith	Gabon
+Eritrea	HasCapital	Asmara
+Eritrea	InContinent	Africa
+Eritrea	SharesBorderWith	Arab League
+Eritrea	SharesBorderWith	Djibouti
+Eritrea	SharesBorderWith	Ethiopia
+Eritrea	SharesBorderWith	Sudan
+Estonia	HasCapital	Tallinn
+Estonia	InContinent	Europe
+Estonia	SharesBorderWith	Latvia
+Estonia	SharesBorderWith	Russia
+Eswatini	HasCapital	Lobamba
+Eswatini	HasCapital	Mbabane
+Eswatini	InContinent	Africa
+Eswatini	SharesBorderWith	Mozambique
+Eswatini	SharesBorderWith	South Africa
+Ethiopia	HasCapital	Addis Ababa
+Ethiopia	InContinent	Africa
+Ethiopia	SharesBorderWith	Arab League
+Ethiopia	SharesBorderWith	Djibouti
+Ethiopia	SharesBorderWith	Eritrea
+Ethiopia	SharesBorderWith	Kenya
+Ethiopia	SharesBorderWith	Somalia
+Ethiopia	SharesBorderWith	South Sudan
+Ethiopia	SharesBorderWith	Sudan
+Federated States of Micronesia	HasCapital	Palikir
+Federated States of Micronesia	InContinent	Oceania
+Federated States of Micronesia	SharesBorderWith	United States of America
+Fiji	HasCapital	Suva
+Finland	HasArea	338424.38
+Finland	HasCapital	Helsinki
+Finland	HasLocation	Fennoscandia
+Finland	InContinent	Europe
+Finland	LocatedInOrNextToBodyOfWater	Baltic Sea
+Finland	SharesBorderWith	Norway
+Finland	SharesBorderWith	Russia
+Finland	SharesBorderWith	Sweden
+France	HasCapital	Paris
+France	InContinent	Europe
+France	SharesBorderWith	Andorra
+France	SharesBorderWith	Belgium
+France	SharesBorderWith	Brazil
+France	SharesBorderWith	Germany
+France	SharesBorderWith	Italy
+France	SharesBorderWith	Kingdom of the Netherlands
+France	SharesBorderWith	Luxembourg
+France	SharesBorderWith	Monaco
+France	SharesBorderWith	Spain
+France	SharesBorderWith	Suriname
+France	SharesBorderWith	Switzerland
+Gabon	HasCapital	Libreville
+Gabon	InContinent	Africa
+Gabon	SharesBorderWith	Cameroon
+Gabon	SharesBorderWith	Equatorial Guinea
+Gabon	SharesBorderWith	Republic of the Congo
+Georgia	HasCapital	Tbilisi
+Georgia	InContinent	Asia
+Georgia	InContinent	Europe
+Georgia	SharesBorderWith	Armenia
+Georgia	SharesBorderWith	Azerbaijan
+Georgia	SharesBorderWith	Russia
+Georgia	SharesBorderWith	Turkey
+Germany	HasArea	357400.0
+Germany	HasCapital	Berlin
+Germany	HasLocation	Central Europe
+Germany	InContinent	Europe
+Germany	LocatedInOrNextToBodyOfWater	Baltic Sea
+Germany	LocatedInOrNextToBodyOfWater	North Sea
+Germany	SharesBorderWith	Austria
+Germany	SharesBorderWith	Belgium
+Germany	SharesBorderWith	Czech Republic
+Germany	SharesBorderWith	Denmark
+Germany	SharesBorderWith	France
+Germany	SharesBorderWith	Luxembourg
+Germany	SharesBorderWith	Netherlands
+Germany	SharesBorderWith	Poland
+Germany	SharesBorderWith	Switzerland
+Ghana	HasCapital	Accra
+Ghana	InContinent	Africa
+Ghana	SharesBorderWith	Burkina Faso
+Ghana	SharesBorderWith	Ivory Coast
+Ghana	SharesBorderWith	Togo
+Greece	HasArea	131957.0
+Greece	HasCapital	Athens
+Greece	HasLocation	Balkans
+Greece	HasLocation	Southern Europe
+Greece	InContinent	Europe
+Greece	LocatedInOrNextToBodyOfWater	Mediterranean Sea
+Greece	SharesBorderWith	Albania
+Greece	SharesBorderWith	Bulgaria
+Greece	SharesBorderWith	North Macedonia
+Greece	SharesBorderWith	Turkey
+Grenada	HasCapital	St. George's
+Grenada	InContinent	North America
+Grenada	SharesBorderWith	Venezuela
+Guatemala	HasCapital	Guatemala City
+Guatemala	InContinent	North America
+Guatemala	SharesBorderWith	Belize
+Guatemala	SharesBorderWith	El Salvador
+Guatemala	SharesBorderWith	Honduras
+Guatemala	SharesBorderWith	Mexico
+Guinea-Bissau	HasCapital	Bissau
+Guinea-Bissau	InContinent	Africa
+Guinea-Bissau	SharesBorderWith	Guinea
+Guinea-Bissau	SharesBorderWith	Senegal
+Guinea	HasCapital	Conakry
+Guinea	InContinent	Africa
+Guinea	SharesBorderWith	Guinea-Bissau
+Guinea	SharesBorderWith	Ivory Coast
+Guinea	SharesBorderWith	Liberia
+Guinea	SharesBorderWith	Mali
+Guinea	SharesBorderWith	Senegal
+Guinea	SharesBorderWith	Sierra Leone
+Guyana	HasCapital	Georgetown
+Guyana	InContinent	South America
+Guyana	SharesBorderWith	Brazil
+Guyana	SharesBorderWith	Suriname
+Guyana	SharesBorderWith	Venezuela
+Haiti	HasCapital	Port-au-Prince
+Haiti	InContinent	North America
+Haiti	SharesBorderWith	Dominican Republic
+Haiti	SharesBorderWith	United States of America
+Honduras	HasCapital	Tegucigalpa
+Honduras	InContinent	North America
+Honduras	SharesBorderWith	El Salvador
+Honduras	SharesBorderWith	Guatemala
+Honduras	SharesBorderWith	Nicaragua
+Hungary	HasArea	93011.4
+Hungary	HasCapital	Budapest
+Hungary	HasLocation	Central Europe
+Hungary	InContinent	Europe
+Hungary	LocatedInOrNextToBodyOfWater	Danube
+Hungary	LocatedInOrNextToBodyOfWater	Drava
+Hungary	LocatedInOrNextToBodyOfWater	Ipoly
+Hungary	LocatedInOrNextToBodyOfWater	Lake Balaton
+Hungary	LocatedInOrNextToBodyOfWater	Neusiedl Lake
+Hungary	LocatedInOrNextToBodyOfWater	Tisza
+Hungary	SharesBorderWith	Austria
+Hungary	SharesBorderWith	Croatia
+Hungary	SharesBorderWith	Romania
+Hungary	SharesBorderWith	Serbia
+Hungary	SharesBorderWith	Slovakia
+Hungary	SharesBorderWith	Slovenia
+Hungary	SharesBorderWith	Ukraine
+Iceland	HasCapital	Reykjavík
+Iceland	InContinent	Europe
+Iceland	SharesBorderWith	Faroe Islands
+Iceland	SharesBorderWith	Greenland
+Iceland	SharesBorderWith	Svalbard
+India	HasCapital	New Delhi
+India	InContinent	Asia
+India	SharesBorderWith	Bangladesh
+India	SharesBorderWith	Bhutan
+India	SharesBorderWith	Myanmar
+India	SharesBorderWith	Nepal
+India	SharesBorderWith	Pakistan
+India	SharesBorderWith	People's Republic of China
+Indonesia	HasCapital	Jakarta
+Indonesia	InContinent	Asia
+Indonesia	SharesBorderWith	Australia
+Indonesia	SharesBorderWith	East Timor
+Indonesia	SharesBorderWith	India
+Indonesia	SharesBorderWith	Malaysia
+Indonesia	SharesBorderWith	Palau
+Indonesia	SharesBorderWith	Papua New Guinea
+Indonesia	SharesBorderWith	Philippines
+Indonesia	SharesBorderWith	Singapore
+Indonesia	SharesBorderWith	Thailand
+Indonesia	SharesBorderWith	Vietnam
+Iran	HasCapital	Tehran
+Iran	InContinent	Asia
+Iran	SharesBorderWith	Afghanistan
+Iran	SharesBorderWith	Arab League
+Iran	SharesBorderWith	Armenia
+Iran	SharesBorderWith	Artsakh
+Iran	SharesBorderWith	Azerbaijan
+Iran	SharesBorderWith	Iraq
+Iran	SharesBorderWith	Nakhchivan Autonomous Republic
+Iran	SharesBorderWith	Pakistan
+Iran	SharesBorderWith	Soviet Union
+Iran	SharesBorderWith	Turkey
+Iran	SharesBorderWith	Turkmenistan
+Iraq	HasCapital	Baghdad
+Iraq	InContinent	Asia
+Iraq	SharesBorderWith	Iran
+Iraq	SharesBorderWith	Jordan
+Iraq	SharesBorderWith	Kuwait
+Iraq	SharesBorderWith	Saudi Arabia
+Iraq	SharesBorderWith	Syria
+Iraq	SharesBorderWith	Turkey
+Ireland	HasCapital	Dublin
+Ireland	InContinent	Europe
+Ireland	SharesBorderWith	Northern Ireland
+Ireland	SharesBorderWith	United Kingdom
+Israel	HasArea	20770.0
+Israel	HasCapital	Jerusalem
+Israel	HasLocation	Fertile Crescent
+Israel	InContinent	Asia
+Israel	LocatedInOrNextToBodyOfWater	Dead Sea
+Israel	LocatedInOrNextToBodyOfWater	Gulf of Aqaba
+Israel	LocatedInOrNextToBodyOfWater	Jordan River
+Israel	LocatedInOrNextToBodyOfWater	Levantine Sea
+Israel	LocatedInOrNextToBodyOfWater	Sea of Galilee
+Israel	SharesBorderWith	Egypt
+Israel	SharesBorderWith	Jordan
+Israel	SharesBorderWith	Lebanon
+Israel	SharesBorderWith	Syria
+Italy	HasArea	301338.0
+Italy	HasCapital	Rome
+Italy	HasLocation	Mediterranean Basin
+Italy	HasLocation	Southern Europe
+Italy	InContinent	Europe
+Italy	LocatedInOrNextToBodyOfWater	Adriatic Sea
+Italy	LocatedInOrNextToBodyOfWater	Ionian Sea
+Italy	LocatedInOrNextToBodyOfWater	Ligurian Sea
+Italy	LocatedInOrNextToBodyOfWater	Tyrrhenian Sea
+Italy	SharesBorderWith	Austria
+Italy	SharesBorderWith	France
+Italy	SharesBorderWith	Malta
+Italy	SharesBorderWith	San Marino
+Italy	SharesBorderWith	Slovenia
+Italy	SharesBorderWith	Switzerland
+Italy	SharesBorderWith	Vatican City
+Ivory Coast	HasCapital	Yamoussoukro
+Ivory Coast	InContinent	Africa
+Ivory Coast	SharesBorderWith	Burkina Faso
+Ivory Coast	SharesBorderWith	Ghana
+Ivory Coast	SharesBorderWith	Guinea
+Ivory Coast	SharesBorderWith	Liberia
+Ivory Coast	SharesBorderWith	Mali
+Jamaica	HasCapital	Kingston
+Japan	HasCapital	Tokyo
+Japan	InContinent	Asia
+Japan	SharesBorderWith	People's Republic of China
+Japan	SharesBorderWith	Russia
+Japan	SharesBorderWith	South Korea
+Japan	SharesBorderWith	Soviet Union
+Japan	SharesBorderWith	Taiwan
+Japan	SharesBorderWith	United States of America
+Jordan	HasCapital	Amman
+Jordan	InContinent	Asia
+Jordan	SharesBorderWith	Iraq
+Jordan	SharesBorderWith	Israel
+Jordan	SharesBorderWith	Saudi Arabia
+Jordan	SharesBorderWith	Syria
+Kazakhstan	HasCapital	Nur-Sultan
+Kazakhstan	InContinent	Asia
+Kazakhstan	InContinent	Europe
+Kazakhstan	SharesBorderWith	Kyrgyzstan
+Kazakhstan	SharesBorderWith	People's Republic of China
+Kazakhstan	SharesBorderWith	Russia
+Kazakhstan	SharesBorderWith	Turkmenistan
+Kazakhstan	SharesBorderWith	Uzbekistan
+Kenya	HasCapital	Nairobi
+Kenya	InContinent	Africa
+Kenya	SharesBorderWith	Arab League
+Kenya	SharesBorderWith	Ethiopia
+Kenya	SharesBorderWith	Lake Victoria
+Kenya	SharesBorderWith	Somalia
+Kenya	SharesBorderWith	South Sudan
+Kenya	SharesBorderWith	Sudan
+Kenya	SharesBorderWith	Tanzania
+Kenya	SharesBorderWith	Uganda
+Kingdom of Denmark	HasCapital	Copenhagen
+Kingdom of Denmark	InContinent	Europe
+Kingdom of Denmark	InContinent	North America
+Kingdom of Denmark	SharesBorderWith	Germany
+Kingdom of the Netherlands	HasCapital	Amsterdam
+Kingdom of the Netherlands	InContinent	Europe
+Kingdom of the Netherlands	InContinent	North America
+Kingdom of the Netherlands	SharesBorderWith	Belgium
+Kingdom of the Netherlands	SharesBorderWith	France
+Kingdom of the Netherlands	SharesBorderWith	Germany
+Kingdom of the Netherlands	SharesBorderWith	Venezuela
+Kiribati	HasCapital	South Tarawa
+Kiribati	InContinent	Oceania
+Kiribati	SharesBorderWith	United States of America
+Kuwait	HasCapital	Kuwait City
+Kuwait	InContinent	Asia
+Kuwait	SharesBorderWith	Iraq
+Kuwait	SharesBorderWith	Saudi Arabia
+Kuwait	SharesBorderWith	Saudi–Kuwaiti Neutral Zone
+Kyrgyzstan	HasCapital	Bishkek
+Kyrgyzstan	InContinent	Asia
+Kyrgyzstan	SharesBorderWith	Kazakhstan
+Kyrgyzstan	SharesBorderWith	People's Republic of China
+Kyrgyzstan	SharesBorderWith	Tajikistan
+Kyrgyzstan	SharesBorderWith	Uzbekistan
+Laos	HasCapital	Vientiane
+Laos	InContinent	Asia
+Laos	SharesBorderWith	Cambodia
+Laos	SharesBorderWith	Myanmar
+Laos	SharesBorderWith	People's Republic of China
+Laos	SharesBorderWith	Thailand
+Laos	SharesBorderWith	Vietnam
+Latvia	HasArea	64589.0
+Latvia	HasCapital	Riga
+Latvia	HasLocation	Baltic States
+Latvia	InContinent	Europe
+Latvia	LocatedInOrNextToBodyOfWater	Baltic Sea
+Latvia	SharesBorderWith	Belarus
+Latvia	SharesBorderWith	Estonia
+Latvia	SharesBorderWith	Lithuania
+Latvia	SharesBorderWith	Russia
+Latvia	SharesBorderWith	Sweden
+Lebanon	HasArea	10452.0
+Lebanon	HasCapital	Beirut
+Lebanon	HasLocation	Levant
+Lebanon	InContinent	Asia
+Lebanon	LocatedInOrNextToBodyOfWater	Mediterranean Sea
+Lebanon	SharesBorderWith	Israel
+Lebanon	SharesBorderWith	Syria
+Lechia	HasCapital	nan
+Lesotho	HasCapital	Maseru
+Lesotho	InContinent	Africa
+Lesotho	SharesBorderWith	South Africa
+Liberia	HasCapital	Monrovia
+Liberia	InContinent	Africa
+Liberia	SharesBorderWith	Guinea
+Liberia	SharesBorderWith	Ivory Coast
+Liberia	SharesBorderWith	Sierra Leone
+Libya	HasArea	1759541.0
+Libya	HasCapital	Tripoli
+Libya	HasLocation	North Africa
+Libya	InContinent	Africa
+Libya	LocatedInOrNextToBodyOfWater	Mediterranean Sea
+Libya	SharesBorderWith	Algeria
+Libya	SharesBorderWith	Chad
+Libya	SharesBorderWith	Egypt
+Libya	SharesBorderWith	Niger
+Libya	SharesBorderWith	Sudan
+Libya	SharesBorderWith	Tunisia
+Liechtenstein	HasCapital	Vaduz
+Liechtenstein	InContinent	Europe
+Liechtenstein	SharesBorderWith	Austria
+Liechtenstein	SharesBorderWith	European Union
+Liechtenstein	SharesBorderWith	Switzerland
+Lithuania	HasArea	65300.0
+Lithuania	HasCapital	Vilnius
+Lithuania	HasLocation	Baltic States
+Lithuania	InContinent	Europe
+Lithuania	LocatedInOrNextToBodyOfWater	Baltic Sea
+Lithuania	SharesBorderWith	Belarus
+Lithuania	SharesBorderWith	Latvia
+Lithuania	SharesBorderWith	Poland
+Lithuania	SharesBorderWith	Russia
+Luxembourg	HasCapital	Luxembourg
+Luxembourg	InContinent	Europe
+Luxembourg	SharesBorderWith	Belgium
+Luxembourg	SharesBorderWith	France
+Luxembourg	SharesBorderWith	Germany
+Madagascar	HasCapital	Antananarivo
+Madagascar	InContinent	Africa
+Madagascar	SharesBorderWith	Comoros
+Malawi	HasCapital	Lilongwe
+Malawi	InContinent	Africa
+Malawi	SharesBorderWith	Mozambique
+Malawi	SharesBorderWith	Tanzania
+Malawi	SharesBorderWith	Zambia
+Malaysia	HasCapital	Kuala Lumpur
+Malaysia	InContinent	Asia
+Malaysia	SharesBorderWith	Brunei
+Malaysia	SharesBorderWith	Indonesia
+Malaysia	SharesBorderWith	Philippines
+Malaysia	SharesBorderWith	Singapore
+Malaysia	SharesBorderWith	Thailand
+Maldives	HasCapital	Malé
+Mali	HasCapital	Bamako
+Mali	InContinent	Africa
+Mali	SharesBorderWith	Algeria
+Mali	SharesBorderWith	Burkina Faso
+Mali	SharesBorderWith	Guinea
+Mali	SharesBorderWith	Ivory Coast
+Mali	SharesBorderWith	Mauritania
+Mali	SharesBorderWith	Niger
+Mali	SharesBorderWith	Senegal
+Malta	HasArea	316.0
+Malta	HasCapital	Valletta
+Malta	HasLocation	Europe
+Malta	InContinent	Europe
+Malta	LocatedInOrNextToBodyOfWater	Mediterranean Sea
+Malta	SharesBorderWith	Italy
+Marshall Islands	HasCapital	Majuro
+Marshall Islands	InContinent	Oceania
+Marshall Islands	SharesBorderWith	Federated States of Micronesia
+Marshall Islands	SharesBorderWith	Kiribati
+Marshall Islands	SharesBorderWith	Nauru
+Marshall Islands	SharesBorderWith	United States of America
+Mauritania	HasCapital	Nouakchott
+Mauritania	InContinent	Africa
+Mauritania	SharesBorderWith	Algeria
+Mauritania	SharesBorderWith	Mali
+Mauritania	SharesBorderWith	Senegal
+Mauritania	SharesBorderWith	Western Sahara
+Mauritius	HasCapital	Port Louis
+Mexico	HasCapital	Mexico City
+Mexico	InContinent	North America
+Mexico	SharesBorderWith	Belize
+Mexico	SharesBorderWith	Guatemala
+Mexico	SharesBorderWith	United States of America
+Moldova	HasCapital	Chișinău
+Moldova	InContinent	Europe
+Moldova	SharesBorderWith	European Union
+Moldova	SharesBorderWith	Pridnestrovie
+Moldova	SharesBorderWith	Romania
+Moldova	SharesBorderWith	Ukraine
+Monaco	HasArea	2.02
+Monaco	HasCapital	City of Monaco
+Monaco	HasLocation	Europe
+Monaco	InContinent	Europe
+Monaco	LocatedInOrNextToBodyOfWater	Ligurian Sea
+Monaco	LocatedInOrNextToBodyOfWater	Mediterranean Sea
+Monaco	SharesBorderWith	European Union
+Monaco	SharesBorderWith	France
+Mongolia	HasCapital	Ulaanbaatar
+Mongolia	InContinent	Asia
+Mongolia	SharesBorderWith	Chita Oblast
+Mongolia	SharesBorderWith	People's Republic of China
+Mongolia	SharesBorderWith	Russia
+Montenegro	HasArea	13812.0
+Montenegro	HasCapital	Podgorica
+Montenegro	HasLocation	Balkans
+Montenegro	InContinent	Europe
+Montenegro	LocatedInOrNextToBodyOfWater	Adriatic Sea
+Montenegro	SharesBorderWith	Albania
+Montenegro	SharesBorderWith	Bosnia and Herzegovina
+Montenegro	SharesBorderWith	Croatia
+Montenegro	SharesBorderWith	European Union
+Montenegro	SharesBorderWith	Kosovo
+Montenegro	SharesBorderWith	Serbia
+Morocco	HasCapital	Rabat
+Morocco	InContinent	Africa
+Morocco	SharesBorderWith	Algeria
+Morocco	SharesBorderWith	European Union
+Morocco	SharesBorderWith	Mauritania
+Morocco	SharesBorderWith	Spain
+Mozambique	HasCapital	Maputo
+Mozambique	InContinent	Africa
+Mozambique	SharesBorderWith	Comoros
+Mozambique	SharesBorderWith	Eswatini
+Mozambique	SharesBorderWith	Malawi
+Mozambique	SharesBorderWith	South Africa
+Mozambique	SharesBorderWith	Tanzania
+Mozambique	SharesBorderWith	Zambia
+Mozambique	SharesBorderWith	Zimbabwe
+Myanmar	HasCapital	Naypyidaw
+Myanmar	InContinent	Asia
+Myanmar	SharesBorderWith	Bangladesh
+Myanmar	SharesBorderWith	India
+Myanmar	SharesBorderWith	Laos
+Myanmar	SharesBorderWith	People's Republic of China
+Myanmar	SharesBorderWith	Thailand
+Namibia	HasCapital	Windhoek
+Namibia	InContinent	Africa
+Namibia	SharesBorderWith	Angola
+Namibia	SharesBorderWith	Botswana
+Namibia	SharesBorderWith	South Africa
+Namibia	SharesBorderWith	Zambia
+Nauru	HasCapital	Yaren District
+Nepal	HasCapital	Kathmandu
+Nepal	InContinent	Asia
+Nepal	SharesBorderWith	India
+Nepal	SharesBorderWith	People's Republic of China
+New Zealand	HasCapital	Wellington
+New Zealand	InContinent	Oceania
+New Zealand	SharesBorderWith	Australia
+Nicaragua	HasCapital	Managua
+Nicaragua	InContinent	North America
+Nicaragua	SharesBorderWith	Colombia
+Nicaragua	SharesBorderWith	Costa Rica
+Nicaragua	SharesBorderWith	Honduras
+Niger	HasCapital	Niamey
+Nigeria	HasCapital	Abuja
+Nigeria	InContinent	Africa
+Nigeria	SharesBorderWith	Benin
+Nigeria	SharesBorderWith	Cameroon
+Nigeria	SharesBorderWith	Chad
+Nigeria	SharesBorderWith	Niger
+Niger	InContinent	Africa
+Niger	SharesBorderWith	Algeria
+Niger	SharesBorderWith	Arab League
+Niger	SharesBorderWith	Benin
+Niger	SharesBorderWith	Burkina Faso
+Niger	SharesBorderWith	Chad
+Niger	SharesBorderWith	Libya
+Niger	SharesBorderWith	Mali
+Niger	SharesBorderWith	Nigeria
+North Korea	HasArea	120540.0
+North Korea	HasCapital	Pyongyang
+North Korea	HasLocation	Korean Peninsula
+North Korea	InContinent	Asia
+North Korea	LocatedInOrNextToBodyOfWater	Sea of Japan
+North Korea	LocatedInOrNextToBodyOfWater	Yellow Sea
+North Korea	SharesBorderWith	People's Republic of China
+North Korea	SharesBorderWith	Russia
+North Korea	SharesBorderWith	South Korea
+North Korea	SharesBorderWith	Soviet Union
+North Macedonia	HasCapital	Skopje
+North Macedonia	InContinent	Europe
+North Macedonia	SharesBorderWith	Albania
+North Macedonia	SharesBorderWith	Bulgaria
+North Macedonia	SharesBorderWith	European Union
+North Macedonia	SharesBorderWith	Greece
+North Macedonia	SharesBorderWith	Kosovo
+North Macedonia	SharesBorderWith	Serbia
+Norway	HasCapital	Oslo
+Norway	InContinent	Europe
+Norway	SharesBorderWith	European Union
+Norway	SharesBorderWith	Finland
+Norway	SharesBorderWith	Russia
+Norway	SharesBorderWith	Sweden
+Oman	HasCapital	Muscat
+Oman	InContinent	Asia
+Oman	SharesBorderWith	Saudi Arabia
+Oman	SharesBorderWith	United Arab Emirates
+Oman	SharesBorderWith	Yemen
+Pakistan	HasCapital	Islamabad
+Pakistan	InContinent	Asia
+Pakistan	SharesBorderWith	Afghanistan
+Pakistan	SharesBorderWith	India
+Pakistan	SharesBorderWith	Iran
+Pakistan	SharesBorderWith	People's Republic of China
+Palau	HasCapital	Ngerulmud
+Palau	InContinent	Oceania
+Palau	SharesBorderWith	Federated States of Micronesia
+Palau	SharesBorderWith	Indonesia
+Palau	SharesBorderWith	Philippines
+Panama	HasCapital	Panama City
+Panama	InContinent	North America
+Panama	InContinent	South America
+Panama	SharesBorderWith	Colombia
+Panama	SharesBorderWith	Costa Rica
+Panama	SharesBorderWith	United States of America
+Papua New Guinea	HasCapital	Port Moresby
+Papua New Guinea	InContinent	Oceania
+Papua New Guinea	SharesBorderWith	Australia
+Papua New Guinea	SharesBorderWith	Indonesia
+Paraguay	HasCapital	Asunción
+Paraguay	InContinent	South America
+Paraguay	SharesBorderWith	Argentina
+Paraguay	SharesBorderWith	Bolivia
+Paraguay	SharesBorderWith	Brazil
+People's Republic of China	HasCapital	Beijing
+People's Republic of China	InContinent	Asia
+People's Republic of China	SharesBorderWith	Afghanistan
+People's Republic of China	SharesBorderWith	Bhutan
+People's Republic of China	SharesBorderWith	India
+People's Republic of China	SharesBorderWith	Japan
+People's Republic of China	SharesBorderWith	Kazakhstan
+People's Republic of China	SharesBorderWith	Kyrgyzstan
+People's Republic of China	SharesBorderWith	Laos
+People's Republic of China	SharesBorderWith	Mongolia
+People's Republic of China	SharesBorderWith	Myanmar
+People's Republic of China	SharesBorderWith	Nepal
+People's Republic of China	SharesBorderWith	North Korea
+People's Republic of China	SharesBorderWith	Pakistan
+People's Republic of China	SharesBorderWith	Russia
+People's Republic of China	SharesBorderWith	South Korea
+People's Republic of China	SharesBorderWith	Tajikistan
+People's Republic of China	SharesBorderWith	Vietnam
+Peru	HasCapital	Lima
+Peru	InContinent	South America
+Peru	SharesBorderWith	Bolivia
+Peru	SharesBorderWith	Brazil
+Peru	SharesBorderWith	Chile
+Peru	SharesBorderWith	Colombia
+Peru	SharesBorderWith	Ecuador
+Peru	SharesBorderWith	Gran Colombia
+Philippines	HasCapital	Manila
+Philippines	InContinent	Asia
+Philippines	SharesBorderWith	Indonesia
+Philippines	SharesBorderWith	Malaysia
+Philippines	SharesBorderWith	Palau
+Philippines	SharesBorderWith	Taiwan
+Poland	HasCapital	Warsaw
+Poland	InContinent	Europe
+Poland	SharesBorderWith	Belarus
+Poland	SharesBorderWith	Czech Republic
+Poland	SharesBorderWith	Germany
+Poland	SharesBorderWith	Lithuania
+Poland	SharesBorderWith	Russia
+Poland	SharesBorderWith	Slovakia
+Poland	SharesBorderWith	Ukraine
+Portugal	HasCapital	Lisbon
+Portugal	InContinent	Europe
+Portugal	SharesBorderWith	Castile and León
+Portugal	SharesBorderWith	Spain
+Qatar	HasCapital	Doha
+Qatar	InContinent	Asia
+Qatar	SharesBorderWith	Saudi Arabia
+Republic of Cyprus	HasArea	9242.45
+Republic of Cyprus	HasCapital	Nicosia
+Republic of Cyprus	HasLocation	Cyprus
+Republic of Cyprus	InContinent	Asia
+Republic of Cyprus	InContinent	Europe
+Republic of Cyprus	LocatedInOrNextToBodyOfWater	Mediterranean Sea
+Republic of Cyprus	SharesBorderWith	Akrotiri and Dhekelia
+Republic of Cyprus	SharesBorderWith	Israel
+Republic of Cyprus	SharesBorderWith	Turkish Republic of Northern Cyprus
+Republic of the Congo	HasCapital	Brazzaville
+Republic of the Congo	InContinent	Africa
+Republic of the Congo	SharesBorderWith	Angola
+Republic of the Congo	SharesBorderWith	Cameroon
+Republic of the Congo	SharesBorderWith	Central African Republic
+Republic of the Congo	SharesBorderWith	Democratic Republic of the Congo
+Republic of the Congo	SharesBorderWith	Gabon
+Romania	HasCapital	Bucharest
+Romania	InContinent	Europe
+Romania	SharesBorderWith	Bulgaria
+Romania	SharesBorderWith	Hungary
+Romania	SharesBorderWith	Moldova
+Romania	SharesBorderWith	Serbia
+Romania	SharesBorderWith	Ukraine
+Russia	HasArea	17125191.0
+Russia	HasArea	17125200.0
+Russia	HasCapital	Moscow
+Russia	HasLocation	Eurasia
+Russia	InContinent	Asia
+Russia	InContinent	Europe
+Russia	LocatedInOrNextToBodyOfWater	Arctic Ocean
+Russia	LocatedInOrNextToBodyOfWater	Baltic Sea
+Russia	LocatedInOrNextToBodyOfWater	Black Sea
+Russia	LocatedInOrNextToBodyOfWater	Pacific Ocean
+Russia	SharesBorderWith	Azerbaijan
+Russia	SharesBorderWith	Belarus
+Russia	SharesBorderWith	Donetsk People's Republic
+Russia	SharesBorderWith	Estonia
+Russia	SharesBorderWith	European Union
+Russia	SharesBorderWith	Finland
+Russia	SharesBorderWith	Georgia
+Russia	SharesBorderWith	Japan
+Russia	SharesBorderWith	Kazakhstan
+Russia	SharesBorderWith	Latvia
+Russia	SharesBorderWith	Lithuania
+Russia	SharesBorderWith	Luhansk People's Republic
+Russia	SharesBorderWith	Mongolia
+Russia	SharesBorderWith	North Korea
+Russia	SharesBorderWith	Norway
+Russia	SharesBorderWith	People's Republic of China
+Russia	SharesBorderWith	Poland
+Russia	SharesBorderWith	Republic of Abkhazia
+Russia	SharesBorderWith	South Ossetia
+Russia	SharesBorderWith	Ukraine
+Russia	SharesBorderWith	United States of America
+Rwanda	HasCapital	Kigali
+Rwanda	InContinent	Africa
+Rwanda	SharesBorderWith	Burundi
+Rwanda	SharesBorderWith	Democratic Republic of the Congo
+Rwanda	SharesBorderWith	Tanzania
+Rwanda	SharesBorderWith	Uganda
+Saint Kitts and Nevis	HasCapital	Basseterre
+Saint Kitts and Nevis	InContinent	North America
+Saint Kitts and Nevis	SharesBorderWith	Venezuela
+Saint Lucia	HasCapital	Castries
+Saint Lucia	InContinent	North America
+Saint Lucia	SharesBorderWith	Venezuela
+Saint Vincent and the Grenadines	HasCapital	Kingstown
+Saint Vincent and the Grenadines	InContinent	North America
+Saint Vincent and the Grenadines	SharesBorderWith	Venezuela
+Samoa	HasCapital	Apia
+Samoa	InContinent	Oceania
+Samoa	SharesBorderWith	United States of America
+San Marino	HasCapital	San Marino
+San Marino	InContinent	Europe
+San Marino	SharesBorderWith	European Union
+San Marino	SharesBorderWith	Italy
+São Tomé and Príncipe	HasCapital	São Tomé
+Saudi Arabia	HasArea	2250000.0
+Saudi Arabia	HasCapital	Riyadh
+Saudi Arabia	HasLocation	Arabian Peninsula
+Saudi Arabia	InContinent	Asia
+Saudi Arabia	LocatedInOrNextToBodyOfWater	Gulf of Aqaba
+Saudi Arabia	LocatedInOrNextToBodyOfWater	Persian Gulf
+Saudi Arabia	LocatedInOrNextToBodyOfWater	Red Sea
+Saudi Arabia	SharesBorderWith	Bahrain
+Saudi Arabia	SharesBorderWith	Egypt
+Saudi Arabia	SharesBorderWith	Iraq
+Saudi Arabia	SharesBorderWith	Jordan
+Saudi Arabia	SharesBorderWith	Kuwait
+Saudi Arabia	SharesBorderWith	Oman
+Saudi Arabia	SharesBorderWith	Qatar
+Saudi Arabia	SharesBorderWith	United Arab Emirates
+Saudi Arabia	SharesBorderWith	Yemen
+Senegal	HasCapital	Dakar
+Senegal	InContinent	Africa
+Senegal	SharesBorderWith	Arab League
+Senegal	SharesBorderWith	Guinea
+Senegal	SharesBorderWith	Guinea-Bissau
+Senegal	SharesBorderWith	Mali
+Senegal	SharesBorderWith	Mauritania
+Senegal	SharesBorderWith	The Gambia
+Serbia	HasCapital	Belgrade
+Serbia	InContinent	Europe
+Serbia	SharesBorderWith	Albania
+Serbia	SharesBorderWith	Bosnia and Herzegovina
+Serbia	SharesBorderWith	Bulgaria
+Serbia	SharesBorderWith	Croatia
+Serbia	SharesBorderWith	European Union
+Serbia	SharesBorderWith	Hungary
+Serbia	SharesBorderWith	Kosovo
+Serbia	SharesBorderWith	Montenegro
+Serbia	SharesBorderWith	North Macedonia
+Serbia	SharesBorderWith	Romania
+Seychelles	HasCapital	Victoria
+Sierra Leone	HasCapital	Freetown
+Sierra Leone	InContinent	Africa
+Sierra Leone	SharesBorderWith	Guinea
+Sierra Leone	SharesBorderWith	Liberia
+Singapore	HasCapital	Singapore
+Singapore	InContinent	Asia
+Singapore	SharesBorderWith	Indonesia
+Singapore	SharesBorderWith	Malaysia
+Slovakia	HasCapital	Bratislava
+Slovakia	InContinent	Europe
+Slovakia	SharesBorderWith	Austria
+Slovakia	SharesBorderWith	Czech Republic
+Slovakia	SharesBorderWith	Hungary
+Slovakia	SharesBorderWith	Poland
+Slovakia	SharesBorderWith	Ukraine
+Slovenia	HasArea	20273.0
+Slovenia	HasCapital	Ljubljana
+Slovenia	HasLocation	Central Europe
+Slovenia	InContinent	Europe
+Slovenia	LocatedInOrNextToBodyOfWater	Adriatic Sea
+Slovenia	SharesBorderWith	Austria
+Slovenia	SharesBorderWith	Croatia
+Slovenia	SharesBorderWith	Hungary
+Slovenia	SharesBorderWith	Italy
+Solomon Islands	HasCapital	Honiara
+Solomon Islands	InContinent	Oceania
+Solomon Islands	SharesBorderWith	Australia
+Solomon Islands	SharesBorderWith	Fiji
+Solomon Islands	SharesBorderWith	France
+Solomon Islands	SharesBorderWith	Papua New Guinea
+Solomon Islands	SharesBorderWith	Vanuatu
+Somalia	HasCapital	Mogadishu
+Somalia	InContinent	Africa
+Somalia	SharesBorderWith	Djibouti
+Somalia	SharesBorderWith	Ethiopia
+Somalia	SharesBorderWith	Kenya
+South Africa	HasCapital	Bloemfontein
+South Africa	HasCapital	Cape Town
+South Africa	HasCapital	Pretoria
+South Africa	InContinent	Africa
+South Africa	SharesBorderWith	Botswana
+South Africa	SharesBorderWith	Eswatini
+South Africa	SharesBorderWith	Lesotho
+South Africa	SharesBorderWith	Mozambique
+South Africa	SharesBorderWith	Namibia
+South Africa	SharesBorderWith	Zimbabwe
+South Korea	HasArea	100295.0
+South Korea	HasCapital	Seoul
+South Korea	HasLocation	Korean Peninsula
+South Korea	InContinent	Asia
+South Korea	LocatedInOrNextToBodyOfWater	East China Sea
+South Korea	LocatedInOrNextToBodyOfWater	Sea of Japan
+South Korea	LocatedInOrNextToBodyOfWater	South Sea
+South Korea	LocatedInOrNextToBodyOfWater	Yellow Sea
+South Korea	SharesBorderWith	Japan
+South Korea	SharesBorderWith	North Korea
+South Korea	SharesBorderWith	People's Republic of China
+South Sudan	HasCapital	Juba
+South Sudan	InContinent	Africa
+South Sudan	SharesBorderWith	Arab League
+South Sudan	SharesBorderWith	Central African Republic
+South Sudan	SharesBorderWith	Democratic Republic of the Congo
+South Sudan	SharesBorderWith	Ethiopia
+South Sudan	SharesBorderWith	Kenya
+South Sudan	SharesBorderWith	Sudan
+South Sudan	SharesBorderWith	Uganda
+Spain	HasArea	505990.0
+Spain	HasCapital	Madrid
+Spain	HasLocation	Iberian Peninsula
+Spain	InContinent	Europe
+Spain	LocatedInOrNextToBodyOfWater	Alboran Sea
+Spain	LocatedInOrNextToBodyOfWater	Atlantic Ocean
+Spain	LocatedInOrNextToBodyOfWater	Cantabrian Sea
+Spain	LocatedInOrNextToBodyOfWater	Mediterranean Sea
+Spain	SharesBorderWith	Andorra
+Spain	SharesBorderWith	Arab League
+Spain	SharesBorderWith	France
+Spain	SharesBorderWith	Gibraltar
+Spain	SharesBorderWith	Morocco
+Spain	SharesBorderWith	Portugal
+Sri Lanka	HasCapital	Colombo
+Sri Lanka	HasCapital	Sri Jayawardenepura Kotte
+Sudan	HasCapital	Khartoum
+Sudan	InContinent	Africa
+Sudan	SharesBorderWith	Bir Tawil
+Sudan	SharesBorderWith	Central African Republic
+Sudan	SharesBorderWith	Chad
+Sudan	SharesBorderWith	Democratic Republic of the Congo
+Sudan	SharesBorderWith	Egypt
+Sudan	SharesBorderWith	Eritrea
+Sudan	SharesBorderWith	Ethiopia
+Sudan	SharesBorderWith	Kenya
+Sudan	SharesBorderWith	Libya
+Sudan	SharesBorderWith	South Sudan
+Sudan	SharesBorderWith	Uganda
+Suriname	HasCapital	Paramaribo
+Suriname	InContinent	South America
+Suriname	SharesBorderWith	Brazil
+Suriname	SharesBorderWith	European Union
+Suriname	SharesBorderWith	France
+Suriname	SharesBorderWith	French Guiana
+Suriname	SharesBorderWith	Guyana
+Sweden	HasCapital	Stockholm
+Sweden	InContinent	Europe
+Sweden	SharesBorderWith	Denmark
+Sweden	SharesBorderWith	Finland
+Sweden	SharesBorderWith	Norway
+Switzerland	HasCapital	Bern
+Switzerland	InContinent	Europe
+Switzerland	SharesBorderWith	Austria
+Switzerland	SharesBorderWith	European Union
+Switzerland	SharesBorderWith	France
+Switzerland	SharesBorderWith	Germany
+Switzerland	SharesBorderWith	Italy
+Switzerland	SharesBorderWith	Liechtenstein
+Syria	HasArea	185180.0
+Syria	HasCapital	Damascus
+Syria	HasLocation	Levant
+Syria	InContinent	Asia
+Syria	LocatedInOrNextToBodyOfWater	Mediterranean Sea
+Syria	SharesBorderWith	Iraq
+Syria	SharesBorderWith	Israel
+Syria	SharesBorderWith	Jordan
+Syria	SharesBorderWith	Lebanon
+Syria	SharesBorderWith	Turkey
+Tajikistan	HasCapital	Dushanbe
+Tajikistan	InContinent	Asia
+Tajikistan	SharesBorderWith	Afghanistan
+Tajikistan	SharesBorderWith	Kyrgyzstan
+Tajikistan	SharesBorderWith	People's Republic of China
+Tajikistan	SharesBorderWith	Uzbekistan
+Tanzania	HasCapital	Dodoma
+Tanzania	InContinent	Africa
+Tanzania	SharesBorderWith	Burundi
+Tanzania	SharesBorderWith	Democratic Republic of the Congo
+Tanzania	SharesBorderWith	Kenya
+Tanzania	SharesBorderWith	Lake Victoria
+Tanzania	SharesBorderWith	Malawi
+Tanzania	SharesBorderWith	Mozambique
+Tanzania	SharesBorderWith	Rwanda
+Tanzania	SharesBorderWith	Uganda
+Tanzania	SharesBorderWith	Zambia
+Thailand	HasCapital	Bangkok
+Thailand	InContinent	Asia
+Thailand	SharesBorderWith	Cambodia
+Thailand	SharesBorderWith	Khmer Republic
+Thailand	SharesBorderWith	Laos
+Thailand	SharesBorderWith	Malaysia
+Thailand	SharesBorderWith	Myanmar
+The Bahamas	HasCapital	Nassau
+The Bahamas	InContinent	North America
+The Bahamas	SharesBorderWith	United States of America
+The Gambia	HasCapital	Banjul
+The Gambia	InContinent	Africa
+The Gambia	SharesBorderWith	Senegal
+Togo	HasCapital	Lomé
+Togo	InContinent	Africa
+Togo	SharesBorderWith	Benin
+Togo	SharesBorderWith	Burkina Faso
+Togo	SharesBorderWith	Ghana
+Tonga	HasCapital	Nuku'alofa
+Tonga	InContinent	Oceania
+Tonga	SharesBorderWith	United States of America
+Trinidad and Tobago	HasCapital	Port of Spain
+Trinidad and Tobago	InContinent	North America
+Trinidad and Tobago	SharesBorderWith	Venezuela
+Tunisia	HasCapital	Tunis
+Tunisia	InContinent	Africa
+Tunisia	SharesBorderWith	Algeria
+Tunisia	SharesBorderWith	Libya
+Turkey	HasArea	783562.05296
+Turkey	HasCapital	Ankara
+Turkey	HasLocation	Europe
+Turkey	InContinent	Asia
+Turkey	InContinent	Europe
+Turkey	LocatedInOrNextToBodyOfWater	Aegean Sea
+Turkey	LocatedInOrNextToBodyOfWater	Black Sea
+Turkey	LocatedInOrNextToBodyOfWater	Mediterranean Sea
+Turkey	SharesBorderWith	Arab League
+Turkey	SharesBorderWith	Armenia
+Turkey	SharesBorderWith	Azerbaijan
+Turkey	SharesBorderWith	Bulgaria
+Turkey	SharesBorderWith	European Union
+Turkey	SharesBorderWith	Georgia
+Turkey	SharesBorderWith	Greece
+Turkey	SharesBorderWith	Iran
+Turkey	SharesBorderWith	Iraq
+Turkey	SharesBorderWith	Syria
+Turkmenistan	HasCapital	Ashgabat
+Turkmenistan	InContinent	Asia
+Turkmenistan	SharesBorderWith	Afghanistan
+Turkmenistan	SharesBorderWith	Iran
+Turkmenistan	SharesBorderWith	Kazakhstan
+Turkmenistan	SharesBorderWith	Uzbekistan
+Tuvalu	HasCapital	Funafuti
+Uganda	HasCapital	Kampala
+Uganda	InContinent	Africa
+Uganda	SharesBorderWith	Democratic Republic of the Congo
+Uganda	SharesBorderWith	Kenya
+Uganda	SharesBorderWith	Lake Victoria
+Uganda	SharesBorderWith	Rwanda
+Uganda	SharesBorderWith	South Sudan
+Uganda	SharesBorderWith	Sudan
+Uganda	SharesBorderWith	Tanzania
+Ukraine	HasCapital	Kiev
+Ukraine	InContinent	Europe
+Ukraine	SharesBorderWith	Belarus
+Ukraine	SharesBorderWith	European Union
+Ukraine	SharesBorderWith	Hungary
+Ukraine	SharesBorderWith	Moldova
+Ukraine	SharesBorderWith	Poland
+Ukraine	SharesBorderWith	Romania
+Ukraine	SharesBorderWith	Russia
+Ukraine	SharesBorderWith	Slovakia
+United Arab Emirates	HasCapital	Abu Dhabi
+United Arab Emirates	InContinent	Asia
+United Arab Emirates	SharesBorderWith	Oman
+United Arab Emirates	SharesBorderWith	Saudi Arabia
+United Kingdom	HasCapital	London
+United Kingdom	InContinent	Europe
+United Kingdom	SharesBorderWith	Ireland
+United States of America	HasCapital	Washington, D.C.
+United States of America	InContinent	North America
+United States of America	InContinent	Oceania
+United States of America	SharesBorderWith	Canada
+United States of America	SharesBorderWith	Mexico
+Uruguay	HasCapital	Montevideo
+Uruguay	InContinent	South America
+Uruguay	SharesBorderWith	Argentina
+Uruguay	SharesBorderWith	Brazil
+Uzbekistan	HasCapital	Tashkent
+Uzbekistan	InContinent	Asia
+Uzbekistan	SharesBorderWith	Afghanistan
+Uzbekistan	SharesBorderWith	Kazakhstan
+Uzbekistan	SharesBorderWith	Kyrgyzstan
+Uzbekistan	SharesBorderWith	Tajikistan
+Uzbekistan	SharesBorderWith	Turkmenistan
+Vanuatu	HasCapital	Port Vila
+Vatican City	HasCapital	nan
+Vatican City	InContinent	Europe
+Vatican City	SharesBorderWith	European Union
+Vatican City	SharesBorderWith	Italy
+Venezuela	HasCapital	Caracas
+Venezuela	InContinent	South America
+Venezuela	SharesBorderWith	Brazil
+Venezuela	SharesBorderWith	Colombia
+Venezuela	SharesBorderWith	Dominica
+Venezuela	SharesBorderWith	Dominican Republic
+Venezuela	SharesBorderWith	France
+Venezuela	SharesBorderWith	Grenada
+Venezuela	SharesBorderWith	Guyana
+Venezuela	SharesBorderWith	Kingdom of the Netherlands
+Venezuela	SharesBorderWith	Saint Kitts and Nevis
+Venezuela	SharesBorderWith	Saint Lucia
+Venezuela	SharesBorderWith	Saint Vincent and the Grenadines
+Venezuela	SharesBorderWith	Trinidad and Tobago
+Venezuela	SharesBorderWith	United Kingdom
+Venezuela	SharesBorderWith	United States of America
+Vietnam	HasCapital	Hanoi
+Vietnam	InContinent	Asia
+Vietnam	SharesBorderWith	Cambodia
+Vietnam	SharesBorderWith	Laos
+Vietnam	SharesBorderWith	People's Republic of China
+Yemen	HasCapital	Aden
+Yemen	HasCapital	Sana'a
+Yemen	InContinent	Asia
+Yemen	SharesBorderWith	Oman
+Yemen	SharesBorderWith	Saudi Arabia
+Zambia	HasCapital	Lusaka
+Zambia	InContinent	Africa
+Zambia	SharesBorderWith	Angola
+Zambia	SharesBorderWith	Botswana
+Zambia	SharesBorderWith	Democratic Republic of the Congo
+Zambia	SharesBorderWith	Malawi
+Zambia	SharesBorderWith	Mozambique
+Zambia	SharesBorderWith	Namibia
+Zambia	SharesBorderWith	Tanzania
+Zambia	SharesBorderWith	Zimbabwe
+Zimbabwe	HasCapital	Harare
+Zimbabwe	InContinent	Africa
+Zimbabwe	SharesBorderWith	Botswana
+Zimbabwe	SharesBorderWith	Mozambique
+Zimbabwe	SharesBorderWith	South Africa
+Zimbabwe	SharesBorderWith	Zambia
+Andorra	IsNorthOf	Spain
+Andorra	IsEastOf	Spain
+Andorra	IsSouthOf	France
+Andorra	IsWestOf	France
+United Arab Emirates	IsSouthOf	Saudi Arabia
+United Arab Emirates	IsEastOf	Saudi Arabia
+United Arab Emirates	IsNorthOf	Oman
+United Arab Emirates	IsWestOf	Oman
+Afghanistan	IsSouthOf	Turkmenistan
+Afghanistan	IsEastOf	Turkmenistan
+Afghanistan	IsSouthOf	China
+Afghanistan	IsWestOf	China
+Afghanistan	IsNorthOf	Iran
+Afghanistan	IsEastOf	Iran
+Afghanistan	IsSouthOf	Tajikistan
+Afghanistan	IsWestOf	Tajikistan
+Afghanistan	IsNorthOf	Pakistan
+Afghanistan	IsWestOf	Pakistan
+Afghanistan	IsSouthOf	Uzbekistan
+Afghanistan	IsEastOf	Uzbekistan
+Albania	IsSouthOf	Macedonia
+Albania	IsWestOf	Macedonia
+Albania	IsNorthOf	Greece
+Albania	IsWestOf	Greece
+Albania	IsSouthOf	Montenegro
+Albania	IsEastOf	Montenegro
+Albania	IsSouthOf	Serbia
+Albania	IsWestOf	Serbia
+Albania	IsSouthOf	Kosovo
+Albania	IsWestOf	Kosovo
+Armenia	IsSouthOf	Georgia
+Armenia	IsEastOf	Georgia
+Armenia	IsNorthOf	Iran
+Armenia	IsWestOf	Iran
+Armenia	IsSouthOf	Azerbaijan
+Armenia	IsWestOf	Azerbaijan
+Armenia	IsNorthOf	Turkey
+Armenia	IsEastOf	Turkey
+Angola	IsSouthOf	Democratic Republic of the Congo
+Angola	IsWestOf	Democratic Republic of the Congo
+Angola	IsNorthOf	Namibia
+Angola	IsWestOf	Namibia
+Angola	IsNorthOf	Zambia
+Angola	IsWestOf	Zambia
+Angola	IsSouthOf	Republic of the Congo
+Angola	IsEastOf	Republic of the Congo
+Argentina	IsSouthOf	Chile
+Argentina	IsEastOf	Chile
+Argentina	IsSouthOf	Bolivia
+Argentina	IsWestOf	Bolivia
+Argentina	IsSouthOf	Uruguay
+Argentina	IsWestOf	Uruguay
+Argentina	IsSouthOf	Paraguay
+Argentina	IsWestOf	Paraguay
+Argentina	IsSouthOf	Brazil
+Argentina	IsWestOf	Brazil
+Austria	IsNorthOf	Switzerland
+Austria	IsEastOf	Switzerland
+Austria	IsSouthOf	Germany
+Austria	IsEastOf	Germany
+Austria	IsNorthOf	Hungary
+Austria	IsWestOf	Hungary
+Austria	IsSouthOf	Slovakia
+Austria	IsWestOf	Slovakia
+Austria	IsSouthOf	Czechia
+Austria	IsWestOf	Czechia
+Austria	IsNorthOf	Italy
+Austria	IsEastOf	Italy
+Austria	IsNorthOf	Slovenia
+Austria	IsWestOf	Slovenia
+Austria	IsNorthOf	Liechtenstein
+Austria	IsEastOf	Liechtenstein
+Azerbaijan	IsSouthOf	Georgia
+Azerbaijan	IsEastOf	Georgia
+Azerbaijan	IsNorthOf	Iran
+Azerbaijan	IsWestOf	Iran
+Azerbaijan	IsNorthOf	Armenia
+Azerbaijan	IsEastOf	Armenia
+Azerbaijan	IsNorthOf	Turkey
+Azerbaijan	IsEastOf	Turkey
+Azerbaijan	IsSouthOf	Russia
+Azerbaijan	IsWestOf	Russia
+Bosnia and Herzegovina	IsSouthOf	Croatia
+Bosnia and Herzegovina	IsEastOf	Croatia
+Bosnia and Herzegovina	IsNorthOf	Montenegro
+Bosnia and Herzegovina	IsWestOf	Montenegro
+Bosnia and Herzegovina	IsSouthOf	Serbia
+Bosnia and Herzegovina	IsWestOf	Serbia
+Bangladesh	IsNorthOf	Myanmar
+Bangladesh	IsWestOf	Myanmar
+Bangladesh	IsNorthOf	India
+Bangladesh	IsEastOf	India
+Belgium	IsSouthOf	Germany
+Belgium	IsWestOf	Germany
+Belgium	IsSouthOf	Netherlands
+Belgium	IsWestOf	Netherlands
+Belgium	IsNorthOf	Luxembourg
+Belgium	IsWestOf	Luxembourg
+Belgium	IsNorthOf	France
+Belgium	IsEastOf	France
+Burkina Faso	IsSouthOf	Niger
+Burkina Faso	IsWestOf	Niger
+Burkina Faso	IsNorthOf	Benin
+Burkina Faso	IsWestOf	Benin
+Burkina Faso	IsNorthOf	Ghana
+Burkina Faso	IsWestOf	Ghana
+Burkina Faso	IsNorthOf	Ivory Coast
+Burkina Faso	IsEastOf	Ivory Coast
+Burkina Faso	IsNorthOf	Togo
+Burkina Faso	IsWestOf	Togo
+Burkina Faso	IsSouthOf	Mali
+Burkina Faso	IsEastOf	Mali
+Bulgaria	IsNorthOf	Macedonia
+Bulgaria	IsEastOf	Macedonia
+Bulgaria	IsNorthOf	Greece
+Bulgaria	IsEastOf	Greece
+Bulgaria	IsSouthOf	Romania
+Bulgaria	IsEastOf	Romania
+Bulgaria	IsNorthOf	Turkey
+Bulgaria	IsWestOf	Turkey
+Bulgaria	IsSouthOf	Serbia
+Bulgaria	IsEastOf	Serbia
+Burundi	IsNorthOf	Tanzania
+Burundi	IsWestOf	Tanzania
+Burundi	IsNorthOf	Democratic Republic of the Congo
+Burundi	IsEastOf	Democratic Republic of the Congo
+Burundi	IsSouthOf	Rwanda
+Burundi	IsEastOf	Rwanda
+Benin	IsSouthOf	Niger
+Benin	IsWestOf	Niger
+Benin	IsNorthOf	Togo
+Benin	IsEastOf	Togo
+Benin	IsSouthOf	Burkina Faso
+Benin	IsEastOf	Burkina Faso
+Benin	IsNorthOf	Nigeria
+Benin	IsWestOf	Nigeria
+Brunei	IsNorthOf	Malaysia
+Brunei	IsEastOf	Malaysia
+Bolivia	IsSouthOf	Peru
+Bolivia	IsEastOf	Peru
+Bolivia	IsNorthOf	Chile
+Bolivia	IsEastOf	Chile
+Bolivia	IsNorthOf	Paraguay
+Bolivia	IsWestOf	Paraguay
+Bolivia	IsSouthOf	Brazil
+Bolivia	IsWestOf	Brazil
+Bolivia	IsNorthOf	Argentina
+Bolivia	IsEastOf	Argentina
+Brazil	IsSouthOf	Suriname
+Brazil	IsEastOf	Suriname
+Brazil	IsSouthOf	Peru
+Brazil	IsEastOf	Peru
+Brazil	IsNorthOf	Bolivia
+Brazil	IsEastOf	Bolivia
+Brazil	IsNorthOf	Uruguay
+Brazil	IsEastOf	Uruguay
+Brazil	IsSouthOf	Guyana
+Brazil	IsEastOf	Guyana
+Brazil	IsNorthOf	Paraguay
+Brazil	IsEastOf	Paraguay
+Brazil	IsSouthOf	French Guiana
+Brazil	IsEastOf	French Guiana
+Brazil	IsSouthOf	Venezuela
+Brazil	IsEastOf	Venezuela
+Brazil	IsSouthOf	Colombia
+Brazil	IsEastOf	Colombia
+Brazil	IsNorthOf	Argentina
+Brazil	IsEastOf	Argentina
+Bhutan	IsSouthOf	China
+Bhutan	IsWestOf	China
+Bhutan	IsNorthOf	India
+Bhutan	IsEastOf	India
+Botswana	IsSouthOf	Zimbabwe
+Botswana	IsWestOf	Zimbabwe
+Botswana	IsNorthOf	South Africa
+Botswana	IsEastOf	South Africa
+Botswana	IsNorthOf	Namibia
+Botswana	IsEastOf	Namibia
+Belarus	IsNorthOf	Poland
+Belarus	IsEastOf	Poland
+Belarus	IsSouthOf	Lithuania
+Belarus	IsEastOf	Lithuania
+Belarus	IsNorthOf	Ukraine
+Belarus	IsWestOf	Ukraine
+Belarus	IsSouthOf	Russia
+Belarus	IsWestOf	Russia
+Belarus	IsSouthOf	Latvia
+Belarus	IsEastOf	Latvia
+Belize	IsNorthOf	Guatemala
+Belize	IsEastOf	Guatemala
+Belize	IsSouthOf	Mexico
+Belize	IsEastOf	Mexico
+Canada	IsNorthOf	United States
+Canada	IsWestOf	United States
+Democratic Republic of the Congo	IsNorthOf	Tanzania
+Democratic Republic of the Congo	IsWestOf	Tanzania
+Democratic Republic of the Congo	IsSouthOf	Central African Republic
+Democratic Republic of the Congo	IsEastOf	Central African Republic
+Democratic Republic of the Congo	IsSouthOf	Rwanda
+Democratic Republic of the Congo	IsWestOf	Rwanda
+Democratic Republic of the Congo	IsNorthOf	Zambia
+Democratic Republic of the Congo	IsWestOf	Zambia
+Democratic Republic of the Congo	IsSouthOf	Burundi
+Democratic Republic of the Congo	IsWestOf	Burundi
+Democratic Republic of the Congo	IsSouthOf	Uganda
+Democratic Republic of the Congo	IsWestOf	Uganda
+Democratic Republic of the Congo	IsSouthOf	Republic of the Congo
+Democratic Republic of the Congo	IsEastOf	Republic of the Congo
+Democratic Republic of the Congo	IsNorthOf	Angola
+Democratic Republic of the Congo	IsEastOf	Angola
+Central African Republic	IsSouthOf	Chad
+Central African Republic	IsEastOf	Chad
+Central African Republic	IsSouthOf	Sudan
+Central African Republic	IsWestOf	Sudan
+Central African Republic	IsNorthOf	Democratic Republic of the Congo
+Central African Republic	IsWestOf	Democratic Republic of the Congo
+Central African Republic	IsSouthOf	Cameroon
+Central African Republic	IsEastOf	Cameroon
+Central African Republic	IsNorthOf	Republic of the Congo
+Central African Republic	IsEastOf	Republic of the Congo
+Republic of the Congo	IsSouthOf	Central African Republic
+Republic of the Congo	IsWestOf	Central African Republic
+Republic of the Congo	IsNorthOf	Gabon
+Republic of the Congo	IsEastOf	Gabon
+Republic of the Congo	IsNorthOf	Democratic Republic of the Congo
+Republic of the Congo	IsWestOf	Democratic Republic of the Congo
+Republic of the Congo	IsSouthOf	Cameroon
+Republic of the Congo	IsEastOf	Cameroon
+Republic of the Congo	IsNorthOf	Angola
+Republic of the Congo	IsWestOf	Angola
+Switzerland	IsSouthOf	Germany
+Switzerland	IsWestOf	Germany
+Switzerland	IsNorthOf	Italy
+Switzerland	IsWestOf	Italy
+Switzerland	IsSouthOf	Liechtenstein
+Switzerland	IsWestOf	Liechtenstein
+Switzerland	IsNorthOf	France
+Switzerland	IsEastOf	France
+Switzerland	IsSouthOf	Austria
+Switzerland	IsWestOf	Austria
+Ivory Coast	IsNorthOf	Liberia
+Ivory Coast	IsEastOf	Liberia
+Ivory Coast	IsSouthOf	Ghana
+Ivory Coast	IsWestOf	Ghana
+Ivory Coast	IsSouthOf	Guinea
+Ivory Coast	IsEastOf	Guinea
+Ivory Coast	IsSouthOf	Burkina Faso
+Ivory Coast	IsWestOf	Burkina Faso
+Ivory Coast	IsSouthOf	Mali
+Ivory Coast	IsWestOf	Mali
+Chile	IsSouthOf	Peru
+Chile	IsEastOf	Peru
+Chile	IsSouthOf	Bolivia
+Chile	IsWestOf	Bolivia
+Chile	IsNorthOf	Argentina
+Chile	IsWestOf	Argentina
+Cameroon	IsSouthOf	Chad
+Cameroon	IsWestOf	Chad
+Cameroon	IsNorthOf	Central African Republic
+Cameroon	IsWestOf	Central African Republic
+Cameroon	IsNorthOf	Gabon
+Cameroon	IsEastOf	Gabon
+Cameroon	IsNorthOf	Equatorial Guinea
+Cameroon	IsEastOf	Equatorial Guinea
+Cameroon	IsNorthOf	Republic of the Congo
+Cameroon	IsWestOf	Republic of the Congo
+Cameroon	IsSouthOf	Nigeria
+Cameroon	IsEastOf	Nigeria
+China	IsNorthOf	Laos
+China	IsEastOf	Laos
+China	IsNorthOf	Bhutan
+China	IsEastOf	Bhutan
+China	IsSouthOf	Tajikistan
+China	IsEastOf	Tajikistan
+China	IsSouthOf	Kazakhstan
+China	IsEastOf	Kazakhstan
+China	IsSouthOf	Mongolia
+China	IsEastOf	Mongolia
+China	IsNorthOf	Afghanistan
+China	IsEastOf	Afghanistan
+China	IsNorthOf	Nepal
+China	IsEastOf	Nepal
+China	IsNorthOf	Myanmar
+China	IsEastOf	Myanmar
+China	IsSouthOf	Kyrgyzstan
+China	IsEastOf	Kyrgyzstan
+China	IsNorthOf	Pakistan
+China	IsEastOf	Pakistan
+China	IsSouthOf	North Korea
+China	IsWestOf	North Korea
+China	IsSouthOf	Russia
+China	IsWestOf	Russia
+China	IsNorthOf	Vietnam
+China	IsWestOf	Vietnam
+China	IsNorthOf	India
+China	IsEastOf	India
+Colombia	IsNorthOf	Ecuador
+Colombia	IsEastOf	Ecuador
+Colombia	IsNorthOf	Peru
+Colombia	IsEastOf	Peru
+Colombia	IsSouthOf	Panama
+Colombia	IsEastOf	Panama
+Colombia	IsNorthOf	Brazil
+Colombia	IsWestOf	Brazil
+Colombia	IsSouthOf	Venezuela
+Colombia	IsWestOf	Venezuela
+Costa Rica	IsNorthOf	Panama
+Costa Rica	IsWestOf	Panama
+Costa Rica	IsSouthOf	Nicaragua
+Costa Rica	IsEastOf	Nicaragua
+Cuba	IsSouthOf	United States
+Cuba	IsEastOf	United States
+Czechia	IsSouthOf	Poland
+Czechia	IsWestOf	Poland
+Czechia	IsSouthOf	Germany
+Czechia	IsEastOf	Germany
+Czechia	IsNorthOf	Slovakia
+Czechia	IsWestOf	Slovakia
+Czechia	IsNorthOf	Austria
+Czechia	IsEastOf	Austria
+Germany	IsNorthOf	Switzerland
+Germany	IsEastOf	Switzerland
+Germany	IsSouthOf	Poland
+Germany	IsWestOf	Poland
+Germany	IsSouthOf	Netherlands
+Germany	IsEastOf	Netherlands
+Germany	IsSouthOf	Denmark
+Germany	IsEastOf	Denmark
+Germany	IsNorthOf	Belgium
+Germany	IsEastOf	Belgium
+Germany	IsNorthOf	Czechia
+Germany	IsWestOf	Czechia
+Germany	IsNorthOf	Luxembourg
+Germany	IsEastOf	Luxembourg
+Germany	IsNorthOf	France
+Germany	IsEastOf	France
+Germany	IsNorthOf	Austria
+Germany	IsWestOf	Austria
+Djibouti	IsSouthOf	Eritrea
+Djibouti	IsEastOf	Eritrea
+Djibouti	IsNorthOf	Ethiopia
+Djibouti	IsEastOf	Ethiopia
+Djibouti	IsNorthOf	Somalia
+Djibouti	IsWestOf	Somalia
+Denmark	IsNorthOf	Germany
+Denmark	IsWestOf	Germany
+Dominican Republic	IsSouthOf	Haiti
+Dominican Republic	IsEastOf	Haiti
+Algeria	IsNorthOf	Niger
+Algeria	IsWestOf	Niger
+Algeria	IsNorthOf	Western Sahara
+Algeria	IsEastOf	Western Sahara
+Algeria	IsNorthOf	Libya
+Algeria	IsWestOf	Libya
+Algeria	IsNorthOf	Mauritania
+Algeria	IsEastOf	Mauritania
+Algeria	IsSouthOf	Tunisia
+Algeria	IsWestOf	Tunisia
+Algeria	IsSouthOf	Morocco
+Algeria	IsEastOf	Morocco
+Algeria	IsNorthOf	Mali
+Algeria	IsEastOf	Mali
+Ecuador	IsNorthOf	Peru
+Ecuador	IsWestOf	Peru
+Ecuador	IsSouthOf	Colombia
+Ecuador	IsWestOf	Colombia
+Estonia	IsSouthOf	Russia
+Estonia	IsWestOf	Russia
+Estonia	IsNorthOf	Latvia
+Estonia	IsEastOf	Latvia
+Egypt	IsNorthOf	Libya
+Egypt	IsEastOf	Libya
+Egypt	IsNorthOf	Sudan
+Egypt	IsEastOf	Sudan
+Egypt	IsSouthOf	Israel
+Egypt	IsWestOf	Israel
+Egypt	IsSouthOf	Palestinian Territory
+Egypt	IsWestOf	Palestinian Territory
+Western Sahara	IsSouthOf	Algeria
+Western Sahara	IsWestOf	Algeria
+Western Sahara	IsNorthOf	Mauritania
+Western Sahara	IsWestOf	Mauritania
+Western Sahara	IsSouthOf	Morocco
+Western Sahara	IsWestOf	Morocco
+Eritrea	IsNorthOf	Ethiopia
+Eritrea	IsWestOf	Ethiopia
+Eritrea	IsNorthOf	Sudan
+Eritrea	IsEastOf	Sudan
+Eritrea	IsNorthOf	Djibouti
+Eritrea	IsWestOf	Djibouti
+Spain	IsSouthOf	Andorra
+Spain	IsWestOf	Andorra
+Spain	IsNorthOf	Portugal
+Spain	IsEastOf	Portugal
+Spain	IsNorthOf	Gibraltar
+Spain	IsEastOf	Gibraltar
+Spain	IsSouthOf	France
+Spain	IsWestOf	France
+Spain	IsNorthOf	Morocco
+Spain	IsEastOf	Morocco
+Ethiopia	IsSouthOf	Eritrea
+Ethiopia	IsEastOf	Eritrea
+Ethiopia	IsNorthOf	Kenya
+Ethiopia	IsEastOf	Kenya
+Ethiopia	IsSouthOf	Sudan
+Ethiopia	IsEastOf	Sudan
+Ethiopia	IsNorthOf	Somalia
+Ethiopia	IsWestOf	Somalia
+Ethiopia	IsSouthOf	Djibouti
+Ethiopia	IsWestOf	Djibouti
+Finland	IsNorthOf	Norway
+Finland	IsEastOf	Norway
+Finland	IsNorthOf	Russia
+Finland	IsWestOf	Russia
+Finland	IsNorthOf	Sweden
+Finland	IsEastOf	Sweden
+France	IsSouthOf	Switzerland
+France	IsWestOf	Switzerland
+France	IsSouthOf	Germany
+France	IsWestOf	Germany
+France	IsSouthOf	Belgium
+France	IsWestOf	Belgium
+France	IsSouthOf	Luxembourg
+France	IsWestOf	Luxembourg
+France	IsNorthOf	Italy
+France	IsWestOf	Italy
+France	IsNorthOf	Andorra
+France	IsEastOf	Andorra
+France	IsNorthOf	Monaco
+France	IsWestOf	Monaco
+France	IsNorthOf	Spain
+France	IsEastOf	Spain
+Gabon	IsSouthOf	Cameroon
+Gabon	IsWestOf	Cameroon
+Gabon	IsSouthOf	Equatorial Guinea
+Gabon	IsEastOf	Equatorial Guinea
+Gabon	IsSouthOf	Republic of the Congo
+Gabon	IsWestOf	Republic of the Congo
+United Kingdom	IsNorthOf	Ireland
+United Kingdom	IsEastOf	Ireland
+Georgia	IsNorthOf	Armenia
+Georgia	IsWestOf	Armenia
+Georgia	IsNorthOf	Azerbaijan
+Georgia	IsWestOf	Azerbaijan
+Georgia	IsNorthOf	Turkey
+Georgia	IsEastOf	Turkey
+Georgia	IsSouthOf	Russia
+Georgia	IsWestOf	Russia
+French Guiana	IsNorthOf	Suriname
+French Guiana	IsEastOf	Suriname
+French Guiana	IsNorthOf	Brazil
+French Guiana	IsWestOf	Brazil
+Ghana	IsNorthOf	Ivory Coast
+Ghana	IsEastOf	Ivory Coast
+Ghana	IsSouthOf	Togo
+Ghana	IsWestOf	Togo
+Ghana	IsSouthOf	Burkina Faso
+Ghana	IsEastOf	Burkina Faso
+Gibraltar	IsSouthOf	Spain
+Gibraltar	IsWestOf	Spain
+Gambia	IsSouthOf	Senegal
+Gambia	IsWestOf	Senegal
+Guinea	IsNorthOf	Liberia
+Guinea	IsWestOf	Liberia
+Guinea	IsSouthOf	Senegal
+Guinea	IsEastOf	Senegal
+Guinea	IsNorthOf	Sierra Leone
+Guinea	IsEastOf	Sierra Leone
+Guinea	IsNorthOf	Ivory Coast
+Guinea	IsWestOf	Ivory Coast
+Guinea	IsSouthOf	Guinea-Bissau
+Guinea	IsEastOf	Guinea-Bissau
+Guinea	IsSouthOf	Mali
+Guinea	IsWestOf	Mali
+Equatorial Guinea	IsNorthOf	Gabon
+Equatorial Guinea	IsWestOf	Gabon
+Equatorial Guinea	IsSouthOf	Cameroon
+Equatorial Guinea	IsWestOf	Cameroon
+Greece	IsSouthOf	Albania
+Greece	IsEastOf	Albania
+Greece	IsSouthOf	Macedonia
+Greece	IsEastOf	Macedonia
+Greece	IsNorthOf	Turkey
+Greece	IsWestOf	Turkey
+Greece	IsSouthOf	Bulgaria
+Greece	IsWestOf	Bulgaria
+Guatemala	IsSouthOf	Mexico
+Guatemala	IsEastOf	Mexico
+Guatemala	IsNorthOf	Honduras
+Guatemala	IsWestOf	Honduras
+Guatemala	IsSouthOf	Belize
+Guatemala	IsWestOf	Belize
+Guatemala	IsNorthOf	El Salvador
+Guatemala	IsWestOf	El Salvador
+Guinea-Bissau	IsSouthOf	Senegal
+Guinea-Bissau	IsWestOf	Senegal
+Guinea-Bissau	IsNorthOf	Guinea
+Guinea-Bissau	IsWestOf	Guinea
+Guyana	IsNorthOf	Suriname
+Guyana	IsWestOf	Suriname
+Guyana	IsNorthOf	Brazil
+Guyana	IsWestOf	Brazil
+Guyana	IsSouthOf	Venezuela
+Guyana	IsEastOf	Venezuela
+Honduras	IsSouthOf	Guatemala
+Honduras	IsEastOf	Guatemala
+Honduras	IsNorthOf	Nicaragua
+Honduras	IsWestOf	Nicaragua
+Honduras	IsNorthOf	El Salvador
+Honduras	IsEastOf	El Salvador
+Croatia	IsSouthOf	Hungary
+Croatia	IsWestOf	Hungary
+Croatia	IsSouthOf	Slovenia
+Croatia	IsEastOf	Slovenia
+Croatia	IsNorthOf	Bosnia and Herzegovina
+Croatia	IsWestOf	Bosnia and Herzegovina
+Croatia	IsNorthOf	Montenegro
+Croatia	IsWestOf	Montenegro
+Croatia	IsNorthOf	Serbia
+Croatia	IsWestOf	Serbia
+Haiti	IsNorthOf	Dominican Republic
+Haiti	IsWestOf	Dominican Republic
+Hungary	IsSouthOf	Slovakia
+Hungary	IsWestOf	Slovakia
+Hungary	IsNorthOf	Slovenia
+Hungary	IsEastOf	Slovenia
+Hungary	IsNorthOf	Romania
+Hungary	IsWestOf	Romania
+Hungary	IsSouthOf	Ukraine
+Hungary	IsWestOf	Ukraine
+Hungary	IsNorthOf	Croatia
+Hungary	IsEastOf	Croatia
+Hungary	IsSouthOf	Austria
+Hungary	IsEastOf	Austria
+Hungary	IsNorthOf	Serbia
+Hungary	IsWestOf	Serbia
+Indonesia	IsNorthOf	Papua New Guinea
+Indonesia	IsWestOf	Papua New Guinea
+Indonesia	IsNorthOf	Timor Leste
+Indonesia	IsWestOf	Timor Leste
+Indonesia	IsSouthOf	Malaysia
+Indonesia	IsEastOf	Malaysia
+Ireland	IsSouthOf	United Kingdom
+Ireland	IsWestOf	United Kingdom
+Israel	IsSouthOf	Syria
+Israel	IsWestOf	Syria
+Israel	IsNorthOf	Jordan
+Israel	IsWestOf	Jordan
+Israel	IsSouthOf	Lebanon
+Israel	IsWestOf	Lebanon
+Israel	IsNorthOf	Egypt
+Israel	IsEastOf	Egypt
+Israel	IsSouthOf	Palestinian Territory
+Israel	IsWestOf	Palestinian Territory
+India	IsSouthOf	China
+India	IsWestOf	China
+India	IsSouthOf	Nepal
+India	IsWestOf	Nepal
+India	IsSouthOf	Myanmar
+India	IsWestOf	Myanmar
+India	IsSouthOf	Bhutan
+India	IsWestOf	Bhutan
+India	IsSouthOf	Pakistan
+India	IsEastOf	Pakistan
+India	IsSouthOf	Bangladesh
+India	IsWestOf	Bangladesh
+Iraq	IsSouthOf	Syria
+Iraq	IsEastOf	Syria
+Iraq	IsNorthOf	Saudi Arabia
+Iraq	IsWestOf	Saudi Arabia
+Iraq	IsNorthOf	Iran
+Iraq	IsWestOf	Iran
+Iraq	IsNorthOf	Jordan
+Iraq	IsEastOf	Jordan
+Iraq	IsSouthOf	Turkey
+Iraq	IsEastOf	Turkey
+Iraq	IsNorthOf	Kuwait
+Iraq	IsWestOf	Kuwait
+Iran	IsSouthOf	Turkmenistan
+Iran	IsWestOf	Turkmenistan
+Iran	IsSouthOf	Afghanistan
+Iran	IsWestOf	Afghanistan
+Iran	IsSouthOf	Iraq
+Iran	IsEastOf	Iraq
+Iran	IsSouthOf	Armenia
+Iran	IsEastOf	Armenia
+Iran	IsNorthOf	Pakistan
+Iran	IsWestOf	Pakistan
+Iran	IsSouthOf	Azerbaijan
+Iran	IsEastOf	Azerbaijan
+Iran	IsSouthOf	Turkey
+Iran	IsEastOf	Turkey
+Italy	IsSouthOf	Switzerland
+Italy	IsEastOf	Switzerland
+Italy	IsSouthOf	Vatican
+Italy	IsEastOf	Vatican
+Italy	IsSouthOf	Slovenia
+Italy	IsWestOf	Slovenia
+Italy	IsSouthOf	San Marino
+Italy	IsEastOf	San Marino
+Italy	IsSouthOf	France
+Italy	IsEastOf	France
+Italy	IsSouthOf	Austria
+Italy	IsWestOf	Austria
+Jordan	IsSouthOf	Syria
+Jordan	IsWestOf	Syria
+Jordan	IsNorthOf	Saudi Arabia
+Jordan	IsWestOf	Saudi Arabia
+Jordan	IsSouthOf	Iraq
+Jordan	IsWestOf	Iraq
+Jordan	IsSouthOf	Israel
+Jordan	IsEastOf	Israel
+Jordan	IsSouthOf	Palestinian Territory
+Jordan	IsEastOf	Palestinian Territory
+Kenya	IsSouthOf	Ethiopia
+Kenya	IsWestOf	Ethiopia
+Kenya	IsNorthOf	Tanzania
+Kenya	IsEastOf	Tanzania
+Kenya	IsSouthOf	Somalia
+Kenya	IsWestOf	Somalia
+Kenya	IsSouthOf	Uganda
+Kenya	IsEastOf	Uganda
+Kyrgyzstan	IsNorthOf	China
+Kyrgyzstan	IsWestOf	China
+Kyrgyzstan	IsNorthOf	Tajikistan
+Kyrgyzstan	IsEastOf	Tajikistan
+Kyrgyzstan	IsSouthOf	Uzbekistan
+Kyrgyzstan	IsEastOf	Uzbekistan
+Kyrgyzstan	IsSouthOf	Kazakhstan
+Kyrgyzstan	IsEastOf	Kazakhstan
+Cambodia	IsSouthOf	Laos
+Cambodia	IsEastOf	Laos
+Cambodia	IsSouthOf	Thailand
+Cambodia	IsEastOf	Thailand
+Cambodia	IsSouthOf	Vietnam
+Cambodia	IsWestOf	Vietnam
+North Korea	IsNorthOf	China
+North Korea	IsEastOf	China
+North Korea	IsNorthOf	South Korea
+North Korea	IsWestOf	South Korea
+North Korea	IsSouthOf	Russia
+North Korea	IsEastOf	Russia
+South Korea	IsSouthOf	North Korea
+South Korea	IsEastOf	North Korea
+Kosovo	IsSouthOf	Serbia
+Kosovo	IsWestOf	Serbia
+Kosovo	IsNorthOf	Albania
+Kosovo	IsEastOf	Albania
+Kosovo	IsNorthOf	Macedonia
+Kosovo	IsWestOf	Macedonia
+Kosovo	IsSouthOf	Montenegro
+Kosovo	IsEastOf	Montenegro
+Kuwait	IsNorthOf	Saudi Arabia
+Kuwait	IsEastOf	Saudi Arabia
+Kuwait	IsSouthOf	Iraq
+Kuwait	IsEastOf	Iraq
+Kazakhstan	IsNorthOf	Turkmenistan
+Kazakhstan	IsEastOf	Turkmenistan
+Kazakhstan	IsNorthOf	China
+Kazakhstan	IsWestOf	China
+Kazakhstan	IsNorthOf	Kyrgyzstan
+Kazakhstan	IsWestOf	Kyrgyzstan
+Kazakhstan	IsNorthOf	Uzbekistan
+Kazakhstan	IsEastOf	Uzbekistan
+Kazakhstan	IsSouthOf	Russia
+Kazakhstan	IsWestOf	Russia
+Laos	IsSouthOf	China
+Laos	IsWestOf	China
+Laos	IsSouthOf	Myanmar
+Laos	IsEastOf	Myanmar
+Laos	IsNorthOf	Cambodia
+Laos	IsWestOf	Cambodia
+Laos	IsNorthOf	Thailand
+Laos	IsEastOf	Thailand
+Laos	IsNorthOf	Vietnam
+Laos	IsWestOf	Vietnam
+Lebanon	IsSouthOf	Syria
+Lebanon	IsWestOf	Syria
+Lebanon	IsNorthOf	Israel
+Lebanon	IsEastOf	Israel
+Liechtenstein	IsNorthOf	Switzerland
+Liechtenstein	IsEastOf	Switzerland
+Liechtenstein	IsSouthOf	Austria
+Liechtenstein	IsWestOf	Austria
+Liberia	IsSouthOf	Sierra Leone
+Liberia	IsEastOf	Sierra Leone
+Liberia	IsSouthOf	Ivory Coast
+Liberia	IsWestOf	Ivory Coast
+Liberia	IsSouthOf	Guinea
+Liberia	IsEastOf	Guinea
+Lesotho	IsNorthOf	South Africa
+Lesotho	IsEastOf	South Africa
+Lithuania	IsNorthOf	Poland
+Lithuania	IsEastOf	Poland
+Lithuania	IsNorthOf	Belarus
+Lithuania	IsWestOf	Belarus
+Lithuania	IsSouthOf	Russia
+Lithuania	IsWestOf	Russia
+Lithuania	IsSouthOf	Latvia
+Lithuania	IsWestOf	Latvia
+Luxembourg	IsSouthOf	Germany
+Luxembourg	IsWestOf	Germany
+Luxembourg	IsSouthOf	Belgium
+Luxembourg	IsEastOf	Belgium
+Luxembourg	IsNorthOf	France
+Luxembourg	IsEastOf	France
+Latvia	IsNorthOf	Lithuania
+Latvia	IsEastOf	Lithuania
+Latvia	IsSouthOf	Estonia
+Latvia	IsWestOf	Estonia
+Latvia	IsNorthOf	Belarus
+Latvia	IsWestOf	Belarus
+Latvia	IsSouthOf	Russia
+Latvia	IsWestOf	Russia
+Libya	IsNorthOf	Chad
+Libya	IsWestOf	Chad
+Libya	IsNorthOf	Niger
+Libya	IsEastOf	Niger
+Libya	IsSouthOf	Algeria
+Libya	IsEastOf	Algeria
+Libya	IsNorthOf	Sudan
+Libya	IsWestOf	Sudan
+Libya	IsSouthOf	Tunisia
+Libya	IsEastOf	Tunisia
+Libya	IsSouthOf	Egypt
+Libya	IsWestOf	Egypt
+Morocco	IsNorthOf	Algeria
+Morocco	IsWestOf	Algeria
+Morocco	IsNorthOf	Western Sahara
+Morocco	IsEastOf	Western Sahara
+Morocco	IsSouthOf	Spain
+Morocco	IsWestOf	Spain
+Monaco	IsSouthOf	France
+Monaco	IsEastOf	France
+Moldova	IsNorthOf	Romania
+Moldova	IsEastOf	Romania
+Moldova	IsSouthOf	Ukraine
+Moldova	IsWestOf	Ukraine
+Montenegro	IsNorthOf	Albania
+Montenegro	IsWestOf	Albania
+Montenegro	IsSouthOf	Croatia
+Montenegro	IsEastOf	Croatia
+Montenegro	IsSouthOf	Bosnia and Herzegovina
+Montenegro	IsEastOf	Bosnia and Herzegovina
+Montenegro	IsSouthOf	Serbia
+Montenegro	IsWestOf	Serbia
+Montenegro	IsNorthOf	Kosovo
+Montenegro	IsWestOf	Kosovo
+Macedonia	IsNorthOf	Albania
+Macedonia	IsEastOf	Albania
+Macedonia	IsNorthOf	Greece
+Macedonia	IsWestOf	Greece
+Macedonia	IsSouthOf	Bulgaria
+Macedonia	IsWestOf	Bulgaria
+Macedonia	IsSouthOf	Serbia
+Macedonia	IsEastOf	Serbia
+Macedonia	IsSouthOf	Kosovo
+Macedonia	IsEastOf	Kosovo
+Mali	IsNorthOf	Senegal
+Mali	IsEastOf	Senegal
+Mali	IsSouthOf	Niger
+Mali	IsWestOf	Niger
+Mali	IsSouthOf	Algeria
+Mali	IsWestOf	Algeria
+Mali	IsNorthOf	Ivory Coast
+Mali	IsEastOf	Ivory Coast
+Mali	IsNorthOf	Guinea
+Mali	IsEastOf	Guinea
+Mali	IsSouthOf	Mauritania
+Mali	IsEastOf	Mauritania
+Mali	IsNorthOf	Burkina Faso
+Mali	IsWestOf	Burkina Faso
+Myanmar	IsSouthOf	China
+Myanmar	IsWestOf	China
+Myanmar	IsNorthOf	Laos
+Myanmar	IsWestOf	Laos
+Myanmar	IsNorthOf	Thailand
+Myanmar	IsWestOf	Thailand
+Myanmar	IsSouthOf	Bangladesh
+Myanmar	IsEastOf	Bangladesh
+Myanmar	IsNorthOf	India
+Myanmar	IsEastOf	India
+Mongolia	IsNorthOf	China
+Mongolia	IsWestOf	China
+Mongolia	IsSouthOf	Russia
+Mongolia	IsWestOf	Russia
+Mauritania	IsNorthOf	Senegal
+Mauritania	IsEastOf	Senegal
+Mauritania	IsSouthOf	Algeria
+Mauritania	IsWestOf	Algeria
+Mauritania	IsSouthOf	Western Sahara
+Mauritania	IsEastOf	Western Sahara
+Mauritania	IsNorthOf	Mali
+Mauritania	IsWestOf	Mali
+Malawi	IsSouthOf	Tanzania
+Malawi	IsWestOf	Tanzania
+Malawi	IsNorthOf	Mozambique
+Malawi	IsWestOf	Mozambique
+Malawi	IsSouthOf	Zambia
+Malawi	IsEastOf	Zambia
+Mexico	IsNorthOf	Guatemala
+Mexico	IsWestOf	Guatemala
+Mexico	IsSouthOf	United States
+Mexico	IsWestOf	United States
+Mexico	IsNorthOf	Belize
+Mexico	IsWestOf	Belize
+Malaysia	IsSouthOf	Brunei
+Malaysia	IsWestOf	Brunei
+Malaysia	IsSouthOf	Thailand
+Malaysia	IsEastOf	Thailand
+Malaysia	IsNorthOf	Indonesia
+Malaysia	IsWestOf	Indonesia
+Mozambique	IsNorthOf	Zimbabwe
+Mozambique	IsEastOf	Zimbabwe
+Mozambique	IsSouthOf	Tanzania
+Mozambique	IsEastOf	Tanzania
+Mozambique	IsNorthOf	Swaziland
+Mozambique	IsEastOf	Swaziland
+Mozambique	IsNorthOf	South Africa
+Mozambique	IsEastOf	South Africa
+Mozambique	IsSouthOf	Zambia
+Mozambique	IsEastOf	Zambia
+Mozambique	IsSouthOf	Malawi
+Mozambique	IsEastOf	Malawi
+Namibia	IsNorthOf	South Africa
+Namibia	IsWestOf	South Africa
+Namibia	IsSouthOf	Botswana
+Namibia	IsWestOf	Botswana
+Namibia	IsSouthOf	Zambia
+Namibia	IsWestOf	Zambia
+Namibia	IsSouthOf	Angola
+Namibia	IsEastOf	Angola
+Niger	IsNorthOf	Chad
+Niger	IsWestOf	Chad
+Niger	IsNorthOf	Benin
+Niger	IsEastOf	Benin
+Niger	IsSouthOf	Algeria
+Niger	IsEastOf	Algeria
+Niger	IsSouthOf	Libya
+Niger	IsWestOf	Libya
+Niger	IsNorthOf	Burkina Faso
+Niger	IsEastOf	Burkina Faso
+Niger	IsNorthOf	Nigeria
+Niger	IsWestOf	Nigeria
+Niger	IsNorthOf	Mali
+Niger	IsEastOf	Mali
+Nigeria	IsSouthOf	Chad
+Nigeria	IsWestOf	Chad
+Nigeria	IsSouthOf	Niger
+Nigeria	IsEastOf	Niger
+Nigeria	IsSouthOf	Benin
+Nigeria	IsEastOf	Benin
+Nigeria	IsNorthOf	Cameroon
+Nigeria	IsWestOf	Cameroon
+Nicaragua	IsNorthOf	Costa Rica
+Nicaragua	IsWestOf	Costa Rica
+Nicaragua	IsSouthOf	Honduras
+Nicaragua	IsEastOf	Honduras
+Netherlands	IsNorthOf	Germany
+Netherlands	IsWestOf	Germany
+Netherlands	IsNorthOf	Belgium
+Netherlands	IsEastOf	Belgium
+Norway	IsSouthOf	Finland
+Norway	IsWestOf	Finland
+Norway	IsSouthOf	Russia
+Norway	IsWestOf	Russia
+Norway	IsNorthOf	Sweden
+Norway	IsWestOf	Sweden
+Nepal	IsSouthOf	China
+Nepal	IsWestOf	China
+Nepal	IsNorthOf	India
+Nepal	IsEastOf	India
+Oman	IsSouthOf	Saudi Arabia
+Oman	IsEastOf	Saudi Arabia
+Oman	IsNorthOf	Yemen
+Oman	IsEastOf	Yemen
+Oman	IsSouthOf	United Arab Emirates
+Oman	IsEastOf	United Arab Emirates
+Panama	IsSouthOf	Costa Rica
+Panama	IsEastOf	Costa Rica
+Panama	IsNorthOf	Colombia
+Panama	IsWestOf	Colombia
+Peru	IsSouthOf	Ecuador
+Peru	IsEastOf	Ecuador
+Peru	IsNorthOf	Chile
+Peru	IsWestOf	Chile
+Peru	IsNorthOf	Bolivia
+Peru	IsWestOf	Bolivia
+Peru	IsNorthOf	Brazil
+Peru	IsWestOf	Brazil
+Peru	IsSouthOf	Colombia
+Peru	IsWestOf	Colombia
+Papua New Guinea	IsSouthOf	Indonesia
+Papua New Guinea	IsEastOf	Indonesia
+Pakistan	IsSouthOf	China
+Pakistan	IsWestOf	China
+Pakistan	IsSouthOf	Afghanistan
+Pakistan	IsEastOf	Afghanistan
+Pakistan	IsSouthOf	Iran
+Pakistan	IsEastOf	Iran
+Pakistan	IsNorthOf	India
+Pakistan	IsWestOf	India
+Poland	IsNorthOf	Germany
+Poland	IsEastOf	Germany
+Poland	IsSouthOf	Lithuania
+Poland	IsWestOf	Lithuania
+Poland	IsNorthOf	Slovakia
+Poland	IsWestOf	Slovakia
+Poland	IsNorthOf	Czechia
+Poland	IsEastOf	Czechia
+Poland	IsSouthOf	Belarus
+Poland	IsWestOf	Belarus
+Poland	IsNorthOf	Ukraine
+Poland	IsWestOf	Ukraine
+Poland	IsSouthOf	Russia
+Poland	IsWestOf	Russia
+Palestinian Territory	IsNorthOf	Jordan
+Palestinian Territory	IsWestOf	Jordan
+Palestinian Territory	IsNorthOf	Israel
+Palestinian Territory	IsEastOf	Israel
+Palestinian Territory	IsNorthOf	Egypt
+Palestinian Territory	IsEastOf	Egypt
+Portugal	IsSouthOf	Spain
+Portugal	IsWestOf	Spain
+Paraguay	IsSouthOf	Bolivia
+Paraguay	IsEastOf	Bolivia
+Paraguay	IsSouthOf	Brazil
+Paraguay	IsWestOf	Brazil
+Paraguay	IsNorthOf	Argentina
+Paraguay	IsEastOf	Argentina
+Qatar	IsNorthOf	Saudi Arabia
+Qatar	IsEastOf	Saudi Arabia
+Romania	IsSouthOf	Moldova
+Romania	IsWestOf	Moldova
+Romania	IsSouthOf	Hungary
+Romania	IsEastOf	Hungary
+Romania	IsSouthOf	Ukraine
+Romania	IsWestOf	Ukraine
+Romania	IsNorthOf	Bulgaria
+Romania	IsWestOf	Bulgaria
+Romania	IsNorthOf	Serbia
+Romania	IsEastOf	Serbia
+Serbia	IsNorthOf	Albania
+Serbia	IsEastOf	Albania
+Serbia	IsSouthOf	Hungary
+Serbia	IsEastOf	Hungary
+Serbia	IsNorthOf	Macedonia
+Serbia	IsWestOf	Macedonia
+Serbia	IsSouthOf	Romania
+Serbia	IsWestOf	Romania
+Serbia	IsSouthOf	Croatia
+Serbia	IsEastOf	Croatia
+Serbia	IsNorthOf	Bosnia and Herzegovina
+Serbia	IsEastOf	Bosnia and Herzegovina
+Serbia	IsNorthOf	Bulgaria
+Serbia	IsWestOf	Bulgaria
+Serbia	IsNorthOf	Montenegro
+Serbia	IsEastOf	Montenegro
+Serbia	IsNorthOf	Kosovo
+Serbia	IsEastOf	Kosovo
+Russia	IsNorthOf	Georgia
+Russia	IsEastOf	Georgia
+Russia	IsNorthOf	China
+Russia	IsEastOf	China
+Russia	IsNorthOf	Belarus
+Russia	IsEastOf	Belarus
+Russia	IsNorthOf	Ukraine
+Russia	IsEastOf	Ukraine
+Russia	IsNorthOf	Kazakhstan
+Russia	IsEastOf	Kazakhstan
+Russia	IsNorthOf	Latvia
+Russia	IsEastOf	Latvia
+Russia	IsNorthOf	Poland
+Russia	IsEastOf	Poland
+Russia	IsNorthOf	Estonia
+Russia	IsEastOf	Estonia
+Russia	IsNorthOf	Lithuania
+Russia	IsEastOf	Lithuania
+Russia	IsSouthOf	Finland
+Russia	IsEastOf	Finland
+Russia	IsNorthOf	Mongolia
+Russia	IsEastOf	Mongolia
+Russia	IsNorthOf	Norway
+Russia	IsEastOf	Norway
+Russia	IsNorthOf	Azerbaijan
+Russia	IsEastOf	Azerbaijan
+Russia	IsNorthOf	North Korea
+Russia	IsWestOf	North Korea
+Rwanda	IsNorthOf	Tanzania
+Rwanda	IsWestOf	Tanzania
+Rwanda	IsNorthOf	Democratic Republic of the Congo
+Rwanda	IsEastOf	Democratic Republic of the Congo
+Rwanda	IsNorthOf	Burundi
+Rwanda	IsWestOf	Burundi
+Rwanda	IsSouthOf	Uganda
+Rwanda	IsWestOf	Uganda
+Saudi Arabia	IsSouthOf	Qatar
+Saudi Arabia	IsWestOf	Qatar
+Saudi Arabia	IsNorthOf	Oman
+Saudi Arabia	IsWestOf	Oman
+Saudi Arabia	IsSouthOf	Iraq
+Saudi Arabia	IsEastOf	Iraq
+Saudi Arabia	IsNorthOf	Yemen
+Saudi Arabia	IsWestOf	Yemen
+Saudi Arabia	IsSouthOf	Jordan
+Saudi Arabia	IsEastOf	Jordan
+Saudi Arabia	IsNorthOf	United Arab Emirates
+Saudi Arabia	IsWestOf	United Arab Emirates
+Saudi Arabia	IsSouthOf	Kuwait
+Saudi Arabia	IsWestOf	Kuwait
+Sudan	IsSouthOf	Chad
+Sudan	IsEastOf	Chad
+Sudan	IsSouthOf	Egypt
+Sudan	IsWestOf	Egypt
+Sudan	IsNorthOf	Ethiopia
+Sudan	IsWestOf	Ethiopia
+Sudan	IsSouthOf	Eritrea
+Sudan	IsWestOf	Eritrea
+Sudan	IsSouthOf	Libya
+Sudan	IsEastOf	Libya
+Sudan	IsNorthOf	Central African Republic
+Sudan	IsEastOf	Central African Republic
+Sweden	IsSouthOf	Norway
+Sweden	IsEastOf	Norway
+Sweden	IsSouthOf	Finland
+Sweden	IsWestOf	Finland
+Slovenia	IsSouthOf	Hungary
+Slovenia	IsWestOf	Hungary
+Slovenia	IsNorthOf	Italy
+Slovenia	IsEastOf	Italy
+Slovenia	IsNorthOf	Croatia
+Slovenia	IsWestOf	Croatia
+Slovenia	IsSouthOf	Austria
+Slovenia	IsEastOf	Austria
+Slovakia	IsSouthOf	Poland
+Slovakia	IsEastOf	Poland
+Slovakia	IsNorthOf	Hungary
+Slovakia	IsEastOf	Hungary
+Slovakia	IsSouthOf	Czechia
+Slovakia	IsEastOf	Czechia
+Slovakia	IsNorthOf	Ukraine
+Slovakia	IsWestOf	Ukraine
+Slovakia	IsNorthOf	Austria
+Slovakia	IsEastOf	Austria
+Sierra Leone	IsNorthOf	Liberia
+Sierra Leone	IsWestOf	Liberia
+Sierra Leone	IsSouthOf	Guinea
+Sierra Leone	IsWestOf	Guinea
+San Marino	IsNorthOf	Italy
+San Marino	IsWestOf	Italy
+Senegal	IsNorthOf	Guinea
+Senegal	IsWestOf	Guinea
+Senegal	IsSouthOf	Mauritania
+Senegal	IsWestOf	Mauritania
+Senegal	IsNorthOf	Guinea-Bissau
+Senegal	IsEastOf	Guinea-Bissau
+Senegal	IsNorthOf	Gambia
+Senegal	IsEastOf	Gambia
+Senegal	IsSouthOf	Mali
+Senegal	IsWestOf	Mali
+Somalia	IsSouthOf	Ethiopia
+Somalia	IsEastOf	Ethiopia
+Somalia	IsNorthOf	Kenya
+Somalia	IsEastOf	Kenya
+Somalia	IsSouthOf	Djibouti
+Somalia	IsEastOf	Djibouti
+Suriname	IsSouthOf	Guyana
+Suriname	IsEastOf	Guyana
+Suriname	IsNorthOf	Brazil
+Suriname	IsWestOf	Brazil
+Suriname	IsSouthOf	French Guiana
+Suriname	IsWestOf	French Guiana
+El Salvador	IsSouthOf	Guatemala
+El Salvador	IsEastOf	Guatemala
+El Salvador	IsSouthOf	Honduras
+El Salvador	IsWestOf	Honduras
+Syria	IsNorthOf	Iraq
+Syria	IsWestOf	Iraq
+Syria	IsNorthOf	Jordan
+Syria	IsEastOf	Jordan
+Syria	IsNorthOf	Israel
+Syria	IsEastOf	Israel
+Syria	IsSouthOf	Turkey
+Syria	IsEastOf	Turkey
+Syria	IsNorthOf	Lebanon
+Syria	IsEastOf	Lebanon
+Swaziland	IsNorthOf	South Africa
+Swaziland	IsEastOf	South Africa
+Swaziland	IsSouthOf	Mozambique
+Swaziland	IsWestOf	Mozambique
+Chad	IsSouthOf	Niger
+Chad	IsEastOf	Niger
+Chad	IsSouthOf	Libya
+Chad	IsEastOf	Libya
+Chad	IsNorthOf	Central African Republic
+Chad	IsWestOf	Central African Republic
+Chad	IsNorthOf	Sudan
+Chad	IsWestOf	Sudan
+Chad	IsNorthOf	Cameroon
+Chad	IsEastOf	Cameroon
+Chad	IsNorthOf	Nigeria
+Chad	IsEastOf	Nigeria
+Togo	IsSouthOf	Benin
+Togo	IsWestOf	Benin
+Togo	IsNorthOf	Ghana
+Togo	IsEastOf	Ghana
+Togo	IsSouthOf	Burkina Faso
+Togo	IsEastOf	Burkina Faso
+Thailand	IsSouthOf	Laos
+Thailand	IsWestOf	Laos
+Thailand	IsSouthOf	Myanmar
+Thailand	IsEastOf	Myanmar
+Thailand	IsNorthOf	Cambodia
+Thailand	IsWestOf	Cambodia
+Thailand	IsNorthOf	Malaysia
+Thailand	IsWestOf	Malaysia
+Tajikistan	IsNorthOf	China
+Tajikistan	IsWestOf	China
+Tajikistan	IsNorthOf	Afghanistan
+Tajikistan	IsEastOf	Afghanistan
+Tajikistan	IsSouthOf	Kyrgyzstan
+Tajikistan	IsWestOf	Kyrgyzstan
+Tajikistan	IsSouthOf	Uzbekistan
+Tajikistan	IsEastOf	Uzbekistan
+Timor Leste	IsSouthOf	Indonesia
+Timor Leste	IsEastOf	Indonesia
+Turkmenistan	IsNorthOf	Afghanistan
+Turkmenistan	IsWestOf	Afghanistan
+Turkmenistan	IsNorthOf	Iran
+Turkmenistan	IsEastOf	Iran
+Turkmenistan	IsSouthOf	Uzbekistan
+Turkmenistan	IsWestOf	Uzbekistan
+Turkmenistan	IsSouthOf	Kazakhstan
+Turkmenistan	IsWestOf	Kazakhstan
+Tunisia	IsNorthOf	Algeria
+Tunisia	IsEastOf	Algeria
+Tunisia	IsNorthOf	Libya
+Tunisia	IsWestOf	Libya
+Turkey	IsNorthOf	Syria
+Turkey	IsWestOf	Syria
+Turkey	IsSouthOf	Georgia
+Turkey	IsWestOf	Georgia
+Turkey	IsNorthOf	Iraq
+Turkey	IsWestOf	Iraq
+Turkey	IsNorthOf	Iran
+Turkey	IsWestOf	Iran
+Turkey	IsSouthOf	Greece
+Turkey	IsEastOf	Greece
+Turkey	IsSouthOf	Armenia
+Turkey	IsWestOf	Armenia
+Turkey	IsSouthOf	Azerbaijan
+Turkey	IsWestOf	Azerbaijan
+Turkey	IsSouthOf	Bulgaria
+Turkey	IsEastOf	Bulgaria
+Tanzania	IsNorthOf	Mozambique
+Tanzania	IsWestOf	Mozambique
+Tanzania	IsSouthOf	Kenya
+Tanzania	IsWestOf	Kenya
+Tanzania	IsSouthOf	Democratic Republic of the Congo
+Tanzania	IsEastOf	Democratic Republic of the Congo
+Tanzania	IsSouthOf	Rwanda
+Tanzania	IsEastOf	Rwanda
+Tanzania	IsNorthOf	Zambia
+Tanzania	IsEastOf	Zambia
+Tanzania	IsSouthOf	Burundi
+Tanzania	IsEastOf	Burundi
+Tanzania	IsSouthOf	Uganda
+Tanzania	IsEastOf	Uganda
+Tanzania	IsNorthOf	Malawi
+Tanzania	IsEastOf	Malawi
+Ukraine	IsSouthOf	Poland
+Ukraine	IsEastOf	Poland
+Ukraine	IsNorthOf	Moldova
+Ukraine	IsEastOf	Moldova
+Ukraine	IsNorthOf	Hungary
+Ukraine	IsEastOf	Hungary
+Ukraine	IsSouthOf	Slovakia
+Ukraine	IsEastOf	Slovakia
+Ukraine	IsSouthOf	Belarus
+Ukraine	IsEastOf	Belarus
+Ukraine	IsNorthOf	Romania
+Ukraine	IsEastOf	Romania
+Ukraine	IsSouthOf	Russia
+Ukraine	IsWestOf	Russia
+Uganda	IsNorthOf	Tanzania
+Uganda	IsWestOf	Tanzania
+Uganda	IsNorthOf	Kenya
+Uganda	IsWestOf	Kenya
+Uganda	IsNorthOf	Democratic Republic of the Congo
+Uganda	IsEastOf	Democratic Republic of the Congo
+Uganda	IsNorthOf	Rwanda
+Uganda	IsEastOf	Rwanda
+United States	IsSouthOf	Canada
+United States	IsEastOf	Canada
+United States	IsNorthOf	Mexico
+United States	IsEastOf	Mexico
+United States	IsNorthOf	Cuba
+United States	IsWestOf	Cuba
+Uruguay	IsSouthOf	Brazil
+Uruguay	IsWestOf	Brazil
+Uruguay	IsNorthOf	Argentina
+Uruguay	IsEastOf	Argentina
+Uzbekistan	IsNorthOf	Turkmenistan
+Uzbekistan	IsEastOf	Turkmenistan
+Uzbekistan	IsNorthOf	Afghanistan
+Uzbekistan	IsWestOf	Afghanistan
+Uzbekistan	IsNorthOf	Kyrgyzstan
+Uzbekistan	IsWestOf	Kyrgyzstan
+Uzbekistan	IsNorthOf	Tajikistan
+Uzbekistan	IsWestOf	Tajikistan
+Uzbekistan	IsSouthOf	Kazakhstan
+Uzbekistan	IsWestOf	Kazakhstan
+Vatican	IsNorthOf	Italy
+Vatican	IsWestOf	Italy
+Venezuela	IsNorthOf	Guyana
+Venezuela	IsWestOf	Guyana
+Venezuela	IsNorthOf	Brazil
+Venezuela	IsWestOf	Brazil
+Venezuela	IsNorthOf	Colombia
+Venezuela	IsEastOf	Colombia
+Vietnam	IsSouthOf	China
+Vietnam	IsEastOf	China
+Vietnam	IsSouthOf	Laos
+Vietnam	IsEastOf	Laos
+Vietnam	IsNorthOf	Cambodia
+Vietnam	IsEastOf	Cambodia
+Yemen	IsSouthOf	Saudi Arabia
+Yemen	IsEastOf	Saudi Arabia
+Yemen	IsSouthOf	Oman
+Yemen	IsWestOf	Oman
+South Africa	IsSouthOf	Zimbabwe
+South Africa	IsWestOf	Zimbabwe
+South Africa	IsSouthOf	Swaziland
+South Africa	IsWestOf	Swaziland
+South Africa	IsSouthOf	Mozambique
+South Africa	IsWestOf	Mozambique
+South Africa	IsSouthOf	Botswana
+South Africa	IsWestOf	Botswana
+South Africa	IsSouthOf	Namibia
+South Africa	IsEastOf	Namibia
+South Africa	IsSouthOf	Lesotho
+South Africa	IsWestOf	Lesotho
+Zambia	IsNorthOf	Zimbabwe
+Zambia	IsWestOf	Zimbabwe
+Zambia	IsSouthOf	Tanzania
+Zambia	IsWestOf	Tanzania
+Zambia	IsNorthOf	Mozambique
+Zambia	IsWestOf	Mozambique
+Zambia	IsSouthOf	Democratic Republic of the Congo
+Zambia	IsEastOf	Democratic Republic of the Congo
+Zambia	IsNorthOf	Namibia
+Zambia	IsEastOf	Namibia
+Zambia	IsNorthOf	Malawi
+Zambia	IsWestOf	Malawi
+Zambia	IsSouthOf	Angola
+Zambia	IsEastOf	Angola
+Zimbabwe	IsNorthOf	South Africa
+Zimbabwe	IsEastOf	South Africa
+Zimbabwe	IsSouthOf	Mozambique
+Zimbabwe	IsWestOf	Mozambique
+Zimbabwe	IsNorthOf	Botswana
+Zimbabwe	IsEastOf	Botswana
+Zimbabwe	IsSouthOf	Zambia
+Zimbabwe	IsEastOf	Zambia
+Netherlands Antilles	IsSouthOf	Guadeloupe
+Netherlands Antilles	IsWestOf	Guadeloupe
+Argentina	HasShape	a chinless smiling cartoon man with goofy hair
+Argentina	HasShape	pepe the frog with an extended right leg
+Argentina	HasShape	a sideways tank
+Argentina	HasShape	a cooked turkey leg
+Argentina	HasShape	a caveman club
+Argentina	HasShape	a chicken strip
+Argentina	HasShape	a leprechaun face
+Argentina	HasShape	a gun
+Argentina	HasShape	a comb
+Argentina	HasShape	a person's side profile
+Argentina	HasShape	a fish fillet
+Argentina	HasShape	a piece of chicken tender
+Argentina	HasShape	bat
+Argentina	HasShape	club
+Argentina	HasShape	drumstick
+Argentina	HasShape	battleship
+Argentina	HasShape	caterpillar
+Argentina	HasShape	christmas tree
+Argentina	HasShape	cocoon
+Argentina	HasShape	caterpiller
+Argentina	HasShape	walrus
+Argentina	HasShape	hammer
+Argentina	HasShape	side profile of unicorn
+Argentina	HasShape	turkey leg
+Argentina	HasShape	it looks like a chicken leg
+Argentina	HasShape	it looks like a baseball bat
+Argentina	HasShape	it looks like a lamp
+Argentina	HasShape	jackhammer
+Argentina	HasShape	screw
+Argentina	HasShape	snail
+Argentina	HasShape	kangaroo with babies in pouch
+Argentina	HasShape	a goat sitting on a rock
+Argentina	HasShape	mountain skyline
+Argentina	HasShape	man in the moon face
+Argentina	HasShape	pizza
+Argentina	HasShape	the country is shaped like a man holding a bagpipe in front of him.
+Argentina	HasShape	the country looks like a boy’s head. he is faced east and you can see in his profile his nose
+Argentina	HasShape	mouth and adam’s apple. you also see he is wearing a hat.
+Argentina	HasShape	titanic
+Argentina	HasShape	easter island head
+Argentina	HasShape	upside down christmas tree
+Benin	HasShape	a cartoon hand waving hello.
+Benin	HasShape	a partial eaten heart lollipop on a stick.
+Benin	HasShape	a map you are here icon with a bite out of the top
+Benin	HasShape	a key
+Benin	HasShape	the top of an ice cream scooper
+Benin	HasShape	top of a lacrosse stick
+Benin	HasShape	a medieval battle axe in profile
+Benin	HasShape	an upright oscillating fan
+Benin	HasShape	a sideways leaf blower
+Benin	HasShape	a thermometer
+Benin	HasShape	a sign
+Benin	HasShape	chicken wing
+Benin	HasShape	drum stick
+Benin	HasShape	caveman club
+Benin	HasShape	claw
+Benin	HasShape	spatula
+Benin	HasShape	bird
+Benin	HasShape	cobra
+Benin	HasShape	mushroom
+Benin	HasShape	lollipop
+Benin	HasShape	it looks like a golf tee
+Benin	HasShape	it looks like a tooth
+Benin	HasShape	it looks like a toucan's beak
+Benin	HasShape	key
+Benin	HasShape	pencil
+Benin	HasShape	tooth
+Benin	HasShape	like a fist raised in defiance.
+Benin	HasShape	like an arm being raised by a drowning man.
+Benin	HasShape	like a cactus in the desert.
+Benin	HasShape	looks like a chicken leg
+Benin	HasShape	looks like a keyhole
+Benin	HasShape	looks like a key
+Benin	HasShape	penis
+Benin	HasShape	nail
+Benin	HasShape	screw
+Benin	HasShape	spoon
+Benin	HasShape	whisk
+Benin	HasShape	ladle
+Benin	HasShape	wrench
+Benin	HasShape	crab claw
+Benin	HasShape	drumstick
+Bolivia	HasShape	a monkey head
+Bolivia	HasShape	an ice pack
+Bolivia	HasShape	a garbage bag
+Bolivia	HasShape	bird's head
+Bolivia	HasShape	leaf
+Bolivia	HasShape	flame
+Bolivia	HasShape	chicken head
+Bolivia	HasShape	ghost
+Bolivia	HasShape	silhoutte of a woman
+Bolivia	HasShape	face turned sideways
+Bolivia	HasShape	bear facing away from you
+Bolivia	HasShape	circle
+Bolivia	HasShape	hut
+Bolivia	HasShape	pot
+Bolivia	HasShape	jar
+Bolivia	HasShape	it looks like an anval
+Bolivia	HasShape	it looks like an eagle head
+Bolivia	HasShape	it looks like a boat anchor.
+Bolivia	HasShape	it looks like the state of georgia
+Bolivia	HasShape	it looks like the outline of a face
+Bolivia	HasShape	it looks like a money bag
+Bolivia	HasShape	looks like the head of a falcon on a tilted angle
+Bolivia	HasShape	looks like the head of a bear with the mouth wide open
+Bolivia	HasShape	looks like a flying irregular bat
+Bolivia	HasShape	manta ray
+Bolivia	HasShape	claw
+Bolivia	HasShape	strapless mini dress
+Bolivia	HasShape	two heads against each other in profile form
+Bolivia	HasShape	one is angry and the other surprised
+Bolivia	HasShape	the country bolvia looks like a animal rabbit. (by viewing in animals perspective)
+Bolivia	HasShape	the country bolvia looks like a hexagonal pyramid ( by viewing in geometrical perspective)
+Bolivia	HasShape	the country bolvia looks like a small pot( by viewing in geometrical perspective)
+Bolivia	HasShape	this is the shape of a leaf
+Bolivia	HasShape	looks like a torn piece of fabric
+Bolivia	HasShape	looks like a splotch of spilled paint
+Bolivia	HasShape	vase
+Bolivia	HasShape	hot water bottle
+Bolivia	HasShape	turtleneck tank top
+Bolivia	HasShape	vulture's head
+Bolivia	HasShape	head of a turkey
+Bolivia	HasShape	bottle opener
+Bulgaria	HasShape	a dog on point
+Bulgaria	HasShape	the edges of a wavy muffin top.
+Bulgaria	HasShape	a seal sun bathing with a flipper sticking up
+Bulgaria	HasShape	a fat dog
+Bulgaria	HasShape	an arm with the hand giving a thumbs up
+Bulgaria	HasShape	an old pillow
+Bulgaria	HasShape	a gopher
+Bulgaria	HasShape	a rat
+Bulgaria	HasShape	body of a gerbil
+Bulgaria	HasShape	barking dog
+Bulgaria	HasShape	flag
+Bulgaria	HasShape	porcupine with lowered
+Bulgaria	HasShape	bat
+Bulgaria	HasShape	cat
+Bulgaria	HasShape	cooking pot
+Bulgaria	HasShape	dog
+Bulgaria	HasShape	flag flapping in wind
+Bulgaria	HasShape	gym shorts
+Bulgaria	HasShape	ghost
+Bulgaria	HasShape	thumbs up
+Bulgaria	HasShape	horse
+Bulgaria	HasShape	donkey
+Bulgaria	HasShape	rectangle
+Bulgaria	HasShape	pelican beak
+Bulgaria	HasShape	bullet
+Bulgaria	HasShape	half oval
+Bulgaria	HasShape	puerto rico
+Bulgaria	HasShape	a fat seal
+Bulgaria	HasShape	a slug
+Bulgaria	HasShape	puppy
+Bulgaria	HasShape	square
+Bulgaria	HasShape	box
+Bulgaria	HasShape	thumbs up on hand
+Bulgaria	HasShape	men's large arm
+Canada	HasShape	a flying phoenix on fire
+Canada	HasShape	a dog lying on its back shaking water off
+Canada	HasShape	a large asteroid disintegrating as its passing through the atmosphere
+Canada	HasShape	building falling apart
+Canada	HasShape	object on fire
+Canada	HasShape	whale
+Canada	HasShape	canada
+Canada	HasShape	cliff
+Canada	HasShape	broken stones
+Canada	HasShape	playground
+Canada	HasShape	insects
+Canada	HasShape	birds
+Canada	HasShape	fish
+Canada	HasShape	it looks like a caribou with a large body and antlers on the right
+Canada	HasShape	it looks like a 5 sided polygon with rough edges all around the top three sides
+Canada	HasShape	it looks like a reindeer with no legs and an ornate antlers pattern
+Canada	HasShape	it looks like fractured glass.
+Canada	HasShape	it looks like floating pieces of ice
+Canada	HasShape	looks like fragments of dried blood
+Canada	HasShape	looks like a bleeding hand
+Canada	HasShape	looks like shredded paper
+Canada	HasShape	looks like a red cloud scattered in the sky
+Canada	HasShape	looks like a whale with water coming out.
+Canada	HasShape	a dolphin.
+Canada	HasShape	a porpoises.
+Canada	HasShape	looks like the top half of a man laying on his back with leaves falling onto his chest.
+Canada	HasShape	looks like a crazy cow head with a long neck facing to the left wearing sunglasses and with the wind blowing its mane all over.
+Canada	HasShape	looks like a hippopotamus with water swirling underneath but upside down.
+Canada	HasShape	shattered glass
+Canada	HasShape	crumbs of bread
+Canada	HasShape	a fire spitting dragon
+Canada	HasShape	the country looks like a stretched rhombus
+Canada	HasShape	country looks like a camel on the ground
+Canada	HasShape	country looks like a dis formed rectangle
+Canada	HasShape	this looks like a person screaming because their arm just got blown apart.
+Canada	HasShape	this looks like a chef sitting down chopping up a bunch of red bell peppers in a frenzy.
+Canada	HasShape	this looks like a duck who's just been shot sailing down towards the ground from the bloody sky.
+Canada	HasShape	upside down dog
+Canada	HasShape	iceberg breaking
+Canada	HasShape	not geometric
+Columbia	HasShape	a court jester
+Columbia	HasShape	top view of a flying bird
+Columbia	HasShape	the symbol news outlets use for depicting the eye of a hurricane.
+Columbia	HasShape	a disfigured square or rhombus with one of the corners stretched-out.
+Columbia	HasShape	an elephant walking on its four legs.
+Columbia	HasShape	looks like aladdin's magic carpet.
+Columbia	HasShape	ancient scroll
+Columbia	HasShape	bat
+Columbia	HasShape	leaf
+Columbia	HasShape	country looks like a histogram
+Columbia	HasShape	country looks like too curvy square
+Columbia	HasShape	country have too many edges
+Columbia	HasShape	crow head
+Columbia	HasShape	dancing monkey
+Columbia	HasShape	jester
+Columbia	HasShape	fish
+Columbia	HasShape	dog head
+Columbia	HasShape	spearhead
+Columbia	HasShape	it looks like an elf hat with a face in it
+Columbia	HasShape	it looks like a bird on flight
+Columbia	HasShape	it looks like dried crumpled leaf
+Columbia	HasShape	looks like a profile of the grinch who stole christmas.
+Columbia	HasShape	looks like a bloated cross.
+Columbia	HasShape	looks like meatwad from adult swim
+Columbia	HasShape	looks like a star
+Columbia	HasShape	looks like a spiral
+Columbia	HasShape	looks like an amoeba
+Columbia	HasShape	magic hat
+Columbia	HasShape	sad tree
+Columbia	HasShape	sad star
+Columbia	HasShape	short-armed
+Columbia	HasShape	fat ghost
+Columbia	HasShape	wide bird flying towards the left
+Columbia	HasShape	sideways bat (head is on the right)
+Columbia	HasShape	bird flying
+Columbia	HasShape	santa carrying a sack of gifts
+Columbia	HasShape	star
+Columbia	HasShape	square
+Columbia	HasShape	mice
+Ethiopia	HasShape	a ghost
+Ethiopia	HasShape	a dress
+Ethiopia	HasShape	a hat
+Ethiopia	HasShape	bird
+Ethiopia	HasShape	butterfly
+Ethiopia	HasShape	blade
+Ethiopia	HasShape	stealth fighter plane
+Ethiopia	HasShape	chick
+Ethiopia	HasShape	arrow
+Ethiopia	HasShape	small animal
+Ethiopia	HasShape	duck
+Ethiopia	HasShape	leaf
+Ethiopia	HasShape	fat chick
+Ethiopia	HasShape	ghost
+Ethiopia	HasShape	a squished flower
+Ethiopia	HasShape	a deformed pancake
+Ethiopia	HasShape	dog head
+Ethiopia	HasShape	wave
+Ethiopia	HasShape	dress
+Ethiopia	HasShape	broom
+Ethiopia	HasShape	head of a porcupine
+Ethiopia	HasShape	flag waving in the wind
+Ethiopia	HasShape	tip of a paint brush dipped in red paint
+Ethiopia	HasShape	it looks like a circle with a triangle on the side.
+Ethiopia	HasShape	its almost like a rock shape
+Ethiopia	HasShape	it doesnt look geometrical
+Ethiopia	HasShape	feather
+Ethiopia	HasShape	acorn
+Ethiopia	HasShape	snail
+Ethiopia	HasShape	semi circle
+Ethiopia	HasShape	the country looks like a peach
+Ethiopia	HasShape	the country looks like a heart
+Ethiopia	HasShape	the country looks like a leaf
+Ethiopia	HasShape	woodpecker head
+Ethiopia	HasShape	ice cream cone
+Ethiopia	HasShape	flame
+Finland	HasShape	a boomerang
+Finland	HasShape	wings of a stealth bomber
+Finland	HasShape	a flock of geese flying in formation
+Finland	HasShape	a boot
+Finland	HasShape	a fish
+Finland	HasShape	a coiled snake
+Finland	HasShape	a mirror image of the letter 'l'
+Finland	HasShape	a slug in profile with one antennae
+Finland	HasShape	a precision insert tool for a machine.
+Finland	HasShape	a back view of a unicorn laying down and looking to the left.
+Finland	HasShape	a person squatting down and pointing to the left.
+Finland	HasShape	goat
+Finland	HasShape	it looks like rabbit
+Finland	HasShape	mixie
+Finland	HasShape	heart shape in reverse side
+Finland	HasShape	looks like a horse with a wavy mane
+Finland	HasShape	looks like a hand saw
+Finland	HasShape	looks like a head with a horn on top
+Finland	HasShape	old hobo boot
+Finland	HasShape	snowboot
+Finland	HasShape	christmas stocking
+Finland	HasShape	shoe
+Finland	HasShape	boot
+Finland	HasShape	stocking
+Finland	HasShape	snail
+Finland	HasShape	centipede
+Finland	HasShape	carriage
+Finland	HasShape	llama
+Finland	HasShape	alpaca
+Finland	HasShape	the country looks like a snow boot.
+Finland	HasShape	the country look like a cat laying down
+Finland	HasShape	the country look like somone surfing on a surfboard.
+Finland	HasShape	the country looks like a winter boot.
+Finland	HasShape	this country looks like a christmas stocking.
+Finland	HasShape	the country looks like a giant woolen sock.
+Finland	HasShape	unicorn
+Finland	HasShape	norwhal
+Finland	HasShape	wizard
+Indonesia	HasShape	a pack of dogs chasing a whale
+Indonesia	HasShape	monkeys
+Indonesia	HasShape	pasta
+Indonesia	HasShape	blood splatter
+Indonesia	HasShape	bird poop
+Indonesia	HasShape	elephant
+Indonesia	HasShape	camel entering the woods
+Indonesia	HasShape	dinosaur feasting on vegetation
+Indonesia	HasShape	lioness attacks a mountain cat while sheep watches
+Indonesia	HasShape	dog
+Indonesia	HasShape	camel
+Indonesia	HasShape	sheep
+Indonesia	HasShape	dragon
+Indonesia	HasShape	blood stain
+Indonesia	HasShape	mountains
+Indonesia	HasShape	flaming sword
+Indonesia	HasShape	better by design of isoceles triangle
+Indonesia	HasShape	article of faith scorpio
+Indonesia	HasShape	fossils
+Indonesia	HasShape	puzzle pieces
+Indonesia	HasShape	it looks like a dragon
+Indonesia	HasShape	it looks like a spin
+Indonesia	HasShape	it looks like a firebird
+Indonesia	HasShape	jackson pollock's work
+Indonesia	HasShape	chicken foot
+Indonesia	HasShape	rain
+Indonesia	HasShape	looks like japanese kanji.
+Indonesia	HasShape	looks like a tent on the side of a hill
+Indonesia	HasShape	with mountains in the background.
+Indonesia	HasShape	looks like the shape of a dolphin
+Indonesia	HasShape	looks like the shape of a humpback whale
+Indonesia	HasShape	looks like the shape of an almond
+Indonesia	HasShape	pimples
+Indonesia	HasShape	seal
+Indonesia	HasShape	tail
+Indonesia	HasShape	skeleton of a cat with long tail
+Indonesia	HasShape	fossilized lizard
+Indonesia	HasShape	hurricane on weather map
+Indonesia	HasShape	soup spilled on counter
+Indonesia	HasShape	shadows on statue of liberty
+Indonesia	HasShape	oil spill from australian ship
+Iran	HasShape	advark
+Iran	HasShape	mustache
+Iran	HasShape	hair piece
+Iran	HasShape	a moustache
+Iran	HasShape	an octopus
+Iran	HasShape	a snail
+Iran	HasShape	bear
+Iran	HasShape	humpback whale
+Iran	HasShape	camel
+Iran	HasShape	boa constrictor
+Iran	HasShape	lamp shade
+Iran	HasShape	flower petal
+Iran	HasShape	snail
+Iran	HasShape	looks like a snail
+Iran	HasShape	shaped like a flower
+Iran	HasShape	similar to a womans skirt
+Iran	HasShape	lung
+Iran	HasShape	heart
+Iran	HasShape	triangle
+Iran	HasShape	occarina
+Iran	HasShape	axe
+Iran	HasShape	sun hat
+Iran	HasShape	octopus
+Iran	HasShape	jellyfish
+Iran	HasShape	dementor
+Iran	HasShape	farmer's straw hat
+Iran	HasShape	volcano shape
+Iran	HasShape	human heart
+Iran	HasShape	conch shell
+Iran	HasShape	the pokemon muk
+Iran	HasShape	bear asleep
+Iran	HasShape	this country looks like triceratops with short legs walking up a hill.
+Iran	HasShape	the country looks like a mother cat and her kitten.
+Iran	HasShape	the country looks like a lopsided traditional ufo with the circular wings wider on one side of the craft.
+Iran	HasShape	bat
+Iran	HasShape	flying saucer
+Iraq	HasShape	a chicken
+Iraq	HasShape	a heart
+Iraq	HasShape	a sock
+Iraq	HasShape	a puppy
+Iraq	HasShape	a tooth
+Iraq	HasShape	a hat
+Iraq	HasShape	bib
+Iraq	HasShape	tobacco smoke cloud
+Iraq	HasShape	snail
+Iraq	HasShape	dinosaur's head
+Iraq	HasShape	military tank
+Iraq	HasShape	dog lying on the ground
+Iraq	HasShape	heart
+Iraq	HasShape	a cow
+Iraq	HasShape	broccoli loaf
+Iraq	HasShape	buffalo
+Iraq	HasShape	billow of smoke
+Iraq	HasShape	ilike that country
+Iraq	HasShape	its great to see animals.
+Iraq	HasShape	i look like animals are very good.
+Iraq	HasShape	it looks like a human heart
+Iraq	HasShape	it looks like a kidney bean
+Iraq	HasShape	it looks like a hot air ballon
+Iraq	HasShape	looks like a fat cat
+Iraq	HasShape	looks like a oddly shaped heart
+Iraq	HasShape	looks like a duck sitting
+Iraq	HasShape	looks like a heart
+Iraq	HasShape	looks like a red sock
+Iraq	HasShape	looks like a red shoe
+Iraq	HasShape	piggy bank
+Iraq	HasShape	cat or tiger laying down
+Iraq	HasShape	shoe
+Iraq	HasShape	rose petal
+Iraq	HasShape	light bulb
+Iraq	HasShape	harp musical instrument
+Iraq	HasShape	rubber ducky
+Iraq	HasShape	statue bust
+Iraq	HasShape	sideways rooster without a head
+Iraq	HasShape	this country looks like a guinea pig.
+Iraq	HasShape	this country looks like a badge.
+Iraq	HasShape	this country looks like a bird with a beak.
+Ireland	HasShape	a cows head
+Ireland	HasShape	antlers on a deer
+Ireland	HasShape	a moose face
+Ireland	HasShape	a fish
+Ireland	HasShape	a bug
+Ireland	HasShape	a mud puddle
+Ireland	HasShape	a piggy bank whose shape is a boot
+Ireland	HasShape	a bird flying
+Ireland	HasShape	a boot with a lace
+Ireland	HasShape	a sideways bear
+Ireland	HasShape	sea kelp growing outwards towards the atlantic ocean
+Ireland	HasShape	a man with an open mouth and a small tuft of hair
+Ireland	HasShape	a turkey
+Ireland	HasShape	a chicken
+Ireland	HasShape	a porkchop
+Ireland	HasShape	bird
+Ireland	HasShape	hand
+Ireland	HasShape	parrot
+Ireland	HasShape	camel
+Ireland	HasShape	kangeroo
+Ireland	HasShape	moose eating grass
+Ireland	HasShape	crocodile
+Ireland	HasShape	moose head
+Ireland	HasShape	pig head
+Ireland	HasShape	elephant
+Ireland	HasShape	mouse face
+Ireland	HasShape	skiier
+Ireland	HasShape	elf boot with heart design coming out of it
+Ireland	HasShape	front half of an airplane
+Ireland	HasShape	nyan reindeer
+Ireland	HasShape	it looks like a dog's head.
+Ireland	HasShape	an upside-down walking eagle with its wings held open and back.
+Ireland	HasShape	a bird with a large belly.
+Ireland	HasShape	jumping rabbit
+Ireland	HasShape	jumping cat
+Ireland	HasShape	kangaroo
+Ireland	HasShape	leaf
+Ireland	HasShape	pepper
+Ireland	HasShape	tornado
+Ireland	HasShape	looks like a microbe
+Ireland	HasShape	looks like a hookworm
+Ireland	HasShape	looks like a dreidel
+Ireland	HasShape	looks like an animal head
+Ireland	HasShape	looks like a running dog
+Ireland	HasShape	looks like a persons profile
+Ireland	HasShape	looks like a parrot
+Ireland	HasShape	looks like a bear hugging a bird
+Ireland	HasShape	looks like a koala
+Ireland	HasShape	looks like a running animal
+Ireland	HasShape	looks like a profile
+Ireland	HasShape	looks like a flying bird
+Ireland	HasShape	looks like a semi-colon.
+Ireland	HasShape	looks like a sprouting lima bean.
+Ireland	HasShape	looks like the leg and foot of a bear.
+Ireland	HasShape	moose
+Ireland	HasShape	whale
+Ireland	HasShape	car
+Ireland	HasShape	person streching
+Ireland	HasShape	cat sleeping
+Ireland	HasShape	circle
+Ireland	HasShape	rabbit
+Ireland	HasShape	dog
+Ireland	HasShape	a head and legs without a torso
+Ireland	HasShape	dragon
+Ireland	HasShape	procupine
+Ireland	HasShape	side view silhouette of man's face
+Ireland	HasShape	side view of fat goose in flight
+Ireland	HasShape	crouched over bigfoot giving a thumbs up
+Ireland	HasShape	airplane
+Ireland	HasShape	battle tank
+Italy	HasShape	boot
+Italy	HasShape	crab claw
+Italy	HasShape	stalactite
+Italy	HasShape	kicking a rock
+Italy	HasShape	elephant's trunk
+Italy	HasShape	boots
+Italy	HasShape	chair
+Italy	HasShape	shark
+Italy	HasShape	fancy boot
+Italy	HasShape	boot kicking a ball
+Italy	HasShape	carrot with two tips
+Italy	HasShape	hammerhead shark
+Italy	HasShape	iud
+Italy	HasShape	boot kicking some rocks
+Italy	HasShape	high heel
+Italy	HasShape	hammerhead shark swimming away and other fish trailing him
+Italy	HasShape	tree with ground roots and acorn falling from it
+Italy	HasShape	high-heeled hip length boot with hanging tassel
+Italy	HasShape	italy
+Italy	HasShape	it looks like a boot or shoe
+Italy	HasShape	looks like a boot
+Italy	HasShape	looks like an upside down frown
+Italy	HasShape	looks like a the head of a dinosaur
+Italy	HasShape	looks like a high-heeled boot.
+Italy	HasShape	looks like a capital j.
+Italy	HasShape	looks like a screaming face sideways.
+Italy	HasShape	looks like an animal with just the tail showing
+Italy	HasShape	looks like the devil hiding but showing his pointed tail
+Italy	HasShape	looks like a hammer with a tail
+Italy	HasShape	looks like a tree
+Italy	HasShape	looks like the letter t
+Italy	HasShape	woman's leg
+Italy	HasShape	jackhammer
+Italy	HasShape	oil spill
+Japan	HasShape	an exaggerated clown smile
+Japan	HasShape	paint splattered on the floor
+Japan	HasShape	a slug
+Japan	HasShape	a sea serpent
+Japan	HasShape	a dragon
+Japan	HasShape	a snake.
+Japan	HasShape	banana
+Japan	HasShape	sea horse
+Japan	HasShape	crescent
+Japan	HasShape	carrot
+Japan	HasShape	the letter j
+Japan	HasShape	hook
+Japan	HasShape	it looks like snake
+Japan	HasShape	it looks like dragon
+Japan	HasShape	it looks like curve
+Japan	HasShape	japan
+Japan	HasShape	kite
+Japan	HasShape	dragon
+Japan	HasShape	puzzle pieces
+Japan	HasShape	looks like a snake.
+Japan	HasShape	looks like a flat crab.
+Japan	HasShape	looks like a teapot blowing steam.
+Japan	HasShape	looks like horse
+Japan	HasShape	sea dragon
+Japan	HasShape	seahorse
+Japan	HasShape	seagull
+Japan	HasShape	rope
+Japan	HasShape	bird flying
+Japan	HasShape	skinny whale
+Japan	HasShape	dragon without wings or arms
+Japan	HasShape	snake
+Japan	HasShape	lizard
+Japan	HasShape	string
+Japan	HasShape	swordfish
+Japan	HasShape	dolphin with hunchback
+Japan	HasShape	hilt of a sword
+Japan	HasShape	the country is shaped like a giant serpent.
+Japan	HasShape	this country looks like a sea horse with it’s tail unraveled.
+Japan	HasShape	this country is shaped like the loch ness monster.
+Kazakhstan	HasShape	a bigfoot
+Kazakhstan	HasShape	a fish
+Kazakhstan	HasShape	a turtle
+Kazakhstan	HasShape	standing person
+Kazakhstan	HasShape	heart
+Kazakhstan	HasShape	cloud shape
+Kazakhstan	HasShape	dragon
+Kazakhstan	HasShape	turtle with mouth open
+Kazakhstan	HasShape	crab with arm out and claw open
+Kazakhstan	HasShape	fish
+Kazakhstan	HasShape	earwig
+Kazakhstan	HasShape	scissors
+Kazakhstan	HasShape	gorilla sideways
+Kazakhstan	HasShape	the yedi
+Kazakhstan	HasShape	rotated man walking
+Kazakhstan	HasShape	rotated carrot
+Kazakhstan	HasShape	goldfish
+Kazakhstan	HasShape	rutabaga
+Kazakhstan	HasShape	head of a camel
+Kazakhstan	HasShape	hermit crab
+Kazakhstan	HasShape	angry turtle biting
+Kazakhstan	HasShape	snail
+Kazakhstan	HasShape	looks like a fish.
+Kazakhstan	HasShape	looks like an arrowhead.
+Kazakhstan	HasShape	looks like a toppled christmas tree.
+Kazakhstan	HasShape	looks like octagon with legs
+Kazakhstan	HasShape	looks like a tree
+Kazakhstan	HasShape	looks like a broccoli
+Kazakhstan	HasShape	portly man swimming in water
+Kazakhstan	HasShape	airplane
+Kazakhstan	HasShape	alligator
+Kazakhstan	HasShape	snapping turtle
+Kazakhstan	HasShape	robot waling towards you
+Kazakhstan	HasShape	tree falling over
+Kazakhstan	HasShape	south america is like sea horse
+Kazakhstan	HasShape	australia is look like head of animal
+Kazakhstan	HasShape	india is like triangle
+Kazakhstan	HasShape	wrench
+Kazakhstan	HasShape	dead body
+Libya	HasShape	a heart
+Libya	HasShape	a letter l
+Libya	HasShape	a piece of brocolli
+Libya	HasShape	a stalking
+Libya	HasShape	a fluffy heart
+Libya	HasShape	a train going up a mountain.
+Libya	HasShape	a heart with flowers blooming from the top of one side.
+Libya	HasShape	a ski boot laying on its side.
+Libya	HasShape	candy heart
+Libya	HasShape	peacock
+Libya	HasShape	rooster
+Libya	HasShape	crooked heart
+Libya	HasShape	two icecream cones
+Libya	HasShape	upside down triangle with a divit
+Libya	HasShape	flint arrow
+Libya	HasShape	triangle
+Libya	HasShape	heart
+Libya	HasShape	mushroom
+Libya	HasShape	it looks like a distorted heart
+Libya	HasShape	it looks like an upside down pyramid
+Libya	HasShape	it looks like a boot laying on it's side
+Libya	HasShape	looks like 3/4 of a heart.
+Libya	HasShape	looks like a backwards check mark.
+Libya	HasShape	looks like a fist bump.
+Libya	HasShape	looks like a heart.
+Libya	HasShape	looks like an ice cream cone.
+Libya	HasShape	looks like the sideview of a rooster.
+Libya	HasShape	looks like a rabbit
+Libya	HasShape	looks like a dog
+Libya	HasShape	looks like letter v
+Libya	HasShape	melted heart candy
+Libya	HasShape	cloud
+Libya	HasShape	sideways christmas stocking
+Libya	HasShape	bent arm holding out fist
+Libya	HasShape	heart with bump on left side
+Libya	HasShape	train
+Libya	HasShape	boot
+Libya	HasShape	butterfly with open wings
+Madagascar	HasShape	a captain with his arms crossed and a navy cap
+Madagascar	HasShape	a utility knife with a bump on one side
+Madagascar	HasShape	a pregnant lady with a cap
+Madagascar	HasShape	a chicken thigh
+Madagascar	HasShape	a melting candle
+Madagascar	HasShape	a carrot
+Madagascar	HasShape	a pregnant shiv
+Madagascar	HasShape	a bloated missile
+Madagascar	HasShape	a cartoon dog's head
+Madagascar	HasShape	cylindre
+Madagascar	HasShape	cylinder
+Madagascar	HasShape	it looks like a shoe
+Madagascar	HasShape	it looks like a bottle opener
+Madagascar	HasShape	it looks like a bear claw
+Madagascar	HasShape	key
+Madagascar	HasShape	violin
+Madagascar	HasShape	tahiti sculpture
+Madagascar	HasShape	lips
+Madagascar	HasShape	rolling cloud
+Madagascar	HasShape	boat
+Madagascar	HasShape	looks like a bear.
+Madagascar	HasShape	looks like a  ship.
+Madagascar	HasShape	looks like an army tank.
+Madagascar	HasShape	looks like a submarine
+Madagascar	HasShape	looks like a missile with a bump on the left
+Madagascar	HasShape	looks like a bullet with a bump on the left
+Madagascar	HasShape	opened utility knife
+Madagascar	HasShape	snail
+Madagascar	HasShape	toboggan
+Madagascar	HasShape	oval with a strong tip
+Madagascar	HasShape	a fish with a missing fin
+Madagascar	HasShape	a women's upper body with missing arms
+Madagascar	HasShape	shape is elongated oval like
+Madagascar	HasShape	looks like a pen cap
+Madagascar	HasShape	shaped like a bumpy slug
+Madagascar	HasShape	ship
+Madagascar	HasShape	whale
+Madagascar	HasShape	submarine
+Madagascar	HasShape	the country looks like a submarine diving down.
+Madagascar	HasShape	the country looks like the jetson's space craft.
+Madagascar	HasShape	the country looks like somone sitting on a magic carpet.
+Nepal	HasShape	a piece of bacon
+Nepal	HasShape	a partially chewed stick of gum
+Nepal	HasShape	a waterslide
+Nepal	HasShape	arizona
+Nepal	HasShape	belt
+Nepal	HasShape	snake
+Nepal	HasShape	rope
+Nepal	HasShape	chocolate bar
+Nepal	HasShape	wooden paddle for spankings
+Nepal	HasShape	baseball bat
+Nepal	HasShape	it looks like a boat
+Nepal	HasShape	it looks like a piece of meat
+Nepal	HasShape	it looks like a cloud
+Nepal	HasShape	larvae
+Nepal	HasShape	whale
+Nepal	HasShape	battered rectangle
+Nepal	HasShape	moustache
+Nepal	HasShape	eyebrow
+Nepal	HasShape	caterpillar
+Nepal	HasShape	rectangle
+Nepal	HasShape	hotdog
+Nepal	HasShape	brick
+Nepal	HasShape	shoe
+Nepal	HasShape	ziti noodle
+Nepal	HasShape	water droplet
+Nepal	HasShape	oven mit
+Nepal	HasShape	rectangular in shape
+Nepal	HasShape	tray
+Nepal	HasShape	knife
+Nepal	HasShape	stick
+Nepal	HasShape	lego
+Nepal	HasShape	thin rectangle
+Nepal	HasShape	two combined cells
+Nepal	HasShape	hallway
+Nigeria	HasShape	a bird
+Nigeria	HasShape	a fish
+Nigeria	HasShape	a shirt
+Nigeria	HasShape	bear head
+Nigeria	HasShape	pentagon
+Nigeria	HasShape	engine block
+Nigeria	HasShape	hand fan
+Nigeria	HasShape	pig
+Nigeria	HasShape	bulbasaur from pokemon
+Nigeria	HasShape	looks like a camel head.
+Nigeria	HasShape	looks like a cow.
+Nigeria	HasShape	looks like a conch shell.
+Nigeria	HasShape	looks like an arrow head
+Nigeria	HasShape	looks like the head of a mouse
+Nigeria	HasShape	looks like a fish without a tail.
+Nigeria	HasShape	moth in flight
+Nigeria	HasShape	howling wolf's head
+Nigeria	HasShape	cat's paw
+Nigeria	HasShape	mouse head
+Nigeria	HasShape	tiger's face
+Nigeria	HasShape	cat head
+Nigeria	HasShape	panther head with two wiskers on the bottom
+Nigeria	HasShape	drum stick when rotated to the left
+Nigeria	HasShape	bunch of broccoli without any seen pieces when rotated to the left
+Nigeria	HasShape	parallelogram with a chunk missing
+Nigeria	HasShape	chunk of cheese
+Nigeria	HasShape	guitar plectrum
+Nigeria	HasShape	pony
+Nigeria	HasShape	bat
+Nigeria	HasShape	butterfly
+Nigeria	HasShape	te head of a bear with its mouth open
+Nigeria	HasShape	roaring
+Nigeria	HasShape	a raccoon with whiskers on its nose
+Nigeria	HasShape	the face of a tiger
+Nigeria	HasShape	a bear from the side
+Nigeria	HasShape	a kid with a hoodie with ears
+Nigeria	HasShape	the silhouette of a pig's head.
+Nigeria	HasShape	the side view of a lion cub's head
+Nigeria	HasShape	a bear head with one cropped ear
+Nigeria	HasShape	wolf
+Nigeria	HasShape	stingray
+Pakistan	HasShape	aerial view of mountain
+Pakistan	HasShape	forest fire
+Pakistan	HasShape	slug
+Pakistan	HasShape	a kneeling woman
+Pakistan	HasShape	a bottle
+Pakistan	HasShape	like a yoke for horses
+Pakistan	HasShape	a rocket
+Pakistan	HasShape	a duck
+Pakistan	HasShape	a dragon
+Pakistan	HasShape	a sawblade
+Pakistan	HasShape	demolition tool used in construction
+Pakistan	HasShape	scraper tool used by painters
+Pakistan	HasShape	dachshund standing
+Pakistan	HasShape	a ver elegant gentleman with a hat
+Pakistan	HasShape	a man walking with a cap on
+Pakistan	HasShape	dachshund standing on it's hind legs
+Pakistan	HasShape	cat begging for a treat
+Pakistan	HasShape	dachshund in pants
+Pakistan	HasShape	dinosaur
+Pakistan	HasShape	dog
+Pakistan	HasShape	rabbit
+Pakistan	HasShape	scarf
+Pakistan	HasShape	dragon
+Pakistan	HasShape	godzilla
+Pakistan	HasShape	chihuahua
+Pakistan	HasShape	mouse upside down
+Pakistan	HasShape	harmonica
+Pakistan	HasShape	sea horse
+Pakistan	HasShape	hair clip
+Pakistan	HasShape	it looks like a dog
+Pakistan	HasShape	it looks like a sports car with a spoiler.
+Pakistan	HasShape	it looks like a table ornament.
+Pakistan	HasShape	penguin
+Pakistan	HasShape	screw pointing up
+Pakistan	HasShape	seahorse
+Pakistan	HasShape	alligator with mouth open
+Pakistan	HasShape	sitting dog up
+Pakistan	HasShape	a bat
+Pakistan	HasShape	candy wrapper
+Papuanewguinea	HasShape	a can opener
+Papuanewguinea	HasShape	the front part of an anteater
+Papuanewguinea	HasShape	the bottom part of a big cat
+Papuanewguinea	HasShape	a high heel
+Papuanewguinea	HasShape	an elephants trunk
+Papuanewguinea	HasShape	a badger tail
+Papuanewguinea	HasShape	an elephant spraying water
+Papuanewguinea	HasShape	a bear stretching
+Papuanewguinea	HasShape	a hammerhead shark
+Papuanewguinea	HasShape	elephant head
+Papuanewguinea	HasShape	raised arm
+Papuanewguinea	HasShape	axe
+Papuanewguinea	HasShape	hand with pointing finger
+Papuanewguinea	HasShape	open mouthed bird
+Papuanewguinea	HasShape	hook hand
+Papuanewguinea	HasShape	sand drifting away
+Papuanewguinea	HasShape	head of an anteater
+Papuanewguinea	HasShape	ketchup coming out of bottle
+Papuanewguinea	HasShape	liquid going down a shower drain
+Papuanewguinea	HasShape	bottom half of mermaid
+Papuanewguinea	HasShape	lobster claw
+Papuanewguinea	HasShape	swordfish head
+Papuanewguinea	HasShape	witch's hand
+Papuanewguinea	HasShape	looks like an anteater.
+Papuanewguinea	HasShape	looks like an alligator.
+Papuanewguinea	HasShape	looks like a tail and hind legs of a beaver.
+Papuanewguinea	HasShape	lower body
+Papuanewguinea	HasShape	mammoth
+Papuanewguinea	HasShape	elephant
+Papuanewguinea	HasShape	person stretching hand out
+Papuanewguinea	HasShape	a man handing a woman a rose flower
+Papuanewguinea	HasShape	someone kneeling down to pray
+Papuanewguinea	HasShape	pointing finger
+Papuanewguinea	HasShape	hat
+Papuanewguinea	HasShape	fingers
+Papuanewguinea	HasShape	tail
+Papuanewguinea	HasShape	finger
+Papuanewguinea	HasShape	nose
+Papuanewguinea	HasShape	tail of a kangaroo shaking off water
+Papuanewguinea	HasShape	toe of boot with string untied
+Papuanewguinea	HasShape	side profile of a beaver tail shaking off water
+Poland	HasShape	a cartoon dinosaur head
+Poland	HasShape	a sideways vest
+Poland	HasShape	a tattered tunic
+Poland	HasShape	cloud
+Poland	HasShape	used eraser
+Poland	HasShape	guinea pig
+Poland	HasShape	egg
+Poland	HasShape	oval
+Poland	HasShape	pill
+Poland	HasShape	enlarged lips
+Poland	HasShape	two mountains
+Poland	HasShape	the back of elmos head
+Poland	HasShape	glove
+Poland	HasShape	fist
+Poland	HasShape	ameoba
+Poland	HasShape	hamster
+Poland	HasShape	oil spill
+Poland	HasShape	looks a sheep with small legs
+Poland	HasShape	looks like a waving flag
+Poland	HasShape	looks like a wagon
+Poland	HasShape	looks like a sheep's head looking north.
+Poland	HasShape	looks like a street corner with buildings
+Poland	HasShape	3d drawn 2d.
+Poland	HasShape	eyeball
+Poland	HasShape	nut
+Poland	HasShape	landing pad
+Poland	HasShape	spray gun
+Poland	HasShape	panda
+Poland	HasShape	fox
+Poland	HasShape	rabbit
+Poland	HasShape	roasted pig
+Poland	HasShape	animal skin rug
+Poland	HasShape	fence
+Poland	HasShape	serving tray
+Poland	HasShape	a rectangle with a small extension on top
+Poland	HasShape	a corkboard
+Poland	HasShape	sideways fire hydrant
+Poland	HasShape	mini van
+Poland	HasShape	bottle of dishwashing liquid (sideways)
+Portugal	HasShape	alsmost rectangular
+Portugal	HasShape	small box
+Portugal	HasShape	looks like a lego
+Portugal	HasShape	america
+Portugal	HasShape	australia
+Portugal	HasShape	blanket spread
+Portugal	HasShape	thick crayon
+Portugal	HasShape	expo dry-erase marker
+Portugal	HasShape	child
+Portugal	HasShape	fox
+Portugal	HasShape	rabbit
+Portugal	HasShape	cleaver
+Portugal	HasShape	sperm whale
+Portugal	HasShape	peace of log
+Portugal	HasShape	cylindre
+Portugal	HasShape	cylinder
+Portugal	HasShape	human bird hybrid
+Portugal	HasShape	knee high boot with a very curled toe
+Portugal	HasShape	christmas stocking
+Portugal	HasShape	lamp with lamp shade
+Portugal	HasShape	ariel
+Portugal	HasShape	small barbie
+Portugal	HasShape	one of the big stone heads on easter island
+Portugal	HasShape	like johnny bravos head
+Portugal	HasShape	a lamp
+Portugal	HasShape	pig standing up
+Portugal	HasShape	flower
+Portugal	HasShape	mishapen rectangle
+Portugal	HasShape	rectangle
+Portugal	HasShape	a caterpillar
+Portugal	HasShape	a wide circus tent
+Portugal	HasShape	alligator head
+Portugal	HasShape	fish
+Portugal	HasShape	sour patch kid
+Portugal	HasShape	peanut
+Portugal	HasShape	teddy bear
+Portugal	HasShape	upside down oven mitt
+Portugal	HasShape	a cockatiel head
+Portugal	HasShape	a peacock head
+Serbia	HasShape	a dog standing on two-feet with the the front legs on a fence.
+Serbia	HasShape	a bird flying in the sky
+Serbia	HasShape	a log of wood.
+Serbia	HasShape	a dog sweater
+Serbia	HasShape	a souvenir cup
+Serbia	HasShape	a jar
+Serbia	HasShape	anukshuk
+Serbia	HasShape	statue
+Serbia	HasShape	hand picking up a coin
+Serbia	HasShape	a tyrannosaurus
+Serbia	HasShape	godzilla
+Serbia	HasShape	a laughing head attached to feet running in the opposite direction
+Serbia	HasShape	cannon
+Serbia	HasShape	fish eating ball of fish food
+Serbia	HasShape	tree
+Serbia	HasShape	triangle
+Serbia	HasShape	almond
+Serbia	HasShape	dog on ball
+Serbia	HasShape	rectangle
+Serbia	HasShape	fish eating food
+Serbia	HasShape	forg
+Serbia	HasShape	frog
+Serbia	HasShape	bug
+Serbia	HasShape	nose
+Serbia	HasShape	head with tongue sticking out
+Serbia	HasShape	head with jaw separated
+Serbia	HasShape	person eating an apple
+Serbia	HasShape	it looks like an arrowhead recently dug up from the soil
+Serbia	HasShape	it looks like a dinosaur skull
+Serbia	HasShape	maybe a tyrannosaurus rex
+Serbia	HasShape	looks like a small chic
+Serbia	HasShape	small chicken
+Serbia	HasShape	small bird
+Serbia	HasShape	square
+Serbia	HasShape	brick
+Serbia	HasShape	face
+Serbia	HasShape	the head of pilgrim with a hat on.
+Serbia	HasShape	an arrowhead pointing down
+Serbia	HasShape	an upside down inspector gadget head
+Slovakia	HasShape	a beret
+Slovakia	HasShape	a tent
+Slovakia	HasShape	a car
+Slovakia	HasShape	a drop of cream
+Slovakia	HasShape	a cowpie
+Slovakia	HasShape	a dash
+Slovakia	HasShape	a fish
+Slovakia	HasShape	a whale
+Slovakia	HasShape	a puddle that is misshapen
+Slovakia	HasShape	bowling pin
+Slovakia	HasShape	tadpole
+Slovakia	HasShape	sperm
+Slovakia	HasShape	butter knife
+Slovakia	HasShape	cricket bat
+Slovakia	HasShape	maple seed
+Slovakia	HasShape	car
+Slovakia	HasShape	ball cap
+Slovakia	HasShape	chicken tender
+Slovakia	HasShape	cloud
+Slovakia	HasShape	submarine
+Slovakia	HasShape	fish
+Slovakia	HasShape	hamburger top bun
+Slovakia	HasShape	long oval
+Slovakia	HasShape	whale
+Slovakia	HasShape	comb
+Slovakia	HasShape	horseshoe crap
+Slovakia	HasShape	seahorse
+Slovakia	HasShape	newborn puppy with tiny tail wagging in back
+Slovakia	HasShape	hot dog
+Slovakia	HasShape	worm
+Slovakia	HasShape	head of a camel
+Slovakia	HasShape	a bacon piece
+Slovakia	HasShape	an oblong shape
+Slovakia	HasShape	looks like a fish
+Slovakia	HasShape	looks like a helicopter
+Slovakia	HasShape	looks like a goose
+Slovakia	HasShape	bullet
+Slovakia	HasShape	kidney bean
+Slovakia	HasShape	the country looks like a slug.
+Slovakia	HasShape	this country is shaped like a flattened pancake from the side perspective.
+Slovakia	HasShape	this country is shaped like a small
+Somalia	HasShape	a high heels shoe
+Somalia	HasShape	a snap dragon
+Somalia	HasShape	the number 7
+Somalia	HasShape	boomerang
+Somalia	HasShape	a woman's high heeled dress  shoe
+Somalia	HasShape	a fat number seven
+Somalia	HasShape	doesnt look like an animal
+Somalia	HasShape	similar to a triangle
+Somalia	HasShape	looks like number 7
+Somalia	HasShape	head of a horse
+Somalia	HasShape	axe
+Somalia	HasShape	two triangle that joins the top
+Somalia	HasShape	high heel
+Somalia	HasShape	number seven
+Somalia	HasShape	high heel shoe on it's side
+Somalia	HasShape	fish hook
+Somalia	HasShape	swan's neck
+Somalia	HasShape	hook
+Somalia	HasShape	seahorse
+Somalia	HasShape	dragon
+Somalia	HasShape	musical note
+Somalia	HasShape	high heel shoe
+Somalia	HasShape	flag
+Somalia	HasShape	piece of cake
+Somalia	HasShape	seems like pizza
+Somalia	HasShape	seems like jelly
+Somalia	HasShape	seahorse head
+Somalia	HasShape	bottom half of a mermaid
+Somalia	HasShape	snake with a fin
+Somalia	HasShape	music note
+Somalia	HasShape	high heal
+Somalia	HasShape	upside-down flying seagull
+Somalia	HasShape	a kanji character
+Somalia	HasShape	whale with a large tail
+Southafrica	HasShape	a baby laying on their back and kicking their legs in the air
+Southafrica	HasShape	an upside down bird with it's beak open
+Southafrica	HasShape	a person with very short legs bending over to look at something
+Southafrica	HasShape	a dog's face
+Southafrica	HasShape	a hippo's head
+Southafrica	HasShape	a snail without a shell
+Southafrica	HasShape	bird's eye view of a hamster
+Southafrica	HasShape	a limbless pig
+Southafrica	HasShape	a man with a ski-slope nose and two comically protruding lips
+Southafrica	HasShape	body of big
+Southafrica	HasShape	oval
+Southafrica	HasShape	cyclinder
+Southafrica	HasShape	doberman's head
+Southafrica	HasShape	t rex head
+Southafrica	HasShape	shoe with big toe area
+Southafrica	HasShape	hippo head
+Southafrica	HasShape	alligator head
+Southafrica	HasShape	upside down pig
+Southafrica	HasShape	hippo's head
+Southafrica	HasShape	wolf's head with large nostrils
+Southafrica	HasShape	rabbit lying down
+Southafrica	HasShape	if we see it upside down it looks like a tiger
+Southafrica	HasShape	no comments
+Southafrica	HasShape	it also looks like boat
+Southafrica	HasShape	it looks like the skull of an animal
+Southafrica	HasShape	looks like a granade
+Southafrica	HasShape	looks like a dog growlling
+Southafrica	HasShape	looks like a horse pulling a carriage.
+Southafrica	HasShape	looks like batman's mask
+Southafrica	HasShape	looks like an upside down ghost
+Southafrica	HasShape	looks like a rat
+Southafrica	HasShape	the country looks like an upside down badger with it’s back legs in the air.
+Southafrica	HasShape	this country looks like an underwater submarine with two windows near the front and two propeller blades visible in the back.
+Southafrica	HasShape	the country looks like an upside down north american bison.
+Southafrica	HasShape	the head of a dino
+Southafrica	HasShape	a wooden shoe
+Southafrica	HasShape	a car without the upper part
+Southafrica	HasShape	whale
+Southafrica	HasShape	scuba diver
+Southafrica	HasShape	upside down hippo
+Syria	HasShape	a bird
+Syria	HasShape	a guitar pick
+Syria	HasShape	a closed flower
+Syria	HasShape	a flying bird.
+Syria	HasShape	person opening their mouth.
+Syria	HasShape	a triangle with a dent on it's side
+Syria	HasShape	a leaf
+Syria	HasShape	a heart
+Syria	HasShape	a boot
+Syria	HasShape	a small red bird
+Syria	HasShape	a duck's foot
+Syria	HasShape	an amoeba about to split
+Syria	HasShape	a tulip
+Syria	HasShape	a roosters head
+Syria	HasShape	a nose
+Syria	HasShape	bird
+Syria	HasShape	tank
+Syria	HasShape	submarine
+Syria	HasShape	heart
+Syria	HasShape	liver
+Syria	HasShape	strawberry
+Syria	HasShape	it looks like a jalapeno pepper
+Syria	HasShape	it looks like a sock
+Syria	HasShape	it looks like a tear drop
+Syria	HasShape	it looks like a snail.
+Syria	HasShape	it looks like a hershey kiss candy.
+Syria	HasShape	it looks like a teardrop.
+Syria	HasShape	jellyfish
+Syria	HasShape	octopus
+Syria	HasShape	plasma
+Syria	HasShape	stingray
+Syria	HasShape	peep candy
+Syria	HasShape	tongue
+Syria	HasShape	airheads
+Syria	HasShape	snail
+Syria	HasShape	paperclip
+Syria	HasShape	thimble
+Syria	HasShape	triangle
+Syria	HasShape	curvy triangle
+Syria	HasShape	pizza
+Tanzania	HasShape	a broken bust
+Tanzania	HasShape	the lower half of a man's face
+Tanzania	HasShape	a pouting head turning away from the viewer
+Tanzania	HasShape	a mit
+Tanzania	HasShape	shorts
+Tanzania	HasShape	a monkey's head
+Tanzania	HasShape	a mitten
+Tanzania	HasShape	a lobster claw
+Tanzania	HasShape	a ballon
+Tanzania	HasShape	a pecan
+Tanzania	HasShape	a broken egg
+Tanzania	HasShape	an almond
+Tanzania	HasShape	a rain cloud
+Tanzania	HasShape	a persons head
+Tanzania	HasShape	a talking man from the side
+Tanzania	HasShape	bird
+Tanzania	HasShape	hammer head
+Tanzania	HasShape	blow dryer
+Tanzania	HasShape	bust statue
+Tanzania	HasShape	face
+Tanzania	HasShape	claw
+Tanzania	HasShape	fish
+Tanzania	HasShape	helmet
+Tanzania	HasShape	fan
+Tanzania	HasShape	head
+Tanzania	HasShape	american foorball
+Tanzania	HasShape	it looks like a fish.
+Tanzania	HasShape	it looks like an oval
+Tanzania	HasShape	it looks like a cloud
+Tanzania	HasShape	it looks like a flattened  spade.
+Tanzania	HasShape	the head of a hammer sideways.
+Tanzania	HasShape	a boxy head of a dog.
+Tanzania	HasShape	looks like a fish
+Tanzania	HasShape	a mullet hair cut
+Tanzania	HasShape	a arrowhead
+Tanzania	HasShape	oval
+Tanzania	HasShape	egg
+Tanzania	HasShape	dino head
+Tanzania	HasShape	profile of a dog's head (norwich terrier)
+Tanzania	HasShape	a fist
+Tanzania	HasShape	mitten
+Zambia	HasShape	a fetus
+Zambia	HasShape	a horse head eating a whole cabbage
+Zambia	HasShape	the mostly upside-down head of an old toothless man
+Zambia	HasShape	baby
+Zambia	HasShape	arm
+Zambia	HasShape	phone
+Zambia	HasShape	bicep and clenched fist
+Zambia	HasShape	kidney
+Zambia	HasShape	two balls
+Zambia	HasShape	country looks like a snail
+Zambia	HasShape	country looks like a broken toy
+Zambia	HasShape	country looks like a semi circle
+Zambia	HasShape	fetus
+Zambia	HasShape	alien
+Zambia	HasShape	bar bell
+Zambia	HasShape	bolo
+Zambia	HasShape	e.t. laying down
+Zambia	HasShape	wings of a butterfly
+Zambia	HasShape	fetus in the womb
+Zambia	HasShape	kidney bean
+Zambia	HasShape	heart
+Zambia	HasShape	muscle arm
+Zambia	HasShape	scuba diving goggles upside down
+Zambia	HasShape	snail
+Zambia	HasShape	train
+Zambia	HasShape	geodude from pokemon
+Zambia	HasShape	mountain range
+Zambia	HasShape	barbecue
+Zambia	HasShape	looks like a strapless bra
+Zambia	HasShape	looks like the side of one of those camera film containers from the 89's and 90's.
+Zambia	HasShape	looks like a reverse explanation point.
+Zambia	HasShape	obscure telephone handset
+Zambia	HasShape	jack-o-lantern with one really strong arm.
+Zambia	HasShape	one of those lantern fish that live in the bottom of the ocean.

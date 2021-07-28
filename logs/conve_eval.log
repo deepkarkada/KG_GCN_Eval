@@ -1,0 +1,56 @@
+Testing sample:[52, 1, 473]
+Pred:tensor([[3.6108e-04, 7.0283e-05, 1.4454e-04,  ..., 1.0433e-05, 1.4749e-04,
+         2.2957e-05]], grad_fn=<SoftmaxBackward>)
+--------------------------------------------------------------------------
+id:422 Head:Antigua and Barbuda, Relation:HasCapital, Pred:Russia
+id:444 Head:Antigua and Barbuda, Relation:HasCapital, Pred:Serbia
+id:227 Head:Antigua and Barbuda, Relation:HasCapital, Pred:Hungary
+id:43 Head:Antigua and Barbuda, Relation:HasCapital, Pred:Algeria
+id:157 Head:Antigua and Barbuda, Relation:HasCapital, Pred:Democratic Republic of the Congo
+id:508 Head:Antigua and Barbuda, Relation:HasCapital, Pred:Turkey
+id:192 Head:Antigua and Barbuda, Relation:HasCapital, Pred:France
+id:335 Head:Antigua and Barbuda, Relation:HasCapital, Pred:Mozambique
+id:235 Head:Antigua and Barbuda, Relation:HasCapital, Pred:Iraq
+id:284 Head:Antigua and Barbuda, Relation:HasCapital, Pred:Libya
+Testing sample:[57, 1, 112]
+Pred:tensor([[3.6108e-04, 7.0283e-05, 1.4454e-04,  ..., 1.0433e-05, 1.4749e-04,
+         2.2957e-05]], grad_fn=<SoftmaxBackward>)
+--------------------------------------------------------------------------
+id:422 Head:Argentina, Relation:HasCapital, Pred:Russia
+id:444 Head:Argentina, Relation:HasCapital, Pred:Serbia
+id:227 Head:Argentina, Relation:HasCapital, Pred:Hungary
+id:43 Head:Argentina, Relation:HasCapital, Pred:Algeria
+id:157 Head:Argentina, Relation:HasCapital, Pred:Democratic Republic of the Congo
+id:508 Head:Argentina, Relation:HasCapital, Pred:Turkey
+id:192 Head:Argentina, Relation:HasCapital, Pred:France
+id:335 Head:Argentina, Relation:HasCapital, Pred:Mozambique
+id:235 Head:Argentina, Relation:HasCapital, Pred:Iraq
+id:284 Head:Argentina, Relation:HasCapital, Pred:Libya
+Testing sample:[57, 5, 456]
+Pred:tensor([[3.6108e-04, 7.0283e-05, 1.4454e-04,  ..., 1.0433e-05, 1.4749e-04,
+         2.2957e-05]], grad_fn=<SoftmaxBackward>)
+--------------------------------------------------------------------------
+id:422 Head:Argentina, Relation:InContinent, Pred:Russia
+id:444 Head:Argentina, Relation:InContinent, Pred:Serbia
+id:227 Head:Argentina, Relation:InContinent, Pred:Hungary
+id:43 Head:Argentina, Relation:InContinent, Pred:Algeria
+id:157 Head:Argentina, Relation:InContinent, Pred:Democratic Republic of the Congo
+id:508 Head:Argentina, Relation:InContinent, Pred:Turkey
+id:192 Head:Argentina, Relation:InContinent, Pred:France
+id:335 Head:Argentina, Relation:InContinent, Pred:Mozambique
+id:235 Head:Argentina, Relation:InContinent, Pred:Iraq
+id:284 Head:Argentina, Relation:InContinent, Pred:Libya
+Testing sample:[57, 18, 100]
+Pred:tensor([[3.6108e-04, 7.0283e-05, 1.4454e-04,  ..., 1.0433e-05, 1.4749e-04,
+         2.2957e-05]], grad_fn=<SoftmaxBackward>)
+--------------------------------------------------------------------------
+id:422 Head:Argentina, Relation:SharesBorderWith, Pred:Russia
+id:444 Head:Argentina, Relation:SharesBorderWith, Pred:Serbia
+id:227 Head:Argentina, Relation:SharesBorderWith, Pred:Hungary
+id:43 Head:Argentina, Relation:SharesBorderWith, Pred:Algeria
+id:157 Head:Argentina, Relation:SharesBorderWith, Pred:Democratic Republic of the Congo
+id:508 Head:Argentina, Relation:SharesBorderWith, Pred:Turkey
+id:192 Head:Argentina, Relation:SharesBorderWith, Pred:France
+id:335 Head:Argentina, Relation:SharesBorderWith, Pred:Mozambique
+id:235 Head:Argentina, Relation:SharesBorderWith, Pred:Iraq
+id:284 Head:Argentina, Relation:SharesBorderWith, Pred:Libya

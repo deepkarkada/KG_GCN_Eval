@@ -1,0 +1,4 @@
+Antigua and Barbuda	HasCapital	St. John's
+Argentina	HasCapital	Buenos Aires
+Argentina	InContinent	South America
+Argentina	SharesBorderWith	Bolivia

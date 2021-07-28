@@ -1,0 +1,11 @@
+Using backend: pytorch
+  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]
+Loading adjacency matrix from pickle file
+Traceback (most recent call last):
+  File "conve_gcn.py", line 440, in <module>
+    model = main(args)
+  File "conve_gcn.py", line 395, in main
+    train(args)
+  File "conve_gcn.py", line 321, in train
+    h,r,t = train_sample[0]
+NameError: name 'train_sample' is not defined

@@ -1,0 +1,800 @@
+Afghanistan	SharesBorderWith	Iran
+Afghanistan	SharesBorderWith	Pakistan
+Afghanistan	SharesBorderWith	People's Republic of China
+Afghanistan	SharesBorderWith	Tajikistan
+Afghanistan	SharesBorderWith	Turkmenistan
+Afghanistan	SharesBorderWith	Uzbekistan
+Albania	SharesBorderWith	European Union
+Albania	SharesBorderWith	Greece
+Albania	SharesBorderWith	Kosovo
+Albania	SharesBorderWith	Montenegro
+Albania	SharesBorderWith	North Macedonia
+Albania	SharesBorderWith	Serbia
+Algeria	SharesBorderWith	Libya
+Algeria	SharesBorderWith	Mali
+Algeria	SharesBorderWith	Mauritania
+Algeria	SharesBorderWith	Morocco
+Algeria	SharesBorderWith	Niger
+Algeria	SharesBorderWith	Tunisia
+Algeria	SharesBorderWith	Western Sahara
+Andorra	SharesBorderWith	Catalonia
+Andorra	SharesBorderWith	European Union
+Andorra	SharesBorderWith	France
+Andorra	SharesBorderWith	Occitania
+Andorra	SharesBorderWith	Spain
+Angola	SharesBorderWith	Democratic Republic of the Congo
+Angola	SharesBorderWith	Namibia
+Angola	SharesBorderWith	Republic of the Congo
+Angola	SharesBorderWith	Zambia
+Argentina	SharesBorderWith	Bolivia
+Argentina	SharesBorderWith	Brazil
+Argentina	SharesBorderWith	Chile
+Argentina	SharesBorderWith	Paraguay
+Argentina	SharesBorderWith	Uruguay
+Armenia	SharesBorderWith	Azerbaijan
+Armenia	SharesBorderWith	Georgia
+Armenia	SharesBorderWith	Iran
+Armenia	SharesBorderWith	Turkey
+Australia	SharesBorderWith	East Timor
+Australia	SharesBorderWith	Indonesia
+Australia	SharesBorderWith	New Zealand
+Australia	SharesBorderWith	Papua New Guinea
+Austria	SharesBorderWith	Czech Republic
+Austria	SharesBorderWith	Germany
+Austria	SharesBorderWith	Hungary
+Austria	SharesBorderWith	Italy
+Austria	SharesBorderWith	Liechtenstein
+Austria	SharesBorderWith	Slovakia
+Austria	SharesBorderWith	Slovenia
+Austria	SharesBorderWith	Switzerland
+Azerbaijan	SharesBorderWith	Armenia
+Azerbaijan	SharesBorderWith	Artsakh
+Azerbaijan	SharesBorderWith	Georgia
+Azerbaijan	SharesBorderWith	Iran
+Azerbaijan	SharesBorderWith	Russia
+Azerbaijan	SharesBorderWith	Turkey
+Bahrain	SharesBorderWith	Saudi Arabia
+Bangladesh	SharesBorderWith	India
+Bangladesh	SharesBorderWith	Myanmar
+Belarus	SharesBorderWith	European Union
+Belarus	SharesBorderWith	Latvia
+Belarus	SharesBorderWith	Lithuania
+Belarus	SharesBorderWith	Poland
+Belarus	SharesBorderWith	Russia
+Belarus	SharesBorderWith	Ukraine
+Belgium	SharesBorderWith	France
+Belgium	SharesBorderWith	Germany
+Belgium	SharesBorderWith	Kingdom of the Netherlands
+Belgium	SharesBorderWith	Luxembourg
+Belgium	SharesBorderWith	Netherlands
+Belize	SharesBorderWith	Guatemala
+Belize	SharesBorderWith	Mexico
+Benin	SharesBorderWith	Burkina Faso
+Benin	SharesBorderWith	Niger
+Benin	SharesBorderWith	Nigeria
+Benin	SharesBorderWith	Togo
+Bhutan	SharesBorderWith	India
+Bhutan	SharesBorderWith	People's Republic of China
+Bolivia	SharesBorderWith	Argentina
+Bolivia	SharesBorderWith	Brazil
+Bolivia	SharesBorderWith	Chile
+Bolivia	SharesBorderWith	Paraguay
+Bolivia	SharesBorderWith	Peru
+Bosnia and Herzegovina	SharesBorderWith	Croatia
+Bosnia and Herzegovina	SharesBorderWith	European Union
+Bosnia and Herzegovina	SharesBorderWith	Montenegro
+Bosnia and Herzegovina	SharesBorderWith	Serbia
+Botswana	SharesBorderWith	Namibia
+Botswana	SharesBorderWith	South Africa
+Botswana	SharesBorderWith	Zambia
+Botswana	SharesBorderWith	Zimbabwe
+Brazil	SharesBorderWith	Argentina
+Brazil	SharesBorderWith	Bolivia
+Brazil	SharesBorderWith	Colombia
+Brazil	SharesBorderWith	European Union
+Brazil	SharesBorderWith	France
+Brazil	SharesBorderWith	French Guiana
+Brazil	SharesBorderWith	Guyana
+Brazil	SharesBorderWith	Paraguay
+Brazil	SharesBorderWith	Peru
+Brazil	SharesBorderWith	Suriname
+Brazil	SharesBorderWith	Uruguay
+Brazil	SharesBorderWith	Venezuela
+Brunei	SharesBorderWith	Malaysia
+Bulgaria	SharesBorderWith	Black Sea
+Bulgaria	SharesBorderWith	Greece
+Bulgaria	SharesBorderWith	North Macedonia
+Bulgaria	SharesBorderWith	Romania
+Bulgaria	SharesBorderWith	Serbia
+Bulgaria	SharesBorderWith	Turkey
+Burkina Faso	SharesBorderWith	Benin
+Burkina Faso	SharesBorderWith	Ghana
+Burkina Faso	SharesBorderWith	Ivory Coast
+Burkina Faso	SharesBorderWith	Mali
+Burkina Faso	SharesBorderWith	Niger
+Burkina Faso	SharesBorderWith	Togo
+Burundi	SharesBorderWith	Democratic Republic of the Congo
+Burundi	SharesBorderWith	Rwanda
+Burundi	SharesBorderWith	Tanzania
+Cambodia	SharesBorderWith	Laos
+Cambodia	SharesBorderWith	Thailand
+Cambodia	SharesBorderWith	Vietnam
+Cameroon	SharesBorderWith	Central African Republic
+Cameroon	SharesBorderWith	Chad
+Cameroon	SharesBorderWith	Equatorial Guinea
+Cameroon	SharesBorderWith	Gabon
+Cameroon	SharesBorderWith	Nigeria
+Cameroon	SharesBorderWith	Republic of the Congo
+Canada	SharesBorderWith	Greenland
+Canada	SharesBorderWith	United States of America
+Central African Republic	SharesBorderWith	Arab League
+Central African Republic	SharesBorderWith	Cameroon
+Central African Republic	SharesBorderWith	Chad
+Central African Republic	SharesBorderWith	Democratic Republic of the Congo
+Central African Republic	SharesBorderWith	Republic of the Congo
+Central African Republic	SharesBorderWith	South Sudan
+Central African Republic	SharesBorderWith	Sudan
+Chad	SharesBorderWith	Arab League
+Chad	SharesBorderWith	Cameroon
+Chad	SharesBorderWith	Central African Republic
+Chad	SharesBorderWith	Libya
+Chad	SharesBorderWith	Niger
+Chad	SharesBorderWith	Nigeria
+Chad	SharesBorderWith	Sudan
+Chile	SharesBorderWith	Argentina
+Chile	SharesBorderWith	Bolivia
+Chile	SharesBorderWith	Peru
+Colombia	SharesBorderWith	Brazil
+Colombia	SharesBorderWith	Ecuador
+Colombia	SharesBorderWith	Nicaragua
+Colombia	SharesBorderWith	Panama
+Colombia	SharesBorderWith	Peru
+Colombia	SharesBorderWith	Venezuela
+Comoros	SharesBorderWith	France
+Comoros	SharesBorderWith	Madagascar
+Comoros	SharesBorderWith	Mozambique
+Comoros	SharesBorderWith	Seychelles
+Comoros	SharesBorderWith	Tanzania
+Costa Rica	SharesBorderWith	Nicaragua
+Costa Rica	SharesBorderWith	Panama
+Croatia	SharesBorderWith	Bosnia and Herzegovina
+Croatia	SharesBorderWith	Hungary
+Croatia	SharesBorderWith	Liberland
+Croatia	SharesBorderWith	Montenegro
+Croatia	SharesBorderWith	Serbia
+Croatia	SharesBorderWith	Slovenia
+Cuba	SharesBorderWith	United States of America
+Czech Republic	SharesBorderWith	Austria
+Czech Republic	SharesBorderWith	Germany
+Czech Republic	SharesBorderWith	Poland
+Czech Republic	SharesBorderWith	Slovakia
+Democratic Republic of the Congo	SharesBorderWith	Angola
+Democratic Republic of the Congo	SharesBorderWith	Burundi
+Democratic Republic of the Congo	SharesBorderWith	Cameroon
+Democratic Republic of the Congo	SharesBorderWith	Central African Republic
+Democratic Republic of the Congo	SharesBorderWith	Republic of the Congo
+Democratic Republic of the Congo	SharesBorderWith	Rwanda
+Democratic Republic of the Congo	SharesBorderWith	South Sudan
+Democratic Republic of the Congo	SharesBorderWith	Sudan
+Democratic Republic of the Congo	SharesBorderWith	Tanzania
+Democratic Republic of the Congo	SharesBorderWith	Uganda
+Democratic Republic of the Congo	SharesBorderWith	Zambia
+Denmark	SharesBorderWith	Germany
+Denmark	SharesBorderWith	Norway
+Denmark	SharesBorderWith	Sweden
+Djibouti	SharesBorderWith	Eritrea
+Djibouti	SharesBorderWith	Ethiopia
+Djibouti	SharesBorderWith	Somalia
+Dominican Republic	SharesBorderWith	Haiti
+Dominican Republic	SharesBorderWith	United States of America
+Dominican Republic	SharesBorderWith	Venezuela
+Dominica	SharesBorderWith	Venezuela
+East Timor	SharesBorderWith	ASEAN
+East Timor	SharesBorderWith	Australia
+East Timor	SharesBorderWith	Indonesia
+Ecuador	SharesBorderWith	Colombia
+Ecuador	SharesBorderWith	Peru
+Egypt	SharesBorderWith	Bir Tawil
+Egypt	SharesBorderWith	Gaza Strip
+Egypt	SharesBorderWith	Israel
+Egypt	SharesBorderWith	Libya
+Egypt	SharesBorderWith	Sudan
+El Salvador	SharesBorderWith	Guatemala
+El Salvador	SharesBorderWith	Honduras
+Equatorial Guinea	SharesBorderWith	Cameroon
+Equatorial Guinea	SharesBorderWith	Gabon
+Eritrea	SharesBorderWith	Arab League
+Eritrea	SharesBorderWith	Djibouti
+Eritrea	SharesBorderWith	Ethiopia
+Eritrea	SharesBorderWith	Sudan
+Estonia	SharesBorderWith	Latvia
+Estonia	SharesBorderWith	Russia
+Eswatini	SharesBorderWith	Mozambique
+Eswatini	SharesBorderWith	South Africa
+Ethiopia	SharesBorderWith	Arab League
+Ethiopia	SharesBorderWith	Djibouti
+Ethiopia	SharesBorderWith	Eritrea
+Ethiopia	SharesBorderWith	Kenya
+Ethiopia	SharesBorderWith	Somalia
+Ethiopia	SharesBorderWith	South Sudan
+Ethiopia	SharesBorderWith	Sudan
+Federated States of Micronesia	SharesBorderWith	United States of America
+Finland	SharesBorderWith	Norway
+Finland	SharesBorderWith	Russia
+Finland	SharesBorderWith	Sweden
+France	SharesBorderWith	Andorra
+France	SharesBorderWith	Belgium
+France	SharesBorderWith	Brazil
+France	SharesBorderWith	Germany
+France	SharesBorderWith	Italy
+France	SharesBorderWith	Kingdom of the Netherlands
+France	SharesBorderWith	Luxembourg
+France	SharesBorderWith	Monaco
+France	SharesBorderWith	Spain
+France	SharesBorderWith	Suriname
+France	SharesBorderWith	Switzerland
+Gabon	SharesBorderWith	Cameroon
+Gabon	SharesBorderWith	Equatorial Guinea
+Gabon	SharesBorderWith	Republic of the Congo
+Georgia	SharesBorderWith	Armenia
+Georgia	SharesBorderWith	Azerbaijan
+Georgia	SharesBorderWith	Russia
+Georgia	SharesBorderWith	Turkey
+Germany	SharesBorderWith	Austria
+Germany	SharesBorderWith	Belgium
+Germany	SharesBorderWith	Czech Republic
+Germany	SharesBorderWith	Denmark
+Germany	SharesBorderWith	France
+Germany	SharesBorderWith	Luxembourg
+Germany	SharesBorderWith	Netherlands
+Germany	SharesBorderWith	Poland
+Germany	SharesBorderWith	Switzerland
+Ghana	SharesBorderWith	Burkina Faso
+Ghana	SharesBorderWith	Ivory Coast
+Ghana	SharesBorderWith	Togo
+Greece	SharesBorderWith	Albania
+Greece	SharesBorderWith	Bulgaria
+Greece	SharesBorderWith	North Macedonia
+Greece	SharesBorderWith	Turkey
+Grenada	SharesBorderWith	Venezuela
+Guatemala	SharesBorderWith	Belize
+Guatemala	SharesBorderWith	El Salvador
+Guatemala	SharesBorderWith	Honduras
+Guatemala	SharesBorderWith	Mexico
+Guinea-Bissau	SharesBorderWith	Guinea
+Guinea-Bissau	SharesBorderWith	Senegal
+Guinea	SharesBorderWith	Guinea-Bissau
+Guinea	SharesBorderWith	Ivory Coast
+Guinea	SharesBorderWith	Liberia
+Guinea	SharesBorderWith	Mali
+Guinea	SharesBorderWith	Senegal
+Guinea	SharesBorderWith	Sierra Leone
+Guyana	SharesBorderWith	Brazil
+Guyana	SharesBorderWith	Suriname
+Guyana	SharesBorderWith	Venezuela
+Haiti	SharesBorderWith	Dominican Republic
+Haiti	SharesBorderWith	United States of America
+Honduras	SharesBorderWith	El Salvador
+Honduras	SharesBorderWith	Guatemala
+Honduras	SharesBorderWith	Nicaragua
+Hungary	SharesBorderWith	Austria
+Hungary	SharesBorderWith	Croatia
+Hungary	SharesBorderWith	Romania
+Hungary	SharesBorderWith	Serbia
+Hungary	SharesBorderWith	Slovakia
+Hungary	SharesBorderWith	Slovenia
+Hungary	SharesBorderWith	Ukraine
+Iceland	SharesBorderWith	Faroe Islands
+Iceland	SharesBorderWith	Greenland
+Iceland	SharesBorderWith	Svalbard
+India	SharesBorderWith	Bangladesh
+India	SharesBorderWith	Bhutan
+India	SharesBorderWith	Myanmar
+India	SharesBorderWith	Nepal
+India	SharesBorderWith	Pakistan
+India	SharesBorderWith	People's Republic of China
+Indonesia	SharesBorderWith	Australia
+Indonesia	SharesBorderWith	East Timor
+Indonesia	SharesBorderWith	India
+Indonesia	SharesBorderWith	Malaysia
+Indonesia	SharesBorderWith	Palau
+Indonesia	SharesBorderWith	Papua New Guinea
+Indonesia	SharesBorderWith	Philippines
+Indonesia	SharesBorderWith	Singapore
+Indonesia	SharesBorderWith	Thailand
+Indonesia	SharesBorderWith	Vietnam
+Iran	SharesBorderWith	Afghanistan
+Iran	SharesBorderWith	Arab League
+Iran	SharesBorderWith	Armenia
+Iran	SharesBorderWith	Artsakh
+Iran	SharesBorderWith	Azerbaijan
+Iran	SharesBorderWith	Iraq
+Iran	SharesBorderWith	Nakhchivan Autonomous Republic
+Iran	SharesBorderWith	Pakistan
+Iran	SharesBorderWith	Soviet Union
+Iran	SharesBorderWith	Turkey
+Iran	SharesBorderWith	Turkmenistan
+Iraq	SharesBorderWith	Iran
+Iraq	SharesBorderWith	Jordan
+Iraq	SharesBorderWith	Kuwait
+Iraq	SharesBorderWith	Saudi Arabia
+Iraq	SharesBorderWith	Syria
+Iraq	SharesBorderWith	Turkey
+Ireland	SharesBorderWith	Northern Ireland
+Ireland	SharesBorderWith	United Kingdom
+Israel	SharesBorderWith	Egypt
+Israel	SharesBorderWith	Jordan
+Israel	SharesBorderWith	Lebanon
+Israel	SharesBorderWith	Syria
+Italy	SharesBorderWith	Austria
+Italy	SharesBorderWith	France
+Italy	SharesBorderWith	Malta
+Italy	SharesBorderWith	San Marino
+Italy	SharesBorderWith	Slovenia
+Italy	SharesBorderWith	Switzerland
+Italy	SharesBorderWith	Vatican City
+Ivory Coast	SharesBorderWith	Burkina Faso
+Ivory Coast	SharesBorderWith	Ghana
+Ivory Coast	SharesBorderWith	Guinea
+Ivory Coast	SharesBorderWith	Liberia
+Ivory Coast	SharesBorderWith	Mali
+Japan	SharesBorderWith	People's Republic of China
+Japan	SharesBorderWith	Russia
+Japan	SharesBorderWith	South Korea
+Japan	SharesBorderWith	Soviet Union
+Japan	SharesBorderWith	Taiwan
+Japan	SharesBorderWith	United States of America
+Jordan	SharesBorderWith	Iraq
+Jordan	SharesBorderWith	Israel
+Jordan	SharesBorderWith	Saudi Arabia
+Jordan	SharesBorderWith	Syria
+Kazakhstan	SharesBorderWith	Kyrgyzstan
+Kazakhstan	SharesBorderWith	People's Republic of China
+Kazakhstan	SharesBorderWith	Russia
+Kazakhstan	SharesBorderWith	Turkmenistan
+Kazakhstan	SharesBorderWith	Uzbekistan
+Kenya	SharesBorderWith	Arab League
+Kenya	SharesBorderWith	Ethiopia
+Kenya	SharesBorderWith	Lake Victoria
+Kenya	SharesBorderWith	Somalia
+Kenya	SharesBorderWith	South Sudan
+Kenya	SharesBorderWith	Sudan
+Kenya	SharesBorderWith	Tanzania
+Kenya	SharesBorderWith	Uganda
+Kingdom of Denmark	SharesBorderWith	Germany
+Kingdom of the Netherlands	SharesBorderWith	Belgium
+Kingdom of the Netherlands	SharesBorderWith	France
+Kingdom of the Netherlands	SharesBorderWith	Germany
+Kingdom of the Netherlands	SharesBorderWith	Venezuela
+Kiribati	SharesBorderWith	United States of America
+Kuwait	SharesBorderWith	Iraq
+Kuwait	SharesBorderWith	Saudi Arabia
+Kuwait	SharesBorderWith	Saudi–Kuwaiti Neutral Zone
+Kyrgyzstan	SharesBorderWith	Kazakhstan
+Kyrgyzstan	SharesBorderWith	People's Republic of China
+Kyrgyzstan	SharesBorderWith	Tajikistan
+Kyrgyzstan	SharesBorderWith	Uzbekistan
+Laos	SharesBorderWith	Cambodia
+Laos	SharesBorderWith	Myanmar
+Laos	SharesBorderWith	People's Republic of China
+Laos	SharesBorderWith	Thailand
+Laos	SharesBorderWith	Vietnam
+Latvia	SharesBorderWith	Belarus
+Latvia	SharesBorderWith	Estonia
+Latvia	SharesBorderWith	Lithuania
+Latvia	SharesBorderWith	Russia
+Latvia	SharesBorderWith	Sweden
+Lebanon	SharesBorderWith	Israel
+Lebanon	SharesBorderWith	Syria
+Lesotho	SharesBorderWith	South Africa
+Liberia	SharesBorderWith	Guinea
+Liberia	SharesBorderWith	Ivory Coast
+Liberia	SharesBorderWith	Sierra Leone
+Libya	SharesBorderWith	Algeria
+Libya	SharesBorderWith	Chad
+Libya	SharesBorderWith	Egypt
+Libya	SharesBorderWith	Niger
+Libya	SharesBorderWith	Sudan
+Libya	SharesBorderWith	Tunisia
+Liechtenstein	SharesBorderWith	Austria
+Liechtenstein	SharesBorderWith	European Union
+Liechtenstein	SharesBorderWith	Switzerland
+Lithuania	SharesBorderWith	Belarus
+Lithuania	SharesBorderWith	Latvia
+Lithuania	SharesBorderWith	Poland
+Lithuania	SharesBorderWith	Russia
+Luxembourg	SharesBorderWith	Belgium
+Luxembourg	SharesBorderWith	France
+Luxembourg	SharesBorderWith	Germany
+Madagascar	SharesBorderWith	Comoros
+Malawi	SharesBorderWith	Mozambique
+Malawi	SharesBorderWith	Tanzania
+Malawi	SharesBorderWith	Zambia
+Malaysia	SharesBorderWith	Brunei
+Malaysia	SharesBorderWith	Indonesia
+Malaysia	SharesBorderWith	Philippines
+Malaysia	SharesBorderWith	Singapore
+Malaysia	SharesBorderWith	Thailand
+Mali	SharesBorderWith	Algeria
+Mali	SharesBorderWith	Burkina Faso
+Mali	SharesBorderWith	Guinea
+Mali	SharesBorderWith	Ivory Coast
+Mali	SharesBorderWith	Mauritania
+Mali	SharesBorderWith	Niger
+Mali	SharesBorderWith	Senegal
+Malta	SharesBorderWith	Italy
+Marshall Islands	SharesBorderWith	Federated States of Micronesia
+Marshall Islands	SharesBorderWith	Kiribati
+Marshall Islands	SharesBorderWith	Nauru
+Marshall Islands	SharesBorderWith	United States of America
+Mauritania	SharesBorderWith	Algeria
+Mauritania	SharesBorderWith	Mali
+Mauritania	SharesBorderWith	Senegal
+Mauritania	SharesBorderWith	Western Sahara
+Mexico	SharesBorderWith	Belize
+Mexico	SharesBorderWith	Guatemala
+Mexico	SharesBorderWith	United States of America
+Moldova	SharesBorderWith	European Union
+Moldova	SharesBorderWith	Pridnestrovie
+Moldova	SharesBorderWith	Romania
+Moldova	SharesBorderWith	Ukraine
+Monaco	SharesBorderWith	European Union
+Monaco	SharesBorderWith	France
+Mongolia	SharesBorderWith	Chita Oblast
+Mongolia	SharesBorderWith	People's Republic of China
+Mongolia	SharesBorderWith	Russia
+Montenegro	SharesBorderWith	Albania
+Montenegro	SharesBorderWith	Bosnia and Herzegovina
+Montenegro	SharesBorderWith	Croatia
+Montenegro	SharesBorderWith	European Union
+Montenegro	SharesBorderWith	Kosovo
+Montenegro	SharesBorderWith	Serbia
+Morocco	SharesBorderWith	Algeria
+Morocco	SharesBorderWith	European Union
+Morocco	SharesBorderWith	Mauritania
+Morocco	SharesBorderWith	Spain
+Mozambique	SharesBorderWith	Comoros
+Mozambique	SharesBorderWith	Eswatini
+Mozambique	SharesBorderWith	Malawi
+Mozambique	SharesBorderWith	South Africa
+Mozambique	SharesBorderWith	Tanzania
+Mozambique	SharesBorderWith	Zambia
+Mozambique	SharesBorderWith	Zimbabwe
+Myanmar	SharesBorderWith	Bangladesh
+Myanmar	SharesBorderWith	India
+Myanmar	SharesBorderWith	Laos
+Myanmar	SharesBorderWith	People's Republic of China
+Myanmar	SharesBorderWith	Thailand
+Namibia	SharesBorderWith	Angola
+Namibia	SharesBorderWith	Botswana
+Namibia	SharesBorderWith	South Africa
+Namibia	SharesBorderWith	Zambia
+Nepal	SharesBorderWith	India
+Nepal	SharesBorderWith	People's Republic of China
+New Zealand	SharesBorderWith	Australia
+Nicaragua	SharesBorderWith	Colombia
+Nicaragua	SharesBorderWith	Costa Rica
+Nicaragua	SharesBorderWith	Honduras
+Nigeria	SharesBorderWith	Benin
+Nigeria	SharesBorderWith	Cameroon
+Nigeria	SharesBorderWith	Chad
+Nigeria	SharesBorderWith	Niger
+Niger	SharesBorderWith	Algeria
+Niger	SharesBorderWith	Arab League
+Niger	SharesBorderWith	Benin
+Niger	SharesBorderWith	Burkina Faso
+Niger	SharesBorderWith	Chad
+Niger	SharesBorderWith	Libya
+Niger	SharesBorderWith	Mali
+Niger	SharesBorderWith	Nigeria
+North Korea	SharesBorderWith	People's Republic of China
+North Korea	SharesBorderWith	Russia
+North Korea	SharesBorderWith	South Korea
+North Korea	SharesBorderWith	Soviet Union
+North Macedonia	SharesBorderWith	Albania
+North Macedonia	SharesBorderWith	Bulgaria
+North Macedonia	SharesBorderWith	European Union
+North Macedonia	SharesBorderWith	Greece
+North Macedonia	SharesBorderWith	Kosovo
+North Macedonia	SharesBorderWith	Serbia
+Norway	SharesBorderWith	European Union
+Norway	SharesBorderWith	Finland
+Norway	SharesBorderWith	Russia
+Norway	SharesBorderWith	Sweden
+Oman	SharesBorderWith	Saudi Arabia
+Oman	SharesBorderWith	United Arab Emirates
+Oman	SharesBorderWith	Yemen
+Pakistan	SharesBorderWith	Afghanistan
+Pakistan	SharesBorderWith	India
+Pakistan	SharesBorderWith	Iran
+Pakistan	SharesBorderWith	People's Republic of China
+Palau	SharesBorderWith	Federated States of Micronesia
+Palau	SharesBorderWith	Indonesia
+Palau	SharesBorderWith	Philippines
+Panama	SharesBorderWith	Colombia
+Panama	SharesBorderWith	Costa Rica
+Panama	SharesBorderWith	United States of America
+Papua New Guinea	SharesBorderWith	Australia
+Papua New Guinea	SharesBorderWith	Indonesia
+Paraguay	SharesBorderWith	Argentina
+Paraguay	SharesBorderWith	Bolivia
+Paraguay	SharesBorderWith	Brazil
+People's Republic of China	SharesBorderWith	Afghanistan
+People's Republic of China	SharesBorderWith	Bhutan
+People's Republic of China	SharesBorderWith	India
+People's Republic of China	SharesBorderWith	Japan
+People's Republic of China	SharesBorderWith	Kazakhstan
+People's Republic of China	SharesBorderWith	Kyrgyzstan
+People's Republic of China	SharesBorderWith	Laos
+People's Republic of China	SharesBorderWith	Mongolia
+People's Republic of China	SharesBorderWith	Myanmar
+People's Republic of China	SharesBorderWith	Nepal
+People's Republic of China	SharesBorderWith	North Korea
+People's Republic of China	SharesBorderWith	Pakistan
+People's Republic of China	SharesBorderWith	Russia
+People's Republic of China	SharesBorderWith	South Korea
+People's Republic of China	SharesBorderWith	Tajikistan
+People's Republic of China	SharesBorderWith	Vietnam
+Peru	SharesBorderWith	Bolivia
+Peru	SharesBorderWith	Brazil
+Peru	SharesBorderWith	Chile
+Peru	SharesBorderWith	Colombia
+Peru	SharesBorderWith	Ecuador
+Peru	SharesBorderWith	Gran Colombia
+Philippines	SharesBorderWith	Indonesia
+Philippines	SharesBorderWith	Malaysia
+Philippines	SharesBorderWith	Palau
+Philippines	SharesBorderWith	Taiwan
+Poland	SharesBorderWith	Belarus
+Poland	SharesBorderWith	Czech Republic
+Poland	SharesBorderWith	Germany
+Poland	SharesBorderWith	Lithuania
+Poland	SharesBorderWith	Russia
+Poland	SharesBorderWith	Slovakia
+Poland	SharesBorderWith	Ukraine
+Portugal	SharesBorderWith	Castile and León
+Portugal	SharesBorderWith	Spain
+Qatar	SharesBorderWith	Saudi Arabia
+Republic of Cyprus	SharesBorderWith	Akrotiri and Dhekelia
+Republic of Cyprus	SharesBorderWith	Israel
+Republic of Cyprus	SharesBorderWith	Turkish Republic of Northern Cyprus
+Republic of the Congo	SharesBorderWith	Angola
+Republic of the Congo	SharesBorderWith	Cameroon
+Republic of the Congo	SharesBorderWith	Central African Republic
+Republic of the Congo	SharesBorderWith	Democratic Republic of the Congo
+Republic of the Congo	SharesBorderWith	Gabon
+Romania	SharesBorderWith	Bulgaria
+Romania	SharesBorderWith	Hungary
+Romania	SharesBorderWith	Moldova
+Romania	SharesBorderWith	Serbia
+Romania	SharesBorderWith	Ukraine
+Russia	SharesBorderWith	Azerbaijan
+Russia	SharesBorderWith	Belarus
+Russia	SharesBorderWith	Donetsk People's Republic
+Russia	SharesBorderWith	Estonia
+Russia	SharesBorderWith	European Union
+Russia	SharesBorderWith	Finland
+Russia	SharesBorderWith	Georgia
+Russia	SharesBorderWith	Japan
+Russia	SharesBorderWith	Kazakhstan
+Russia	SharesBorderWith	Latvia
+Russia	SharesBorderWith	Lithuania
+Russia	SharesBorderWith	Luhansk People's Republic
+Russia	SharesBorderWith	Mongolia
+Russia	SharesBorderWith	North Korea
+Russia	SharesBorderWith	Norway
+Russia	SharesBorderWith	People's Republic of China
+Russia	SharesBorderWith	Poland
+Russia	SharesBorderWith	Republic of Abkhazia
+Russia	SharesBorderWith	South Ossetia
+Russia	SharesBorderWith	Ukraine
+Russia	SharesBorderWith	United States of America
+Rwanda	SharesBorderWith	Burundi
+Rwanda	SharesBorderWith	Democratic Republic of the Congo
+Rwanda	SharesBorderWith	Tanzania
+Rwanda	SharesBorderWith	Uganda
+Saint Kitts and Nevis	SharesBorderWith	Venezuela
+Saint Lucia	SharesBorderWith	Venezuela
+Saint Vincent and the Grenadines	SharesBorderWith	Venezuela
+Samoa	SharesBorderWith	United States of America
+San Marino	SharesBorderWith	European Union
+San Marino	SharesBorderWith	Italy
+Saudi Arabia	SharesBorderWith	Bahrain
+Saudi Arabia	SharesBorderWith	Egypt
+Saudi Arabia	SharesBorderWith	Iraq
+Saudi Arabia	SharesBorderWith	Jordan
+Saudi Arabia	SharesBorderWith	Kuwait
+Saudi Arabia	SharesBorderWith	Oman
+Saudi Arabia	SharesBorderWith	Qatar
+Saudi Arabia	SharesBorderWith	United Arab Emirates
+Saudi Arabia	SharesBorderWith	Yemen
+Senegal	SharesBorderWith	Arab League
+Senegal	SharesBorderWith	Guinea
+Senegal	SharesBorderWith	Guinea-Bissau
+Senegal	SharesBorderWith	Mali
+Senegal	SharesBorderWith	Mauritania
+Senegal	SharesBorderWith	The Gambia
+Serbia	SharesBorderWith	Albania
+Serbia	SharesBorderWith	Bosnia and Herzegovina
+Serbia	SharesBorderWith	Bulgaria
+Serbia	SharesBorderWith	Croatia
+Serbia	SharesBorderWith	European Union
+Serbia	SharesBorderWith	Hungary
+Serbia	SharesBorderWith	Kosovo
+Serbia	SharesBorderWith	Montenegro
+Serbia	SharesBorderWith	North Macedonia
+Serbia	SharesBorderWith	Romania
+Sierra Leone	SharesBorderWith	Guinea
+Sierra Leone	SharesBorderWith	Liberia
+Singapore	SharesBorderWith	Indonesia
+Singapore	SharesBorderWith	Malaysia
+Slovakia	SharesBorderWith	Austria
+Slovakia	SharesBorderWith	Czech Republic
+Slovakia	SharesBorderWith	Hungary
+Slovakia	SharesBorderWith	Poland
+Slovakia	SharesBorderWith	Ukraine
+Slovenia	SharesBorderWith	Austria
+Slovenia	SharesBorderWith	Croatia
+Slovenia	SharesBorderWith	Hungary
+Slovenia	SharesBorderWith	Italy
+Solomon Islands	SharesBorderWith	Australia
+Solomon Islands	SharesBorderWith	Fiji
+Solomon Islands	SharesBorderWith	France
+Solomon Islands	SharesBorderWith	Papua New Guinea
+Solomon Islands	SharesBorderWith	Vanuatu
+Somalia	SharesBorderWith	Djibouti
+Somalia	SharesBorderWith	Ethiopia
+Somalia	SharesBorderWith	Kenya
+South Africa	SharesBorderWith	Botswana
+South Africa	SharesBorderWith	Eswatini
+South Africa	SharesBorderWith	Lesotho
+South Africa	SharesBorderWith	Mozambique
+South Africa	SharesBorderWith	Namibia
+South Africa	SharesBorderWith	Zimbabwe
+South Korea	SharesBorderWith	Japan
+South Korea	SharesBorderWith	North Korea
+South Korea	SharesBorderWith	People's Republic of China
+South Sudan	SharesBorderWith	Arab League
+South Sudan	SharesBorderWith	Central African Republic
+South Sudan	SharesBorderWith	Democratic Republic of the Congo
+South Sudan	SharesBorderWith	Ethiopia
+South Sudan	SharesBorderWith	Kenya
+South Sudan	SharesBorderWith	Sudan
+South Sudan	SharesBorderWith	Uganda
+Spain	SharesBorderWith	Andorra
+Spain	SharesBorderWith	Arab League
+Spain	SharesBorderWith	France
+Spain	SharesBorderWith	Gibraltar
+Spain	SharesBorderWith	Morocco
+Spain	SharesBorderWith	Portugal
+Sudan	SharesBorderWith	Bir Tawil
+Sudan	SharesBorderWith	Central African Republic
+Sudan	SharesBorderWith	Chad
+Sudan	SharesBorderWith	Democratic Republic of the Congo
+Sudan	SharesBorderWith	Egypt
+Sudan	SharesBorderWith	Eritrea
+Sudan	SharesBorderWith	Ethiopia
+Sudan	SharesBorderWith	Kenya
+Sudan	SharesBorderWith	Libya
+Sudan	SharesBorderWith	South Sudan
+Sudan	SharesBorderWith	Uganda
+Suriname	SharesBorderWith	Brazil
+Suriname	SharesBorderWith	European Union
+Suriname	SharesBorderWith	France
+Suriname	SharesBorderWith	French Guiana
+Suriname	SharesBorderWith	Guyana
+Sweden	SharesBorderWith	Denmark
+Sweden	SharesBorderWith	Finland
+Sweden	SharesBorderWith	Norway
+Switzerland	SharesBorderWith	Austria
+Switzerland	SharesBorderWith	European Union
+Switzerland	SharesBorderWith	France
+Switzerland	SharesBorderWith	Germany
+Switzerland	SharesBorderWith	Italy
+Switzerland	SharesBorderWith	Liechtenstein
+Syria	SharesBorderWith	Iraq
+Syria	SharesBorderWith	Israel
+Syria	SharesBorderWith	Jordan
+Syria	SharesBorderWith	Lebanon
+Syria	SharesBorderWith	Turkey
+Tajikistan	SharesBorderWith	Afghanistan
+Tajikistan	SharesBorderWith	Kyrgyzstan
+Tajikistan	SharesBorderWith	People's Republic of China
+Tajikistan	SharesBorderWith	Uzbekistan
+Tanzania	SharesBorderWith	Burundi
+Tanzania	SharesBorderWith	Democratic Republic of the Congo
+Tanzania	SharesBorderWith	Kenya
+Tanzania	SharesBorderWith	Lake Victoria
+Tanzania	SharesBorderWith	Malawi
+Tanzania	SharesBorderWith	Mozambique
+Tanzania	SharesBorderWith	Rwanda
+Tanzania	SharesBorderWith	Uganda
+Tanzania	SharesBorderWith	Zambia
+Thailand	SharesBorderWith	Cambodia
+Thailand	SharesBorderWith	Khmer Republic
+Thailand	SharesBorderWith	Laos
+Thailand	SharesBorderWith	Malaysia
+Thailand	SharesBorderWith	Myanmar
+The Bahamas	SharesBorderWith	United States of America
+The Gambia	SharesBorderWith	Senegal
+Togo	SharesBorderWith	Benin
+Togo	SharesBorderWith	Burkina Faso
+Togo	SharesBorderWith	Ghana
+Tonga	SharesBorderWith	United States of America
+Trinidad and Tobago	SharesBorderWith	Venezuela
+Tunisia	SharesBorderWith	Algeria
+Tunisia	SharesBorderWith	Libya
+Turkey	SharesBorderWith	Arab League
+Turkey	SharesBorderWith	Armenia
+Turkey	SharesBorderWith	Azerbaijan
+Turkey	SharesBorderWith	Bulgaria
+Turkey	SharesBorderWith	European Union
+Turkey	SharesBorderWith	Georgia
+Turkey	SharesBorderWith	Greece
+Turkey	SharesBorderWith	Iran
+Turkey	SharesBorderWith	Iraq
+Turkey	SharesBorderWith	Syria
+Turkmenistan	SharesBorderWith	Afghanistan
+Turkmenistan	SharesBorderWith	Iran
+Turkmenistan	SharesBorderWith	Kazakhstan
+Turkmenistan	SharesBorderWith	Uzbekistan
+Uganda	SharesBorderWith	Democratic Republic of the Congo
+Uganda	SharesBorderWith	Kenya
+Uganda	SharesBorderWith	Lake Victoria
+Uganda	SharesBorderWith	Rwanda
+Uganda	SharesBorderWith	South Sudan
+Uganda	SharesBorderWith	Sudan
+Uganda	SharesBorderWith	Tanzania
+Ukraine	SharesBorderWith	Belarus
+Ukraine	SharesBorderWith	European Union
+Ukraine	SharesBorderWith	Hungary
+Ukraine	SharesBorderWith	Moldova
+Ukraine	SharesBorderWith	Poland
+Ukraine	SharesBorderWith	Romania
+Ukraine	SharesBorderWith	Russia
+Ukraine	SharesBorderWith	Slovakia
+United Arab Emirates	SharesBorderWith	Oman
+United Arab Emirates	SharesBorderWith	Saudi Arabia
+United Kingdom	SharesBorderWith	Ireland
+United States of America	SharesBorderWith	Canada
+United States of America	SharesBorderWith	Mexico
+Uruguay	SharesBorderWith	Argentina
+Uruguay	SharesBorderWith	Brazil
+Uzbekistan	SharesBorderWith	Afghanistan
+Uzbekistan	SharesBorderWith	Kazakhstan
+Uzbekistan	SharesBorderWith	Kyrgyzstan
+Uzbekistan	SharesBorderWith	Tajikistan
+Uzbekistan	SharesBorderWith	Turkmenistan
+Vatican City	SharesBorderWith	European Union
+Vatican City	SharesBorderWith	Italy
+Venezuela	SharesBorderWith	Brazil
+Venezuela	SharesBorderWith	Colombia
+Venezuela	SharesBorderWith	Dominica
+Venezuela	SharesBorderWith	Dominican Republic
+Venezuela	SharesBorderWith	France
+Venezuela	SharesBorderWith	Grenada
+Venezuela	SharesBorderWith	Guyana
+Venezuela	SharesBorderWith	Kingdom of the Netherlands
+Venezuela	SharesBorderWith	Saint Kitts and Nevis
+Venezuela	SharesBorderWith	Saint Lucia
+Venezuela	SharesBorderWith	Saint Vincent and the Grenadines
+Venezuela	SharesBorderWith	Trinidad and Tobago
+Venezuela	SharesBorderWith	United Kingdom
+Venezuela	SharesBorderWith	United States of America
+Vietnam	SharesBorderWith	Cambodia
+Vietnam	SharesBorderWith	Laos
+Vietnam	SharesBorderWith	People's Republic of China
+Yemen	SharesBorderWith	Oman
+Yemen	SharesBorderWith	Saudi Arabia
+Zambia	SharesBorderWith	Angola
+Zambia	SharesBorderWith	Botswana
+Zambia	SharesBorderWith	Democratic Republic of the Congo
+Zambia	SharesBorderWith	Malawi
+Zambia	SharesBorderWith	Mozambique
+Zambia	SharesBorderWith	Namibia
+Zambia	SharesBorderWith	Tanzania
+Zambia	SharesBorderWith	Zimbabwe
+Zimbabwe	SharesBorderWith	Botswana
+Zimbabwe	SharesBorderWith	Mozambique
+Zimbabwe	SharesBorderWith	South Africa
+Zimbabwe	SharesBorderWith	Zambia

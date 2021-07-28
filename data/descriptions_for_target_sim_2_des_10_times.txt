@@ -1,0 +1,1820 @@
+afghanistan	in southern part of Asia	right of Turkmenistan
+albania	left of Greece	below Macedonia
+algeria	its next to Morocco	located in next to ocean
+andorra	in Europe	its next to Spain
+angola	in central part of Africa	located in next to ocean
+argentina	in South America	is south of Paraguay
+armenia	located next to Georgia	in Europe
+australia	located next to Indonesia	in next to ocean
+austria	below Germany	is west of Czechia
+azerbaijan	located next to Georgia	in Europe
+bahrain	located in Middle east	its next to Saudi Arabia
+bangladesh	is east of India	in next to ocean
+belarus	in eastern part of Europe	in Europe
+belgium	is south of Netherlands	in western part of Europe
+belize	located in Central America	in North America
+benin	is east of Burkina Faso	is south of Niger
+bhutan	in southern part of Asia	in Asia
+bolivia	in landlocked	right of Peru
+bosnia and herzegovina	located in next to ocean	in Europe
+botswana	right of Namibia	is west of Zimbabwe
+brazil	located in next to ocean	in South America
+brunei	is north of Malaysia	in south eastern part of Asia
+bulgaria	in next to ocean	in south eastern part of Europe
+burkina faso	above Togo	is west of Benin
+burundi	its next to Tanzania	in eastern part of Africa
+cambodia	located in next to ocean	right of Thailand
+cameroon	its next to Chad	above Central African Republic
+canada	in next to ocean	is north of United States
+central african republic	located next to Democratic Republic of the Congo	in Africa
+chad	left of Central African Republic	its next to Nigeria
+chile	located in next to ocean	is south of Bolivia
+colombia	in South America	below Venezuela
+comoros	in eastern part of Africa	in southern part of Africa
+costa rica	is west of Panama	is south of Nicaragua
+croatia	in Europe	in Balkans
+cuba	in North America	located next to United States of America
+czech republic	in western part of Europe	in central part of Europe
+democratic republic of the congo	is east of Central African Republic	in central part of Africa
+denmark	in northern part of Europe	in Europe
+djibouti	is east of Eritrea	is north of Ethiopia
+dominican republic	located next to Venezuela	is south of Haiti
+dominica	in North America	located in next to ocean
+east timor	in Asia	its next to Australia
+ecuador	its next to Colombia	is west of Peru
+egypt	right of Sudan	located next to Israel
+el salvador	right of Guatemala	is west of Honduras
+equatorial guinea	in next to ocean	is north of Gabon
+eritrea	located in next to ocean	is north of Ethiopia
+estonia	located next to Latvia	is west of Russia
+eswatini	in southern part of Africa	in Africa
+ethiopia	is north of Somalia	right of Kenya
+federated states of micronesia	its next to United States of America	in Oceania
+finland	left of Russia	located next to Norway
+france	in next to ocean	in Europe
+gabon	below Republic of the Congo	in central part of Africa
+georgia	is north of Turkey	in Asia
+germany	in Europe	in western part of Europe
+ghana	in next to ocean	is south of Burkina Faso
+greece	left of Bulgaria	in south eastern part of Europe
+grenada	in North America	in next to ocean
+guatemala	is west of Belize	right of Mexico
+guinea-bissau	in Africa	located in next to ocean
+guinea	is west of Liberia	in next to ocean
+guyana	is east of Venezuela	is west of Suriname
+haiti	located next to United States of America	left of Dominican Republic
+honduras	is north of Nicaragua	its next to Guatemala
+hungary	in central part of Europe	its next to Serbia
+iceland	located next to Faroe Islands	in Europe
+india	left of Bhutan	its next to People's Republic of China
+indonesia	left of Papua New Guinea	above Timor Leste
+iran	in next to ocean	located next to Nakhchivan Autonomous Republic
+iraq	is west of Iran	is east of Turkey
+ireland	in western part of Europe	is west of United Kingdom
+israel	is north of Egypt	its next to Jordan
+italy	located in Southern Europe	its next to Switzerland
+ivory coast	in Africa	located next to Liberia
+japan	in north eastern part of Asia	in Asia
+jordan	in Asia	located next to Israel
+kazakhstan	left of China	in central part of Asia
+kenya	right of Uganda	located in next to ocean
+kingdom of denmark	located next to Germany	in Europe
+kingdom of the netherlands	located next to Germany	in next to ocean
+kiribati	located in next to ocean	in Oceania
+kuwait	right of Saudi Arabia	located in Middle east
+kyrgyzstan	is east of Tajikistan	in Asia
+laos	in Asia	right of Thailand
+latvia	in Baltic States	in Europe
+lebanon	right of Israel	below Syria
+lesotho	in southern part of Africa	its next to South Africa
+liberia	left of Ivory Coast	in Africa
+libya	above Niger	in northern part of Africa
+liechtenstein	above Switzerland	its next to European Union
+lithuania	is east of Poland	below Russia
+luxembourg	located in landlocked	is west of Germany
+madagascar	located next to Comoros	in southern part of Africa
+malawi	below Tanzania	in Africa
+malaysia	located in next to ocean	is west of Brunei
+mali	in western part of Africa	in Africa
+malta	in Europe	in Europe
+marshall islands	in Oceania	its next to United States of America
+mauritania	located in next to ocean	in Africa
+mexico	is north of Guatemala	located next to Belize
+moldova	in eastern part of Europe	located in landlocked
+monaco	in next to ocean	in western part of Europe
+mongolia	in landlocked	is north of China
+montenegro	located next to Bosnia and Herzegovina	is south of Serbia
+morocco	in northern part of Africa	is south of Spain
+mozambique	in southern part of Africa	right of Swaziland
+myanmar	located next to People's Republic of China	is north of Laos
+namibia	is north of South Africa	located in next to ocean
+nepal	in southern part of Asia	in landlocked
+new zealand	located in next to ocean	its next to Australia
+nicaragua	in North America	located in Central America
+nigeria	is east of Niger	in next to ocean
+niger	is west of Nigeria	above Burkina Faso
+north korea	located next to South Korea	is west of South Korea
+north macedonia	in south eastern part of Europe	located in landlocked
+norway	above Sweden	located next to Russia
+oman	in Asia	is north of Yemen
+pakistan	is west of China	in Asia
+palau	its next to Federated States of Micronesia	located in next to ocean
+panama	left of Colombia	located next to Costa Rica
+papua new guinea	located next to Indonesia	in Oceania
+paraguay	right of Argentina	located next to Bolivia
+people's republic of china	located in next to ocean	located next to North Korea
+peru	right of Ecuador	below Colombia
+philippines	in next to ocean	in Asia
+poland	is north of Germany	right of Czechia
+portugal	in Europe	its next to Spain
+qatar	is north of Saudi Arabia	in Asia
+republic of cyprus	in Cyprus	in Europe
+republic of the congo	located in next to ocean	left of Democratic Republic of the Congo
+romania	left of Bulgaria	its next to Hungary
+russia	in eastern part of Europe	in next to ocean
+rwanda	in Africa	in eastern part of Africa
+saint kitts and nevis	its next to Venezuela	in North America
+saint lucia	located in next to ocean	its next to Venezuela
+saint vincent and the grenadines	located next to Venezuela	located in next to ocean
+samoa	in Oceania	in next to ocean
+san marino	its next to European Union	is north of Italy
+saudi arabia	right of Iraq	left of Kuwait
+senegal	in western part of Africa	in Africa
+serbia	in south eastern part of Europe	right of Bosnia and Herzegovina
+sierra leone	above Liberia	located in next to ocean
+singapore	located in next to ocean	in south eastern part of Asia
+slovakia	above Austria	located in landlocked
+slovenia	in next to ocean	is north of Italy
+solomon islands	its next to Australia	in Oceania
+somalia	below Ethiopia	located in next to ocean
+south africa	in southern part of Africa	is west of Swaziland
+south korea	is south of North Korea	located in next to ocean
+south sudan	in Africa	located in landlocked
+spain	left of France	above Portugal
+sudan	in eastern part of Africa	is east of Libya
+suriname	in South America	is east of Guyana
+sweden	is south of Norway	located next to Denmark
+switzerland	in central part of Europe	in Europe
+syria	located next to Iraq	in Asia
+tajikistan	in landlocked	located next to People's Republic of China
+tanzania	in eastern part of Africa	is south of Rwanda
+thailand	left of Laos	is south of Myanmar
+the bahamas	its next to United States of America	in next to ocean
+the gambia	located in next to ocean	its next to Senegal
+togo	is south of Burkina Faso	in next to ocean
+tonga	located next to United States of America	located in next to ocean
+trinidad and tobago	located in next to ocean	in North America
+tunisia	its next to Libya	left of Libya
+turkey	above Iran	is east of Bulgaria
+turkmenistan	its next to Uzbekistan	is east of Iran
+uganda	in eastern part of Africa	in Africa
+ukraine	its next to European Union	in eastern part of Europe
+united arab emirates	is north of Oman	located in next to ocean
+united kingdom	its next to Ireland	in western part of Europe
+united states of america	in North America	in next to ocean
+uruguay	is north of Argentina	located next to Argentina
+uzbekistan	above Tajikistan	in Asia
+vatican city	located in landlocked	located next to Italy
+venezuela	is north of Guyana	left of Brazil
+vietnam	below China	in south eastern part of Asia
+yemen	in Middle east	is south of Oman
+zambia	is south of Democratic Republic of the Congo	located next to Zimbabwe
+zimbabwe	in eastern part of Africa	is east of South Africa
+afghanistan	left of Tajikistan	is south of China
+albania	left of Serbia	in south eastern part of Europe
+algeria	its next to Tunisia	above Libya
+andorra	is west of France	its next to European Union
+angola	is west of Democratic Republic of the Congo	right of Republic of the Congo
+argentina	in next to ocean	is south of Paraguay
+armenia	above Iran	is south of Azerbaijan
+australia	its next to Papua New Guinea	in Oceania
+austria	located next to Italy	left of Slovakia
+azerbaijan	located next to Russia	is west of Russia
+bahrain	in Asia	its next to Saudi Arabia
+bangladesh	is east of India	above Myanmar
+belarus	located next to Lithuania	in landlocked
+belgium	its next to France	is west of Germany
+belize	is east of Guatemala	in North America
+benin	below Burkina Faso	located in next to ocean
+bhutan	is east of India	located in landlocked
+bolivia	is east of Chile	left of Brazil
+bosnia and herzegovina	is east of Croatia	located next to Serbia
+botswana	located next to Zambia	right of Namibia
+brazil	located in next to ocean	is east of Argentina
+brunei	above Malaysia	located next to Malaysia
+bulgaria	located next to Black Sea	is east of Serbia
+burkina faso	located next to Ivory Coast	below Niger
+burundi	in eastern part of Africa	above Tanzania
+cambodia	is east of Laos	left of Vietnam
+cameroon	is north of Gabon	in central part of Africa
+canada	above United States	in North America
+central african republic	is north of Republic of the Congo	located in landlocked
+chad	is north of Sudan	in central part of Africa
+chile	its next to Bolivia	is west of Argentina
+colombia	right of Ecuador	in South America
+comoros	in Africa	its next to France
+costa rica	located next to Panama	located in Central America
+croatia	in south eastern part of Europe	in Europe
+cuba	in next to ocean	its next to United States of America
+czech republic	in Europe	in central part of Europe
+democratic republic of the congo	located next to Sudan	right of Central African Republic
+denmark	located in next to ocean	is north of Germany
+djibouti	is east of Eritrea	left of Somalia
+dominican republic	in North America	its next to United States of America
+dominica	its next to Venezuela	in next to ocean
+east timor	located in next to ocean	in Asia
+ecuador	in South America	located next to Peru
+egypt	located in Middle east	is north of Sudan
+el salvador	its next to Honduras	right of Guatemala
+equatorial guinea	left of Gabon	is north of Gabon
+eritrea	above Sudan	in eastern part of Africa
+estonia	in eastern part of Europe	is south of Russia
+eswatini	in southern part of Africa	located next to Mozambique
+ethiopia	above Kenya	in eastern part of Africa
+federated states of micronesia	its next to United States of America	in next to ocean
+finland	in northern part of Europe	is west of Russia
+france	in Europe	in western part of Europe
+gabon	in Africa	its next to Cameroon
+georgia	in Asia	located in next to ocean
+germany	in Central Europe	is east of Luxembourg
+ghana	is north of Ivory Coast	in next to ocean
+greece	in south eastern part of Europe	located next to North Macedonia
+grenada	located in next to ocean	in North America
+guatemala	below Belize	above Honduras
+guinea-bissau	is west of Senegal	below Senegal
+guinea	above Liberia	right of Senegal
+guyana	in South America	above Suriname
+haiti	in North America	is north of Dominican Republic
+honduras	is north of Nicaragua	below Guatemala
+hungary	in Europe	in central part of Europe
+iceland	located in next to ocean	its next to Svalbard
+india	right of Pakistan	below Myanmar
+indonesia	is north of Timor Leste	right of Malaysia
+iran	right of Turkey	is west of Pakistan
+iraq	below Turkey	left of Kuwait
+ireland	in Europe	located in next to ocean
+israel	is east of Egypt	in Asia
+italy	is south of France	in Mediterranean Basin
+ivory coast	left of Ghana	above Liberia
+japan	in Asia	located next to Taiwan
+jordan	is south of Israel	located next to Saudi Arabia
+kazakhstan	in landlocked	in Europe
+kenya	right of Tanzania	below Ethiopia
+kingdom of denmark	its next to Germany	located in next to ocean
+kingdom of the netherlands	in Europe	located in next to ocean
+kiribati	in Oceania	located next to United States of America
+kuwait	right of Iraq	located in next to ocean
+kyrgyzstan	in Asia	in central part of Asia
+laos	above Vietnam	in south eastern part of Asia
+latvia	above Belarus	located next to Estonia
+lebanon	in Levant	in Asia
+lesotho	is north of South Africa	its next to South Africa
+liberia	is west of Ivory Coast	in next to ocean
+libya	located in next to ocean	in Africa
+liechtenstein	above Switzerland	in Europe
+lithuania	right of Poland	is north of Belarus
+luxembourg	located in landlocked	in western part of Europe
+madagascar	in eastern part of Africa	in southern part of Africa
+malawi	located next to Mozambique	in eastern part of Africa
+malaysia	is north of Indonesia	in south eastern part of Asia
+mali	is south of Mauritania	in Africa
+malta	in Europe	located next to Italy
+marshall islands	in Oceania	in next to ocean
+mauritania	is south of Algeria	located next to Senegal
+mexico	in next to ocean	is south of United States
+moldova	in eastern part of Europe	is east of Romania
+monaco	in Europe	is east of France
+mongolia	above China	its next to People's Republic of China
+montenegro	is west of Albania	right of Croatia
+morocco	below Spain	located next to Algeria
+mozambique	is south of Tanzania	in eastern part of Africa
+myanmar	its next to Bangladesh	in next to ocean
+namibia	located in next to ocean	in southern part of Africa
+nepal	is north of India	in Asia
+new zealand	in Oceania	in next to ocean
+nicaragua	its next to Colombia	in next to ocean
+nigeria	is north of Cameroon	in western part of Africa
+niger	below Algeria	located next to Burkina Faso
+north korea	above China	is south of Russia
+north macedonia	in south eastern part of Europe	located in landlocked
+norway	is south of Russia	is north of Sweden
+oman	in Middle east	its next to United Arab Emirates
+pakistan	above India	in southern part of Asia
+palau	in Oceania	located in next to ocean
+panama	is north of Colombia	below Costa Rica
+papua new guinea	is east of Indonesia	in next to ocean
+paraguay	above Argentina	right of Bolivia
+people's republic of china	in Asia	located in next to ocean
+peru	right of Ecuador	is west of Chile
+philippines	in Asia	in south eastern part of Asia
+poland	in Europe	its next to Lithuania
+portugal	its next to Spain	left of Spain
+qatar	in Middle east	located next to Saudi Arabia
+republic of cyprus	in Cyprus	in Asia
+republic of the congo	its next to Angola	in Africa
+romania	in next to ocean	is east of Hungary
+russia	is west of North Korea	in eastern part of Europe
+rwanda	left of Burundi	is east of Democratic Republic of the Congo
+saint kitts and nevis	in North America	located next to Venezuela
+saint lucia	in North America	its next to Venezuela
+saint vincent and the grenadines	in North America	its next to Venezuela
+samoa	in next to ocean	located next to United States of America
+san marino	above Italy	located in landlocked
+saudi arabia	in Asia	its next to Oman
+senegal	located next to Guinea	above Gambia
+serbia	below Hungary	in Europe
+sierra leone	in western part of Africa	left of Liberia
+singapore	located in next to ocean	located next to Malaysia
+slovakia	located in landlocked	below Czechia
+slovenia	its next to Hungary	in south eastern part of Europe
+solomon islands	in Oceania	located next to Australia
+somalia	is north of Kenya	in Africa
+south africa	in Africa	right of Namibia
+south korea	its next to North Korea	located in next to ocean
+south sudan	in Africa	in landlocked
+spain	is east of Gibraltar	in Iberian Peninsula
+sudan	its next to Central African Republic	below Egypt
+suriname	in next to ocean	below French Guiana
+sweden	is west of Finland	in Europe
+switzerland	above Italy	in landlocked
+syria	right of Lebanon	is north of Iraq
+tajikistan	in Asia	is south of Kyrgyzstan
+tanzania	below Democratic Republic of the Congo	in southern part of Africa
+thailand	in south eastern part of Asia	its next to Myanmar
+the bahamas	located next to United States of America	in North America
+the gambia	in Africa	in next to ocean
+togo	in western part of Africa	is west of Benin
+tonga	located next to United States of America	located in next to ocean
+trinidad and tobago	its next to Venezuela	located in next to ocean
+tunisia	right of Algeria	located in next to ocean
+turkey	is north of Syria	is east of Bulgaria
+turkmenistan	is north of Afghanistan	left of Uzbekistan
+uganda	right of Democratic Republic of the Congo	in eastern part of Africa
+ukraine	right of Slovakia	above Moldova
+united arab emirates	its next to Saudi Arabia	in next to ocean
+united kingdom	in Europe	in western part of Europe
+united states of america	in North America	its next to Mexico
+uruguay	in South America	below Brazil
+uzbekistan	in Asia	in central part of Asia
+vatican city	in Europe	located next to Italy
+venezuela	in South America	located next to Guyana
+vietnam	its next to People's Republic of China	located in next to ocean
+yemen	right of Saudi Arabia	located next to Oman
+zambia	is south of Democratic Republic of the Congo	is west of Zimbabwe
+zimbabwe	is north of Botswana	in eastern part of Africa
+afghanistan	above Pakistan	in landlocked
+albania	is north of Greece	in south eastern part of Europe
+algeria	in northern part of Africa	left of Niger
+andorra	is south of France	located in landlocked
+angola	is east of Republic of the Congo	above Zambia
+argentina	below Chile	is west of Paraguay
+armenia	left of Azerbaijan	in landlocked
+australia	its next to East Timor	in Oceania
+austria	in landlocked	is west of Slovakia
+azerbaijan	located next to Armenia	in landlocked
+bahrain	located in next to ocean	located next to Saudi Arabia
+bangladesh	in southern part of Asia	located next to Myanmar
+belarus	below Latvia	located next to Lithuania
+belgium	located in next to ocean	below Germany
+belize	is east of Guatemala	in North America
+benin	in Africa	located next to Niger
+bhutan	is west of China	is south of China
+bolivia	in South America	located next to Brazil
+bosnia and herzegovina	is north of Montenegro	right of Croatia
+botswana	above South Africa	is east of Namibia
+brazil	located in next to ocean	located next to Venezuela
+brunei	located next to Malaysia	above Malaysia
+bulgaria	located next to North Macedonia	is east of Romania
+burkina faso	is west of Niger	below Mali
+burundi	left of Tanzania	located next to Rwanda
+cambodia	is south of Laos	is west of Vietnam
+cameroon	in Africa	below Nigeria
+canada	in next to ocean	left of United States
+central african republic	is south of Chad	is west of Sudan
+chad	above Sudan	below Niger
+chile	is north of Argentina	in next to ocean
+colombia	right of Ecuador	located next to Venezuela
+comoros	in southern part of Africa	in Africa
+costa rica	is west of Panama	located in next to ocean
+croatia	in Europe	located in next to ocean
+cuba	right of United States	located next to United States of America
+czech republic	in western part of Europe	in central part of Europe
+democratic republic of the congo	is east of Central African Republic	in central part of Africa
+denmark	in Europe	left of Germany
+djibouti	below Eritrea	is north of Ethiopia
+dominican republic	in North America	is south of Haiti
+dominica	located next to Venezuela	in North America
+east timor	located in next to ocean	in Asia
+ecuador	located next to Peru	is north of Peru
+egypt	left of Israel	is north of Libya
+el salvador	is west of Honduras	in North America
+equatorial guinea	above Gabon	in central part of Africa
+eritrea	is west of Djibouti	is north of Sudan
+estonia	in eastern part of Europe	in Europe
+eswatini	in Africa	located in landlocked
+ethiopia	in Africa	is south of Eritrea
+federated states of micronesia	in Oceania	located next to United States of America
+finland	is east of Norway	in Europe
+france	in Europe	right of Andorra
+gabon	is south of Equatorial Guinea	in Africa
+georgia	in Europe	located next to Turkey
+germany	left of Austria	in western part of Europe
+ghana	located in next to ocean	below Togo
+greece	in south eastern part of Europe	right of Albania
+grenada	located next to Venezuela	in North America
+guatemala	below Belize	above Honduras
+guinea-bissau	left of Guinea	in western part of Africa
+guinea	is west of Liberia	in next to ocean
+guyana	is east of Venezuela	in South America
+haiti	in next to ocean	left of Dominican Republic
+honduras	located next to Guatemala	in North America
+hungary	its next to Ukraine	right of Slovenia
+iceland	located in next to ocean	its next to Greenland
+india	is east of Pakistan	in southern part of Asia
+indonesia	is north of Timor Leste	located in next to ocean
+iran	in Asia	located in Middle east
+iraq	is south of Turkey	is north of Kuwait
+ireland	is south of United Kingdom	left of United Kingdom
+israel	below Palestinian Territory	located in next to ocean
+italy	is south of Austria	is east of San Marino
+ivory coast	is west of Ghana	located next to Burkina Faso
+japan	located next to United States of America	in north eastern part of Asia
+jordan	left of Saudi Arabia	located next to Iraq
+kazakhstan	in Asia	below Russia
+kenya	below Somalia	is west of Ethiopia
+kingdom of denmark	located in next to ocean	its next to Germany
+kingdom of the netherlands	in Europe	located next to Germany
+kiribati	its next to United States of America	in Oceania
+kuwait	located next to Iraq	is south of Iraq
+kyrgyzstan	is south of Uzbekistan	located in landlocked
+laos	above Thailand	right of Thailand
+latvia	in Baltic States	in Europe
+lebanon	is north of Israel	below Syria
+lesotho	is north of South Africa	located in landlocked
+liberia	located next to Sierra Leone	is east of Guinea
+libya	right of Niger	is west of Egypt
+liechtenstein	in western part of Europe	below Austria
+lithuania	in Europe	is east of Poland
+luxembourg	is north of France	in Europe
+madagascar	its next to Comoros	in next to ocean
+malawi	is west of Tanzania	right of Zambia
+malaysia	above Indonesia	is south of Brunei
+mali	its next to Burkina Faso	is east of Ivory Coast
+malta	in Europe	its next to Italy
+marshall islands	located next to United States of America	in Oceania
+mauritania	in Africa	above Senegal
+mexico	left of Belize	in North America
+moldova	in south eastern part of Europe	above Romania
+monaco	in Europe	in western part of Europe
+mongolia	is south of Russia	in north eastern part of Asia
+montenegro	located in next to ocean	below Bosnia and Herzegovina
+morocco	in northern part of Africa	is east of Western Sahara
+mozambique	in eastern part of Africa	located in next to ocean
+myanmar	in Asia	in south eastern part of Asia
+namibia	in Africa	in next to ocean
+nepal	in Asia	is north of India
+new zealand	located in next to ocean	in Oceania
+nicaragua	located next to Costa Rica	left of Costa Rica
+nigeria	left of Cameroon	above Cameroon
+niger	below Libya	in western part of Africa
+north korea	is north of South Korea	its next to People's Republic of China
+north macedonia	in south eastern part of Europe	located next to Kosovo
+norway	in Europe	is west of Finland
+oman	is east of Yemen	in Asia
+pakistan	its next to People's Republic of China	located in next to ocean
+palau	in Oceania	in next to ocean
+panama	below Costa Rica	located next to United States of America
+papua new guinea	located in next to ocean	its next to Indonesia
+paraguay	in landlocked	in South America
+people's republic of china	in next to ocean	in Asia
+peru	is south of Colombia	in South America
+philippines	in south eastern part of Asia	located next to Palau
+poland	is south of Russia	in central part of Europe
+portugal	is south of Spain	located in next to ocean
+qatar	in next to ocean	is east of Saudi Arabia
+republic of cyprus	in Asia	in next to ocean
+republic of the congo	is west of Central African Republic	located in next to ocean
+romania	is south of Moldova	is west of Ukraine
+russia	is east of Poland	its next to Kazakhstan
+rwanda	below Uganda	its next to Tanzania
+saint kitts and nevis	in North America	located next to Venezuela
+saint lucia	in North America	located in next to ocean
+saint vincent and the grenadines	located next to Venezuela	in North America
+samoa	in Oceania	in next to ocean
+san marino	is north of Italy	in Europe
+saudi arabia	its next to Jordan	left of Kuwait
+senegal	left of Mauritania	in western part of Africa
+serbia	in landlocked	right of Bosnia and Herzegovina
+sierra leone	left of Guinea	in western part of Africa
+singapore	in south eastern part of Asia	in Asia
+slovakia	in landlocked	right of Hungary
+slovenia	below Austria	in Central Europe
+solomon islands	in Oceania	in next to ocean
+somalia	in next to ocean	in eastern part of Africa
+south africa	in next to ocean	in southern part of Africa
+south korea	is south of North Korea	right of North Korea
+south sudan	located next to Sudan	in Africa
+spain	its next to France	is west of Andorra
+sudan	located next to Ethiopia	in Africa
+suriname	is south of French Guiana	right of Guyana
+sweden	in Europe	in next to ocean
+switzerland	is south of Liechtenstein	in central part of Europe
+syria	right of Lebanon	located in next to ocean
+tajikistan	in central part of Asia	is east of Afghanistan
+tanzania	right of Burundi	in eastern part of Africa
+thailand	left of Malaysia	right of Myanmar
+the bahamas	in North America	located next to United States of America
+the gambia	in next to ocean	its next to Senegal
+togo	located next to Benin	is north of Ghana
+tonga	located next to United States of America	located in next to ocean
+trinidad and tobago	located in next to ocean	located next to Venezuela
+tunisia	left of Libya	in Africa
+turkey	above Syria	left of Iraq
+turkmenistan	its next to Iran	in landlocked
+uganda	located in landlocked	in eastern part of Africa
+ukraine	is east of Moldova	left of Russia
+united arab emirates	below Saudi Arabia	located in next to ocean
+united kingdom	its next to Ireland	in Europe
+united states of america	in Oceania	its next to Mexico
+uruguay	its next to Argentina	is south of Brazil
+uzbekistan	in Asia	its next to Tajikistan
+vatican city	in landlocked	in Europe
+venezuela	right of Colombia	in South America
+vietnam	below China	is east of Cambodia
+yemen	left of Oman	in Asia
+zambia	located in landlocked	above Zimbabwe
+zimbabwe	in eastern part of Africa	right of South Africa
+afghanistan	below Turkmenistan	its next to Tajikistan
+albania	is south of Kosovo	left of Greece
+algeria	located next to Niger	in next to ocean
+andorra	is north of Spain	left of France
+angola	located in next to ocean	left of Namibia
+argentina	is west of Uruguay	in South America
+armenia	located next to Georgia	in Asia
+australia	in Oceania	located in next to ocean
+austria	above Slovenia	in Europe
+azerbaijan	its next to Georgia	in eastern part of Europe
+bahrain	its next to Saudi Arabia	in Asia
+bangladesh	in Asia	in next to ocean
+belarus	is north of Ukraine	in Europe
+belgium	is north of France	in Europe
+belize	is north of Guatemala	is south of Mexico
+benin	is north of Nigeria	in western part of Africa
+bhutan	in southern part of Asia	below China
+bolivia	is east of Argentina	in South America
+bosnia and herzegovina	right of Croatia	is north of Montenegro
+botswana	in southern part of Africa	right of Namibia
+brazil	located next to Guyana	right of Venezuela
+brunei	is north of Malaysia	right of Malaysia
+bulgaria	left of Turkey	is east of Romania
+burkina faso	above Ivory Coast	located in landlocked
+burundi	is south of Rwanda	in eastern part of Africa
+cambodia	is south of Laos	its next to Thailand
+cameroon	is east of Gabon	in next to ocean
+canada	in next to ocean	in North America
+central african republic	left of Democratic Republic of the Congo	is east of Chad
+chad	above Sudan	is south of Libya
+chile	is north of Argentina	in South America
+colombia	in South America	is south of Venezuela
+comoros	in eastern part of Africa	in southern part of Africa
+costa rica	is east of Nicaragua	above Panama
+croatia	in next to ocean	is south of Slovenia
+cuba	located next to United States of America	in North America
+czech republic	in central part of Europe	in Europe
+democratic republic of the congo	is north of Tanzania	in Africa
+denmark	in Scandinavia	left of Germany
+djibouti	above Somalia	left of Somalia
+dominican republic	below Haiti	located next to United States of America
+dominica	in next to ocean	its next to Venezuela
+east timor	in next to ocean	in Asia
+ecuador	below Colombia	in South America
+egypt	above Libya	located next to Bir Tawil
+el salvador	in Central America	in North America
+equatorial guinea	in Africa	left of Gabon
+eritrea	right of Sudan	left of Ethiopia
+estonia	in Europe	located in next to ocean
+eswatini	located in landlocked	in Africa
+ethiopia	in eastern part of Africa	located next to Djibouti
+federated states of micronesia	in Oceania	its next to United States of America
+finland	its next to Norway	in Europe
+france	is north of Andorra	in Europe
+gabon	left of Cameroon	its next to Republic of the Congo
+georgia	in next to ocean	above Armenia
+germany	in western part of Europe	is north of France
+ghana	is east of Ivory Coast	in western part of Africa
+greece	is north of Turkey	its next to Bulgaria
+grenada	located in next to ocean	in North America
+guatemala	below Mexico	located next to Honduras
+guinea-bissau	in Africa	is north of Guinea
+guinea	above Liberia	in Africa
+guyana	located in next to ocean	located next to Venezuela
+haiti	located in next to ocean	its next to Dominican Republic
+honduras	is west of Nicaragua	below Guatemala
+hungary	in central part of Europe	is west of Romania
+iceland	in Europe	in northern part of Europe
+india	its next to Pakistan	in Asia
+indonesia	is south of Malaysia	in next to ocean
+iran	left of Afghanistan	located in Middle east
+iraq	its next to Iran	right of Syria
+ireland	left of United Kingdom	in Europe
+israel	is east of Egypt	above Jordan
+italy	in Europe	in Mediterranean Basin
+ivory coast	is west of Ghana	is east of Guinea
+japan	in Asia	located in next to ocean
+jordan	located in next to ocean	right of Israel
+kazakhstan	is east of Turkmenistan	left of Russia
+kenya	located in next to ocean	below Somalia
+kingdom of denmark	its next to Germany	in next to ocean
+kingdom of the netherlands	located in next to ocean	in Europe
+kiribati	in next to ocean	in Oceania
+kuwait	its next to Iraq	in Asia
+kyrgyzstan	is west of China	in Asia
+laos	in south eastern part of Asia	in Asia
+latvia	in Europe	below Russia
+lebanon	left of Syria	right of Israel
+lesotho	is east of South Africa	located next to South Africa
+liberia	located in next to ocean	is west of Ivory Coast
+libya	is north of Niger	is east of Tunisia
+liechtenstein	in central part of Europe	is north of Switzerland
+lithuania	below Latvia	located next to Russia
+luxembourg	its next to Germany	below Belgium
+madagascar	its next to Comoros	in eastern part of Africa
+malawi	in southern part of Africa	is east of Zambia
+malaysia	in south eastern part of Asia	located next to Brunei
+mali	is south of Niger	its next to Algeria
+malta	its next to Italy	in Europe
+marshall islands	its next to Federated States of Micronesia	in next to ocean
+mauritania	in Africa	is west of Algeria
+mexico	above Belize	in North America
+moldova	in south eastern part of Europe	in eastern part of Europe
+monaco	is east of France	in Europe
+mongolia	in Asia	located next to Chita Oblast
+montenegro	is north of Kosovo	located in Balkans
+morocco	in Africa	in northern part of Africa
+mozambique	below Zambia	in eastern part of Africa
+myanmar	is north of India	in Asia
+namibia	is south of Zambia	in Africa
+nepal	left of China	in southern part of Asia
+new zealand	located next to Australia	located in next to ocean
+nicaragua	right of Honduras	above Costa Rica
+nigeria	located next to Benin	in western part of Africa
+niger	left of Chad	is east of Algeria
+north korea	right of China	is west of South Korea
+north macedonia	its next to Serbia	in south eastern part of Europe
+norway	in northern part of Europe	in Europe
+oman	right of United Arab Emirates	in next to ocean
+pakistan	is east of Afghanistan	in Asia
+palau	in Oceania	located next to Philippines
+panama	is south of Costa Rica	its next to Colombia
+papua new guinea	in Oceania	is east of Indonesia
+paraguay	in South America	is east of Bolivia
+people's republic of china	in Asia	in next to ocean
+peru	is north of Chile	in next to ocean
+philippines	located in next to ocean	in south eastern part of Asia
+poland	in central part of Europe	is east of Germany
+portugal	is south of Spain	is west of Spain
+qatar	is north of Saudi Arabia	right of Saudi Arabia
+republic of cyprus	located next to Akrotiri and Dhekelia	located in Cyprus
+republic of the congo	is east of Gabon	left of Angola
+romania	below Moldova	in Europe
+russia	in eastern part of Europe	is south of Finland
+rwanda	left of Tanzania	in Africa
+saint kitts and nevis	located in next to ocean	in North America
+saint lucia	located in next to ocean	in North America
+saint vincent and the grenadines	in North America	located next to Venezuela
+samoa	in Oceania	its next to United States of America
+san marino	in Europe	located in landlocked
+saudi arabia	in Middle east	is south of Kuwait
+senegal	in Africa	in next to ocean
+serbia	in south eastern part of Europe	its next to Albania
+sierra leone	above Liberia	in next to ocean
+singapore	in Asia	located in next to ocean
+slovakia	is east of Czechia	left of Ukraine
+slovenia	left of Croatia	in Central Europe
+solomon islands	in Oceania	located next to Fiji
+somalia	is east of Djibouti	located in next to ocean
+south africa	in Africa	is south of Botswana
+south korea	in north eastern part of Asia	is east of North Korea
+south sudan	its next to Ethiopia	in Africa
+spain	in Europe	below Andorra
+sudan	its next to Eritrea	in Africa
+suriname	right of Guyana	is west of French Guiana
+sweden	is west of Finland	is south of Norway
+switzerland	is west of Austria	is east of France
+syria	below Turkey	is north of Jordan
+tajikistan	in central part of Asia	in Asia
+tanzania	is east of Burundi	in eastern part of Africa
+thailand	is east of Myanmar	in south eastern part of Asia
+the bahamas	in next to ocean	in North America
+the gambia	in Africa	its next to Senegal
+togo	in western part of Africa	below Benin
+tonga	its next to United States of America	located in next to ocean
+trinidad and tobago	its next to Venezuela	in North America
+tunisia	in northern part of Africa	right of Algeria
+turkey	is west of Armenia	in Europe
+turkmenistan	in central part of Asia	in Asia
+uganda	is west of Tanzania	in Africa
+ukraine	below Belarus	in Europe
+united arab emirates	below Saudi Arabia	located in next to ocean
+united kingdom	is east of Ireland	located next to Ireland
+united states of america	in North America	located next to Mexico
+uruguay	right of Argentina	is north of Argentina
+uzbekistan	is east of Turkmenistan	in Asia
+vatican city	its next to Italy	located in landlocked
+venezuela	its next to Saint Kitts and Nevis	left of Guyana
+vietnam	in south eastern part of Asia	below Laos
+yemen	left of Oman	in Asia
+zambia	in Africa	above Malawi
+zimbabwe	in landlocked	in Africa
+afghanistan	above Iran	below Uzbekistan
+albania	below Serbia	in south eastern part of Europe
+algeria	located next to Mali	is west of Niger
+andorra	located in landlocked	above Spain
+angola	below Democratic Republic of the Congo	is north of Namibia
+argentina	is east of Chile	located in next to ocean
+armenia	is east of Georgia	its next to Azerbaijan
+australia	located in next to ocean	in Oceania
+austria	located in landlocked	is east of Liechtenstein
+azerbaijan	located next to Iran	in Asia
+bahrain	in Asia	in next to ocean
+bangladesh	is east of India	above Myanmar
+belarus	in Europe	is east of Lithuania
+belgium	its next to Germany	below Netherlands
+belize	in North America	is north of Guatemala
+benin	in next to ocean	below Niger
+bhutan	is north of India	in southern part of Asia
+bolivia	right of Argentina	is west of Paraguay
+bosnia and herzegovina	in Europe	is south of Croatia
+botswana	located next to South Africa	in southern part of Africa
+brazil	located next to Bolivia	in South America
+brunei	is east of Malaysia	in south eastern part of Asia
+bulgaria	right of Serbia	located in next to ocean
+burkina faso	its next to Ivory Coast	is east of Mali
+burundi	is north of Tanzania	is west of Tanzania
+cambodia	in Asia	left of Vietnam
+cameroon	in Africa	right of Nigeria
+canada	is west of United States	its next to United States of America
+central african republic	above Republic of the Congo	in central part of Africa
+chad	in Africa	located in landlocked
+chile	below Bolivia	above Argentina
+colombia	in South America	is west of Brazil
+comoros	in next to ocean	located next to Mozambique
+costa rica	is north of Panama	its next to Nicaragua
+croatia	below Hungary	located next to Serbia
+cuba	in North America	is south of United States
+czech republic	in western part of Europe	in next to ocean
+democratic republic of the congo	in Africa	above Zambia
+denmark	above Germany	in Europe
+djibouti	in Africa	below Eritrea
+dominican republic	is east of Haiti	is south of Haiti
+dominica	in next to ocean	in North America
+east timor	located next to ASEAN	in Asia
+ecuador	is north of Peru	in South America
+egypt	below Israel	is east of Sudan
+el salvador	in North America	in Central America
+equatorial guinea	in central part of Africa	is west of Gabon
+eritrea	is east of Sudan	in Africa
+estonia	is north of Latvia	below Russia
+eswatini	in southern part of Africa	located next to Mozambique
+ethiopia	located in landlocked	in Africa
+federated states of micronesia	in Oceania	located next to United States of America
+finland	right of Sweden	in Europe
+france	above Italy	is south of Belgium
+gabon	in central part of Africa	left of Cameroon
+georgia	is west of Russia	right of Turkey
+germany	is east of France	is south of Poland
+ghana	in Africa	is south of Burkina Faso
+greece	is north of Turkey	left of Bulgaria
+grenada	located in next to ocean	in North America
+guatemala	in North America	its next to Belize
+guinea-bissau	left of Guinea	above Guinea
+guinea	is east of Senegal	its next to Mali
+guyana	its next to Suriname	located in next to ocean
+haiti	in North America	left of Dominican Republic
+honduras	located in Central America	is west of Nicaragua
+hungary	in Europe	in Central Europe
+iceland	in Europe	located in next to ocean
+india	is south of Nepal	in next to ocean
+indonesia	located in next to ocean	below Malaysia
+iran	below Armenia	is west of Turkmenistan
+iraq	is north of Iran	is east of Turkey
+ireland	located in next to ocean	below United Kingdom
+israel	in next to ocean	located next to Jordan
+italy	in Europe	below France
+ivory coast	is north of Liberia	in Africa
+japan	in Asia	in north eastern part of Asia
+jordan	its next to Iraq	is north of Saudi Arabia
+kazakhstan	left of Kyrgyzstan	is south of Russia
+kenya	located in next to ocean	is north of Tanzania
+kingdom of denmark	in next to ocean	its next to Germany
+kingdom of the netherlands	its next to Belgium	in next to ocean
+kiribati	located next to United States of America	in Oceania
+kuwait	its next to Saudi Arabia	is north of Saudi Arabia
+kyrgyzstan	is west of China	in Asia
+laos	located in landlocked	in Asia
+latvia	above Belarus	in next to ocean
+lebanon	is south of Syria	in Asia
+lesotho	its next to South Africa	located in landlocked
+liberia	in Africa	is south of Ivory Coast
+libya	in next to ocean	above Sudan
+liechtenstein	in central part of Europe	above Switzerland
+lithuania	in eastern part of Europe	in Europe
+luxembourg	in western part of Europe	left of Germany
+madagascar	located next to Comoros	in Africa
+malawi	its next to Mozambique	is east of Zambia
+malaysia	is east of Thailand	is south of Brunei
+mali	is north of Guinea	is west of Niger
+malta	in Europe	located in next to ocean
+marshall islands	located next to Nauru	located in next to ocean
+mauritania	in western part of Africa	in next to ocean
+mexico	is north of Belize	its next to United States of America
+moldova	in Europe	is east of Romania
+monaco	in western part of Europe	right of France
+mongolia	located next to Chita Oblast	is north of China
+montenegro	located in Balkans	in south eastern part of Europe
+morocco	is south of Spain	above Western Sahara
+mozambique	its next to Zimbabwe	in southern part of Africa
+myanmar	left of Thailand	located in next to ocean
+namibia	is east of Angola	in Africa
+nepal	left of China	in southern part of Asia
+new zealand	its next to Australia	in next to ocean
+nicaragua	below Honduras	in North America
+nigeria	in Africa	in western part of Africa
+niger	in Africa	located in landlocked
+north korea	located in Korean Peninsula	right of Russia
+north macedonia	its next to European Union	located in landlocked
+norway	located next to Russia	located in next to ocean
+oman	in Asia	in next to ocean
+pakistan	left of India	its next to People's Republic of China
+palau	in Oceania	its next to Philippines
+panama	is west of Colombia	located next to Costa Rica
+papua new guinea	its next to Indonesia	in next to ocean
+paraguay	below Brazil	in landlocked
+people's republic of china	located next to Nepal	located in next to ocean
+peru	below Ecuador	is west of Colombia
+philippines	in next to ocean	in Asia
+poland	is north of Slovakia	is south of Belarus
+portugal	in Europe	located in next to ocean
+qatar	right of Saudi Arabia	in Asia
+republic of cyprus	located in Cyprus	in Europe
+republic of the congo	in Africa	located in next to ocean
+romania	in next to ocean	in south eastern part of Europe
+russia	right of Norway	is west of North Korea
+rwanda	in eastern part of Africa	located in landlocked
+saint kitts and nevis	in North America	located in next to ocean
+saint lucia	in next to ocean	its next to Venezuela
+saint vincent and the grenadines	in North America	located in next to ocean
+samoa	in Oceania	located in next to ocean
+san marino	located in landlocked	located next to European Union
+saudi arabia	located next to Jordan	is east of Iraq
+senegal	in next to ocean	right of Guinea-Bissau
+serbia	right of Albania	is south of Croatia
+sierra leone	in western part of Africa	in next to ocean
+singapore	located next to Malaysia	located in next to ocean
+slovakia	above Hungary	in Europe
+slovenia	is east of Italy	below Hungary
+solomon islands	in next to ocean	in Oceania
+somalia	in eastern part of Africa	in Africa
+south africa	left of Zimbabwe	in Africa
+south korea	in Asia	located next to Japan
+south sudan	located in landlocked	its next to Sudan
+spain	its next to Morocco	in Iberian Peninsula
+sudan	is north of Ethiopia	is west of Egypt
+suriname	in South America	is west of Brazil
+sweden	in Europe	in northern part of Europe
+switzerland	in landlocked	in Europe
+syria	is west of Iraq	located in Middle east
+tajikistan	is west of China	in landlocked
+tanzania	located next to Lake Victoria	above Mozambique
+thailand	above Malaysia	below Myanmar
+the bahamas	located next to United States of America	in next to ocean
+the gambia	its next to Senegal	in next to ocean
+togo	located in next to ocean	is west of Benin
+tonga	in next to ocean	located next to United States of America
+trinidad and tobago	its next to Venezuela	in North America
+tunisia	located next to Libya	in northern part of Africa
+turkey	in next to ocean	left of Armenia
+turkmenistan	in Asia	below Uzbekistan
+uganda	located in landlocked	in Africa
+ukraine	in eastern part of Europe	is south of Slovakia
+united arab emirates	is south of Saudi Arabia	in Asia
+united kingdom	in Europe	is north of Ireland
+united states of america	in next to ocean	in Oceania
+uruguay	below Brazil	left of Brazil
+uzbekistan	left of Kazakhstan	is east of Turkmenistan
+vatican city	in Europe	in landlocked
+venezuela	in next to ocean	above Colombia
+vietnam	located in next to ocean	in Asia
+yemen	is south of Oman	located in next to ocean
+zambia	above Mozambique	is west of Zimbabwe
+zimbabwe	in Africa	is north of South Africa
+afghanistan	is west of China	its next to Pakistan
+albania	in Europe	left of Kosovo
+algeria	below Morocco	right of Morocco
+andorra	its next to Occitania	is south of France
+angola	above Namibia	in central part of Africa
+argentina	is south of Chile	is west of Brazil
+armenia	in Europe	below Georgia
+australia	located in next to ocean	located next to Papua New Guinea
+austria	in Europe	located in landlocked
+azerbaijan	located in landlocked	located next to Turkey
+bahrain	located in Middle east	in Asia
+bangladesh	is east of India	is west of Myanmar
+belarus	left of Ukraine	in eastern part of Europe
+belgium	in Europe	in western part of Europe
+belize	is south of Mexico	right of Guatemala
+benin	in Africa	is west of Niger
+bhutan	its next to People's Republic of China	in southern part of Asia
+bolivia	left of Brazil	in landlocked
+bosnia and herzegovina	is east of Croatia	in south eastern part of Europe
+botswana	above Namibia	right of South Africa
+brazil	in South America	is east of Peru
+brunei	located next to Malaysia	is north of Malaysia
+bulgaria	above Greece	located next to Turkey
+burkina faso	below Mali	left of Niger
+burundi	below Rwanda	located in landlocked
+cambodia	in Asia	its next to Laos
+cameroon	in Africa	in central part of Africa
+canada	left of United States	located in next to ocean
+central african republic	located in landlocked	above Republic of the Congo
+chad	is west of Sudan	located in Sahel
+chile	left of Bolivia	above Argentina
+colombia	is west of Brazil	in South America
+comoros	in next to ocean	located next to Madagascar
+costa rica	below Nicaragua	left of Panama
+croatia	left of Bosnia and Herzegovina	in next to ocean
+cuba	is south of United States	in North America
+czech republic	in central part of Europe	in western part of Europe
+democratic republic of the congo	in central part of Africa	located next to Republic of the Congo
+denmark	is north of Germany	is west of Germany
+djibouti	is south of Eritrea	in Africa
+dominican republic	is east of Haiti	in North America
+dominica	its next to Venezuela	located in next to ocean
+east timor	in south eastern part of Asia	in Asia
+ecuador	above Peru	left of Colombia
+egypt	in Asia	left of Israel
+el salvador	in Central America	left of Honduras
+equatorial guinea	in Africa	is south of Cameroon
+eritrea	in eastern part of Africa	located next to Arab League
+estonia	in eastern part of Europe	is east of Latvia
+eswatini	in Africa	its next to Mozambique
+ethiopia	located next to Sudan	in landlocked
+federated states of micronesia	located in next to ocean	its next to United States of America
+finland	in northern part of Europe	in Europe
+france	is east of Andorra	in western part of Europe
+gabon	right of Equatorial Guinea	below Cameroon
+georgia	in eastern part of Europe	in Asia
+germany	its next to Denmark	located in Central Europe
+ghana	above Ivory Coast	right of Burkina Faso
+greece	in south eastern part of Europe	is south of Macedonia
+grenada	in next to ocean	in North America
+guatemala	is south of Mexico	right of Mexico
+guinea-bissau	is north of Guinea	in Africa
+guinea	located in next to ocean	in Africa
+guyana	left of Suriname	right of Venezuela
+haiti	in North America	located in next to ocean
+honduras	in Central America	below Guatemala
+hungary	below Austria	is west of Slovakia
+iceland	in northern part of Europe	in next to ocean
+india	right of Pakistan	in next to ocean
+indonesia	in next to ocean	in south eastern part of Asia
+iran	located next to Turkey	is south of Armenia
+iraq	is east of Jordan	is north of Kuwait
+ireland	is west of United Kingdom	is south of United Kingdom
+israel	in Fertile Crescent	its next to Syria
+italy	in next to ocean	left of Austria
+ivory coast	its next to Mali	in next to ocean
+japan	its next to United States of America	located in next to ocean
+jordan	located next to Iraq	right of Israel
+kazakhstan	below Russia	is west of China
+kenya	is south of Uganda	is west of Somalia
+kingdom of denmark	located next to Germany	in next to ocean
+kingdom of the netherlands	located in next to ocean	located next to France
+kiribati	in next to ocean	located next to United States of America
+kuwait	is east of Saudi Arabia	located in Middle east
+kyrgyzstan	is west of China	its next to People's Republic of China
+laos	its next to Thailand	below Myanmar
+latvia	above Belarus	right of Lithuania
+lebanon	located in Middle east	is north of Israel
+lesotho	in southern part of Africa	located in landlocked
+liberia	is south of Ivory Coast	in western part of Africa
+libya	is east of Algeria	is south of Tunisia
+liechtenstein	in central part of Europe	below Austria
+lithuania	above Poland	in eastern part of Europe
+luxembourg	in Europe	is west of Germany
+madagascar	in southern part of Africa	located in next to ocean
+malawi	located in landlocked	above Mozambique
+malaysia	is north of Indonesia	below Brunei
+mali	in Africa	is east of Mauritania
+malta	located next to Italy	located in next to ocean
+marshall islands	in Oceania	located in next to ocean
+mauritania	left of Mali	right of Senegal
+mexico	is north of Guatemala	located next to United States of America
+moldova	in south eastern part of Europe	below Ukraine
+monaco	its next to European Union	is south of France
+mongolia	in north eastern part of Asia	located next to Russia
+montenegro	in south eastern part of Europe	right of Bosnia and Herzegovina
+morocco	in Africa	is east of Western Sahara
+mozambique	located next to Comoros	is north of Swaziland
+myanmar	is north of Laos	below China
+namibia	below Zambia	left of South Africa
+nepal	in southern part of Asia	left of China
+new zealand	its next to Australia	in next to ocean
+nicaragua	its next to Honduras	is south of Honduras
+nigeria	left of Chad	in next to ocean
+niger	right of Mali	above Burkina Faso
+north korea	in Asia	in north eastern part of Asia
+north macedonia	its next to Albania	in Europe
+norway	located in next to ocean	is west of Sweden
+oman	in Asia	located in next to ocean
+pakistan	above India	in next to ocean
+palau	in Oceania	located in next to ocean
+panama	above Colombia	below Costa Rica
+papua new guinea	is east of Indonesia	its next to Australia
+paraguay	located in landlocked	left of Brazil
+people's republic of china	its next to South Korea	in Asia
+peru	is north of Brazil	in South America
+philippines	in next to ocean	located next to Taiwan
+poland	in central part of Europe	above Czechia
+portugal	is west of Spain	is south of Spain
+qatar	in Asia	in Middle east
+republic of cyprus	in next to ocean	in Asia
+republic of the congo	located next to Gabon	located in next to ocean
+romania	in Europe	below Moldova
+russia	in next to ocean	below Finland
+rwanda	is east of Democratic Republic of the Congo	in Africa
+saint kitts and nevis	in North America	located next to Venezuela
+saint lucia	located in next to ocean	its next to Venezuela
+saint vincent and the grenadines	in North America	its next to Venezuela
+samoa	its next to United States of America	in Oceania
+san marino	in Europe	is north of Italy
+saudi arabia	located in next to ocean	in Asia
+senegal	in Africa	is south of Mali
+serbia	below Romania	its next to Montenegro
+sierra leone	in Africa	in next to ocean
+singapore	in south eastern part of Asia	in Asia
+slovakia	below Poland	left of Ukraine
+slovenia	in south eastern part of Europe	above Croatia
+solomon islands	located in next to ocean	its next to France
+somalia	below Ethiopia	is north of Kenya
+south africa	its next to Zimbabwe	is south of Mozambique
+south korea	in next to ocean	in Asia
+south sudan	in landlocked	in Africa
+spain	located in Iberian Peninsula	is west of France
+sudan	above Ethiopia	in eastern part of Africa
+suriname	located in next to ocean	left of Brazil
+sweden	its next to Norway	is west of Finland
+switzerland	in Europe	is west of Austria
+syria	is north of Jordan	located in Levant
+tajikistan	in Asia	is north of China
+tanzania	in southern part of Africa	in eastern part of Africa
+thailand	located in next to ocean	in Asia
+the bahamas	in North America	in next to ocean
+the gambia	in next to ocean	in Africa
+togo	is south of Benin	located next to Burkina Faso
+tonga	located in next to ocean	located next to United States of America
+trinidad and tobago	in next to ocean	in North America
+tunisia	in northern part of Africa	located next to Algeria
+turkey	in Europe	left of Armenia
+turkmenistan	in landlocked	in Asia
+uganda	in eastern part of Africa	in Africa
+ukraine	in Europe	its next to Russia
+united arab emirates	is south of Saudi Arabia	right of Saudi Arabia
+united kingdom	is east of Ireland	in next to ocean
+united states of america	its next to Canada	in Oceania
+uruguay	in South America	located next to Argentina
+uzbekistan	in central part of Asia	is south of Kazakhstan
+vatican city	located in landlocked	located next to European Union
+venezuela	is west of Guyana	is north of Colombia
+vietnam	is north of Cambodia	right of China
+yemen	its next to Oman	is east of Saudi Arabia
+zambia	in southern part of Africa	in Africa
+zimbabwe	left of Mozambique	above South Africa
+afghanistan	is south of Turkmenistan	is north of Iran
+albania	in south eastern part of Europe	below Serbia
+algeria	in Africa	in northern part of Africa
+andorra	left of France	located next to European Union
+angola	in Africa	is south of Democratic Republic of the Congo
+argentina	below Chile	right of Chile
+armenia	is east of Turkey	in Asia
+australia	in Oceania	its next to East Timor
+austria	in Europe	below Czechia
+azerbaijan	in eastern part of Europe	above Turkey
+bahrain	its next to Saudi Arabia	located in next to ocean
+bangladesh	in Asia	in southern part of Asia
+belarus	located in landlocked	left of Ukraine
+belgium	located in next to ocean	is east of France
+belize	is east of Mexico	is north of Guatemala
+benin	in next to ocean	below Niger
+bhutan	is south of China	in southern part of Asia
+bolivia	in landlocked	is east of Chile
+bosnia and herzegovina	located next to European Union	in south eastern part of Europe
+botswana	below Zimbabwe	in landlocked
+brazil	is east of Guyana	located next to Argentina
+brunei	in Asia	is east of Malaysia
+bulgaria	is west of Turkey	in Europe
+burkina faso	in Africa	left of Ghana
+burundi	is south of Rwanda	its next to Tanzania
+cambodia	in Asia	located next to Vietnam
+cameroon	left of Republic of the Congo	below Nigeria
+canada	left of United States	located in next to ocean
+central african republic	is south of Cameroon	is north of Republic of the Congo
+chad	in central part of Africa	left of Sudan
+chile	above Argentina	is south of Peru
+colombia	is north of Ecuador	located in next to ocean
+comoros	its next to France	in next to ocean
+costa rica	right of Nicaragua	left of Panama
+croatia	located in next to ocean	its next to Bosnia and Herzegovina
+cuba	located next to United States of America	is east of United States
+czech republic	in western part of Europe	in Europe
+democratic republic of the congo	is east of Angola	left of Rwanda
+denmark	is north of Germany	in northern part of Europe
+djibouti	in Africa	located in next to ocean
+dominican republic	below Haiti	located next to United States of America
+dominica	its next to Venezuela	in North America
+east timor	in south eastern part of Asia	located in next to ocean
+ecuador	located next to Peru	in South America
+egypt	right of Libya	above Libya
+el salvador	right of Guatemala	left of Honduras
+equatorial guinea	below Cameroon	in central part of Africa
+eritrea	in Africa	in eastern part of Africa
+estonia	in eastern part of Europe	its next to Russia
+eswatini	in southern part of Africa	located next to South Africa
+ethiopia	in eastern part of Africa	in Africa
+federated states of micronesia	in next to ocean	in Oceania
+finland	in Europe	above Russia
+france	in western part of Europe	in next to ocean
+gabon	right of Equatorial Guinea	in Africa
+georgia	is east of Turkey	is west of Armenia
+germany	is south of Poland	right of Luxembourg
+ghana	above Ivory Coast	in next to ocean
+greece	above Turkey	in south eastern part of Europe
+grenada	its next to Venezuela	in next to ocean
+guatemala	in North America	is west of Belize
+guinea-bissau	in western part of Africa	in Africa
+guinea	in Africa	in next to ocean
+guyana	right of Venezuela	left of Brazil
+haiti	above Dominican Republic	left of Dominican Republic
+honduras	in Central America	is west of Nicaragua
+hungary	below Slovakia	right of Austria
+iceland	located in next to ocean	in Europe
+india	is west of Nepal	in Asia
+indonesia	below Malaysia	is north of Timor Leste
+iran	is south of Armenia	in next to ocean
+iraq	is east of Jordan	in Asia
+ireland	located next to Northern Ireland	located in next to ocean
+israel	its next to Syria	right of Egypt
+italy	is west of Slovenia	in Mediterranean Basin
+ivory coast	right of Guinea	its next to Mali
+japan	in north eastern part of Asia	in Asia
+jordan	in Asia	is south of Syria
+kazakhstan	in landlocked	left of Russia
+kenya	right of Tanzania	below Somalia
+kingdom of denmark	located next to Germany	in Europe
+kingdom of the netherlands	in next to ocean	in North America
+kiribati	located in next to ocean	in Oceania
+kuwait	is east of Iraq	located in next to ocean
+kyrgyzstan	in Asia	located next to Uzbekistan
+laos	is north of Cambodia	right of Myanmar
+latvia	in eastern part of Europe	right of Lithuania
+lebanon	in Asia	above Israel
+lesotho	located in landlocked	above South Africa
+liberia	located in next to ocean	its next to Guinea
+libya	left of Egypt	in northern part of Africa
+liechtenstein	in Europe	is east of Switzerland
+lithuania	its next to Latvia	in Europe
+luxembourg	in western part of Europe	in landlocked
+madagascar	in eastern part of Africa	in Africa
+malawi	left of Tanzania	below Zambia
+malaysia	located in next to ocean	in Asia
+mali	its next to Guinea	is north of Senegal
+malta	its next to Italy	in Europe
+marshall islands	located next to Nauru	in Oceania
+mauritania	in next to ocean	above Mali
+mexico	is west of Guatemala	in North America
+moldova	in south eastern part of Europe	in Europe
+monaco	is east of France	below France
+mongolia	is south of Russia	located in landlocked
+montenegro	is north of Albania	in south eastern part of Europe
+morocco	located in next to ocean	left of Spain
+mozambique	in next to ocean	located next to Eswatini
+myanmar	above India	in south eastern part of Asia
+namibia	located in next to ocean	above South Africa
+nepal	right of India	above India
+new zealand	in next to ocean	its next to Australia
+nicaragua	is south of Honduras	in North America
+nigeria	located in next to ocean	is south of Chad
+niger	in landlocked	right of Algeria
+north korea	in Asia	in north eastern part of Asia
+north macedonia	in south eastern part of Europe	in Europe
+norway	is north of Sweden	left of Finland
+oman	is north of Yemen	in Asia
+pakistan	below Iran	left of China
+palau	its next to Philippines	in next to ocean
+panama	in next to ocean	is south of Costa Rica
+papua new guinea	below Indonesia	located next to Australia
+paraguay	is north of Argentina	right of Bolivia
+people's republic of china	its next to Myanmar	in next to ocean
+peru	right of Ecuador	is west of Bolivia
+philippines	in next to ocean	in south eastern part of Asia
+poland	in central part of Europe	is west of Lithuania
+portugal	in Europe	is west of Spain
+qatar	right of Saudi Arabia	its next to Saudi Arabia
+republic of cyprus	in next to ocean	its next to Israel
+republic of the congo	located in next to ocean	is east of Gabon
+romania	below Ukraine	is west of Bulgaria
+russia	is south of Finland	in Europe
+rwanda	in eastern part of Africa	in landlocked
+saint kitts and nevis	located in next to ocean	in North America
+saint lucia	in North America	located in next to ocean
+saint vincent and the grenadines	located next to Venezuela	in next to ocean
+samoa	in Oceania	located in next to ocean
+san marino	in landlocked	is west of Italy
+saudi arabia	left of United Arab Emirates	is east of Jordan
+senegal	is west of Mali	above Gambia
+serbia	in Europe	is north of Kosovo
+sierra leone	located next to Guinea	located in next to ocean
+singapore	its next to Malaysia	in Asia
+slovakia	is south of Czechia	in central part of Europe
+slovenia	left of Hungary	located in Central Europe
+solomon islands	its next to Fiji	in Oceania
+somalia	in next to ocean	its next to Ethiopia
+south africa	in next to ocean	right of Namibia
+south korea	is east of North Korea	located in next to ocean
+south sudan	located in landlocked	located next to Central African Republic
+spain	in Europe	is south of Andorra
+sudan	in Africa	in eastern part of Africa
+suriname	in South America	its next to Guyana
+sweden	in next to ocean	is south of Finland
+switzerland	is east of France	in landlocked
+syria	its next to Iraq	is east of Lebanon
+tajikistan	is north of Afghanistan	in Asia
+tanzania	left of Mozambique	its next to Democratic Republic of the Congo
+thailand	left of Malaysia	located in next to ocean
+the bahamas	located next to United States of America	located in next to ocean
+the gambia	in Africa	in next to ocean
+togo	left of Benin	in Africa
+tonga	located in next to ocean	in Oceania
+trinidad and tobago	located in next to ocean	located next to Venezuela
+tunisia	located in next to ocean	in northern part of Africa
+turkey	located next to Syria	is east of Greece
+turkmenistan	is east of Iran	in landlocked
+uganda	in eastern part of Africa	is west of Tanzania
+ukraine	located next to Belarus	is west of Russia
+united arab emirates	in Asia	is south of Saudi Arabia
+united kingdom	is east of Ireland	in Europe
+united states of america	in Oceania	located next to Mexico
+uruguay	in next to ocean	left of Brazil
+uzbekistan	in central part of Asia	its next to Kazakhstan
+vatican city	located next to European Union	located in landlocked
+venezuela	in South America	located next to Saint Kitts and Nevis
+vietnam	in next to ocean	is east of Cambodia
+yemen	below Saudi Arabia	right of Saudi Arabia
+zambia	left of Mozambique	in eastern part of Africa
+zimbabwe	below Mozambique	is west of Mozambique
+afghanistan	in southern part of Asia	its next to Uzbekistan
+albania	in Europe	in Balkans
+algeria	located in next to ocean	in Africa
+andorra	located next to European Union	above Spain
+angola	in southern part of Africa	located in next to ocean
+argentina	is west of Uruguay	its next to Brazil
+armenia	in Asia	located next to Georgia
+australia	in Oceania	located in next to ocean
+austria	in western part of Europe	located in landlocked
+azerbaijan	in Europe	its next to Armenia
+bahrain	in Middle east	in Asia
+bangladesh	located in next to ocean	located next to Myanmar
+belarus	is west of Ukraine	is south of Russia
+belgium	above Luxembourg	in western part of Europe
+belize	located in Central America	is east of Mexico
+benin	is west of Niger	right of Togo
+bhutan	is north of India	right of India
+bolivia	right of Argentina	located next to Brazil
+bosnia and herzegovina	located in next to ocean	is west of Serbia
+botswana	is south of Zimbabwe	in Africa
+brazil	its next to Paraguay	is north of Argentina
+brunei	located in next to ocean	in south eastern part of Asia
+bulgaria	in Europe	right of Serbia
+burkina faso	below Niger	left of Togo
+burundi	located next to Democratic Republic of the Congo	in landlocked
+cambodia	in Asia	left of Vietnam
+cameroon	is north of Central African Republic	is west of Chad
+canada	located next to United States of America	in North America
+central african republic	is east of Republic of the Congo	in landlocked
+chad	in central part of Africa	in Africa
+chile	is south of Peru	its next to Bolivia
+colombia	is east of Panama	in South America
+comoros	in Africa	its next to Tanzania
+costa rica	its next to Panama	located in next to ocean
+croatia	is west of Montenegro	is east of Slovenia
+cuba	in North America	its next to United States of America
+czech republic	in next to ocean	in central part of Europe
+democratic republic of the congo	located in next to ocean	in Africa
+denmark	above Germany	in Europe
+djibouti	in Africa	is east of Ethiopia
+dominican republic	in North America	is east of Haiti
+dominica	located next to Venezuela	located in next to ocean
+east timor	its next to ASEAN	in south eastern part of Asia
+ecuador	located in next to ocean	is south of Colombia
+egypt	in Africa	is east of Libya
+el salvador	below Honduras	located next to Honduras
+equatorial guinea	below Cameroon	located in next to ocean
+eritrea	in next to ocean	right of Sudan
+estonia	is west of Russia	located in next to ocean
+eswatini	located in landlocked	located next to South Africa
+ethiopia	its next to Eritrea	is west of Somalia
+federated states of micronesia	in next to ocean	in Oceania
+finland	right of Sweden	is north of Russia
+france	located in next to ocean	is south of Switzerland
+gabon	right of Equatorial Guinea	is south of Republic of the Congo
+georgia	right of Turkey	is north of Turkey
+germany	in central part of Europe	its next to Czech Republic
+ghana	its next to Burkina Faso	right of Ivory Coast
+greece	above Turkey	in south eastern part of Europe
+grenada	in North America	located next to Venezuela
+guatemala	is east of Mexico	is west of Honduras
+guinea-bissau	below Senegal	in western part of Africa
+guinea	its next to Mali	in western part of Africa
+guyana	is south of Venezuela	in South America
+haiti	located next to United States of America	is west of Dominican Republic
+honduras	below Guatemala	located next to El Salvador
+hungary	right of Slovenia	located in landlocked
+iceland	located in next to ocean	its next to Faroe Islands
+india	is south of Bangladesh	in Asia
+indonesia	above Timor Leste	in next to ocean
+iran	above Pakistan	below Turkmenistan
+iraq	located next to Saudi Arabia	below Syria
+ireland	its next to Northern Ireland	in next to ocean
+israel	left of Lebanon	located next to Jordan
+italy	in Europe	is west of Slovenia
+ivory coast	in Africa	right of Guinea
+japan	its next to Russia	in next to ocean
+jordan	its next to Saudi Arabia	above Saudi Arabia
+kazakhstan	its next to Kyrgyzstan	in landlocked
+kenya	located in next to ocean	left of Somalia
+kingdom of denmark	in Europe	in next to ocean
+kingdom of the netherlands	in next to ocean	in North America
+kiribati	in Oceania	its next to United States of America
+kuwait	is east of Saudi Arabia	in Asia
+kyrgyzstan	in central part of Asia	located in landlocked
+laos	in south eastern part of Asia	located in landlocked
+latvia	in Europe	is south of Estonia
+lebanon	in Asia	below Syria
+lesotho	is east of South Africa	in Africa
+liberia	left of Ivory Coast	in western part of Africa
+libya	in Africa	located next to Niger
+liechtenstein	located next to European Union	in central part of Europe
+lithuania	in Baltic States	right of Poland
+luxembourg	above France	is west of Germany
+madagascar	in eastern part of Africa	its next to Comoros
+malawi	right of Zambia	in Africa
+malaysia	left of Indonesia	located in next to ocean
+mali	in western part of Africa	its next to Algeria
+malta	located next to Italy	in Europe
+marshall islands	in Oceania	in next to ocean
+mauritania	is south of Algeria	is west of Mali
+mexico	is north of Belize	located in next to ocean
+moldova	in south eastern part of Europe	is south of Ukraine
+monaco	in next to ocean	is east of France
+mongolia	is north of China	located next to People's Republic of China
+montenegro	in south eastern part of Europe	is south of Bosnia and Herzegovina
+morocco	in northern part of Africa	is south of Spain
+mozambique	located next to Eswatini	in Africa
+myanmar	located in next to ocean	in south eastern part of Asia
+namibia	located next to Zambia	is east of Angola
+nepal	in southern part of Asia	its next to India
+new zealand	in Oceania	its next to Australia
+nicaragua	left of Costa Rica	in next to ocean
+nigeria	in western part of Africa	above Cameroon
+niger	is north of Benin	in landlocked
+north korea	is east of China	located next to South Korea
+north macedonia	in landlocked	in Europe
+norway	is west of Sweden	is south of Russia
+oman	right of United Arab Emirates	below Saudi Arabia
+pakistan	left of China	below China
+palau	in Oceania	located next to Philippines
+panama	below Costa Rica	in North America
+papua new guinea	located in next to ocean	is east of Indonesia
+paraguay	right of Bolivia	is north of Argentina
+people's republic of china	located in next to ocean	in Asia
+peru	left of Bolivia	in South America
+philippines	in next to ocean	in south eastern part of Asia
+poland	left of Belarus	located in next to ocean
+portugal	its next to Spain	is west of Spain
+qatar	located next to Saudi Arabia	in Asia
+republic of cyprus	located next to Israel	in next to ocean
+republic of the congo	in central part of Africa	in next to ocean
+romania	in south eastern part of Europe	located in next to ocean
+russia	located in Eurasia	in Asia
+rwanda	in Africa	is west of Tanzania
+saint kitts and nevis	in North America	its next to Venezuela
+saint lucia	in North America	located next to Venezuela
+saint vincent and the grenadines	in next to ocean	in North America
+samoa	located next to United States of America	in next to ocean
+san marino	is west of Italy	in landlocked
+saudi arabia	is west of Oman	right of Jordan
+senegal	in Africa	below Mali
+serbia	in Europe	is north of Macedonia
+sierra leone	located next to Guinea	is west of Guinea
+singapore	in south eastern part of Asia	located in next to ocean
+slovakia	in Europe	located in landlocked
+slovenia	in Central Europe	above Italy
+solomon islands	its next to France	located in next to ocean
+somalia	right of Kenya	in eastern part of Africa
+south africa	is east of Namibia	is south of Botswana
+south korea	right of North Korea	is south of North Korea
+south sudan	located next to Ethiopia	in Africa
+spain	located next to Portugal	is north of Gibraltar
+sudan	in Africa	right of Chad
+suriname	is east of Guyana	below French Guiana
+sweden	in Europe	below Finland
+switzerland	below Germany	is west of Austria
+syria	is east of Lebanon	is north of Iraq
+tajikistan	below Uzbekistan	in central part of Asia
+tanzania	in Africa	in eastern part of Africa
+thailand	is north of Cambodia	its next to Laos
+the bahamas	in North America	its next to United States of America
+the gambia	its next to Senegal	in Africa
+togo	is south of Burkina Faso	located in next to ocean
+tonga	located in next to ocean	its next to United States of America
+trinidad and tobago	in North America	its next to Venezuela
+tunisia	located in next to ocean	in northern part of Africa
+turkey	left of Syria	in south eastern part of Europe
+turkmenistan	is west of Uzbekistan	in Asia
+uganda	right of Democratic Republic of the Congo	in Africa
+ukraine	is east of Romania	in eastern part of Europe
+united arab emirates	is north of Oman	located in next to ocean
+united kingdom	in western part of Europe	above Ireland
+united states of america	its next to Mexico	in next to ocean
+uruguay	in next to ocean	located next to Brazil
+uzbekistan	is south of Kazakhstan	in landlocked
+vatican city	its next to Italy	in Europe
+venezuela	left of Brazil	in South America
+vietnam	is east of China	in Asia
+yemen	left of Oman	its next to Saudi Arabia
+zambia	in southern part of Africa	is east of Namibia
+zimbabwe	in landlocked	its next to Zambia
+afghanistan	in southern part of Asia	is east of Turkmenistan
+albania	is north of Greece	below Macedonia
+algeria	above Mali	in Africa
+andorra	below France	in landlocked
+angola	in Africa	below Republic of the Congo
+argentina	located next to Bolivia	is east of Chile
+armenia	above Turkey	is east of Turkey
+australia	located next to Papua New Guinea	in next to ocean
+austria	below Germany	right of Italy
+azerbaijan	below Russia	left of Russia
+bahrain	its next to Saudi Arabia	in Asia
+bangladesh	is east of India	in Asia
+belarus	above Poland	located in landlocked
+belgium	in Europe	is north of France
+belize	right of Guatemala	below Mexico
+benin	above Nigeria	in western part of Africa
+bhutan	is east of India	located in landlocked
+bolivia	located next to Peru	is east of Chile
+bosnia and herzegovina	above Montenegro	in Europe
+botswana	above South Africa	below Zimbabwe
+brazil	right of Guyana	located in next to ocean
+brunei	located in next to ocean	its next to Malaysia
+bulgaria	in south eastern part of Europe	right of Serbia
+burkina faso	in landlocked	is east of Ivory Coast
+burundi	its next to Democratic Republic of the Congo	in eastern part of Africa
+cambodia	in south eastern part of Asia	below Laos
+cameroon	left of Central African Republic	is north of Republic of the Congo
+canada	located in next to ocean	is north of United States
+central african republic	located next to Republic of the Congo	below Cameroon
+chad	in Sahel	in central part of Africa
+chile	below Peru	left of Bolivia
+colombia	in next to ocean	is north of Brazil
+comoros	located in next to ocean	in Africa
+costa rica	is east of Nicaragua	in North America
+croatia	in Balkans	its next to Liberland
+cuba	right of United States	in North America
+czech republic	in Europe	in next to ocean
+democratic republic of the congo	is north of Angola	left of Uganda
+denmark	in next to ocean	is north of Germany
+djibouti	is south of Eritrea	right of Ethiopia
+dominican republic	is east of Haiti	below Haiti
+dominica	in North America	located in next to ocean
+east timor	in south eastern part of Asia	in Asia
+ecuador	in South America	located in next to ocean
+egypt	in Africa	in northern part of Africa
+el salvador	located next to Guatemala	is west of Honduras
+equatorial guinea	located in next to ocean	in central part of Africa
+eritrea	in next to ocean	in eastern part of Africa
+estonia	in Europe	in next to ocean
+eswatini	in landlocked	in southern part of Africa
+ethiopia	above Somalia	in landlocked
+federated states of micronesia	in next to ocean	its next to United States of America
+finland	is east of Sweden	in northern part of Europe
+france	is east of Spain	is west of Italy
+gabon	in next to ocean	in Africa
+georgia	in Asia	is south of Russia
+germany	is north of Luxembourg	in Europe
+ghana	in Africa	is south of Burkina Faso
+greece	right of Albania	located in Balkans
+grenada	located in next to ocean	its next to Venezuela
+guatemala	right of Mexico	is north of Honduras
+guinea-bissau	in Africa	in western part of Africa
+guinea	is west of Ivory Coast	right of Senegal
+guyana	located in next to ocean	its next to Venezuela
+haiti	in North America	located in next to ocean
+honduras	in North America	located next to Nicaragua
+hungary	located in landlocked	is west of Ukraine
+iceland	in Europe	located in next to ocean
+india	left of Myanmar	in southern part of Asia
+indonesia	its next to Philippines	located in next to ocean
+iran	in Asia	below Turkmenistan
+iraq	above Saudi Arabia	its next to Kuwait
+ireland	in western part of Europe	is south of United Kingdom
+israel	left of Jordan	its next to Syria
+italy	its next to France	in Mediterranean Basin
+ivory coast	above Liberia	right of Guinea
+japan	in north eastern part of Asia	located in next to ocean
+jordan	in next to ocean	in Asia
+kazakhstan	located next to People's Republic of China	below Russia
+kenya	in Africa	is west of Somalia
+kingdom of denmark	its next to Germany	in Europe
+kingdom of the netherlands	its next to Germany	located in next to ocean
+kiribati	located in next to ocean	its next to United States of America
+kuwait	is south of Iraq	in Asia
+kyrgyzstan	right of Uzbekistan	in Asia
+laos	located next to Thailand	in south eastern part of Asia
+latvia	in Europe	is west of Estonia
+lebanon	right of Israel	its next to Syria
+lesotho	in Africa	in southern part of Africa
+liberia	left of Ivory Coast	is south of Guinea
+libya	is west of Egypt	in northern part of Africa
+liechtenstein	right of Switzerland	left of Austria
+lithuania	is west of Latvia	above Poland
+luxembourg	is west of Germany	is east of France
+madagascar	in southern part of Africa	in Africa
+malawi	located in landlocked	located next to Zambia
+malaysia	located next to Brunei	above Indonesia
+mali	is east of Guinea	in western part of Africa
+malta	in Europe	located in next to ocean
+marshall islands	in next to ocean	in Oceania
+mauritania	located in next to ocean	in western part of Africa
+mexico	its next to Guatemala	is south of United States
+moldova	located next to Ukraine	in south eastern part of Europe
+monaco	its next to European Union	is east of France
+mongolia	is north of China	its next to People's Republic of China
+montenegro	is north of Kosovo	in Europe
+morocco	located in next to ocean	in northern part of Africa
+mozambique	below Tanzania	in southern part of Africa
+myanmar	left of Thailand	is east of India
+namibia	right of Angola	in southern part of Africa
+nepal	is north of India	left of China
+new zealand	located in next to ocean	in Oceania
+nicaragua	below Honduras	in North America
+nigeria	is south of Benin	in next to ocean
+niger	below Algeria	in Africa
+north korea	in north eastern part of Asia	is east of Russia
+north macedonia	located next to Greece	in Europe
+norway	left of Russia	is north of Sweden
+oman	its next to United Arab Emirates	in Asia
+pakistan	in Asia	above India
+palau	in next to ocean	in Oceania
+panama	is south of Costa Rica	its next to United States of America
+papua new guinea	is south of Indonesia	its next to Australia
+paraguay	is north of Argentina	located next to Brazil
+people's republic of china	located in next to ocean	in Asia
+peru	is west of Brazil	in next to ocean
+philippines	in Asia	in south eastern part of Asia
+poland	in Europe	left of Russia
+portugal	its next to Castile and León	left of Spain
+qatar	located next to Saudi Arabia	in Middle east
+republic of cyprus	in Asia	located next to Akrotiri and Dhekelia
+republic of the congo	in Africa	below Cameroon
+romania	in Europe	is south of Moldova
+russia	in Eurasia	is south of Finland
+rwanda	in Africa	right of Democratic Republic of the Congo
+saint kitts and nevis	its next to Venezuela	in North America
+saint lucia	located next to Venezuela	located in next to ocean
+saint vincent and the grenadines	located in next to ocean	its next to Venezuela
+samoa	located next to United States of America	in Oceania
+san marino	in landlocked	is north of Italy
+saudi arabia	is south of Iraq	in Asia
+senegal	located in next to ocean	above Gambia
+serbia	is west of Romania	right of Kosovo
+sierra leone	in Africa	above Liberia
+singapore	in next to ocean	in Asia
+slovakia	its next to Ukraine	below Czechia
+slovenia	below Hungary	right of Italy
+solomon islands	in Oceania	in next to ocean
+somalia	in eastern part of Africa	is south of Djibouti
+south africa	its next to Eswatini	is east of Namibia
+south korea	in north eastern part of Asia	its next to North Korea
+south sudan	located next to Democratic Republic of the Congo	located in landlocked
+spain	located next to Andorra	is north of Portugal
+sudan	its next to Chad	right of Central African Republic
+suriname	located in next to ocean	is south of French Guiana
+sweden	is south of Norway	in Europe
+switzerland	is east of France	in western part of Europe
+syria	is south of Turkey	right of Lebanon
+tajikistan	is east of Uzbekistan	is south of Kyrgyzstan
+tanzania	located next to Uganda	in eastern part of Africa
+thailand	right of Myanmar	is west of Cambodia
+the bahamas	in North America	in next to ocean
+the gambia	in Africa	located in next to ocean
+togo	located next to Burkina Faso	in next to ocean
+tonga	located next to United States of America	located in next to ocean
+trinidad and tobago	in North America	located next to Venezuela
+tunisia	left of Libya	in Africa
+turkey	in next to ocean	located next to Iraq
+turkmenistan	is south of Kazakhstan	its next to Iran
+uganda	its next to South Sudan	in Africa
+ukraine	located in next to ocean	in Europe
+united arab emirates	below Saudi Arabia	is north of Oman
+united kingdom	its next to Ireland	in western part of Europe
+united states of america	in Oceania	located next to Canada
+uruguay	is north of Argentina	its next to Brazil
+uzbekistan	is east of Turkmenistan	in central part of Asia
+vatican city	located in landlocked	located next to Italy
+venezuela	in South America	located next to France
+vietnam	located next to Laos	is north of Cambodia
+yemen	is east of Saudi Arabia	left of Oman
+zambia	is south of Tanzania	located next to Malawi
+zimbabwe	in eastern part of Africa	is north of Botswana
+afghanistan	right of Iran	in landlocked
+albania	left of Macedonia	in south eastern part of Europe
+algeria	below Tunisia	in next to ocean
+andorra	in landlocked	below France
+angola	right of Republic of the Congo	in central part of Africa
+argentina	located next to Chile	left of Uruguay
+armenia	left of Iran	in eastern part of Europe
+australia	located next to East Timor	in Oceania
+austria	located in landlocked	above Hungary
+azerbaijan	below Russia	right of Turkey
+bahrain	located in Middle east	in Asia
+bangladesh	left of Myanmar	in next to ocean
+belarus	located in landlocked	its next to Latvia
+belgium	right of France	left of Netherlands
+belize	in Central America	is east of Guatemala
+benin	in Africa	is east of Togo
+bhutan	above India	its next to People's Republic of China
+bolivia	located next to Paraguay	is south of Peru
+bosnia and herzegovina	above Montenegro	its next to European Union
+botswana	in southern part of Africa	left of Zimbabwe
+brazil	its next to Colombia	above Bolivia
+brunei	located in next to ocean	in south eastern part of Asia
+bulgaria	in south eastern part of Europe	is east of Serbia
+burkina faso	located next to Togo	is north of Benin
+burundi	below Rwanda	in eastern part of Africa
+cambodia	its next to Thailand	in Asia
+cameroon	below Chad	is north of Republic of the Congo
+canada	its next to United States of America	in North America
+central african republic	in Africa	in central part of Africa
+chad	in Africa	is south of Libya
+chile	in South America	is south of Peru
+colombia	located next to Peru	is north of Ecuador
+comoros	in Africa	in southern part of Africa
+costa rica	in North America	above Panama
+croatia	in south eastern part of Europe	in Europe
+cuba	located next to United States of America	is south of United States
+czech republic	in western part of Europe	located next to Austria
+democratic republic of the congo	in Africa	its next to Republic of the Congo
+denmark	in northern part of Europe	located in next to ocean
+djibouti	in Africa	in eastern part of Africa
+dominican republic	its next to Haiti	in next to ocean
+dominica	located next to Venezuela	located in next to ocean
+east timor	located next to Australia	located in next to ocean
+ecuador	in next to ocean	is north of Peru
+egypt	left of Israel	is east of Libya
+el salvador	right of Guatemala	is south of Honduras
+equatorial guinea	in Africa	located in next to ocean
+eritrea	is north of Sudan	in eastern part of Africa
+estonia	below Russia	in Europe
+eswatini	located next to South Africa	in Africa
+ethiopia	left of Somalia	in Africa
+federated states of micronesia	located next to United States of America	in Oceania
+finland	located in next to ocean	in northern part of Europe
+france	in Europe	above Italy
+gabon	located next to Equatorial Guinea	below Cameroon
+georgia	right of Turkey	located next to Russia
+germany	is south of Netherlands	is east of France
+ghana	its next to Togo	left of Togo
+greece	below Albania	in south eastern part of Europe
+grenada	located in next to ocean	in North America
+guatemala	is east of Mexico	in North America
+guinea-bissau	in western part of Africa	left of Senegal
+guinea	above Ivory Coast	in Africa
+guyana	is west of Suriname	located next to Brazil
+haiti	its next to Dominican Republic	above Dominican Republic
+honduras	is north of Nicaragua	located in Central America
+hungary	in landlocked	below Austria
+iceland	located in next to ocean	located next to Greenland
+india	is south of Bhutan	located in next to ocean
+indonesia	in south eastern part of Asia	below Malaysia
+iran	located next to Arab League	in Middle east
+iraq	its next to Iran	is west of Saudi Arabia
+ireland	in western part of Europe	in Europe
+israel	in Asia	above Egypt
+italy	located in next to ocean	located next to San Marino
+ivory coast	left of Ghana	its next to Mali
+japan	in Asia	in north eastern part of Asia
+jordan	located next to Syria	in next to ocean
+kazakhstan	in Europe	is north of Turkmenistan
+kenya	in eastern part of Africa	right of Uganda
+kingdom of denmark	in Europe	located next to Germany
+kingdom of the netherlands	located in next to ocean	its next to Belgium
+kiribati	located in next to ocean	its next to United States of America
+kuwait	located in next to ocean	is east of Iraq
+kyrgyzstan	left of China	below Kazakhstan
+laos	in Asia	is south of Myanmar
+latvia	located next to Russia	in Europe
+lebanon	in Asia	its next to Israel
+lesotho	located in landlocked	above South Africa
+liberia	right of Guinea	is south of Sierra Leone
+libya	right of Niger	is south of Tunisia
+liechtenstein	located next to Austria	located in landlocked
+lithuania	is south of Latvia	right of Poland
+luxembourg	in Europe	left of Germany
+madagascar	in next to ocean	located next to Comoros
+malawi	in eastern part of Africa	in Africa
+malaysia	its next to Philippines	is south of Thailand
+mali	is south of Mauritania	left of Burkina Faso
+malta	located next to Italy	in next to ocean
+marshall islands	in next to ocean	in Oceania
+mauritania	left of Algeria	in western part of Africa
+mexico	located next to Belize	below United States
+moldova	in south eastern part of Europe	is south of Ukraine
+monaco	in Europe	is east of France
+mongolia	in Asia	its next to People's Republic of China
+montenegro	its next to Croatia	is north of Albania
+morocco	its next to European Union	in northern part of Africa
+mozambique	right of Swaziland	is south of Malawi
+myanmar	in next to ocean	in south eastern part of Asia
+namibia	below Botswana	above South Africa
+nepal	located next to People's Republic of China	located in landlocked
+new zealand	located in next to ocean	located next to Australia
+nicaragua	left of Costa Rica	above Costa Rica
+nigeria	is south of Niger	in western part of Africa
+niger	is east of Mali	in western part of Africa
+north korea	left of South Korea	in next to ocean
+north macedonia	in Europe	in south eastern part of Europe
+norway	above Sweden	left of Russia
+oman	is north of Yemen	located next to United Arab Emirates
+pakistan	is north of India	located in next to ocean
+palau	its next to Philippines	in Oceania
+panama	is west of Colombia	in next to ocean
+papua new guinea	in next to ocean	in Oceania
+paraguay	below Brazil	located in landlocked
+people's republic of china	its next to Kyrgyzstan	located in next to ocean
+peru	left of Chile	is north of Brazil
+philippines	in Asia	in south eastern part of Asia
+poland	below Russia	is north of Germany
+portugal	located next to Castile and León	in next to ocean
+qatar	in Middle east	in Asia
+republic of cyprus	its next to Turkish Republic of Northern Cyprus	located in Cyprus
+republic of the congo	its next to Democratic Republic of the Congo	in Africa
+romania	located in next to ocean	in Europe
+russia	its next to South Ossetia	left of North Korea
+rwanda	in Africa	in eastern part of Africa
+saint kitts and nevis	its next to Venezuela	in North America
+saint lucia	located next to Venezuela	in North America
+saint vincent and the grenadines	in North America	in next to ocean
+samoa	in next to ocean	its next to United States of America
+san marino	is north of Italy	located next to European Union
+saudi arabia	in Middle east	is west of Qatar
+senegal	in next to ocean	is east of Gambia
+serbia	left of Macedonia	its next to Bosnia and Herzegovina
+sierra leone	in Africa	its next to Guinea
+singapore	located in next to ocean	located next to Indonesia
+slovakia	left of Ukraine	in Europe
+slovenia	is south of Hungary	in Europe
+solomon islands	in Oceania	in next to ocean
+somalia	located next to Djibouti	right of Ethiopia
+south africa	left of Lesotho	in southern part of Africa
+south korea	in Korean Peninsula	is east of North Korea
+south sudan	located next to Arab League	in landlocked
+spain	above Morocco	below France
+sudan	above Central African Republic	right of Chad
+suriname	located next to France	right of Guyana
+sweden	in Europe	its next to Denmark
+switzerland	is north of Italy	its next to Liechtenstein
+syria	is north of Jordan	is west of Iraq
+tajikistan	in central part of Asia	is east of Afghanistan
+tanzania	is north of Malawi	in eastern part of Africa
+thailand	left of Malaysia	right of Myanmar
+the bahamas	located next to United States of America	located in next to ocean
+the gambia	its next to Senegal	in next to ocean
+togo	in next to ocean	right of Ghana
+tonga	located next to United States of America	in Oceania
+trinidad and tobago	in North America	located in next to ocean
+tunisia	in next to ocean	located next to Libya
+turkey	its next to Azerbaijan	in Europe
+turkmenistan	is north of Iran	in central part of Asia
+uganda	is west of Tanzania	in Africa
+ukraine	in eastern part of Europe	located next to Poland
+united arab emirates	right of Saudi Arabia	its next to Oman
+united kingdom	is east of Ireland	is north of Ireland
+united states of america	in next to ocean	in North America
+uruguay	below Brazil	in South America
+uzbekistan	its next to Afghanistan	right of Turkmenistan
+vatican city	in landlocked	its next to European Union
+venezuela	located next to Colombia	in South America
+vietnam	is north of Cambodia	in south eastern part of Asia
+yemen	left of Oman	located next to Saudi Arabia
+zambia	in southern part of Africa	is north of Namibia
+zimbabwe	right of Botswana	its next to Zambia

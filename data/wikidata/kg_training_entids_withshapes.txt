@@ -1,0 +1,2591 @@
+100295.0   0
+10452.0   1
+120540.0   2
+1284000.0   3
+131957.0   4
+13812.0   5
+17125191.0   6
+17125200.0   7
+1759541.0   8
+185180.0   9
+2.02   10
+20273.0   11
+20770.0   12
+2250000.0   13
+28748.0   14
+301338.0   15
+316.0   16
+338424.38   17
+357400.0   18
+3d drawn 2d.   19
+42925.46   20
+475442.0   21
+505990.0   22
+51197.0   23
+56594.0   24
+64589.0   25
+65300.0   26
+783562.05296   27
+9242.45   28
+93011.4   29
+ASEAN   30
+Abu Dhabi   31
+Abuja   32
+Accra   33
+Addis Ababa   34
+Aden   35
+Adriatic Sea   36
+Aegean Sea   37
+Afghanistan   38
+Africa   39
+Akrotiri and Dhekelia   40
+Albania   41
+Alboran Sea   42
+Algeria   43
+Algiers   44
+Amman   45
+Amsterdam   46
+Andorra   47
+Andorra la Vella   48
+Angola   49
+Ankara   50
+Antananarivo   51
+Antigua and Barbuda   52
+Apia   53
+Arab League   54
+Arabian Peninsula   55
+Arctic Ocean   56
+Argentina   57
+Armenia   58
+Artsakh   59
+Ashgabat   60
+Asia   61
+Asmara   62
+Asunción   63
+Athens   64
+Atlantic Ocean   65
+Australia   66
+Austria   67
+Azerbaijan   68
+Baghdad   69
+Bahrain   70
+Baku   71
+Balkans   72
+Baltic Sea   73
+Baltic States   74
+Bamako   75
+Bandar Seri Begawan   76
+Bangkok   77
+Bangladesh   78
+Bangui   79
+Banjul   80
+Barbados   81
+Basseterre   82
+Beijing   83
+Beirut   84
+Belarus   85
+Belgium   86
+Belgrade   87
+Belize   88
+Belmopan   89
+Benin   90
+Berlin   91
+Bern   92
+Bhutan   93
+Bir Tawil   94
+Bishkek   95
+Bissau   96
+Black Sea   97
+Bloemfontein   98
+Bogota   99
+Bolivia   100
+Bosnia and Herzegovina   101
+Botswana   102
+Brasília   103
+Bratislava   104
+Brazil   105
+Brazzaville   106
+Bridgetown   107
+Brunei   108
+Brussels   109
+Bucharest   110
+Budapest   111
+Buenos Aires   112
+Bulgaria   113
+Burkina Faso   114
+Burkina faso   115
+Burundi   116
+Cairo   117
+Cambodia   118
+Cameroon   119
+Canada   120
+Canberra   121
+Cantabrian Sea   122
+Cape Town   123
+Cape Verde   124
+Caracas   125
+Castile and León   126
+Castries   127
+Catalonia   128
+Central Africa   129
+Central African Republic   130
+Central America   131
+Central Europe   132
+Central african republic   133
+Chad   134
+Chile   135
+China   136
+Chita Oblast   137
+Chișinău   138
+City of Monaco   139
+Colombia   140
+Colombo   141
+Columbia   142
+Comoros   143
+Conakry   144
+Copenhagen   145
+Costa Rica   146
+Costa rica   147
+Croatia   148
+Cuba   149
+Cyprus   150
+Czech Republic   151
+Czechia   152
+Dakar   153
+Damascus   154
+Danube   155
+Dead Sea   156
+Democratic Republic of the Congo   157
+Democratic republic of the congo   158
+Denmark   159
+Dhaka   160
+Dili   161
+Djibouti   162
+Dodoma   163
+Doha   164
+Dominica   165
+Dominican Republic   166
+Donetsk People's Republic   167
+Drava   168
+Dublin   169
+Dushanbe   170
+East China Sea   171
+East Timor   172
+Ecuador   173
+Egypt   174
+El Salvador   175
+El salvador   176
+Equatorial Guinea   177
+Equatorial guinea   178
+Eritrea   179
+Estonia   180
+Eswatini   181
+Ethiopia   182
+Eurasia   183
+Europe   184
+European Union   185
+Faroe Islands   186
+Federated States of Micronesia   187
+Fennoscandia   188
+Fertile Crescent   189
+Fiji   190
+Finland   191
+France   192
+Freetown   193
+French Guiana   194
+French guiana   195
+Funafuti   196
+Gabon   197
+Gaborone   198
+Gambia   199
+Gaza Strip   200
+Georgetown   201
+Georgia   202
+Germany   203
+Ghana   204
+Gibraltar   205
+Gitega   206
+Gran Colombia   207
+Greece   208
+Greenland   209
+Grenada   210
+Guadeloupe   211
+Guatemala   212
+Guatemala City   213
+Guinea   214
+Guinea-Bissau   215
+Guinea-bissau   216
+Gulf of Aqaba   217
+Gulf of Guinea   218
+Guyana   219
+Haiti   220
+Hanoi   221
+Harare   222
+Havana   223
+Helsinki   224
+Honduras   225
+Honiara   226
+Hungary   227
+Iberian Peninsula   228
+Iceland   229
+India   230
+Indonesia   231
+Ionian Sea   232
+Ipoly   233
+Iran   234
+Iraq   235
+Ireland   236
+Islamabad   237
+Israel   238
+Italy   239
+Ivory Coast   240
+Ivory coast   241
+Jakarta   242
+Jamaica   243
+Japan   244
+Jerusalem   245
+Jordan   246
+Jordan River   247
+Juba   248
+Kabul   249
+Kampala   250
+Kathmandu   251
+Kazakhstan   252
+Kenya   253
+Khartoum   254
+Khmer Republic   255
+Kiev   256
+Kigali   257
+Kingdom of Denmark   258
+Kingdom of the Netherlands   259
+Kingston   260
+Kingstown   261
+Kinshasa   262
+Kiribati   263
+Korean Peninsula   264
+Kosovo   265
+Kuala Lumpur   266
+Kuwait   267
+Kuwait City   268
+Kyrgyzstan   269
+La Paz   270
+Lake Balaton   271
+Lake Chad   272
+Lake Victoria   273
+Laos   274
+Latvia   275
+Lebanon   276
+Lechia   277
+Lesotho   278
+Levant   279
+Levantine Sea   280
+Liberia   281
+Liberland   282
+Libreville   283
+Libya   284
+Liechtenstein   285
+Ligurian Sea   286
+Lilongwe   287
+Lima   288
+Lisbon   289
+Lithuania   290
+Ljubljana   291
+Lobamba   292
+Lomé   293
+London   294
+Luanda   295
+Luhansk People's Republic   296
+Lusaka   297
+Luxembourg   298
+Macedonia   299
+Madagascar   300
+Madrid   301
+Majuro   302
+Malabo   303
+Malawi   304
+Malaysia   305
+Maldives   306
+Mali   307
+Malta   308
+Malé   309
+Managua   310
+Manama   311
+Manila   312
+Maputo   313
+Marshall Islands   314
+Maseru   315
+Mauritania   316
+Mauritius   317
+Mbabane   318
+Mediterranean Basin   319
+Mediterranean Sea   320
+Mexico   321
+Mexico City   322
+Middle east   323
+Minsk   324
+Mogadishu   325
+Moldova   326
+Monaco   327
+Mongolia   328
+Monrovia   329
+Montenegro   330
+Montevideo   331
+Morocco   332
+Moroni   333
+Moscow   334
+Mozambique   335
+Muscat   336
+Myanmar   337
+N'Djamena   338
+Nairobi   339
+Nakhchivan Autonomous Republic   340
+Namibia   341
+Nassau   342
+Nauru   343
+Naypyidaw   344
+Nepal   345
+Netherlands   346
+Netherlands Antilles   347
+Neusiedl Lake   348
+New Delhi   349
+New Zealand   350
+New caledonia   351
+New zealand   352
+Ngerulmud   353
+Niamey   354
+Nicaragua   355
+Nicosia   356
+Niger   357
+Nigeria   358
+North Africa   359
+North America   360
+North Korea   361
+North Macedonia   362
+North Sea   363
+North korea   364
+Northern Ireland   365
+Norway   366
+Nouakchott   367
+Nuku'alofa   368
+Nur-Sultan   369
+Occitania   370
+Oceania   371
+Oman   372
+Oslo   373
+Ottawa   374
+Ouagadougou   375
+Pacific Ocean   376
+Pakistan   377
+Palau   378
+Palestinian Territory   379
+Palikir   380
+Panama   381
+Panama City   382
+Papua New Guinea   383
+Papua new guinea   384
+Papuanewguinea   385
+Paraguay   386
+Paramaribo   387
+Paris   388
+People's Republic of China   389
+Persian Gulf   390
+Peru   391
+Philippines   392
+Phnom Penh   393
+Podgorica   394
+Poland   395
+Port Louis   396
+Port Moresby   397
+Port Vila   398
+Port of Spain   399
+Port-au-Prince   400
+Porto-Novo   401
+Portugal   402
+Prague   403
+Praia   404
+Pretoria   405
+Pridnestrovie   406
+Pyongyang   407
+Qatar   408
+Quito   409
+Rabat   410
+Red Sea   411
+Republic of Abkhazia   412
+Republic of Cyprus   413
+Republic of the Congo   414
+Republic of the congo   415
+Reykjavík   416
+Riga   417
+Riyadh   418
+Romania   419
+Rome   420
+Roseau   421
+Russia   422
+Rwanda   423
+Sahel   424
+Saint Kitts and Nevis   425
+Saint Lucia   426
+Saint Vincent and the Grenadines   427
+Samoa   428
+San José   429
+San Marino   430
+San Salvador   431
+Sana'a   432
+Santiago   433
+Santo Domingo   434
+Sarajevo   435
+Saudi Arabia   436
+Saudi arabia   437
+Saudi–Kuwaiti Neutral Zone   438
+Scandinavia   439
+Sea of Galilee   440
+Sea of Japan   441
+Senegal   442
+Seoul   443
+Serbia   444
+Seychelles   445
+Sierra Leone   446
+Sierra leone   447
+Singapore   448
+Skopje   449
+Slovakia   450
+Slovenia   451
+Sofia   452
+Solomon Islands   453
+Somalia   454
+South Africa   455
+South America   456
+South Korea   457
+South Ossetia   458
+South Sea   459
+South Sudan   460
+South Tarawa   461
+South africa   462
+South korea   463
+South sudan   464
+Southafrica   465
+Southern Europe   466
+Soviet Union   467
+Spain   468
+Sri Jayawardenepura Kotte   469
+Sri Lanka   470
+Sri lanka   471
+St. George's   472
+St. John's   473
+Stockholm   474
+Sucre   475
+Sudan   476
+Suriname   477
+Suva   478
+Svalbard   479
+Swaziland   480
+Sweden   481
+Switzerland   482
+Syria   483
+São Tomé   484
+São Tomé and Príncipe   485
+Taiwan   486
+Tajikistan   487
+Tallinn   488
+Tanzania   489
+Tashkent   490
+Tbilisi   491
+Tegucigalpa   492
+Tehran   493
+Thailand   494
+The Bahamas   495
+The Gambia   496
+Thimphu   497
+Timor Leste   498
+Tirana   499
+Tisza   500
+Togo   501
+Tokyo   502
+Tonga   503
+Trinidad and Tobago   504
+Tripoli   505
+Tunis   506
+Tunisia   507
+Turkey   508
+Turkish Republic of Northern Cyprus   509
+Turkmenistan   510
+Tuvalu   511
+Tyrrhenian Sea   512
+Uganda   513
+Ukraine   514
+Ulaanbaatar   515
+United Arab Emirates   516
+United Kingdom   517
+United States   518
+United States of America   519
+United arab emirates   520
+United kingdom   521
+United states   522
+Uruguay   523
+Uzbekistan   524
+Vaduz   525
+Valletta   526
+Vanuatu   527
+Vatican   528
+Vatican City   529
+Venezuela   530
+Victoria   531
+Vienna   532
+Vientiane   533
+Vietnam   534
+Vilnius   535
+Warsaw   536
+Washington, D.C.   537
+Wellington   538
+Western Sahara   539
+Western sahara   540
+Windhoek   541
+Yamoussoukro   542
+Yaoundé   543
+Yaren District   544
+Yellow Sea   545
+Yemen   546
+Yerevan   547
+Zagreb   548
+Zambia   549
+Zimbabwe   550
+a arrowhead   551
+a baby laying on their back and kicking their legs in the air   552
+a back view of a unicorn laying down and looking to the left.   553
+a bacon piece   554
+a badger tail   555
+a ballon   556
+a balloon   557
+a bat   558
+a bear from the side   559
+a bear head with one cropped ear   560
+a bear stretching   561
+a bear upside down   562
+a bee   563
+a belt buckle   564
+a beret   565
+a betel leaf   566
+a bigfoot   567
+a bird   568
+a bird carrying food flying upwards   569
+a bird chasing a dog   570
+a bird flying   571
+a bird flying in the sky   572
+a bird flying with the wings in a downward position   573
+a bird flying.   574
+a bird with a large belly.   575
+a bird with a tiny beak   576
+a bloated missile   577
+a boar   578
+a board   579
+a boat   580
+a boomerang   581
+a boot   582
+a boot with a lace   583
+a bottle   584
+a boulder   585
+a bouquet   586
+a bowl   587
+a box   588
+a box with a dent in it   589
+a boxing glove   590
+a boxing glove with spikes on it   591
+a boxy head of a dog.   592
+a bra   593
+a bridge   594
+a broken bust   595
+a broken egg   596
+a broken glass   597
+a broken up square   598
+a broken wafer   599
+a bug   600
+a building   601
+a building on fire   602
+a building with a flag on top   603
+a bull coming down   604
+a bulldozer   605
+a bunny   606
+a bunny rabbit with a broken ear   607
+a bus   608
+a cactus   609
+a can opener   610
+a captain with his arms crossed and a navy cap   611
+a car   612
+a car without the upper part   613
+a carrot   614
+a cartoon dinosaur head   615
+a cartoon dog's head   616
+a cartoon hand waving hello.   617
+a cartoon heart   618
+a cat ear shaped hat   619
+a cat eating a ball of food   620
+a cat jumping   621
+a caterpillar   622
+a caveman club   623
+a chair   624
+a chair in the swimming pool   625
+a chicken   626
+a chicken stretching it's leg   627
+a chicken strip   628
+a chicken thigh   629
+a chicken thigh and leg with jagged edges   630
+a chinese new year dragon with a few pieces broken off and left behind   631
+a chinless smiling cartoon man with goofy hair   632
+a circle   633
+a circle with a point at the top   634
+a circle with wavy edges   635
+a claw   636
+a claw in a vending machine game   637
+a cliff   638
+a closed fist   639
+a closed flower   640
+a cobra   641
+a cockatiel head   642
+a coiled snake   643
+a comb   644
+a compressed square.   645
+a cooked turkey leg   646
+a corkboard   647
+a court jester   648
+a cow   649
+a cow kissing a snail   650
+a cowpie   651
+a cows head   652
+a crab   653
+a crane   654
+a crow peeking out of a rectangle shaped window   655
+a crown   656
+a crushed can   657
+a cub   658
+a cup   659
+a dancing santa   660
+a dash   661
+a decorative hat   662
+a deer   663
+a deer head   664
+a deformed pancake   665
+a dented box   666
+a desk   667
+a devil with horns and a tail   668
+a diamond   669
+a dinosaur head   670
+a dinosaur with a hump walking to the left   671
+a disfigured square or rhombus with one of the corners stretched-out.   672
+a dog   673
+a dog lying on its back shaking water off   674
+a dog on point   675
+a dog standing on two-feet with the the front legs on a fence.   676
+a dog sweater   677
+a dog with a big snout facing down   678
+a dog's face   679
+a dolphin.   680
+a downward facing squiggly arrow   681
+a dragon   682
+a dragon head   683
+a dress   684
+a drill bit   685
+a drop of cream   686
+a duck   687
+a duck's foot   688
+a duster   689
+a face mask   690
+a fat dog   691
+a fat number seven   692
+a fat seal   693
+a feather duster   694
+a fetus   695
+a fire hydrant   696
+a fire spitting dragon   697
+a fish   698
+a fish fillet   699
+a fish with a lot of fins   700
+a fish with a missing fin   701
+a fist   702
+a fist pointing to left   703
+a flag with a stick laying sideways   704
+a flap with a short stick   705
+a flared up hat   706
+a flashlight   707
+a flock of geese flying in formation   708
+a fluffy heart   709
+a fly   710
+a fly swatter   711
+a flying bird.   712
+a flying phoenix on fire   713
+a foghorn   714
+a foot   715
+a forklift   716
+a fox   717
+a frog   718
+a fuzzy worm   719
+a garbage bag   720
+a gem   721
+a ghost   722
+a giraffe   723
+a goat sitting on a rock   724
+a gopher   725
+a gorilla   726
+a graduation cap with the tassel in the air   727
+a grain of salt   728
+a griffyn facing the side   729
+a guinea pig   730
+a guitar pick   731
+a gun   732
+a gun pointed down   733
+a hairstyle on a man's head   734
+a hammer   735
+a hammerhead shark   736
+a hamster   737
+a hand   738
+a hand fan   739
+a hand making a puppet face   740
+a hat   741
+a hat laying on its side with a boot on top   742
+a head and legs without a torso   743
+a head of a dog   744
+a headless bird flying upwards   745
+a heart   746
+a heart bleeding from the sides and the bottom   747
+a heart with bits going away from it   748
+a heart with flowers blooming from the top of one side.   749
+a heeled boot   750
+a hen   751
+a high heel   752
+a high heels shoe   753
+a hill   754
+a hippo   755
+a hippo head   756
+a hippo's head   757
+a horse drawn carriage   758
+a horse head eating a whole cabbage   759
+a horse's head   760
+a hot air balloon   761
+a hot water bottle   762
+a hot waterbottle   763
+a house   764
+a jar   765
+a jay bird sitting in a nest   766
+a jellyfish   767
+a jester's shoe   768
+a jewel   769
+a kanji character   770
+a kayak   771
+a key   772
+a kid with a hoodie with ears   773
+a kite   774
+a kite flying   775
+a kneeling woman   776
+a ladybug   777
+a lamp   778
+a large asteroid disintegrating as its passing through the atmosphere   779
+a large boulder that is sitting in a quarry   780
+a laughing head attached to feet running in the opposite direction   781
+a leaf   782
+a leech   783
+a leg   784
+a leprechaun face   785
+a letter l   786
+a life raft   787
+a liferaft   788
+a limbless pig   789
+a little person next to a big rock   790
+a lobster claw   791
+a log of wood.   792
+a lollipop   793
+a man facing down   794
+a man handing a woman a rose flower   795
+a man standing up peeing   796
+a man walking with a cap on   797
+a man wearing a hat   798
+a man with a ski-slope nose and two comically protruding lips   799
+a man with an open mouth and a small tuft of hair   800
+a mantaray   801
+a map   802
+a map you are here icon with a bite out of the top   803
+a medieval battle axe in profile   804
+a melting candle   805
+a menu   806
+a mirror image of the letter 'l'   807
+a misshapen rectangle   808
+a mit   809
+a mitten   810
+a monkey head   811
+a monkey's head   812
+a monster's fist with it's pointy index claw up as if to say come here   813
+a moose face   814
+a moose head   815
+a mosquito   816
+a mosqutio   817
+a mountain   818
+a mouse   819
+a moustache   820
+a mud puddle   821
+a mug   822
+a mullet hair cut   823
+a napkin flying around   824
+a nightstand.   825
+a nose   826
+a pack of dogs chasing a whale   827
+a pacman   828
+a pair of shorts   829
+a panthers head   830
+a paper after its been through a shredder   831
+a partial eaten heart lollipop on a stick.   832
+a partially chewed stick of gum   833
+a peacock   834
+a peacock head   835
+a pebble   836
+a pecan   837
+a pen   838
+a pencil   839
+a penguin   840
+a pentagon   841
+a person squatting down and pointing to the left.   842
+a person with arms outstretched   843
+a person with very short legs bending over to look at something   844
+a person's head blowing a bubble   845
+a person's side profile   846
+a persons head   847
+a phone   848
+a piece of bacon   849
+a piece of brocolli   850
+a piece of chicken tender   851
+a piece of paper   852
+a pig   853
+a pig being stabbed in the back   854
+a piggy bank whose shape is a boot   855
+a pipecleaner   856
+a placemat   857
+a plate   858
+a pointy heart   859
+a porcupine   860
+a porkchop   861
+a porpoises.   862
+a pot cooking with fire coming out of it   863
+a pouting head turning away from the viewer   864
+a praying mantis   865
+a precision insert tool for a machine.   866
+a pregnant lady with a cap   867
+a pregnant shiv   868
+a puddle that is misshapen   869
+a puppy   870
+a pyramid   871
+a queen's crown   872
+a rabbit   873
+a rabbit head   874
+a raccoon   875
+a raccoon with whiskers on its nose   876
+a raft   877
+a rain cloud   878
+a raised fist   879
+a raptor   880
+a rat   881
+a razorblade   882
+a rectangle   883
+a rectangle bending   884
+a rectangle that has dissolved   885
+a rectangle trying to stay together   886
+a rectangle with a dent in it   887
+a rectangle with a dent taken out of it   888
+a rectangle with a piece sticking out the bottom right   889
+a rectangle with a protrusion on the bottom right   890
+a rectangle with a small extension on top   891
+a red brick   892
+a rhino head   893
+a ribbon   894
+a robot   895
+a rock   896
+a rocket   897
+a rooster   898
+a roosters head   899
+a ruby   900
+a sawblade   901
+a sea horse with no tail   902
+a sea monster   903
+a sea serpent   904
+a sea shell standing on end   905
+a sea urchin   906
+a seal sun bathing with a flipper sticking up   907
+a shelf   908
+a ship   909
+a shipwreck   910
+a shirt   911
+a shoe   912
+a shuriken with 4 pointy edges   913
+a sideway staircase   914
+a sideways armadillo head   915
+a sideways bear   916
+a sideways bunny   917
+a sideways chicken   918
+a sideways cone   919
+a sideways ghost   920
+a sideways head   921
+a sideways heart   922
+a sideways leaf blower   923
+a sideways mug   924
+a sideways puppy   925
+a sideways rabbit   926
+a sideways rooster   927
+a sideways tank   928
+a sideways teacup   929
+a sideways triangle   930
+a sideways vest   931
+a sign   932
+a single shot rifle with a pistol grip.   933
+a sitting cat   934
+a skateboard   935
+a ski boot laying on its side.   936
+a skyscraper   937
+a slice of bread   938
+a slot machine   939
+a sloth   940
+a slug   941
+a slug in profile with one antennae   942
+a small bear   943
+a small duck sitting on a bears shoulders   944
+a small heart   945
+a small rectangle.   946
+a small red bird   947
+a smashed lobster   948
+a smile   949
+a snail   950
+a snail without a shell   951
+a snake   952
+a snake coming out of a box   953
+a snake.   954
+a snap dragon   955
+a snowplow   956
+a sock   957
+a sock puppet with a ponytail   958
+a solar panel   959
+a souvenir cup   960
+a speaker   961
+a speck of dust   962
+a spider   963
+a square   964
+a square breaking up to form smooth edges   965
+a square with a dent in it   966
+a square with decay on the top and right side   967
+a squirrel head eating a nut   968
+a squished flower   969
+a stalking   970
+a staple   971
+a stapler   972
+a star   973
+a steak   974
+a stick   975
+a stingray   976
+a stop sign   977
+a stoplight   978
+a straight line on top with two triangles underneath   979
+a strawberry   980
+a superhero   981
+a swimming pool   982
+a t-rex   983
+a talking man from the side   984
+a tall icecream cone   985
+a tattered tunic   986
+a tea kettle   987
+a teacup   988
+a tent   989
+a thermometer   990
+a thread   991
+a tiny mouse   992
+a tiny rectangle   993
+a tomato   994
+a tooth   995
+a torn up flag   996
+a tower   997
+a tractor   998
+a train   999
+a train going up a mountain.   1000
+a trapezoid   1001
+a triangle breaking up   1002
+a triangle with a dent on it's side   1003
+a triceratops head   1004
+a trophy   1005
+a truck   1006
+a tulip   1007
+a turkey   1008
+a turtle   1009
+a turtle with a small shell crawling up   1010
+a type of anteater   1011
+a tyrannosaurus   1012
+a unicorn kissing the air   1013
+a utility knife with a bump on one side   1014
+a v-shaped kite   1015
+a v-shaped kite tilted on it's side   1016
+a ver elegant gentleman with a hat   1017
+a vulture   1018
+a wall fit for a tiny animal   1019
+a war club   1020
+a warped rectangle   1021
+a wasp   1022
+a waterslide   1023
+a weird lion's face   1024
+a weirdly shaped rectangle with a tiny piece running away   1025
+a whale   1026
+a wide circus tent   1027
+a witch wearing a pointy hat drooping to the right   1028
+a wolf with a cauliflower coming out of it's head   1029
+a woman's high heeled dress  shoe   1030
+a women's upper body with missing arms   1031
+a wooden shoe   1032
+a worm   1033
+a worm.   1034
+a zig zag with an arrow head on one end.   1035
+abstract painting   1036
+acorn   1037
+advark   1038
+aerial view of mountain   1039
+airheads   1040
+airplane   1041
+aladinn's magic lamp without a way out tunnel.   1042
+alien   1043
+alligator   1044
+alligator head   1045
+alligator with mouth open   1046
+almond   1047
+alpaca   1048
+alsmost rectangular   1049
+ameoba   1050
+america   1051
+american foorball   1052
+amobea   1053
+amoeba   1054
+an acorn   1055
+an airplane   1056
+an almond   1057
+an amoeba about to split   1058
+an anteater   1059
+an anteater following a trail of ants   1060
+an anvil   1061
+an aquarium fish net with the handle on the top right   1062
+an arm in a fist   1063
+an arm throwing a boomerang   1064
+an arm with the hand giving a thumbs up   1065
+an army tank   1066
+an arrowhead   1067
+an arrowhead pointing down   1068
+an asteroid flying into the earth's atmosphere burning up with flames behind it   1069
+an axe   1070
+an eagle   1071
+an eagle hunting prey   1072
+an earring   1073
+an eel   1074
+an elephant   1075
+an elephant spraying water   1076
+an elephant walking on its four legs.   1077
+an elephants trunk   1078
+an emerald   1079
+an emu   1080
+an exaggerated clown smile   1081
+an ice pack   1082
+an ice-cream cone   1083
+an iceberg   1084
+an icecream cone   1085
+an icepick   1086
+an obese person's pants held up sideways   1087
+an oblong shape   1088
+an obstacle course with sharp twists along the way.   1089
+an octopus   1090
+an old pillow   1091
+an ostrich   1092
+an oval   1093
+an owl   1094
+an uneven rectangle with missing bits   1095
+an uneven square   1096
+an unshaped lake   1097
+an upright oscillating fan   1098
+an upside down bird with it's beak open   1099
+an upside down inspector gadget head   1100
+an upside down magician's hat   1101
+an upside down triangle   1102
+an upside-down walking eagle with its wings held open and back.   1103
+ancient scroll   1104
+angry turtle biting   1105
+animal skin rug   1106
+animels   1107
+ant   1108
+antlers on a deer   1109
+anukshuk   1110
+ariel   1111
+arizona   1112
+arm   1113
+arrow   1114
+article of faith scorpio   1115
+australia   1116
+australia is look like head of animal   1117
+axe   1118
+axe on wood   1119
+baby   1120
+baby elephant   1121
+backside of a cow   1122
+bacon   1123
+ball   1124
+ball cap   1125
+balloon   1126
+banana   1127
+bar bell   1128
+barbecue   1129
+barking dog   1130
+baseball bat   1131
+bat   1132
+bat in flight   1133
+bat wings   1134
+battered rectangle   1135
+battle tank   1136
+battleship   1137
+bean   1138
+bear   1139
+bear asleep   1140
+bear facing away from you   1141
+bear head   1142
+bearded goat   1143
+belt   1144
+bent arm holding out fist   1145
+better by design of isoceles triangle   1146
+betty boop doll   1147
+bib   1148
+bicep and clenched fist   1149
+billow of smoke   1150
+bird   1151
+bird flying   1152
+bird poop   1153
+bird's eye view of a hamster   1154
+bird's head   1155
+birds   1156
+blade   1157
+blanket spread   1158
+blast of an atom bomb   1159
+blood splatter   1160
+blood stain   1161
+blow dryer   1162
+boa constrictor   1163
+boat   1164
+boat in the water   1165
+body of  peacock   1166
+body of a gerbil   1167
+body of big   1168
+body of dog   1169
+bolo   1170
+boomerang   1171
+boot   1172
+boot kicking a ball   1173
+boot kicking some rocks   1174
+boots   1175
+bottle of dishwashing liquid (sideways)   1176
+bottle opener   1177
+bottom half of a mermaid   1178
+bottom half of mermaid   1179
+bowl   1180
+bowling pin   1181
+box   1182
+box with open lid   1183
+box with triangle on top   1184
+brick   1185
+broccoli   1186
+broccoli loaf   1187
+broken crab leg   1188
+broken potato chip   1189
+broken stones   1190
+broken window   1191
+broom   1192
+buffalo   1193
+bug   1194
+building falling apart   1195
+bulbasaur from pokemon   1196
+bullet   1197
+bullhorn   1198
+bunch of broccoli without any seen pieces when rotated to the left   1199
+burning flames   1200
+bush   1201
+bust statue   1202
+butter knife   1203
+butterfly   1204
+butterfly net   1205
+butterfly with open wings   1206
+camel   1207
+camel entering the woods   1208
+canada   1209
+candy heart   1210
+candy wrapper   1211
+cannon   1212
+cap   1213
+car   1214
+carpet spread on floor   1215
+carriage   1216
+carrot   1217
+carrot with two tips   1218
+cartoon man   1219
+cat   1220
+cat begging for a treat   1221
+cat head   1222
+cat nose   1223
+cat or tiger laying down   1224
+cat side profile   1225
+cat sleeping   1226
+cat with tail up   1227
+cat's paw   1228
+caterpillar   1229
+caterpiller   1230
+cauldron   1231
+caveman club   1232
+centipede   1233
+chair   1234
+chick   1235
+chicken   1236
+chicken foot   1237
+chicken head   1238
+chicken tender   1239
+chicken wing   1240
+chihuahua   1241
+child   1242
+chocolate bar   1243
+christmas stocking   1244
+christmas tree   1245
+chunk of cheese   1246
+chunk of marble that's been chiseled from   1247
+circle   1248
+claw   1249
+cleaver   1250
+cliff   1251
+closed fist   1252
+cloud   1253
+cloud shape   1254
+clouds   1255
+club   1256
+cobra   1257
+cocoon   1258
+comb   1259
+comet   1260
+comma   1261
+conch shell   1262
+cooking pot   1263
+corn dog   1264
+corn on the cob   1265
+country have too many edges   1266
+country looks like a broken toy   1267
+country looks like a camel on the ground   1268
+country looks like a dis formed rectangle   1269
+country looks like a histogram   1270
+country looks like a semi circle   1271
+country looks like a snail   1272
+country looks like too curvy square   1273
+coy fish   1274
+crab   1275
+crab claw   1276
+crab with arm out and claw open   1277
+crescent   1278
+crescent roll   1279
+cricket bat   1280
+crocodile   1281
+crooked heart   1282
+crooked road.   1283
+crouched over bigfoot giving a thumbs up   1284
+crow becoming eagle.   1285
+crow head   1286
+crumbs of bread   1287
+crystal skull   1288
+cuboid   1289
+cup with straw   1290
+curvy triangle   1291
+cyclinder   1292
+cylinder   1293
+cylindre   1294
+dachshund in pants   1295
+dachshund standing   1296
+dachshund standing on it's hind legs   1297
+dagger   1298
+dancing monkey   1299
+dead body   1300
+dementor   1301
+demolition tool used in construction   1302
+dented box   1303
+diamond   1304
+diamond cuts   1305
+diamond shape   1306
+dino head   1307
+dinosaur   1308
+dinosaur feasting on vegetation   1309
+dinosaur head   1310
+dinosaur's head   1311
+doberman's head   1312
+doesnt look like an animal   1313
+dog   1314
+dog head   1315
+dog looking to the right   1316
+dog lying on the ground   1317
+dog on ball   1318
+dog side profile   1319
+dog sitting in grass   1320
+dolphin   1321
+dolphin with hunchback   1322
+donkey   1323
+donkey head   1324
+dot   1325
+double candle holder   1326
+dragon   1327
+dragon without wings or arms   1328
+dress   1329
+drum stick   1330
+drum stick when rotated to the left   1331
+drumstick   1332
+duck   1333
+e.t. laying down   1334
+eagle head   1335
+earwig   1336
+easter island head   1337
+eel   1338
+egg   1339
+elephant   1340
+elephant head   1341
+elephant head with trunk   1342
+elephant side profile   1343
+elephant with its trunk out   1344
+elephant's trunk   1345
+elf boot with heart design coming out of it   1346
+elf shoe   1347
+elvis   1348
+engine block   1349
+enlarged lips   1350
+expo dry-erase marker   1351
+eyeball   1352
+eyebrow   1353
+face   1354
+face of a dog   1355
+face of a giant   1356
+face of a person   1357
+face turned sideways   1358
+fan   1359
+fancy boot   1360
+farmer's straw hat   1361
+fat chick   1362
+fat ghost   1363
+feather   1364
+feathers   1365
+fence   1366
+fetus   1367
+fetus in the womb   1368
+finger   1369
+fingers   1370
+fish   1371
+fish eating ball of fish food   1372
+fish eating food   1373
+fish hook   1374
+fist   1375
+flag   1376
+flag flapping in wind   1377
+flag waving in the wind   1378
+flame   1379
+flaming sword   1380
+flint arrow   1381
+flower   1382
+flower petal   1383
+flying saucer   1384
+folded page   1385
+forehand ready to receive something   1386
+forest fire   1387
+forg   1388
+fossilized lizard   1389
+fossils   1390
+fox   1391
+frankenstein's head   1392
+frog   1393
+front half of an airplane   1394
+garden hoe   1395
+genie coming out of the bottle   1396
+genie lantern   1397
+geodude from pokemon   1398
+geometric polygon   1399
+geometrical shape is pentagan   1400
+ghost   1401
+ginseng pearl   1402
+girl with a ponytail   1403
+glove   1404
+goat   1405
+godzilla   1406
+godzilla without a tail standing up with it's head on the top left   1407
+goldfish   1408
+goofy from disney   1409
+goose   1410
+gorilla sideways   1411
+graduation cap with tassel   1412
+grandmother standing   1413
+groundnut   1414
+group of animals discussing together   1415
+guinea pig   1416
+guitar plectrum   1417
+gym shorts   1418
+hair clip   1419
+hair piece   1420
+half oval   1421
+half shape cuboid   1422
+half shaped boat   1423
+half shaped square   1424
+hallway   1425
+hamburger top bun   1426
+hammer   1427
+hammer head   1428
+hammerhead shark   1429
+hammerhead shark swimming away and other fish trailing him   1430
+hamster   1431
+hand   1432
+hand fan   1433
+hand picking up a coin   1434
+hand with pointing finger   1435
+handle of a rifle   1436
+handle of a tool   1437
+harmonica   1438
+harp musical instrument   1439
+hat   1440
+hatchet   1441
+head   1442
+head of a bear looking out into woods   1443
+head of a bird   1444
+head of a boar   1445
+head of a camel   1446
+head of a cobra snake   1447
+head of a deer   1448
+head of a dinosaur   1449
+head of a dog   1450
+head of a dragon   1451
+head of a duck   1452
+head of a fox   1453
+head of a gorilla   1454
+head of a hippo   1455
+head of a horse   1456
+head of a lion   1457
+head of a man   1458
+head of a man looking down   1459
+head of a moose   1460
+head of a porcupine   1461
+head of a puppy   1462
+head of a rhinoceros   1463
+head of a t-rex   1464
+head of a turkey   1465
+head of a turtle   1466
+head of a wolf   1467
+head of a woman   1468
+head of aircraft   1469
+head of an anteater   1470
+head of an elephant   1471
+head of an ogre   1472
+head of the horse   1473
+head with jaw separated   1474
+head with tongue sticking out   1475
+heart   1476
+heart shape in reverse side   1477
+heart with bump on left side   1478
+helmet   1479
+hermit crab   1480
+high heal   1481
+high heel   1482
+high heel sandal   1483
+high heel shoe   1484
+high heel shoe on it's side   1485
+high-heeled hip length boot with hanging tassel   1486
+hill   1487
+hilt of a sword   1488
+hindu god ganesha   1489
+hippo head   1490
+hippo's head   1491
+honeycomb   1492
+hook   1493
+hook hand   1494
+horse   1495
+horseshoe crap   1496
+hot air ballon   1497
+hot dog   1498
+hot water bottle   1499
+hotdog   1500
+howling wolf's head   1501
+human arm   1502
+human bird hybrid   1503
+human heart   1504
+humpback whale   1505
+hurricane on weather map   1506
+hut   1507
+i look like animals are very good.   1508
+ice cream (on top of a cone)   1509
+ice cream cone   1510
+ice melting   1511
+ice pick   1512
+iceberg breaking   1513
+if we see it upside down it looks like a tiger   1514
+ilike that country   1515
+india is like triangle   1516
+indian god hanuman flying with mountain.   1517
+insects   1518
+inverted rhombus   1519
+inverted staircase   1520
+irregular trapezoid shape   1521
+it also like like a bowl   1522
+it also look like a graphic shape   1523
+it also looks like boat   1524
+it doesnt look geometrical   1525
+it look like a chess coin   1526
+it look like a fire ball   1527
+it look like a fullstop   1528
+it look like a half shape of a human face   1529
+it look like a man standing   1530
+it look like a opened book   1531
+it look like a rabbit   1532
+it look like a small dot   1533
+it look like a small pinch   1534
+it looks like a 5 sided polygon with rough edges all around the top three sides   1535
+it looks like a aeroplane   1536
+it looks like a arrow   1537
+it looks like a arrow mark   1538
+it looks like a axe   1539
+it looks like a baby dinosaur facing down   1540
+it looks like a baseball bat   1541
+it looks like a basket   1542
+it looks like a bat   1543
+it looks like a bear   1544
+it looks like a bear claw   1545
+it looks like a bird   1546
+it looks like a bird on flight   1547
+it looks like a boat   1548
+it looks like a boat anchor.   1549
+it looks like a book   1550
+it looks like a boomerang   1551
+it looks like a boot laying on it's side   1552
+it looks like a boot or shoe   1553
+it looks like a bottle opener   1554
+it looks like a box   1555
+it looks like a bridge   1556
+it looks like a buffalo head facing to the left   1557
+it looks like a building   1558
+it looks like a bus   1559
+it looks like a car   1560
+it looks like a caribou with a large body and antlers on the right   1561
+it looks like a cartoon   1562
+it looks like a chef   1563
+it looks like a chicken leg   1564
+it looks like a chimney   1565
+it looks like a chinese letter   1566
+it looks like a chocolate   1567
+it looks like a circle with a triangle on the side.   1568
+it looks like a cloud   1569
+it looks like a crown   1570
+it looks like a diamond   1571
+it looks like a dinosaur   1572
+it looks like a dinosaur skull   1573
+it looks like a distorted heart   1574
+it looks like a dog   1575
+it looks like a dog's head.   1576
+it looks like a dolphin   1577
+it looks like a dot   1578
+it looks like a dragon   1579
+it looks like a dress   1580
+it looks like a duck   1581
+it looks like a eagle's face   1582
+it looks like a face   1583
+it looks like a face of a man   1584
+it looks like a factory   1585
+it looks like a family crest   1586
+it looks like a fire   1587
+it looks like a firebird   1588
+it looks like a fish   1589
+it looks like a fish.   1590
+it looks like a flame   1591
+it looks like a flattened  spade.   1592
+it looks like a flight   1593
+it looks like a flower   1594
+it looks like a fly   1595
+it looks like a flying bird   1596
+it looks like a forest   1597
+it looks like a fully geared knight   1598
+it looks like a goat face   1599
+it looks like a golf tee   1600
+it looks like a grocery bag   1601
+it looks like a gun   1602
+it looks like a hand   1603
+it looks like a hand grenade.   1604
+it looks like a hat   1605
+it looks like a heart   1606
+it looks like a heart with a larger left lobe   1607
+it looks like a hershey kiss candy.   1608
+it looks like a hexagon with improper side   1609
+it looks like a honeycomb   1610
+it looks like a hot air ballon   1611
+it looks like a human heart   1612
+it looks like a jalapeno pepper   1613
+it looks like a jar   1614
+it looks like a jurassic   1615
+it looks like a kidney bean   1616
+it looks like a kite   1617
+it looks like a lamp   1618
+it looks like a leaf   1619
+it looks like a little demon with horns and an open mouth   1620
+it looks like a little rectangle   1621
+it looks like a lotus   1622
+it looks like a man   1623
+it looks like a man celebrating   1624
+it looks like a man sitting   1625
+it looks like a man sitting on a chair   1626
+it looks like a man smiling   1627
+it looks like a money bag   1628
+it looks like a mosquito   1629
+it looks like a mountain   1630
+it looks like a parrot   1631
+it looks like a pearl   1632
+it looks like a penguin   1633
+it looks like a piano   1634
+it looks like a piece of bitten cake   1635
+it looks like a piece of meat   1636
+it looks like a pig   1637
+it looks like a pocket knife   1638
+it looks like a prawn   1639
+it looks like a rabbit   1640
+it looks like a rat   1641
+it looks like a rectangle   1642
+it looks like a reindeer with no legs and an ornate antlers pattern   1643
+it looks like a river   1644
+it looks like a road   1645
+it looks like a rock   1646
+it looks like a scorpion   1647
+it looks like a scorpion sting   1648
+it looks like a sea horse   1649
+it looks like a sharp metal   1650
+it looks like a sharp stone   1651
+it looks like a shield   1652
+it looks like a ship   1653
+it looks like a shoe   1654
+it looks like a smoke   1655
+it looks like a snail   1656
+it looks like a snail.   1657
+it looks like a snake   1658
+it looks like a sock   1659
+it looks like a sofa   1660
+it looks like a spin   1661
+it looks like a spoon   1662
+it looks like a sports car with a spoiler.   1663
+it looks like a squirrel   1664
+it looks like a star   1665
+it looks like a star fish   1666
+it looks like a sumo wrestler   1667
+it looks like a superman   1668
+it looks like a swan   1669
+it looks like a sword   1670
+it looks like a table   1671
+it looks like a table ornament.   1672
+it looks like a tea cup   1673
+it looks like a tea pot   1674
+it looks like a tear drop   1675
+it looks like a teardrop.   1676
+it looks like a thump's up   1677
+it looks like a tooth   1678
+it looks like a toucan's beak   1679
+it looks like a tower   1680
+it looks like a train   1681
+it looks like a tree   1682
+it looks like a triangle   1683
+it looks like a triangle with a curve-shaped segment taken out of the middle   1684
+it looks like a vacuum   1685
+it looks like a villain's mask   1686
+it looks like a war tank   1687
+it looks like a whale   1688
+it looks like a witch   1689
+it looks like a witch cap   1690
+it looks like a wolf face   1691
+it looks like a woman   1692
+it looks like a zit   1693
+it looks like aircraft   1694
+it looks like aladdin on a magic carpet   1695
+it looks like an anval   1696
+it looks like an arrow   1697
+it looks like an arrowhead recently dug up from the soil   1698
+it looks like an ascending butterfly   1699
+it looks like an eagle head   1700
+it looks like an elf hat with a face in it   1701
+it looks like an insect   1702
+it looks like an oval   1703
+it looks like an upside down pyramid   1704
+it looks like an upside down throne   1705
+it looks like bird   1706
+it looks like building   1707
+it looks like curve   1708
+it looks like dragon   1709
+it looks like dried crumpled leaf   1710
+it looks like floating pieces of ice   1711
+it looks like fractured glass.   1712
+it looks like rabbit   1713
+it looks like santa clause   1714
+it looks like snake   1715
+it looks like square   1716
+it looks like stairs   1717
+it looks like the head of some graduating from school.   1718
+it looks like the outline of a face   1719
+it looks like the shape of a whistle.   1720
+it looks like the skull of an animal   1721
+it looks like the state of georgia   1722
+it looks the head of a dog.   1723
+italy   1724
+its almost like a rock shape   1725
+its great to see animals.   1726
+its look like snake shape   1727
+its look snail   1728
+its the hen chicken shape   1729
+its the hexane shape   1730
+its the zig zag shape   1731
+iud   1732
+jack-o-lantern with one really strong arm.   1733
+jackalope   1734
+jackhammer   1735
+jackson pollock's work   1736
+japan   1737
+jar   1738
+jellyfish   1739
+jenga blocks about to fall down   1740
+jester   1741
+jumping cat   1742
+jumping rabbit   1743
+kangaroo   1744
+kangaroo standing up   1745
+kangaroo with babies in pouch   1746
+kangeroo   1747
+ketchup coming out of bottle   1748
+key   1749
+key hole   1750
+kicking a rock   1751
+kidney   1752
+kidney bean   1753
+kite   1754
+kite with tail   1755
+kite without tail   1756
+knee high boot with a very curled toe   1757
+knife   1758
+knife and vegetables   1759
+knitted cap   1760
+ladle   1761
+lamp shade   1762
+lamp with lamp shade   1763
+landing pad   1764
+landlocked   1765
+large   1766
+larvae   1767
+leaf   1768
+leaky square   1769
+leaning tower   1770
+ledge   1771
+lego   1772
+licorice candy   1773
+light bulb   1774
+lightening bolt with the bottom cut off   1775
+lightning   1776
+like a cactus in the desert.   1777
+like a fist raised in defiance.   1778
+like a yoke for horses   1779
+like an arm being raised by a drowning man.   1780
+like johnny bravos head   1781
+lion head   1782
+lion's head   1783
+lioness attacks a mountain cat while sheep watches   1784
+lips   1785
+liquid going down a shower drain   1786
+liver   1787
+lizard   1788
+llama   1789
+lobster   1790
+lobster claw   1791
+lollipop   1792
+long   1793
+long and thin with a curve at  the bottom.   1794
+long leaf   1795
+long oval   1796
+longtail stingray   1797
+looks a sheep with small legs   1798
+looks like  a coonskin hat   1799
+looks like 3/4 of a heart.   1800
+looks like a  ship.   1801
+looks like a baby bird screaming   1802
+looks like a baby bird trying to fly   1803
+looks like a baby goldfish cracker   1804
+looks like a backwards check mark.   1805
+looks like a banian   1806
+looks like a bat   1807
+looks like a beaker   1808
+looks like a bear carrying baby on its dorsal region   1809
+looks like a bear hugging a bird   1810
+looks like a bear.   1811
+looks like a binder indexing tab   1812
+looks like a bird flying   1813
+looks like a bird in a nest   1814
+looks like a bird with a long beak   1815
+looks like a bison   1816
+looks like a bleeding hand   1817
+looks like a bloated cross.   1818
+looks like a boat that is going  to be capsized to the left   1819
+looks like a boomerang   1820
+looks like a boot   1821
+looks like a bottle opener.   1822
+looks like a boxer flexing his fist in a boxing glove   1823
+looks like a breath freshening strip   1824
+looks like a broccoli   1825
+looks like a bullet with a bump on the left   1826
+looks like a buttermilk biscuit   1827
+looks like a camel head.   1828
+looks like a candle flame turned on its side   1829
+looks like a capital f   1830
+looks like a capital j.   1831
+looks like a cat with an outstretched paw   1832
+looks like a chicken leg   1833
+looks like a chiclet   1834
+looks like a child's kite   1835
+looks like a child's lego   1836
+looks like a child's mitten   1837
+looks like a clothes iron   1838
+looks like a clown popping out from a windup toy box   1839
+looks like a comb   1840
+looks like a conch shell.   1841
+looks like a cow from above.   1842
+looks like a cow.   1843
+looks like a crazy cow head with a long neck facing to the left wearing sunglasses and with the wind blowing its mane all over.   1844
+looks like a crown on its side   1845
+looks like a cut gemstone   1846
+looks like a cut up crew neck shirt   1847
+looks like a deflated soccer ball   1848
+looks like a deformed cardboard box   1849
+looks like a dented triangle   1850
+looks like a dirt bike racing head protection helmet.   1851
+looks like a dishwashing glove   1852
+looks like a dog   1853
+looks like a dog growlling   1854
+looks like a dog napping with its head down   1855
+looks like a dog with its head down   1856
+looks like a dolphin with its tail cut off   1857
+looks like a dorito   1858
+looks like a dreidel   1859
+looks like a duck sitting   1860
+looks like a dumbell   1861
+looks like a faceted diamond on it's side   1862
+looks like a fat cat   1863
+looks like a fetus in the womb   1864
+looks like a fingernail clipping   1865
+looks like a fire extinguisher snuffing out flames   1866
+looks like a firecracker explosion   1867
+looks like a firefox   1868
+looks like a fish   1869
+looks like a fish jumping out from the water   1870
+looks like a fish without a tail.   1871
+looks like a fish.   1872
+looks like a fist bump.   1873
+looks like a fist giving the middle finger   1874
+looks like a flag blowing in the wind vertically.   1875
+looks like a flat crab.   1876
+looks like a fleck.   1877
+looks like a flying bat   1878
+looks like a flying bird   1879
+looks like a flying foot   1880
+looks like a flying irregular bat   1881
+looks like a fruit bat   1882
+looks like a gas can   1883
+looks like a golf tee   1884
+looks like a goose   1885
+looks like a gopher emerging from the ground   1886
+looks like a graceless swan   1887
+looks like a granade   1888
+looks like a gun   1889
+looks like a hairbow   1890
+looks like a hammer with a tail   1891
+looks like a hand reaching out for a dollar bill   1892
+looks like a hand saw   1893
+looks like a harpoon   1894
+looks like a hat for santa claus   1895
+looks like a head in a bowl   1896
+looks like a head with a face on both sides   1897
+looks like a head with a horn on top   1898
+looks like a heart   1899
+looks like a heart.   1900
+looks like a helicopter   1901
+looks like a hen   1902
+looks like a high-heeled boot.   1903
+looks like a hippopotamus with water swirling underneath but upside down.   1904
+looks like a hockey puck   1905
+looks like a hockey stick.   1906
+looks like a hook   1907
+looks like a hookworm   1908
+looks like a horse pulling a carriage.   1909
+looks like a horse with a very unkempt mane   1910
+looks like a horse with a wavy mane   1911
+looks like a horse's tail   1912
+looks like a horseshoe crab with a tiny tail   1913
+looks like a howling wolf head on a long totem.   1914
+looks like a hypen.   1915
+looks like a jet   1916
+looks like a key   1917
+looks like a keyhole   1918
+looks like a kite   1919
+looks like a kitten bowing its head   1920
+looks like a knight in a game of chess   1921
+looks like a koala   1922
+looks like a ladel   1923
+looks like a lego   1924
+looks like a letter in an envelope   1925
+looks like a lion   1926
+looks like a lizard opening its mouth   1927
+looks like a lizard standing on its feet   1928
+looks like a lobster waving its claws   1929
+looks like a man blowing a trumpet   1930
+looks like a man who's sprinting on a track   1931
+looks like a matzo ball   1932
+looks like a matzo cracker   1933
+looks like a meatball   1934
+looks like a melting scoop of ice cream   1935
+looks like a microbe   1936
+looks like a mini traffic cone   1937
+looks like a missile with a bump on the left   1938
+looks like a monopoly deed card   1939
+looks like a mothership   1940
+looks like a mouse   1941
+looks like a nightcap   1942
+looks like a note being passed in class   1943
+looks like a oddly shaped heart   1944
+looks like a pacman   1945
+looks like a pair of kitchen shears   1946
+looks like a pair of winter gloves   1947
+looks like a pancake with bites taken out around the sides   1948
+looks like a parrot   1949
+looks like a pen cap   1950
+looks like a pentagon with inward pointing   1951
+looks like a person's head with flowing hair   1952
+looks like a persons profile   1953
+looks like a piece of confetti   1954
+looks like a piece of diamond jewelry   1955
+looks like a piece of flint   1956
+looks like a piece of french toast   1957
+looks like a piece of sausage on a pizza   1958
+looks like a pointed foam finger   1959
+looks like a polar bear   1960
+looks like a polygon   1961
+looks like a popped kernel of corn   1962
+looks like a porcupine   1963
+looks like a post-it flag   1964
+looks like a pot of soup being poured into a bowl   1965
+looks like a potbelly pig   1966
+looks like a profile   1967
+looks like a profile of the grinch who stole christmas.   1968
+looks like a rabbit   1969
+looks like a rabbit standing on its hind legs   1970
+looks like a rat   1971
+looks like a real estate sign   1972
+looks like a reclined chair   1973
+looks like a recliner   1974
+looks like a rectangle that is clubbed with a triangle on its right side is attached to a heart shape with two small legs which are polygonal in shape   1975
+looks like a red cloud scattered in the sky   1976
+looks like a red shoe   1977
+looks like a red sock   1978
+looks like a reverse explanation point.   1979
+looks like a running animal   1980
+looks like a running dinosaur   1981
+looks like a running dog   1982
+looks like a saggy pillow   1983
+looks like a sanitary napkin   1984
+looks like a scratch.   1985
+looks like a screaming face sideways.   1986
+looks like a sea horse   1987
+looks like a semi-colon.   1988
+looks like a shark head   1989
+looks like a sheep's head looking north.   1990
+looks like a ship   1991
+looks like a shred of cheese   1992
+looks like a sideways cake   1993
+looks like a sideways highheel shoe   1994
+looks like a sideways snow boot   1995
+looks like a slab of pizza dough   1996
+looks like a slice of pizza dripping with cheese   1997
+looks like a small boy holding a  hoe for tilling earth   1998
+looks like a small boy holding a pennant   1999
+looks like a small candle flame   2000
+looks like a small chic   2001
+looks like a small motor boat   2002
+looks like a small ship with a flag on top   2003
+looks like a snail   2004
+looks like a snake   2005
+looks like a snake.   2006
+looks like a sneaker with wings on it   2007
+looks like a sock   2008
+looks like a soup spoon   2009
+looks like a space invader   2010
+looks like a spiral   2011
+looks like a splotch of spilled paint   2012
+looks like a sprinkle on a cupcake   2013
+looks like a sprouting lima bean.   2014
+looks like a squashed pentagon   2015
+looks like a squirrel with a really fluffy tail   2016
+looks like a star   2017
+looks like a statuette   2018
+looks like a stocking   2019
+looks like a stop sign that's been bent out of shape   2020
+looks like a strapless bra   2021
+looks like a street corner with buildings   2022
+looks like a strip of fraying tape   2023
+looks like a submarine   2024
+looks like a suburban family-style house   2025
+looks like a suit tie   2026
+looks like a tail and hind legs of a beaver.   2027
+looks like a tea cake   2028
+looks like a teapot blowing steam.   2029
+looks like a tent on the side of a hill   2030
+looks like a the head of a dinosaur   2031
+looks like a thumbtack   2032
+looks like a tiger   2033
+looks like a toilet plunger   2034
+looks like a toppled christmas tree.   2035
+looks like a torn piece of fabric   2036
+looks like a tortoise tilting its head upwards   2037
+looks like a tree   2038
+looks like a triangle   2039
+looks like a trophy   2040
+looks like a tube of lipstick   2041
+looks like a tulip blossom turned on its side   2042
+looks like a tulip that's about to bloom   2043
+looks like a ufo   2044
+looks like a vacuum sucking up a puddle   2045
+looks like a volkswagen   2046
+looks like a wagon   2047
+looks like a watering can dispensing water into a potted plant   2048
+looks like a waving flag   2049
+looks like a whale   2050
+looks like a whale with water coming out.   2051
+looks like a wolf   2052
+looks like a wrinkled dinner napkin   2053
+looks like aladdin's magic carpet.   2054
+looks like an alien spaceship   2055
+looks like an alligator.   2056
+looks like an amoeba   2057
+looks like an animal head   2058
+looks like an animal with just the tail showing   2059
+looks like an anteater.   2060
+looks like an anvil   2061
+looks like an army tank.   2062
+looks like an arrow head   2063
+looks like an arrowhead.   2064
+looks like an artist's chisel   2065
+looks like an egg   2066
+looks like an elephant's face without the trunk   2067
+looks like an elf ear   2068
+looks like an ice chip   2069
+looks like an ice cream cone without a scoop in it   2070
+looks like an ice cream cone.   2071
+looks like an inflated balloon with short strands attached to it.   2072
+looks like an inverted statue of a person.   2073
+looks like an obese human's hand   2074
+looks like an octopus holding a fish   2075
+looks like an oven mitt   2076
+looks like an overgrown tree trunk   2077
+looks like an upside down church   2078
+looks like an upside down cupcake liner   2079
+looks like an upside down frown   2080
+looks like an upside down ghost   2081
+looks like an upside down l   2082
+looks like an upside down triangle   2083
+looks like animal dung at the zoo   2084
+looks like batman's mask   2085
+looks like fragments of dried blood   2086
+looks like head of a peacock   2087
+looks like horse   2088
+looks like ice cream in a bowl   2089
+looks like japanese kanji.   2090
+looks like letter v   2091
+looks like meatwad from adult swim   2092
+looks like number 7   2093
+looks like octagon with legs   2094
+looks like pinocchio when he's lying   2095
+looks like shredded paper   2096
+looks like shrimp cocktail   2097
+looks like slime on halloween   2098
+looks like some blades of grass   2099
+looks like spikes   2100
+looks like spilled milk   2101
+looks like the bottom half of a face   2102
+looks like the devil hiding but showing his pointed tail   2103
+looks like the flame of a fire   2104
+looks like the great wall of china side ways   2105
+looks like the head of a bear with the mouth wide open   2106
+looks like the head of a falcon on a tilted angle   2107
+looks like the head of a koala bear   2108
+looks like the head of a mouse   2109
+looks like the head of an elephant   2110
+looks like the hut on the pizza hut logo   2111
+looks like the leg and foot of a bear.   2112
+looks like the letter l.   2113
+looks like the letter t   2114
+looks like the lorax from the dr. seuss book   2115
+looks like the nickelodeon logo   2116
+looks like the number seven   2117
+looks like the open blades of a pair of scissors   2118
+looks like the shape of a dolphin   2119
+looks like the shape of a humpback whale   2120
+looks like the shape of an almond   2121
+looks like the side of one of those camera film containers from the 89's and 90's.   2122
+looks like the sideview of a rooster.   2123
+looks like the siren on top of a police car   2124
+looks like the top half of a man laying on his back with leaves falling onto his chest.   2125
+looks like two buckets kept near on sand fully filled with soil and some soil is trailing from the upside down bucket   2126
+looks like wings   2127
+looks oval   2128
+lower body   2129
+lung   2130
+magic hat   2131
+magic wand   2132
+mammoth   2133
+man in the moon face   2134
+man with long nose and arm extended   2135
+manatee   2136
+manta ray   2137
+maple leaf   2138
+maple seed   2139
+maybe a tyrannosaurus rex   2140
+medium   2141
+meerkat   2142
+melted heart candy   2143
+men's large arm   2144
+mice   2145
+military tank   2146
+mini van   2147
+mishapen rectangle   2148
+mitten   2149
+mixie   2150
+monkeys   2151
+moose   2152
+moose eating grass   2153
+moose head   2154
+mosquito bat   2155
+moth in flight   2156
+mountain   2157
+mountain range   2158
+mountain skyline   2159
+mountains   2160
+mouse ears   2161
+mouse face   2162
+mouse head   2163
+mouse upside down   2164
+moustache   2165
+mouth and adam’s apple. you also see he is wearing a hat.   2166
+muscle arm   2167
+mushroom   2168
+music note   2169
+musical note   2170
+mustache   2171
+nail   2172
+nan   2173
+narrow   2174
+nebraska is a midwestern u.s. state encompassing the prairies of the great plains   2175
+necktie   2176
+needle   2177
+newborn puppy with tiny tail wagging in back   2178
+next to ocean   2179
+no comments   2180
+norwhal   2181
+nose   2182
+not geometric   2183
+number seven   2184
+nut   2185
+nyan reindeer   2186
+object on fire   2187
+objects   2188
+obscure telephone handset   2189
+occarina   2190
+octopus   2191
+ogre   2192
+oil spill   2193
+oil spill from australian ship   2194
+old hobo boot   2195
+on the way it look like a women standing   2196
+one animal sitting on top of another animal   2197
+one is angry and the other surprised   2198
+one of the big stone heads on easter island   2199
+one of those lantern fish that live in the bottom of the ocean.   2200
+open book   2201
+open mouthed bird   2202
+open sack of rice   2203
+opened utility knife   2204
+oval   2205
+oval with a strong tip   2206
+oven mit   2207
+overweight dragon   2208
+pac man   2209
+paint scraper   2210
+paint splattered on the floor   2211
+pair of boots with dress   2212
+panda   2213
+panda head   2214
+panther head with two wiskers on the bottom   2215
+paperclip   2216
+parallelogram   2217
+parallelogram with a chunk missing   2218
+parrot   2219
+pasta   2220
+peace of log   2221
+peacock   2222
+peanut   2223
+pebble   2224
+peep candy   2225
+pelican beak   2226
+pencil   2227
+penguin   2228
+penis   2229
+pentagon   2230
+pentagon with a dent   2231
+pepe the frog with an extended right leg   2232
+pepper   2233
+person eating an apple   2234
+person opening their mouth.   2235
+person sitting in a chair   2236
+person streching   2237
+person stretching hand out   2238
+phone   2239
+piece of cake   2240
+pig   2241
+pig head   2242
+pig side profile   2243
+pig standing up   2244
+piggy bank   2245
+pigtails hairstyle   2246
+pill   2247
+pimples   2248
+pine cone   2249
+ping pong paddle with a dent in the bottom left corner   2250
+pinhead   2251
+pipe fish   2252
+pizza   2253
+plasma   2254
+playground   2255
+pointing finger   2256
+pony   2257
+porcupine with lowered   2258
+portly man swimming in water   2259
+pot   2260
+procupine   2261
+profile of a dog's head (norwich terrier)   2262
+profile of face   2263
+puerto rico   2264
+puppy   2265
+puzzle pieces   2266
+rabbit   2267
+rabbit lying down   2268
+rabbit side profile   2269
+rabbit standing on its back legs   2270
+rain   2271
+raised arm   2272
+ramp   2273
+rectangle   2274
+rectangle with a dent in it   2275
+rectangle with dent at the top   2276
+rectangular in shape   2277
+red whale   2278
+rice heap on indian banana leaf   2279
+roaring   2280
+roasted pig   2281
+robot waling towards you   2282
+rock   2283
+rocket   2284
+rolling cloud   2285
+rook chess piece   2286
+rooster   2287
+rope   2288
+rose   2289
+rose petal   2290
+rotated carrot   2291
+rotated man walking   2292
+round   2293
+rubber ducky   2294
+running bear   2295
+running rabbit   2296
+rutabaga   2297
+sad star   2298
+sad tree   2299
+sand drifting away   2300
+santa carrying a sack of gifts   2301
+saxophone   2302
+scarf   2303
+scissors   2304
+scraper tool used by painters   2305
+screw   2306
+screw pointing up   2307
+scuba diver   2308
+scuba diving goggles upside down   2309
+sea dragon   2310
+sea horse   2311
+sea kelp growing outwards towards the atlantic ocean   2312
+sea shell   2313
+seagull   2314
+seahorse   2315
+seahorse head   2316
+seal   2317
+seems like jelly   2318
+seems like pizza   2319
+semi circle   2320
+serving tray   2321
+shadows on statue of liberty   2322
+shape   2323
+shape is elongated oval like   2324
+shape of duck`   2325
+shaped like a bumpy slug   2326
+shaped like a flower   2327
+shark   2328
+shattered glass   2329
+shaver   2330
+sheep   2331
+sheep meeting a dinosaur   2332
+shell   2333
+ship   2334
+shoe   2335
+shoe with big toe area   2336
+short-armed   2337
+shorts   2338
+shovel   2339
+side of skull with mouth open   2340
+side profile of a beaver tail shaking off water   2341
+side profile of a man   2342
+side profile of a woman   2343
+side profile of elephant head   2344
+side profile of unicorn   2345
+side view of a sitting bear   2346
+side view of fat goose in flight   2347
+side view silhouette of man's face   2348
+sideburns and short messy hair   2349
+sideways bat (head is on the right)   2350
+sideways christmas stocking   2351
+sideways dog head   2352
+sideways fire hydrant   2353
+sideways pineapple   2354
+sideways puppy   2355
+sideways rabbit   2356
+sideways rooster without a head   2357
+sideways warped heart   2358
+silhoutte of a woman   2359
+similar to a triangle   2360
+similar to a womans skirt   2361
+sitting bird   2362
+sitting dog up   2363
+skeleton of a cat with long tail   2364
+skiier   2365
+skinny whale   2366
+slug   2367
+small   2368
+small animal   2369
+small barbie   2370
+small bird   2371
+small box   2372
+small chicken   2373
+snail   2374
+snake   2375
+snake with a fin   2376
+snapping turtle   2377
+snowboot   2378
+sock puppet   2379
+someone kneeling down to pray   2380
+soup can with a dent on top   2381
+soup spilled on counter   2382
+sour patch kid   2383
+south america is like sea horse   2384
+spaghetti   2385
+spanner like tool   2386
+sparrow   2387
+spatula   2388
+spearhead   2389
+sperm   2390
+sperm whale   2391
+spilled drink   2392
+spilling out of mouth   2393
+spinach leaf eaten by insects   2394
+spinning toy   2395
+spoon   2396
+spray gun   2397
+square   2398
+square with a dent in it   2399
+squirrel   2400
+squished heart   2401
+staff   2402
+stalactite   2403
+standing person   2404
+star   2405
+statue   2406
+statue bust   2407
+stealth fighter plane   2408
+stick   2409
+stingray   2410
+stocking   2411
+strapless mini dress   2412
+strawberry   2413
+string   2414
+submarine   2415
+sun hat   2416
+sunglasses   2417
+swan's neck   2418
+sword   2419
+swordfish   2420
+swordfish head   2421
+t rex head   2422
+tadpole   2423
+tahiti sculpture   2424
+tail   2425
+tail of a kangaroo shaking off water   2426
+tailless sea horse   2427
+tank   2428
+tattered flag   2429
+te head of a bear with its mouth open   2430
+teddy bear   2431
+the back of elmos head   2432
+the bottom part of a big cat   2433
+the country bolvia looks like a animal rabbit. (by viewing in animals perspective)   2434
+the country bolvia looks like a hexagonal pyramid ( by viewing in geometrical perspective)   2435
+the country bolvia looks like a small pot( by viewing in geometrical perspective)   2436
+the country is shaped like a giant serpent.   2437
+the country is shaped like a man holding a bagpipe in front of him.   2438
+the country look like a cat laying down   2439
+the country look like somone surfing on a surfboard.   2440
+the country looks like a boy’s head. he is faced east and you can see in his profile his nose   2441
+the country looks like a giant woolen sock.   2442
+the country looks like a heart   2443
+the country looks like a leaf   2444
+the country looks like a lopsided traditional ufo with the circular wings wider on one side of the craft.   2445
+the country looks like a mother cat and her kitten.   2446
+the country looks like a peach   2447
+the country looks like a slug.   2448
+the country looks like a snow boot.   2449
+the country looks like a stretched rhombus   2450
+the country looks like a submarine diving down.   2451
+the country looks like a winter boot.   2452
+the country looks like an upside down badger with it’s back legs in the air.   2453
+the country looks like an upside down north american bison.   2454
+the country looks like somone sitting on a magic carpet.   2455
+the country looks like the jetson's space craft.   2456
+the edges of a wavy muffin top.   2457
+the face of a man with some facial hair on his chin   2458
+the face of a tiger   2459
+the front part of an anteater   2460
+the grim reaper with his sythe.   2461
+the head of a beaver   2462
+the head of a buffalo but without horns   2463
+the head of a coyote   2464
+the head of a dino   2465
+the head of a dog   2466
+the head of a dog growling   2467
+the head of a hammer sideways.   2468
+the head of a snake with a thick fang   2469
+the head of pilgrim with a hat on.   2470
+the letter j   2471
+the lower half of a face   2472
+the lower half of a man's face   2473
+the mostly upside-down head of an old toothless man   2474
+the mothman flying   2475
+the number 7   2476
+the pokemon muk   2477
+the profile of a big   2478
+the profile of a man's face with a big nose   2479
+the profile of a paperboy from the 20's   2480
+the side view of a lion cub's head   2481
+the silhouette of a pig's head.   2482
+the sleeve at the end of a used and worn out sweater   2483
+the symbol news outlets use for depicting the eye of a hurricane.   2484
+the tail of a cat   2485
+the top of an ice cream scooper   2486
+the towering dunes of the sandhills and the panhandle’s dramatic rock formations.   2487
+the yedi   2488
+thick crayon   2489
+thimble   2490
+thin rectangle   2491
+this country is shaped like a flattened pancake from the side perspective.   2492
+this country is shaped like a small   2493
+this country is shaped like the loch ness monster.   2494
+this country looks like a badge.   2495
+this country looks like a bird with a beak.   2496
+this country looks like a christmas stocking.   2497
+this country looks like a guinea pig.   2498
+this country looks like a sea horse with it’s tail unraveled.   2499
+this country looks like an underwater submarine with two windows near the front and two propeller blades visible in the back.   2500
+this country looks like triceratops with short legs walking up a hill.   2501
+this is the shape of a leaf   2502
+this looks like a chef sitting down chopping up a bunch of red bell peppers in a frenzy.   2503
+this looks like a duck who's just been shot sailing down towards the ground from the bloody sky.   2504
+this looks like a person screaming because their arm just got blown apart.   2505
+thumbs down   2506
+thumbs up   2507
+thumbs up on hand   2508
+thunderbolt   2509
+tiger stretching out   2510
+tiger's face   2511
+tip of a paint brush dipped in red paint   2512
+titanic   2513
+tobacco smoke cloud   2514
+toboggan   2515
+toe of boot with string untied   2516
+tongue   2517
+tooth   2518
+top of a lacrosse stick   2519
+top of a pig's head   2520
+top of a tree   2521
+top view of a dog   2522
+top view of a flying bird   2523
+tornado   2524
+train   2525
+tray   2526
+tree   2527
+tree falling over   2528
+tree head   2529
+tree trunk next to a log   2530
+tree with ground roots and acorn falling from it   2531
+triangle   2532
+trophy   2533
+turkey leg   2534
+turtle   2535
+turtle with mouth open   2536
+turtleneck tank top   2537
+two balls   2538
+two combined cells   2539
+two heads against each other in profile form   2540
+two icecream cones   2541
+two legs of a dog   2542
+two mountains   2543
+two squares put together   2544
+two triangle that joins the top   2545
+unequal rectangle   2546
+unicorn   2547
+upright horse   2548
+upside down christmas tree   2549
+upside down dog   2550
+upside down duck head   2551
+upside down hippo   2552
+upside down horse foot   2553
+upside down number three   2554
+upside down of an animal sleeping   2555
+upside down oven mitt   2556
+upside down pig   2557
+upside down triangle with a divit   2558
+upside-down flying seagull   2559
+used eraser   2560
+vase   2561
+victorian profile   2562
+violin   2563
+volcano shape   2564
+vulture's head   2565
+walrus   2566
+warped cello   2567
+water droplet   2568
+watering can   2569
+wave   2570
+whale   2571
+whale with a large tail   2572
+whisk   2573
+wide bird flying towards the left   2574
+wig   2575
+wings of a butterfly   2576
+wings of a stealth bomber   2577
+witch's hand   2578
+with mountains in the background.   2579
+wizard   2580
+wolf   2581
+wolf head   2582
+wolf's head with large nostrils   2583
+woman's leg   2584
+womens 1960s hairstyle   2585
+wooden paddle for spankings   2586
+woodpecker head   2587
+worm   2588
+wrench   2589
+ziti noodle   2590

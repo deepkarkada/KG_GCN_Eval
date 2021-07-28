@@ -1,0 +1,16 @@
+Using backend: pytorch
+  0%|          | 0/1 [00:00<?, ?it/s]  0%|          | 0/1 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "conve_gcn.py", line 426, in <module>
+    model = main(args)
+  File "conve_gcn.py", line 381, in main
+    train(args)
+  File "conve_gcn.py", line 308, in train
+    logits = model.forward(torch.tensor(h), torch.tensor(r), adj, print_pred=False)
+  File "conve_gcn.py", line 161, in forward
+    gcn_x = F.relu(self.gcn_conv1(self.emb_e.weight, adjmatrix))
+  File "/home/pegasus/miniconda3/envs/rdgmap/lib/python3.7/site-packages/torch/nn/modules/module.py", line 550, in __call__
+    result = self.forward(*input, **kwargs)
+  File "conve_gcn.py", line 46, in forward
+    output = torch.smm(adj, support)
+RuntimeError: sspaddmm(): functions with out=... arguments don't support automatic differentiation, but one of the arguments requires grad.
