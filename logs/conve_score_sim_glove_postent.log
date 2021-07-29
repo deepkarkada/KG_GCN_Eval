@@ -1,0 +1,1610 @@
+/home/pegasus/miniconda3/envs/rdgmap/lib/python3.7/site-packages/allennlp/data/token_indexers/token_characters_indexer.py:61: UserWarning: You are using the default value (0) of `min_padding_length`, which can cause some subtle bugs (more info see https://github.com/allenai/allennlp/issues/1954). Strongly recommend to set a value, usually the maximum size of the convolutional layer size when using CnnEncoder.
+  UserWarning,
+Did not use initialization regex that was passed: .*projection.*weight
+Did not use initialization regex that was passed: .*weight_hh.*
+Did not use initialization regex that was passed: .*weight_ih.*
+Did not use initialization regex that was passed: .*bias_ih.*
+Did not use initialization regex that was passed: .*projection.*bias
+Did not use initialization regex that was passed: .*bias_hh.*
+Using TensorFlow backend.
+WARNING:tensorflow:From conve_eval.py:44: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2021-07-28 23:15:55.396489: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcuda.so.1
+2021-07-28 23:15:55.426845: E tensorflow/stream_executor/cuda/cuda_driver.cc:318] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2021-07-28 23:15:55.426866: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (pegasus): /proc/driver/nvidia/version does not exist
+2021-07-28 23:15:55.427106: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-07-28 23:15:55.430986: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 3199980000 Hz
+2021-07-28 23:15:55.431411: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55f841f39f70 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-07-28 23:15:55.431425: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+WARNING:tensorflow:From conve_eval.py:45: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+WARNING:tensorflow:From /home/pegasus/miniconda3/envs/rdgmap/lib/python3.7/site-packages/tensorflow_core/python/keras/initializers.py:119: calling RandomUniform.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+WARNING:tensorflow:From /home/pegasus/miniconda3/envs/rdgmap/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From /home/pegasus/miniconda3/envs/rdgmap/lib/python3.7/site-packages/tensorflow_core/python/ops/math_grad.py:1424: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+==========> Russia IsWestOf_reverse
+KG entity:Russia, Found in glove:russia
+Chose entity:Russia
+==========> Norway SharesBorderWith_reverse
+KG entity:Norway, Found in glove:norway
+Chose entity:Norway
+==========> It looks like a boot from a certain angle HasShape_reverse
+KG entity:It, Found in glove:it
+KG entity:boot, Found in glove:it boot
+KG entity:certain, Found in glove:it boot certain
+KG entity:angle, Found in glove:it boot certain angle
+Chose entity:it look like a fullstop
+Finland	left of Russia	located next to Norway	It looks like a boot from a certain angle
+ ====> ['Finland'],['Finland', 'Southafrica', 'Russia'],['Finland', 'Southafrica', 'Russia', 'Latvia', 'Poland'] 
+--------------------------------------------------------------------------
+==========> Papua New Guinea IsWestOf_reverse
+KG entity:Papua, Found in glove:papua
+KG entity:New, Found in glove:papua new
+KG entity:Guinea, Found in glove:papua new guinea
+Chose entity:Papua new guinea
+==========> Timor Leste IsNorthOf_reverse
+KG entity:Timor, Found in glove:timor
+KG entity:Leste, Found in glove:timor leste
+Chose entity:East Timor
+==========> it's more like lines and dots IsSouthOf_reverse
+KG entity:lines, Found in glove:lines
+KG entity:dots, Found in glove:lines dots
+Chose entity:dot
+Indonesia	left of Papua New Guinea	above Timor Leste	it's more like lines and dots
+ ====> ['Indonesia'],['Indonesia', 'South Africa', 'Malaysia'],['Indonesia', 'South Africa', 'Malaysia', 'Russia', 'Italy'] 
+--------------------------------------------------------------------------
+==========> Southern Europe InContinentLoc_South_reverse
+KG entity:Southern, Found in glove:southern
+KG entity:Europe, Found in glove:southern europe
+Chose entity:Southern Europe
+==========> Switzerland SharesBorderWith_reverse
+KG entity:Switzerland, Found in glove:switzerland
+Chose entity:Switzerland
+==========> a boot HasShape_reverse
+KG entity:boot, Found in glove:boot
+Chose entity:boot
+Italy	located in Southern Europe	its next to Switzerland	a boot
+ ====> ['Italy'],['Italy', 'Libya', 'Germany'],['Italy', 'Libya', 'Germany', 'Finland', 'Austria'] 
+--------------------------------------------------------------------------
+==========> Asia InContinentLoc_North_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> Asia InContinent_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> Four islands one much larger than the other three HasShape_reverse
+KG entity:Four, Found in glove:four
+KG entity:islands, Found in glove:four islands
+KG entity:one, Found in glove:four islands one
+KG entity:much, Found in glove:four islands one much
+KG entity:larger, Found in glove:four islands one much larger
+KG entity:three, Found in glove:four islands one much larger three
+Chose entity:looks like the number seven
+Japan	in north eastern part of Asia	in Asia	Four islands one much larger than the other three
+ ====> ['Southafrica'],['Southafrica', 'North Korea', 'Kazakhstan'],['Southafrica', 'North Korea', 'Kazakhstan', 'Bulgaria', 'Slovakia'] 
+--------------------------------------------------------------------------
+==========> China IsWestOf_reverse
+KG entity:China, Found in glove:china
+Chose entity:China
+==========> Asia InContinentLoc_Central_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> a rectangle HasShape_reverse
+KG entity:rectangle, Found in glove:rectangle
+Chose entity:rectangle
+Kazakhstan	left of China	in central part of Asia	a rectangle
+ ====> ['Serbia'],['Serbia', 'Bulgaria', 'Portugal'],['Serbia', 'Bulgaria', 'Portugal', 'Kazakhstan', 'Nepal'] 
+--------------------------------------------------------------------------
+==========> Niger IsNorthOf_reverse
+KG entity:Niger, Found in glove:niger
+Chose entity:Niger
+==========> Africa InContinentLoc_North_reverse
+KG entity:Africa, Found in glove:africa
+Chose entity:South africa
+==========> square HasShape_reverse
+KG entity:square, Found in glove:square
+Chose entity:square
+Libya	above Niger	in northern part of Africa	square
+ ====> ['Libya'],['Libya', 'Algeria', 'Bulgaria'],['Libya', 'Algeria', 'Bulgaria', 'Columbia', 'Serbia'] 
+--------------------------------------------------------------------------
+==========> Asia InContinentLoc_South_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> in landlocked HasShape
+KG entity:landlocked, Found in glove:landlocked
+Chose entity:landlocked
+==========> A squished rectangle HasShape_reverse
+KG entity:A, Found in glove:a
+KG entity:squished, Found in glove:a squished
+KG entity:rectangle, Found in glove:a squished rectangle
+Chose entity:a rectangle
+Nepal	in southern part of Asia	in landlocked	A squished rectangle
+ ====> ['Syria'],['Syria', 'Libya', 'Tanzania'],['Syria', 'Libya', 'Tanzania', 'Serbia', 'Bulgaria'] 
+--------------------------------------------------------------------------
+==========> China IsWestOf_reverse
+KG entity:China, Found in glove:china
+Chose entity:China
+==========> Asia InContinent_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> Like godzilla HasShape_reverse
+KG entity:Like, Found in glove:like
+KG entity:godzilla, Found in glove:like godzilla
+Chose entity:godzilla
+Pakistan	is west of China	in Asia	Like godzilla
+ ====> ['Pakistan'],['Pakistan', 'Serbia', 'Nepal'],['Pakistan', 'Serbia', 'Nepal', 'Kazakhstan', 'Kyrgyzstan'] 
+--------------------------------------------------------------------------
+==========> Europe InContinent_reverse
+KG entity:Europe, Found in glove:europe
+Chose entity:Europe
+==========> Spain SharesBorderWith_reverse
+KG entity:Spain, Found in glove:spain
+Chose entity:Spain
+==========> A small rectangle HasShape_reverse
+KG entity:A, Found in glove:a
+KG entity:small, Found in glove:a small
+KG entity:rectangle, Found in glove:a small rectangle
+Chose entity:a rectangle
+Portugal	in Europe	its next to Spain	A small rectangle
+ ====> ['Syria'],['Syria', 'Libya', 'France'],['Syria', 'Libya', 'France', 'Tanzania', 'Portugal'] 
+--------------------------------------------------------------------------
+==========> Ethiopia IsSouthOf_reverse
+KG entity:Ethiopia, Found in glove:ethiopia
+Chose entity:Ethiopia
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+KG entity:located, Found in glove:located
+KG entity:next, Found in glove:located next
+KG entity:ocean, Found in glove:located next ocean
+Chose entity:next to ocean
+==========> Distorted Rectangle HasShape_reverse
+KG entity:Distorted, Found in glove:distorted
+KG entity:Rectangle, Found in glove:distorted rectangle
+Chose entity:unequal rectangle
+Somalia	below Ethiopia	located in next to ocean	Distorted Rectangle
+ ====> ['Somalia'],['Somalia', 'Germany', 'Kenya'],['Somalia', 'Germany', 'Kenya', 'Hungary', 'Tanzania'] 
+--------------------------------------------------------------------------
+==========> Democratic Republic of the Congo IsSouthOf_reverse
+KG entity:Democratic, Found in glove:democratic
+KG entity:Republic, Found in glove:democratic republic
+KG entity:Congo, Found in glove:democratic republic congo
+Chose entity:Democratic republic of the congo
+==========> Zimbabwe SharesBorderWith_reverse
+KG entity:Zimbabwe, Found in glove:zimbabwe
+Chose entity:Zimbabwe
+==========> it looks like an oval with a bite taken out of it HasShape_reverse
+KG entity:oval, Found in glove:oval
+KG entity:bite, Found in glove:oval bite
+KG entity:taken, Found in glove:oval bite taken
+Chose entity:an oval
+Zambia	is south of Democratic Republic of the Congo	located next to Zimbabwe	it looks like an oval with a bite taken out of it
+ ====> ['South Africa'],['South Africa', 'Zambia', 'Tanzania'],['South Africa', 'Zambia', 'Tanzania', 'Argentina', 'Mozambique'] 
+--------------------------------------------------------------------------
+==========> Europe InContinentLoc_North_reverse
+KG entity:Europe, Found in glove:europe
+Chose entity:Europe
+==========> Russia IsWestOf_reverse
+KG entity:Russia, Found in glove:russia
+Chose entity:Russia
+==========> It looks like a boot from a certain angle HasShape_reverse
+KG entity:It, Found in glove:it
+KG entity:boot, Found in glove:it boot
+KG entity:certain, Found in glove:it boot certain
+KG entity:angle, Found in glove:it boot certain angle
+Chose entity:it look like a fullstop
+Finland	in northern part of Europe	is west of Russia	It looks like a boot from a certain angle
+ ====> ['Kazakhstan'],['Kazakhstan', 'Southafrica', 'Bulgaria'],['Kazakhstan', 'Southafrica', 'Bulgaria', 'Lithuania', 'Poland'] 
+--------------------------------------------------------------------------
+==========> Timor Leste IsNorthOf_reverse
+KG entity:Timor, Found in glove:timor
+KG entity:Leste, Found in glove:timor leste
+Chose entity:East Timor
+==========> Malaysia IsEastOf_reverse
+KG entity:Malaysia, Found in glove:malaysia
+Chose entity:Malaysia
+==========> multiple paint splatters HasSize_reverse
+KG entity:multiple, Found in glove:multiple
+KG entity:paint, Found in glove:multiple paint
+KG entity:splatters, Found in glove:multiple paint splatters
+Chose entity:paint scraper
+Indonesia	is north of Timor Leste	right of Malaysia	multiple paint splatters
+ ====> ['Indonesia'],['Indonesia', 'Italy', 'Russia'],['Indonesia', 'Italy', 'Russia', 'Brunei', 'Malaysia'] 
+--------------------------------------------------------------------------
+==========> France IsSouthOf_reverse
+KG entity:France, Found in glove:france
+Chose entity:France
+==========> Mediterranean Basin HasSize_reverse
+KG entity:Mediterranean, Found in glove:mediterranean
+KG entity:Basin, Found in glove:mediterranean basin
+Chose entity:Mediterranean Sea
+==========> Boot SharesBorderWith_reverse
+KG entity:Boot, Found in glove:boot
+Chose entity:boot
+Italy	is south of France	in Mediterranean Basin	Boot
+ ====> ['Italy'],['Italy', 'Libya', 'Andorra'],['Italy', 'Libya', 'Andorra', 'Finland', 'Spain'] 
+--------------------------------------------------------------------------
+==========> Asia InContinent_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> Taiwan SharesBorderWith_reverse
+KG entity:Taiwan, Found in glove:taiwan
+Chose entity:Taiwan
+==========> long narrow islands HasShape_reverse
+KG entity:long, Found in glove:long
+KG entity:narrow, Found in glove:long narrow
+KG entity:islands, Found in glove:long narrow islands
+Chose entity:narrow
+Japan	in Asia	located next to Taiwan	long narrow islands
+ ====> ['Japan'],['Japan', 'Russia', 'Philippines'],['Japan', 'Russia', 'Philippines', 'Nepal', 'Indonesia'] 
+--------------------------------------------------------------------------
+==========> in landlocked HasShape
+KG entity:landlocked, Found in glove:landlocked
+Chose entity:landlocked
+==========> Europe InContinent_reverse
+KG entity:Europe, Found in glove:europe
+Chose entity:Europe
+==========> shaped like a human spleen HasShape_reverse
+KG entity:shaped, Found in glove:shaped
+KG entity:human, Found in glove:shaped human
+KG entity:spleen, Found in glove:shaped human spleen
+Chose entity:human arm
+Kazakhstan	in landlocked	in Europe	shaped like a human spleen
+ ====> ['Benin'],['Benin', 'Bulgaria', 'Ireland'],['Benin', 'Bulgaria', 'Ireland', 'Kazakhstan', 'Nigeria'] 
+--------------------------------------------------------------------------
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+KG entity:located, Found in glove:located
+KG entity:next, Found in glove:located next
+KG entity:ocean, Found in glove:located next ocean
+Chose entity:next to ocean
+==========> Africa InContinent_reverse
+KG entity:Africa, Found in glove:africa
+Chose entity:South africa
+==========> an ice cream cone with a bite missing HasCapital_reverse
+KG entity:ice, Found in glove:ice
+KG entity:cream, Found in glove:ice cream
+KG entity:cone, Found in glove:ice cream cone
+KG entity:bite, Found in glove:ice cream cone bite
+KG entity:missing, Found in glove:ice cream cone bite missing
+Chose entity:ice melting
+Libya	located in next to ocean	in Africa	an ice cream cone with a bite missing
+ ====> ['Germany'],['Germany', 'Hungary', 'Slovenia'],['Germany', 'Hungary', 'Slovenia', 'Cameroon', 'Switzerland'] 
+--------------------------------------------------------------------------
+==========> India IsNorthOf_reverse
+KG entity:India, Found in glove:india
+Chose entity:India
+==========> Asia InContinent_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> A squished rectangle HasShape_reverse
+KG entity:A, Found in glove:a
+KG entity:squished, Found in glove:a squished
+KG entity:rectangle, Found in glove:a squished rectangle
+Chose entity:a rectangle
+Nepal	is north of India	in Asia	A squished rectangle
+ ====> ['Nepal'],['Nepal', 'Syria', 'Libya'],['Nepal', 'Syria', 'Libya', 'Pakistan', 'China'] 
+--------------------------------------------------------------------------
+==========> India IsNorthOf_reverse
+KG entity:India, Found in glove:india
+Chose entity:India
+==========> Asia InContinentLoc_South_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> It looks like a dog that is sitting HasShape_reverse
+KG entity:It, Found in glove:it
+KG entity:dog, Found in glove:it dog
+KG entity:sitting, Found in glove:it dog sitting
+Chose entity:dog
+Pakistan	above India	in southern part of Asia	It looks like a dog that is sitting
+ ====> ['Nepal'],['Nepal', 'Pakistan', 'China'],['Nepal', 'Pakistan', 'China', 'Bulgaria', 'Indonesia'] 
+--------------------------------------------------------------------------
+==========> Spain SharesBorderWith_reverse
+KG entity:Spain, Found in glove:spain
+Chose entity:Spain
+==========> Spain IsWestOf_reverse
+KG entity:Spain, Found in glove:spain
+Chose entity:Spain
+==========> it is elongated north to south IsNorthOf_reverse
+KG entity:elongated, Found in glove:elongated
+KG entity:north, Found in glove:elongated north
+KG entity:south, Found in glove:elongated north south
+Chose entity:North korea
+Portugal	its next to Spain	left of Spain	it is elongated north to south
+ ====> ['Portugal'],['Portugal', 'Gibraltar', 'Russia'],['Portugal', 'Gibraltar', 'Russia', 'Morocco', 'France'] 
+--------------------------------------------------------------------------
+==========> Kenya IsNorthOf_reverse
+KG entity:Kenya, Found in glove:kenya
+Chose entity:Kenya
+==========> Africa InContinent_reverse
+KG entity:Africa, Found in glove:africa
+Chose entity:South africa
+==========> a boomerang HasShape_reverse
+KG entity:boomerang, Found in glove:boomerang
+Chose entity:boomerang
+Somalia	is north of Kenya	in Africa	a boomerang
+ ====> ['Somalia'],['Somalia', 'Ethiopia', 'Uganda'],['Somalia', 'Ethiopia', 'Uganda', 'Tanzania', 'Cameroon'] 
+--------------------------------------------------------------------------
+==========> Democratic Republic of the Congo IsSouthOf_reverse
+KG entity:Democratic, Found in glove:democratic
+KG entity:Republic, Found in glove:democratic republic
+KG entity:Congo, Found in glove:democratic republic congo
+Chose entity:Democratic republic of the congo
+==========> Zimbabwe IsWestOf_reverse
+KG entity:Zimbabwe, Found in glove:zimbabwe
+Chose entity:Zimbabwe
+==========> Two ovals joined at one corner SharesBorderWith_reverse
+KG entity:Two, Found in glove:two
+KG entity:ovals, Found in glove:two ovals
+KG entity:joined, Found in glove:two ovals joined
+KG entity:one, Found in glove:two ovals joined one
+KG entity:corner, Found in glove:two ovals joined one corner
+Chose entity:two squares put together
+Zambia	is south of Democratic Republic of the Congo	is west of Zimbabwe	Two ovals joined at one corner
+ ====> ['South Africa'],['South Africa', 'Zambia', 'Argentina'],['South Africa', 'Zambia', 'Argentina', 'Tanzania', 'Russia'] 
+--------------------------------------------------------------------------
+==========> Norway IsEastOf_reverse
+KG entity:Norway, Found in glove:norway
+Chose entity:Norway
+==========> Europe InContinent_reverse
+KG entity:Europe, Found in glove:europe
+Chose entity:Europe
+==========> like a tall stomach HasShape_reverse
+KG entity:tall, Found in glove:tall
+KG entity:stomach, Found in glove:tall stomach
+Chose entity:a tall icecream cone
+Finland	is east of Norway	in Europe	like a tall stomach
+ ====> ['Finland'],['Finland', 'Bulgaria', 'Syria'],['Finland', 'Bulgaria', 'Syria', 'Sweden', 'Russia'] 
+--------------------------------------------------------------------------
+==========> Timor Leste IsNorthOf_reverse
+KG entity:Timor, Found in glove:timor
+KG entity:Leste, Found in glove:timor leste
+Chose entity:East Timor
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+KG entity:located, Found in glove:located
+KG entity:next, Found in glove:located next
+KG entity:ocean, Found in glove:located next ocean
+Chose entity:next to ocean
+==========> like several individual islands HasShape_reverse
+KG entity:several, Found in glove:several
+KG entity:individual, Found in glove:several individual
+KG entity:islands, Found in glove:several individual islands
+Chose entity:small
+Indonesia	is north of Timor Leste	located in next to ocean	like several individual islands
+ ====> ['Indonesia'],['Indonesia', 'Germany', 'Hungary'],['Indonesia', 'Germany', 'Hungary', 'Russia', 'Tanzania'] 
+--------------------------------------------------------------------------
+==========> Austria IsSouthOf_reverse
+KG entity:Austria, Found in glove:austria
+Chose entity:Austria
+==========> San Marino IsEastOf_reverse
+KG entity:San, Found in glove:san
+KG entity:Marino, Found in glove:san marino
+Chose entity:San Marino
+==========> boot SharesBorderWith_reverse
+KG entity:boot, Found in glove:boot
+Chose entity:boot
+Italy	is south of Austria	is east of San Marino	boot
+ ====> ['Italy'],['Italy', 'Slovenia', 'Liechtenstein'],['Italy', 'Slovenia', 'Liechtenstein', 'Libya', 'Finland'] 
+--------------------------------------------------------------------------
+==========> United States of America InContinent_reverse
+KG entity:United, Found in glove:united
+KG entity:States, Found in glove:united states
+KG entity:America, Found in glove:united states america
+Chose entity:United states
+==========> Asia InContinentLoc_North_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> very skinny rectangle HasShape_reverse
+KG entity:skinny, Found in glove:skinny
+KG entity:rectangle, Found in glove:skinny rectangle
+Chose entity:rectangle
+Japan	located next to United States of America	in north eastern part of Asia	very skinny rectangle
+ ====> ['Serbia'],['Serbia', 'Bulgaria', 'Portugal'],['Serbia', 'Bulgaria', 'Portugal', 'Kazakhstan', 'Nepal'] 
+--------------------------------------------------------------------------
+==========> Asia InContinent_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> Russia IsSouthOf_reverse
+KG entity:Russia, Found in glove:russia
+Chose entity:Russia
+==========> It shapes like a turtle HasShape_reverse
+KG entity:It, Found in glove:it
+KG entity:shapes, Found in glove:it shapes
+KG entity:turtle, Found in glove:it shapes turtle
+Chose entity:turtle
+Kazakhstan	in Asia	below Russia	It shapes like a turtle
+ ====> ['Kazakhstan'],['Kazakhstan', 'Poland', 'China'],['Kazakhstan', 'Poland', 'China', 'Lithuania', 'Ukraine'] 
+--------------------------------------------------------------------------
+==========> Niger IsEastOf_reverse
+KG entity:Niger, Found in glove:niger
+Chose entity:Niger
+==========> Egypt IsWestOf_reverse
+KG entity:Egypt, Found in glove:egypt
+Chose entity:Egypt
+==========> Roughly rectangular with a small bight in one of the longer edges HasSize_reverse
+KG entity:Roughly, Found in glove:roughly
+KG entity:rectangular, Found in glove:roughly rectangular
+KG entity:small, Found in glove:roughly rectangular small
+KG entity:bight, Found in glove:roughly rectangular small bight
+KG entity:one, Found in glove:roughly rectangular small bight one
+KG entity:longer, Found in glove:roughly rectangular small bight one longer
+KG entity:edges, Found in glove:roughly rectangular small bight one longer edges
+Chose entity:small
+Libya	right of Niger	is west of Egypt	Roughly rectangular with a small bight in one of the longer edges
+ ====> ['Libya'],['Libya', 'Sudan', 'Chad'],['Libya', 'Sudan', 'Chad', 'Nigeria', 'Saudi Arabia'] 
+--------------------------------------------------------------------------
+==========> Asia InContinent_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> India IsNorthOf_reverse
+KG entity:India, Found in glove:india
+Chose entity:India
+==========> a small thin line HasShape_reverse
+KG entity:small, Found in glove:small
+KG entity:thin, Found in glove:small thin
+KG entity:line, Found in glove:small thin line
+Chose entity:small
+Nepal	in Asia	is north of India	a small thin line
+ ====> ['Nepal'],['Nepal', 'Pakistan', 'China'],['Nepal', 'Pakistan', 'China', 'Canada', 'Tanzania'] 
+--------------------------------------------------------------------------
+==========> People 's Republic of China SharesBorderWith_reverse
+KG entity:People, Found in glove:people
+KG entity:'s, Found in glove:people 's
+KG entity:Republic, Found in glove:people 's republic
+KG entity:China, Found in glove:people 's republic china
+Chose entity:Central african republic
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+KG entity:located, Found in glove:located
+KG entity:next, Found in glove:located next
+KG entity:ocean, Found in glove:located next ocean
+Chose entity:next to ocean
+==========> It looks like a dog that is sitting HasShape_reverse
+KG entity:It, Found in glove:it
+KG entity:dog, Found in glove:it dog
+KG entity:sitting, Found in glove:it dog sitting
+Chose entity:dog
+Pakistan	its next to People's Republic of China	located in next to ocean	It looks like a dog that is sitting
+ ====> ['Germany'],['Germany', 'Hungary', 'Bulgaria'],['Germany', 'Hungary', 'Bulgaria', 'Pakistan', 'Cameroon'] 
+--------------------------------------------------------------------------
+==========> Spain IsSouthOf_reverse
+KG entity:Spain, Found in glove:spain
+Chose entity:Spain
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+KG entity:located, Found in glove:located
+KG entity:next, Found in glove:located next
+KG entity:ocean, Found in glove:located next ocean
+Chose entity:next to ocean
+==========> A rough rectangle HasShape_reverse
+KG entity:A, Found in glove:a
+KG entity:rough, Found in glove:a rough
+KG entity:rectangle, Found in glove:a rough rectangle
+Chose entity:a rectangle
+Portugal	is south of Spain	located in next to ocean	A rough rectangle
+ ====> ['Germany'],['Germany', 'Syria', 'Portugal'],['Germany', 'Syria', 'Portugal', 'Gibraltar', 'Libya'] 
+--------------------------------------------------------------------------
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+KG entity:next, Found in glove:next
+KG entity:ocean, Found in glove:next ocean
+Chose entity:next to ocean
+==========> Africa InContinentLoc_East_reverse
+KG entity:Africa, Found in glove:africa
+Chose entity:South africa
+==========> Distorted Rectangle HasShape_reverse
+KG entity:Distorted, Found in glove:distorted
+KG entity:Rectangle, Found in glove:distorted rectangle
+Chose entity:unequal rectangle
+Somalia	in next to ocean	in eastern part of Africa	Distorted Rectangle
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Tanzania', 'Syria'],['Mediterranean Sea', 'Tanzania', 'Syria', 'Benin', 'Libya'] 
+--------------------------------------------------------------------------
+==========> located in landlocked HasCapital_reverse
+KG entity:located, Found in glove:located
+KG entity:landlocked, Found in glove:located landlocked
+Chose entity:landlocked
+==========> Zimbabwe IsNorthOf_reverse
+KG entity:Zimbabwe, Found in glove:zimbabwe
+Chose entity:Zimbabwe
+==========> it looks like an oval with a bite taken out of it HasShape_reverse
+KG entity:oval, Found in glove:oval
+KG entity:bite, Found in glove:oval bite
+KG entity:taken, Found in glove:oval bite taken
+Chose entity:an oval
+Zambia	located in landlocked	above Zimbabwe	it looks like an oval with a bite taken out of it
+ ====> ['Zambia'],['Zambia', 'Mozambique', 'Tanzania'],['Zambia', 'Mozambique', 'Tanzania', 'Iran', 'Russia'] 
+--------------------------------------------------------------------------
+==========> Norway SharesBorderWith_reverse
+KG entity:Norway, Found in glove:norway
+Chose entity:Norway
+==========> Europe InContinent_reverse
+KG entity:Europe, Found in glove:europe
+Chose entity:Europe
+==========> like a tall stomach HasShape_reverse
+KG entity:tall, Found in glove:tall
+KG entity:stomach, Found in glove:tall stomach
+Chose entity:a tall icecream cone
+Finland	its next to Norway	in Europe	like a tall stomach
+ ====> ['Bulgaria'],['Bulgaria', 'Syria', 'Finland'],['Bulgaria', 'Syria', 'Finland', 'Sweden', 'Russia'] 
+--------------------------------------------------------------------------
+==========> Malaysia IsSouthOf_reverse
+KG entity:Malaysia, Found in glove:malaysia
+Chose entity:Malaysia
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+KG entity:next, Found in glove:next
+KG entity:ocean, Found in glove:next ocean
+Chose entity:next to ocean
+==========> a lot of triangles HasSize_reverse
+KG entity:lot, Found in glove:lot
+KG entity:triangles, Found in glove:lot triangles
+Chose entity:geometric polygon
+Indonesia	is south of Malaysia	in next to ocean	a lot of triangles
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Indonesia', 'Portugal'],['Mediterranean Sea', 'Indonesia', 'Portugal', 'Italy', 'Serbia'] 
+--------------------------------------------------------------------------
+==========> Europe InContinent_reverse
+KG entity:Europe, Found in glove:europe
+Chose entity:Europe
+==========> Mediterranean Basin HasSize_reverse
+KG entity:Mediterranean, Found in glove:mediterranean
+KG entity:Basin, Found in glove:mediterranean basin
+Chose entity:Mediterranean Sea
+==========> BOOT SharesBorderWith_reverse
+KG entity:BOOT, Found in glove:boot
+Chose entity:boot
+Italy	in Europe	in Mediterranean Basin	BOOT
+ ====> ['Italy'],['Italy', 'Libya', 'Finland'],['Italy', 'Libya', 'Finland', 'Bulgaria', 'France'] 
+--------------------------------------------------------------------------
+==========> Asia InContinent_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+KG entity:located, Found in glove:located
+KG entity:next, Found in glove:located next
+KG entity:ocean, Found in glove:located next ocean
+Chose entity:next to ocean
+==========> long narrow islands HasShape_reverse
+KG entity:long, Found in glove:long
+KG entity:narrow, Found in glove:long narrow
+KG entity:islands, Found in glove:long narrow islands
+Chose entity:narrow
+Japan	in Asia	located in next to ocean	long narrow islands
+ ====> ['Germany'],['Germany', 'Hungary', 'Cameroon'],['Germany', 'Hungary', 'Cameroon', 'Nepal', 'Serbia'] 
+--------------------------------------------------------------------------
+==========> Turkmenistan IsEastOf_reverse
+KG entity:Turkmenistan, Found in glove:turkmenistan
+Chose entity:Turkmenistan
+==========> Russia IsWestOf_reverse
+KG entity:Russia, Found in glove:russia
+Chose entity:Russia
+==========> It shapes like a turtle HasShape_reverse
+KG entity:It, Found in glove:it
+KG entity:shapes, Found in glove:it shapes
+KG entity:turtle, Found in glove:it shapes turtle
+Chose entity:turtle
+Kazakhstan	is east of Turkmenistan	left of Russia	It shapes like a turtle
+ ====> ['Kazakhstan'],['Kazakhstan', 'Afghanistan', 'Uzbekistan'],['Kazakhstan', 'Afghanistan', 'Uzbekistan', 'China', 'Finland'] 
+--------------------------------------------------------------------------
+==========> Niger IsNorthOf_reverse
+KG entity:Niger, Found in glove:niger
+Chose entity:Niger
+==========> Tunisia IsEastOf_reverse
+KG entity:Tunisia, Found in glove:tunisia
+Chose entity:Tunisia
+==========> Motsly like a square with a chunk out of the top left corner HasShape_reverse
+KG entity:square, Found in glove:square
+KG entity:chunk, Found in glove:square chunk
+KG entity:top, Found in glove:square chunk top
+KG entity:left, Found in glove:square chunk top left
+KG entity:corner, Found in glove:square chunk top left corner
+Chose entity:a square
+Libya	is north of Niger	is east of Tunisia	Motsly like a square with a chunk out of the top left corner
+ ====> ['Libya'],['Libya', 'Algeria', 'Bulgaria'],['Libya', 'Algeria', 'Bulgaria', 'Syria', 'Serbia'] 
+--------------------------------------------------------------------------
+==========> China IsWestOf_reverse
+KG entity:China, Found in glove:china
+Chose entity:China
+==========> Asia InContinentLoc_South_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> A narrow horizontal bar HasShape_reverse
+KG entity:A, Found in glove:a
+KG entity:narrow, Found in glove:a narrow
+KG entity:horizontal, Found in glove:a narrow horizontal
+KG entity:bar, Found in glove:a narrow horizontal bar
+Chose entity:narrow
+Nepal	left of China	in southern part of Asia	A narrow horizontal bar
+ ====> ['Nepal'],['Nepal', 'Kazakhstan', 'Kyrgyzstan'],['Nepal', 'Kazakhstan', 'Kyrgyzstan', 'Pakistan', 'Serbia'] 
+--------------------------------------------------------------------------
+==========> Afghanistan IsEastOf_reverse
+KG entity:Afghanistan, Found in glove:afghanistan
+Chose entity:Afghanistan
+==========> Asia InContinent_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> It more looks like a Dog shaped HasShape_reverse
+KG entity:It, Found in glove:it
+KG entity:Dog, Found in glove:it dog
+KG entity:shaped, Found in glove:it dog shaped
+Chose entity:dog
+Pakistan	is east of Afghanistan	in Asia	It more looks like a Dog shaped
+ ====> ['Pakistan'],['Pakistan', 'China', 'Tajikistan'],['Pakistan', 'China', 'Tajikistan', 'Bulgaria', 'Indonesia'] 
+--------------------------------------------------------------------------
+==========> Spain IsSouthOf_reverse
+KG entity:Spain, Found in glove:spain
+Chose entity:Spain
+==========> Spain IsWestOf_reverse
+KG entity:Spain, Found in glove:spain
+Chose entity:Spain
+==========> It sort of looks like a door to me or a tall rectangle HasShape_reverse
+KG entity:It, Found in glove:it
+KG entity:sort, Found in glove:it sort
+KG entity:door, Found in glove:it sort door
+KG entity:tall, Found in glove:it sort door tall
+KG entity:rectangle, Found in glove:it sort door tall rectangle
+Chose entity:it looks like a rectangle
+Portugal	is south of Spain	is west of Spain	It sort of looks like a door to me or a tall rectangle
+ ====> ['Portugal'],['Portugal', 'Gibraltar', 'Morocco'],['Portugal', 'Gibraltar', 'Morocco', 'Bulgaria', 'Tanzania'] 
+--------------------------------------------------------------------------
+==========> Djibouti IsEastOf_reverse
+KG entity:Djibouti, Found in glove:djibouti
+Chose entity:Djibouti
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+KG entity:located, Found in glove:located
+KG entity:next, Found in glove:located next
+KG entity:ocean, Found in glove:located next ocean
+Chose entity:next to ocean
+==========> Triangle HasShape_reverse
+KG entity:Triangle, Found in glove:triangle
+Chose entity:triangle
+Somalia	is east of Djibouti	located in next to ocean	Triangle
+ ====> ['Somalia'],['Somalia', 'Germany', 'Syria'],['Somalia', 'Germany', 'Syria', 'Serbia', 'Libya'] 
+--------------------------------------------------------------------------
+==========> Africa InContinent_reverse
+KG entity:Africa, Found in glove:africa
+Chose entity:South africa
+==========> Malawi IsNorthOf_reverse
+KG entity:Malawi, Found in glove:malawi
+Chose entity:Malawi
+==========> A rounded rectangle with a huge bite taken out of it HasShape_reverse
+KG entity:A, Found in glove:a
+KG entity:rounded, Found in glove:a rounded
+KG entity:rectangle, Found in glove:a rounded rectangle
+KG entity:huge, Found in glove:a rounded rectangle huge
+KG entity:bite, Found in glove:a rounded rectangle huge bite
+KG entity:taken, Found in glove:a rounded rectangle huge bite taken
+Chose entity:large
+Zambia	in Africa	above Malawi	A rounded rectangle with a huge bite taken out of it
+ ====> ['Tanzania'],['Tanzania', 'Zambia', 'Canada'],['Tanzania', 'Zambia', 'Canada', 'Mozambique', 'Syria'] 
+--------------------------------------------------------------------------
+==========> Sweden IsEastOf_reverse
+KG entity:Sweden, Found in glove:sweden
+Chose entity:Sweden
+==========> Europe InContinent_reverse
+KG entity:Europe, Found in glove:europe
+Chose entity:Europe
+==========> It looks like a boot from a certain angle HasShape_reverse
+KG entity:It, Found in glove:it
+KG entity:boot, Found in glove:it boot
+KG entity:certain, Found in glove:it boot certain
+KG entity:angle, Found in glove:it boot certain angle
+Chose entity:it look like a fullstop
+Finland	right of Sweden	in Europe	It looks like a boot from a certain angle
+ ====> ['Finland'],['Finland', 'Southafrica', 'Bulgaria'],['Finland', 'Southafrica', 'Bulgaria', 'Tanzania', 'Serbia'] 
+--------------------------------------------------------------------------
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+KG entity:located, Found in glove:located
+KG entity:next, Found in glove:located next
+KG entity:ocean, Found in glove:located next ocean
+Chose entity:next to ocean
+==========> Malaysia IsSouthOf_reverse
+KG entity:Malaysia, Found in glove:malaysia
+Chose entity:Malaysia
+==========> a lot of triangles HasSize_reverse
+KG entity:lot, Found in glove:lot
+KG entity:triangles, Found in glove:lot triangles
+Chose entity:geometric polygon
+Indonesia	located in next to ocean	below Malaysia	a lot of triangles
+ ====> ['Indonesia'],['Indonesia', 'Germany', 'Hungary'],['Indonesia', 'Germany', 'Hungary', 'Cameroon', 'Portugal'] 
+--------------------------------------------------------------------------
+==========> Europe InContinent_reverse
+KG entity:Europe, Found in glove:europe
+Chose entity:Europe
+==========> France IsSouthOf_reverse
+KG entity:France, Found in glove:france
+Chose entity:France
+==========> Boot SharesBorderWith_reverse
+KG entity:Boot, Found in glove:boot
+Chose entity:boot
+Italy	in Europe	below France	Boot
+ ====> ['Italy'],['Italy', 'Libya', 'Germany'],['Italy', 'Libya', 'Germany', 'Finland', 'Andorra'] 
+--------------------------------------------------------------------------
+==========> Asia InContinent_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> Asia InContinentLoc_North_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> very skinny rectangle HasShape_reverse
+KG entity:skinny, Found in glove:skinny
+KG entity:rectangle, Found in glove:skinny rectangle
+Chose entity:rectangle
+Japan	in Asia	in north eastern part of Asia	very skinny rectangle
+ ====> ['Serbia'],['Serbia', 'Bulgaria', 'Portugal'],['Serbia', 'Bulgaria', 'Portugal', 'Kazakhstan', 'Nepal'] 
+--------------------------------------------------------------------------
+==========> Kyrgyzstan IsWestOf_reverse
+KG entity:Kyrgyzstan, Found in glove:kyrgyzstan
+Chose entity:Kyrgyzstan
+==========> Russia IsSouthOf_reverse
+KG entity:Russia, Found in glove:russia
+Chose entity:Russia
+==========> Unremittingly flat as if some gigantic plasters has skimmed the land HasSize_reverse
+KG entity:Unremittingly, Found in glove:unremittingly
+KG entity:flat, Found in glove:unremittingly flat
+KG entity:gigantic, Found in glove:unremittingly flat gigantic
+KG entity:plasters, Found in glove:unremittingly flat gigantic plasters
+KG entity:skimmed, Found in glove:unremittingly flat gigantic plasters skimmed
+KG entity:land, Found in glove:unremittingly flat gigantic plasters skimmed land
+Chose entity:paint scraper
+Kazakhstan	left of Kyrgyzstan	is south of Russia	Unremittingly flat as if some gigantic plasters has skimmed the land
+ ====> ['Kazakhstan'],['Kazakhstan', 'Uzbekistan', 'China'],['Kazakhstan', 'Uzbekistan', 'China', 'Poland', 'Tajikistan'] 
+--------------------------------------------------------------------------
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+KG entity:next, Found in glove:next
+KG entity:ocean, Found in glove:next ocean
+Chose entity:next to ocean
+==========> Sudan IsNorthOf_reverse
+KG entity:Sudan, Found in glove:sudan
+Chose entity:South sudan
+==========> The shape is like a distorted square HasShape_reverse
+KG entity:The, Found in glove:the
+KG entity:shape, Found in glove:the shape
+KG entity:distorted, Found in glove:the shape distorted
+KG entity:square, Found in glove:the shape distorted square
+Chose entity:shape
+Libya	in next to ocean	above Sudan	The shape is like a distorted square
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Russia', 'Tanzania'],['Mediterranean Sea', 'Russia', 'Tanzania', 'Syria', 'Libya'] 
+--------------------------------------------------------------------------
+==========> China IsWestOf_reverse
+KG entity:China, Found in glove:china
+Chose entity:China
+==========> Asia InContinentLoc_South_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> A rectangle HasShape_reverse
+KG entity:A, Found in glove:a
+KG entity:rectangle, Found in glove:a rectangle
+Chose entity:a rectangle
+Nepal	left of China	in southern part of Asia	A rectangle
+ ====> ['Syria'],['Syria', 'Libya', 'Nepal'],['Syria', 'Libya', 'Nepal', 'Tanzania', 'Kazakhstan'] 
+--------------------------------------------------------------------------
+==========> India IsWestOf_reverse
+KG entity:India, Found in glove:india
+Chose entity:India
+==========> People 's Republic of China SharesBorderWith_reverse
+KG entity:People, Found in glove:people
+KG entity:'s, Found in glove:people 's
+KG entity:Republic, Found in glove:people 's republic
+KG entity:China, Found in glove:people 's republic china
+Chose entity:Central african republic
+==========> A bit like a seahorse HasShape_reverse
+KG entity:A, Found in glove:a
+KG entity:bit, Found in glove:a bit
+KG entity:seahorse, Found in glove:a bit seahorse
+Chose entity:a mosqutio
+Pakistan	left of India	its next to People's Republic of China	A bit like a seahorse
+ ====> ['Pakistan'],['Pakistan', 'Tanzania', 'Syria'],['Pakistan', 'Tanzania', 'Syria', 'Slovakia', 'Bulgaria'] 
+--------------------------------------------------------------------------
+==========> Europe InContinent_reverse
+KG entity:Europe, Found in glove:europe
+Chose entity:Europe
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+KG entity:located, Found in glove:located
+KG entity:next, Found in glove:located next
+KG entity:ocean, Found in glove:located next ocean
+Chose entity:next to ocean
+==========> A rough rectangle HasShape_reverse
+KG entity:A, Found in glove:a
+KG entity:rough, Found in glove:a rough
+KG entity:rectangle, Found in glove:a rough rectangle
+Chose entity:a rectangle
+Portugal	in Europe	located in next to ocean	A rough rectangle
+ ====> ['Germany'],['Germany', 'Syria', 'Libya'],['Germany', 'Syria', 'Libya', 'Hungary', 'Tanzania'] 
+--------------------------------------------------------------------------
+==========> Africa InContinentLoc_East_reverse
+KG entity:Africa, Found in glove:africa
+Chose entity:South africa
+==========> Africa InContinent_reverse
+KG entity:Africa, Found in glove:africa
+Chose entity:South africa
+==========> shaped like the number 7 HasShape_reverse
+KG entity:shaped, Found in glove:shaped
+KG entity:number, Found in glove:shaped number
+KG entity:7, Found in glove:shaped number 7
+Chose entity:large
+Somalia	in eastern part of Africa	in Africa	shaped like the number 7
+ ====> ['Tanzania'],['Tanzania', 'Canada', 'Botswana'],['Tanzania', 'Canada', 'Botswana', 'Syria', 'Libya'] 
+--------------------------------------------------------------------------
+==========> Mozambique IsNorthOf_reverse
+KG entity:Mozambique, Found in glove:mozambique
+Chose entity:Mozambique
+==========> Zimbabwe IsWestOf_reverse
+KG entity:Zimbabwe, Found in glove:zimbabwe
+Chose entity:Zimbabwe
+==========> looks like an irregular peanut shape HasShape_reverse
+KG entity:irregular, Found in glove:irregular
+KG entity:peanut, Found in glove:irregular peanut
+KG entity:shape, Found in glove:irregular peanut shape
+Chose entity:irregular trapezoid shape
+Zambia	above Mozambique	is west of Zimbabwe	looks like an irregular peanut shape
+ ====> ['Zambia'],['Zambia', 'South Africa', 'Tanzania'],['Zambia', 'South Africa', 'Tanzania', 'Malawi', 'Serbia'] 
+--------------------------------------------------------------------------
+==========> Europe InContinentLoc_North_reverse
+KG entity:Europe, Found in glove:europe
+Chose entity:Europe
+==========> Europe InContinent_reverse
+KG entity:Europe, Found in glove:europe
+Chose entity:Europe
+==========> Lima HasShape_reverse
+KG entity:Lima, Found in glove:lima
+Chose entity:Lima
+Finland	in northern part of Europe	in Europe	Lima beans shape
+ ====> ['Peru'],['Peru', 'Bulgaria', 'Serbia'],['Peru', 'Bulgaria', 'Serbia', 'Hungary', 'Italy'] 
+--------------------------------------------------------------------------
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+KG entity:next, Found in glove:next
+KG entity:ocean, Found in glove:next ocean
+Chose entity:next to ocean
+==========> Asia InContinentLoc_North_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> it's more like lines and dots IsSouthOf_reverse
+KG entity:lines, Found in glove:lines
+KG entity:dots, Found in glove:lines dots
+Chose entity:dot
+Indonesia	in next to ocean	in south eastern part of Asia	it's more like lines and dots
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'South Africa', 'Italy'],['Mediterranean Sea', 'South Africa', 'Italy', 'Argentina', 'Tanzania'] 
+--------------------------------------------------------------------------
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+KG entity:next, Found in glove:next
+KG entity:ocean, Found in glove:next ocean
+Chose entity:next to ocean
+==========> Austria IsWestOf_reverse
+KG entity:Austria, Found in glove:austria
+Chose entity:Austria
+==========> looks like a foot with a ball HasShape_reverse
+KG entity:foot, Found in glove:foot
+KG entity:ball, Found in glove:foot ball
+Chose entity:ball
+Italy	in next to ocean	left of Austria	looks like a foot with a ball
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Germany', 'Italy'],['Mediterranean Sea', 'Germany', 'Italy', 'Switzerland', 'Liechtenstein'] 
+--------------------------------------------------------------------------
+==========> United States of America LocatedInOrNextToBodyOfWater
+KG entity:United, Found in glove:united
+KG entity:States, Found in glove:united states
+KG entity:America, Found in glove:united states america
+Chose entity:United states
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+KG entity:located, Found in glove:located
+KG entity:next, Found in glove:located next
+KG entity:ocean, Found in glove:located next ocean
+Chose entity:next to ocean
+==========> it is a long skinny shape with a detached head HasShape_reverse
+KG entity:long, Found in glove:long
+KG entity:skinny, Found in glove:long skinny
+KG entity:shape, Found in glove:long skinny shape
+KG entity:detached, Found in glove:long skinny shape detached
+KG entity:head, Found in glove:long skinny shape detached head
+Chose entity:shape
+Japan	its next to United States of America	located in next to ocean	it is a long skinny shape with a detached head
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Germany', 'Baltic Sea'],['Mediterranean Sea', 'Germany', 'Baltic Sea', 'Hungary', 'Tanzania'] 
+--------------------------------------------------------------------------
+==========> Russia IsSouthOf_reverse
+KG entity:Russia, Found in glove:russia
+Chose entity:Russia
+==========> China IsWestOf_reverse
+KG entity:China, Found in glove:china
+Chose entity:China
+==========> a rectangle HasShape_reverse
+KG entity:rectangle, Found in glove:rectangle
+Chose entity:rectangle
+Kazakhstan	below Russia	is west of China	a rectangle
+ ====> ['Serbia'],['Serbia', 'Bulgaria', 'Kazakhstan'],['Serbia', 'Bulgaria', 'Kazakhstan', 'Portugal', 'Nepal'] 
+--------------------------------------------------------------------------
+==========> Algeria IsEastOf_reverse
+KG entity:Algeria, Found in glove:algeria
+Chose entity:Algeria
+==========> Tunisia IsSouthOf_reverse
+KG entity:Tunisia, Found in glove:tunisia
+Chose entity:Tunisia
+==========> square HasShape_reverse
+KG entity:square, Found in glove:square
+Chose entity:square
+Libya	is east of Algeria	is south of Tunisia	square
+ ====> ['Libya'],['Libya', 'Niger', 'Algeria'],['Libya', 'Niger', 'Algeria', 'Tunisia', 'Bulgaria'] 
+--------------------------------------------------------------------------
+==========> Asia InContinentLoc_South_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> China IsWestOf_reverse
+KG entity:China, Found in glove:china
+Chose entity:China
+==========> A squished rectangle HasShape_reverse
+KG entity:A, Found in glove:a
+KG entity:squished, Found in glove:a squished
+KG entity:rectangle, Found in glove:a squished rectangle
+Chose entity:a rectangle
+Nepal	in southern part of Asia	left of China	A squished rectangle
+ ====> ['Syria'],['Syria', 'Libya', 'Pakistan'],['Syria', 'Libya', 'Pakistan', 'Nepal', 'Tanzania'] 
+--------------------------------------------------------------------------
+==========> India IsNorthOf_reverse
+KG entity:India, Found in glove:india
+Chose entity:India
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+KG entity:next, Found in glove:next
+KG entity:ocean, Found in glove:next ocean
+Chose entity:next to ocean
+==========> Like godzilla HasShape_reverse
+KG entity:Like, Found in glove:like
+KG entity:godzilla, Found in glove:like godzilla
+Chose entity:godzilla
+Pakistan	above India	in next to ocean	Like godzilla
+ ====> ['Pakistan'],['Pakistan', 'Mediterranean Sea', 'Nepal'],['Pakistan', 'Mediterranean Sea', 'Nepal', 'China', 'Serbia'] 
+--------------------------------------------------------------------------
+==========> Spain IsWestOf_reverse
+KG entity:Spain, Found in glove:spain
+Chose entity:Spain
+==========> Spain IsSouthOf_reverse
+KG entity:Spain, Found in glove:spain
+Chose entity:Spain
+==========> rectangle HasShape_reverse
+KG entity:rectangle, Found in glove:rectangle
+Chose entity:rectangle
+Portugal	is west of Spain	is south of Spain	rectangle
+ ====> ['Portugal'],['Portugal', 'Gibraltar', 'Morocco'],['Portugal', 'Gibraltar', 'Morocco', 'Serbia', 'Bulgaria'] 
+--------------------------------------------------------------------------
+==========> Ethiopia IsSouthOf_reverse
+KG entity:Ethiopia, Found in glove:ethiopia
+Chose entity:Ethiopia
+==========> Kenya IsNorthOf_reverse
+KG entity:Kenya, Found in glove:kenya
+Chose entity:Kenya
+==========> Flying bird SharesBorderWith_reverse
+KG entity:Flying, Found in glove:flying
+KG entity:bird, Found in glove:flying bird
+Chose entity:a bird flying.
+Somalia	below Ethiopia	is north of Kenya	Flying bird
+ ====> ['Somalia'],['Somalia', 'Ethiopia', 'Kenya'],['Somalia', 'Ethiopia', 'Kenya', 'Tanzania', 'Uganda'] 
+--------------------------------------------------------------------------
+==========> Africa InContinentLoc_South_reverse
+KG entity:Africa, Found in glove:africa
+Chose entity:South africa
+==========> Africa InContinent_reverse
+KG entity:Africa, Found in glove:africa
+Chose entity:South africa
+==========> It looks like two circles put together HasShape_reverse
+KG entity:It, Found in glove:it
+KG entity:two, Found in glove:it two
+KG entity:circles, Found in glove:it two circles
+KG entity:put, Found in glove:it two circles put
+KG entity:together, Found in glove:it two circles put together
+Chose entity:two squares put together
+Zambia	in southern part of Africa	in Africa	It looks like two circles put together
+ ====> ['Bulgaria'],['Bulgaria', 'Tanzania', 'Zambia'],['Bulgaria', 'Tanzania', 'Zambia', 'Botswana', 'Southafrica'] 
+--------------------------------------------------------------------------
+==========> Europe InContinent_reverse
+KG entity:Europe, Found in glove:europe
+Chose entity:Europe
+==========> Russia IsNorthOf_reverse
+KG entity:Russia, Found in glove:russia
+Chose entity:Russia
+==========> It looks like a boot from a certain angle HasShape_reverse
+KG entity:It, Found in glove:it
+KG entity:boot, Found in glove:it boot
+KG entity:certain, Found in glove:it boot certain
+KG entity:angle, Found in glove:it boot certain angle
+Chose entity:it look like a fullstop
+Finland	in Europe	above Russia	It looks like a boot from a certain angle
+ ====> ['Finland'],['Finland', 'Southafrica', 'Bulgaria'],['Finland', 'Southafrica', 'Bulgaria', 'North Korea', 'Tanzania'] 
+--------------------------------------------------------------------------
+==========> Malaysia IsSouthOf_reverse
+KG entity:Malaysia, Found in glove:malaysia
+Chose entity:Malaysia
+==========> Timor Leste IsNorthOf_reverse
+KG entity:Timor, Found in glove:timor
+KG entity:Leste, Found in glove:timor leste
+Chose entity:East Timor
+==========> it's more like lines and dots IsSouthOf_reverse
+KG entity:lines, Found in glove:lines
+KG entity:dots, Found in glove:lines dots
+Chose entity:dot
+Indonesia	below Malaysia	is north of Timor Leste	it's more like lines and dots
+ ====> ['Indonesia'],['Indonesia', 'South Africa', 'Russia'],['Indonesia', 'South Africa', 'Russia', 'Malaysia', 'Italy'] 
+--------------------------------------------------------------------------
+==========> Slovenia IsWestOf_reverse
+KG entity:Slovenia, Found in glove:slovenia
+Chose entity:Slovenia
+==========> Mediterranean Basin HasSize_reverse
+KG entity:Mediterranean, Found in glove:mediterranean
+KG entity:Basin, Found in glove:mediterranean basin
+Chose entity:Mediterranean Sea
+==========> Boot sahpe SharesBorderWith_reverse
+KG entity:Boot, Found in glove:boot
+KG entity:sahpe, Found in glove:boot
+Chose entity:boot
+Italy	is west of Slovenia	in Mediterranean Basin	Boot sahpe
+ ====> ['Italy'],['Italy', 'Austria', 'Libya'],['Italy', 'Austria', 'Libya', 'Finland', 'France'] 
+--------------------------------------------------------------------------
+==========> Asia InContinentLoc_North_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> Asia InContinent_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> long narrow islands HasShape_reverse
+KG entity:long, Found in glove:long
+KG entity:narrow, Found in glove:long narrow
+KG entity:islands, Found in glove:long narrow islands
+Chose entity:narrow
+Japan	in north eastern part of Asia	in Asia	long narrow islands
+ ====> ['Nepal'],['Nepal', 'Kazakhstan', 'Japan'],['Nepal', 'Kazakhstan', 'Japan', 'Serbia', 'Portugal'] 
+--------------------------------------------------------------------------
+==========> in landlocked HasShape
+KG entity:landlocked, Found in glove:landlocked
+Chose entity:landlocked
+==========> Russia IsWestOf_reverse
+KG entity:Russia, Found in glove:russia
+Chose entity:Russia
+==========> shaped like a human spleen HasShape_reverse
+KG entity:shaped, Found in glove:shaped
+KG entity:human, Found in glove:shaped human
+KG entity:spleen, Found in glove:shaped human spleen
+Chose entity:human arm
+Kazakhstan	in landlocked	left of Russia	shaped like a human spleen
+ ====> ['Poland'],['Poland', 'Kazakhstan', 'Finland'],['Poland', 'Kazakhstan', 'Finland', 'Latvia', 'Benin'] 
+--------------------------------------------------------------------------
+==========> Egypt IsWestOf_reverse
+KG entity:Egypt, Found in glove:egypt
+Chose entity:Egypt
+==========> Africa InContinentLoc_North_reverse
+KG entity:Africa, Found in glove:africa
+Chose entity:South africa
+==========> Motsly like a square with a chunk out of the top left corner HasShape_reverse
+KG entity:square, Found in glove:square
+KG entity:chunk, Found in glove:square chunk
+KG entity:top, Found in glove:square chunk top
+KG entity:left, Found in glove:square chunk top left
+KG entity:corner, Found in glove:square chunk top left corner
+Chose entity:a square
+Libya	left of Egypt	in northern part of Africa	Motsly like a square with a chunk out of the top left corner
+ ====> ['Sudan'],['Sudan', 'Bulgaria', 'Libya'],['Sudan', 'Bulgaria', 'Libya', 'Syria', 'Saudi Arabia'] 
+--------------------------------------------------------------------------
+==========> India IsEastOf_reverse
+KG entity:India, Found in glove:india
+Chose entity:India
+==========> India IsNorthOf_reverse
+KG entity:India, Found in glove:india
+Chose entity:India
+==========> long rectangle HasShape_reverse
+KG entity:long, Found in glove:long
+KG entity:rectangle, Found in glove:long rectangle
+Chose entity:long
+Nepal	right of India	above India	long rectangle
+ ====> ['China'],['China', 'Nepal', 'Pakistan'],['China', 'Nepal', 'Pakistan', 'Myanmar', 'Bhutan'] 
+--------------------------------------------------------------------------
+==========> Iran IsSouthOf_reverse
+KG entity:Iran, Found in glove:iran
+Chose entity:Iran
+==========> China IsWestOf_reverse
+KG entity:China, Found in glove:china
+Chose entity:China
+==========> A bit like a seahorse HasShape_reverse
+KG entity:A, Found in glove:a
+KG entity:bit, Found in glove:a bit
+KG entity:seahorse, Found in glove:a bit seahorse
+Chose entity:a mosqutio
+Pakistan	below Iran	left of China	A bit like a seahorse
+ ====> ['Pakistan'],['Pakistan', 'Tanzania', 'Syria'],['Pakistan', 'Tanzania', 'Syria', 'Slovakia', 'Afghanistan'] 
+--------------------------------------------------------------------------
+==========> Europe InContinent_reverse
+KG entity:Europe, Found in glove:europe
+Chose entity:Europe
+==========> Spain IsWestOf_reverse
+KG entity:Spain, Found in glove:spain
+Chose entity:Spain
+==========> Portugal HasShape_reverse
+KG entity:Portugal, Found in glove:portugal
+Chose entity:Portugal
+Portugal	in Europe	is west of Spain	Portugal looks like a rectangular
+ ====> ['Spain'],['Spain', 'Portugal', 'Gibraltar'],['Spain', 'Portugal', 'Gibraltar', 'Morocco', 'France'] 
+--------------------------------------------------------------------------
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+KG entity:next, Found in glove:next
+KG entity:ocean, Found in glove:next ocean
+Chose entity:next to ocean
+==========> Ethiopia SharesBorderWith_reverse
+KG entity:Ethiopia, Found in glove:ethiopia
+Chose entity:Ethiopia
+==========> Distorted Rectangle HasShape_reverse
+KG entity:Distorted, Found in glove:distorted
+KG entity:Rectangle, Found in glove:distorted rectangle
+Chose entity:unequal rectangle
+Somalia	in next to ocean	its next to Ethiopia	Distorted Rectangle
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Tanzania', 'Somalia'],['Mediterranean Sea', 'Tanzania', 'Somalia', 'Kenya', 'Ethiopia'] 
+--------------------------------------------------------------------------
+==========> Mozambique IsWestOf_reverse
+KG entity:Mozambique, Found in glove:mozambique
+Chose entity:Mozambique
+==========> Africa InContinentLoc_East_reverse
+KG entity:Africa, Found in glove:africa
+Chose entity:South africa
+==========> looks like an irregular peanut shape HasShape_reverse
+KG entity:irregular, Found in glove:irregular
+KG entity:peanut, Found in glove:irregular peanut
+KG entity:shape, Found in glove:irregular peanut shape
+Chose entity:irregular trapezoid shape
+Zambia	left of Mozambique	in eastern part of Africa	looks like an irregular peanut shape
+ ====> ['Tanzania'],['Tanzania', 'South Africa', 'Zambia'],['Tanzania', 'South Africa', 'Zambia', 'Zimbabwe', 'Malawi'] 
+--------------------------------------------------------------------------
+==========> Sweden IsEastOf_reverse
+KG entity:Sweden, Found in glove:sweden
+Chose entity:Sweden
+==========> Russia IsNorthOf_reverse
+KG entity:Russia, Found in glove:russia
+Chose entity:Russia
+==========> a potato HasShape_reverse
+KG entity:potato, Found in glove:potato
+Chose entity:broken potato chip
+Finland	right of Sweden	is north of Russia	a potato
+ ====> ['Finland'],['Finland', 'Slovakia', 'Southafrica'],['Finland', 'Slovakia', 'Southafrica', 'Kazakhstan', 'Portugal'] 
+--------------------------------------------------------------------------
+==========> Timor Leste IsNorthOf_reverse
+KG entity:Timor, Found in glove:timor
+KG entity:Leste, Found in glove:timor leste
+Chose entity:East Timor
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+KG entity:next, Found in glove:next
+KG entity:ocean, Found in glove:next ocean
+Chose entity:next to ocean
+==========> multiple paint splatters HasSize_reverse
+KG entity:multiple, Found in glove:multiple
+KG entity:paint, Found in glove:multiple paint
+KG entity:splatters, Found in glove:multiple paint splatters
+Chose entity:paint scraper
+Indonesia	above Timor Leste	in next to ocean	multiple paint splatters
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Indonesia', 'Italy'],['Mediterranean Sea', 'Indonesia', 'Italy', 'Russia', 'Portugal'] 
+--------------------------------------------------------------------------
+==========> Europe InContinent_reverse
+KG entity:Europe, Found in glove:europe
+Chose entity:Europe
+==========> Slovenia IsWestOf_reverse
+KG entity:Slovenia, Found in glove:slovenia
+Chose entity:Slovenia
+==========> Boot sahpe SharesBorderWith_reverse
+KG entity:Boot, Found in glove:boot
+KG entity:sahpe, Found in glove:boot
+Chose entity:boot
+Italy	in Europe	is west of Slovenia	Boot sahpe
+ ====> ['Italy'],['Italy', 'Austria', 'Libya'],['Italy', 'Austria', 'Libya', 'Finland', 'Hungary'] 
+--------------------------------------------------------------------------
+==========> Russia SharesBorderWith_reverse
+KG entity:Russia, Found in glove:russia
+Chose entity:Russia
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+KG entity:next, Found in glove:next
+KG entity:ocean, Found in glove:next ocean
+Chose entity:next to ocean
+==========> Spherical HasSize_reverse
+KG entity:Spherical, Found in glove:spherical
+Chose entity:geometric polygon
+Japan	its next to Russia	in next to ocean	Spherical
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Kazakhstan', 'Poland'],['Mediterranean Sea', 'Kazakhstan', 'Poland', 'Portugal', 'Finland'] 
+--------------------------------------------------------------------------
+==========> Kyrgyzstan SharesBorderWith_reverse
+KG entity:Kyrgyzstan, Found in glove:kyrgyzstan
+Chose entity:Kyrgyzstan
+==========> in landlocked HasShape
+KG entity:landlocked, Found in glove:landlocked
+Chose entity:landlocked
+==========> a person standing sideways HasShape_reverse
+KG entity:person, Found in glove:person
+KG entity:standing, Found in glove:person standing
+KG entity:sideways, Found in glove:person standing sideways
+Chose entity:a sideways head
+Kazakhstan	its next to Kyrgyzstan	in landlocked	a person standing sideways
+ ====> ['Bulgaria'],['Bulgaria', 'Kazakhstan', 'Uzbekistan'],['Bulgaria', 'Kazakhstan', 'Uzbekistan', "People's Republic of China", 'Tajikistan'] 
+--------------------------------------------------------------------------
+==========> Africa InContinent_reverse
+KG entity:Africa, Found in glove:africa
+Chose entity:South africa
+==========> Niger SharesBorderWith_reverse
+KG entity:Niger, Found in glove:niger
+Chose entity:Niger
+==========> square HasShape_reverse
+KG entity:square, Found in glove:square
+Chose entity:square
+Libya	in Africa	located next to Niger	square
+ ====> ['Bulgaria'],['Bulgaria', 'Columbia', 'Serbia'],['Bulgaria', 'Columbia', 'Serbia', 'Benin', 'Libya'] 
+--------------------------------------------------------------------------
+==========> Asia InContinentLoc_South_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> India SharesBorderWith_reverse
+KG entity:India, Found in glove:india
+Chose entity:India
+==========> A rectangle HasShape_reverse
+KG entity:A, Found in glove:a
+KG entity:rectangle, Found in glove:a rectangle
+Chose entity:a rectangle
+Nepal	in southern part of Asia	its next to India	A rectangle
+ ====> ['Syria'],['Syria', 'Libya', 'Nepal'],['Syria', 'Libya', 'Nepal', 'Tanzania', 'Indonesia'] 
+--------------------------------------------------------------------------
+==========> China IsWestOf_reverse
+KG entity:China, Found in glove:china
+Chose entity:China
+==========> China IsSouthOf_reverse
+KG entity:China, Found in glove:china
+Chose entity:China
+==========> It looks like a dog that is sitting HasShape_reverse
+KG entity:It, Found in glove:it
+KG entity:dog, Found in glove:it dog
+KG entity:sitting, Found in glove:it dog sitting
+Chose entity:dog
+Pakistan	left of China	below China	It looks like a dog that is sitting
+ ====> ['Pakistan'],['Pakistan', 'Nepal', 'India'],['Pakistan', 'Nepal', 'India', 'Laos', 'Afghanistan'] 
+--------------------------------------------------------------------------
+==========> Spain SharesBorderWith_reverse
+KG entity:Spain, Found in glove:spain
+Chose entity:Spain
+==========> Spain IsWestOf_reverse
+KG entity:Spain, Found in glove:spain
+Chose entity:Spain
+==========> A small rectangle HasShape_reverse
+KG entity:A, Found in glove:a
+KG entity:small, Found in glove:a small
+KG entity:rectangle, Found in glove:a small rectangle
+Chose entity:a rectangle
+Portugal	its next to Spain	is west of Spain	A small rectangle
+ ====> ['Portugal'],['Portugal', 'Gibraltar', 'Morocco'],['Portugal', 'Gibraltar', 'Morocco', 'Syria', 'Libya'] 
+--------------------------------------------------------------------------
+==========> Kenya IsEastOf_reverse
+KG entity:Kenya, Found in glove:kenya
+Chose entity:Kenya
+==========> Africa InContinentLoc_East_reverse
+KG entity:Africa, Found in glove:africa
+Chose entity:South africa
+==========> It looks like a misshapen boomerang HasShape_reverse
+KG entity:It, Found in glove:it
+KG entity:misshapen, Found in glove:it misshapen
+KG entity:boomerang, Found in glove:it misshapen boomerang
+Chose entity:it looks like a boomerang
+Somalia	right of Kenya	in eastern part of Africa	It looks like a misshapen boomerang
+ ====> ['Ethiopia'],['Ethiopia', 'Somalia', 'Bulgaria'],['Ethiopia', 'Somalia', 'Bulgaria', 'Tanzania', 'Kazakhstan'] 
+--------------------------------------------------------------------------
+==========> Africa InContinentLoc_South_reverse
+KG entity:Africa, Found in glove:africa
+Chose entity:South africa
+==========> Namibia IsEastOf_reverse
+KG entity:Namibia, Found in glove:namibia
+Chose entity:Namibia
+==========> Two ovals joined at one corner SharesBorderWith_reverse
+KG entity:Two, Found in glove:two
+KG entity:ovals, Found in glove:two ovals
+KG entity:joined, Found in glove:two ovals joined
+KG entity:one, Found in glove:two ovals joined one
+KG entity:corner, Found in glove:two ovals joined one corner
+Chose entity:two squares put together
+Zambia	in southern part of Africa	is east of Namibia	Two ovals joined at one corner
+ ====> ['Zambia'],['Zambia', 'South Africa', 'Botswana'],['Zambia', 'South Africa', 'Botswana', 'Tanzania', 'Russia'] 
+--------------------------------------------------------------------------
+==========> Sweden IsEastOf_reverse
+KG entity:Sweden, Found in glove:sweden
+Chose entity:Sweden
+==========> Europe InContinentLoc_North_reverse
+KG entity:Europe, Found in glove:europe
+Chose entity:Europe
+==========> Lima HasShape_reverse
+KG entity:Lima, Found in glove:lima
+Chose entity:Lima
+Finland	is east of Sweden	in northern part of Europe	Lima beans shape
+ ====> ['Peru'],['Peru', 'Finland', 'Bulgaria'],['Peru', 'Finland', 'Bulgaria', 'Russia', 'Turkey'] 
+--------------------------------------------------------------------------
+==========> Philippines SharesBorderWith_reverse
+KG entity:Philippines, Found in glove:philippines
+Chose entity:Philippines
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+KG entity:located, Found in glove:located
+KG entity:next, Found in glove:located next
+KG entity:ocean, Found in glove:located next ocean
+Chose entity:next to ocean
+==========> ROCKY ISLANDS HasShape_reverse
+KG entity:ROCKY, Found in glove:rocky
+KG entity:ISLANDS, Found in glove:rocky islands
+Chose entity:Marshall Islands
+Indonesia	its next to Philippines	located in next to ocean	IS IS A COOLECTION OF LONG AND ROCKY ISLANDS
+ ====> ['Federated States of Micronesia'],['Federated States of Micronesia', 'Germany', 'Malaysia'],['Federated States of Micronesia', 'Germany', 'Malaysia', 'Indonesia', 'Nauru'] 
+--------------------------------------------------------------------------
+==========> France SharesBorderWith_reverse
+KG entity:France, Found in glove:france
+Chose entity:France
+==========> Mediterranean Basin HasSize_reverse
+KG entity:Mediterranean, Found in glove:mediterranean
+KG entity:Basin, Found in glove:mediterranean basin
+Chose entity:Mediterranean Sea
+==========> It has the shape of a long boot HasShape_reverse
+KG entity:It, Found in glove:it
+KG entity:shape, Found in glove:it shape
+KG entity:long, Found in glove:it shape long
+KG entity:boot, Found in glove:it shape long boot
+Chose entity:long
+Italy	its next to France	in Mediterranean Basin	It has the shape of a long boot
+ ====> ['Italy'],['Italy', 'Syria', 'Brazil'],['Italy', 'Syria', 'Brazil', 'Spain', 'Germany'] 
+--------------------------------------------------------------------------
+==========> Asia InContinentLoc_North_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+KG entity:located, Found in glove:located
+KG entity:next, Found in glove:located next
+KG entity:ocean, Found in glove:located next ocean
+Chose entity:next to ocean
+==========> shapeless HasSize_reverse
+KG entity:shapeless, Found in glove:shapeless
+Chose entity:necktie
+Japan	in north eastern part of Asia	located in next to ocean	shapeless
+ ====> ['Germany'],['Germany', 'Hungary', 'Cameroon'],['Germany', 'Hungary', 'Cameroon', 'Zambia', 'Russia'] 
+--------------------------------------------------------------------------
+==========> People 's Republic of China SharesBorderWith_reverse
+KG entity:People, Found in glove:people
+KG entity:'s, Found in glove:people 's
+KG entity:Republic, Found in glove:people 's republic
+KG entity:China, Found in glove:people 's republic china
+Chose entity:Central african republic
+==========> Russia IsSouthOf_reverse
+KG entity:Russia, Found in glove:russia
+Chose entity:Russia
+==========> a rectangle HasShape_reverse
+KG entity:rectangle, Found in glove:rectangle
+Chose entity:rectangle
+Kazakhstan	located next to People's Republic of China	below Russia	a rectangle
+ ====> ['Serbia'],['Serbia', 'Bulgaria', 'Portugal'],['Serbia', 'Bulgaria', 'Portugal', 'Poland', 'China'] 
+--------------------------------------------------------------------------
+==========> Egypt IsWestOf_reverse
+KG entity:Egypt, Found in glove:egypt
+Chose entity:Egypt
+==========> Africa InContinentLoc_North_reverse
+KG entity:Africa, Found in glove:africa
+Chose entity:South africa
+==========> an ice cream cone with the ice cream falling out InContinent_reverse
+KG entity:ice, Found in glove:ice
+KG entity:cream, Found in glove:ice cream
+KG entity:cone, Found in glove:ice cream cone
+KG entity:ice, Found in glove:ice cream cone ice
+KG entity:cream, Found in glove:ice cream cone ice cream
+KG entity:falling, Found in glove:ice cream cone ice cream falling
+Chose entity:ice melting
+Libya	is west of Egypt	in northern part of Africa	an ice cream cone with the ice cream falling out
+ ====> ['Sudan'],['Sudan', 'Libya', 'Saudi Arabia'],['Sudan', 'Libya', 'Saudi Arabia', 'Hungary', 'Germany'] 
+--------------------------------------------------------------------------
+==========> India IsNorthOf_reverse
+KG entity:India, Found in glove:india
+Chose entity:India
+==========> China IsWestOf_reverse
+KG entity:China, Found in glove:china
+Chose entity:China
+==========> long rectangle HasShape_reverse
+KG entity:long, Found in glove:long
+KG entity:rectangle, Found in glove:long rectangle
+Chose entity:long
+Nepal	is north of India	left of China	long rectangle
+ ====> ['Nepal'],['Nepal', 'Pakistan', 'China'],['Nepal', 'Pakistan', 'China', 'Myanmar', 'Russia'] 
+--------------------------------------------------------------------------
+==========> Asia InContinent_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> India IsNorthOf_reverse
+KG entity:India, Found in glove:india
+Chose entity:India
+==========> A bit like a seahorse HasShape_reverse
+KG entity:A, Found in glove:a
+KG entity:bit, Found in glove:a bit
+KG entity:seahorse, Found in glove:a bit seahorse
+Chose entity:a mosqutio
+Pakistan	in Asia	above India	A bit like a seahorse
+ ====> ['Nepal'],['Nepal', 'Pakistan', 'China'],['Nepal', 'Pakistan', 'China', 'Syria', 'Tanzania'] 
+--------------------------------------------------------------------------
+==========> León SharesBorderWith_reverse
+KG entity:León, Found in glove:león
+Chose entity:Castile and León
+==========> Spain IsWestOf_reverse
+KG entity:Spain, Found in glove:spain
+Chose entity:Spain
+==========> it looks like a rectangle HasShape_reverse
+KG entity:rectangle, Found in glove:rectangle
+Chose entity:rectangle
+Portugal	its next to Castile and León	left of Spain	it looks like a rectangle
+ ====> ['Portugal'],['Portugal', 'Serbia', 'Morocco'],['Portugal', 'Serbia', 'Morocco', 'Gibraltar', 'Bulgaria'] 
+--------------------------------------------------------------------------
+==========> Africa InContinentLoc_East_reverse
+KG entity:Africa, Found in glove:africa
+Chose entity:South africa
+==========> Djibouti IsSouthOf_reverse
+KG entity:Djibouti, Found in glove:djibouti
+Chose entity:Djibouti
+==========> a boomerang HasShape_reverse
+KG entity:boomerang, Found in glove:boomerang
+Chose entity:boomerang
+Somalia	in eastern part of Africa	is south of Djibouti	a boomerang
+ ====> ['Somalia'],['Somalia', 'Ethiopia', 'Kenya'],['Somalia', 'Ethiopia', 'Kenya', 'Tanzania', 'Mozambique'] 
+--------------------------------------------------------------------------
+==========> Tanzania IsSouthOf_reverse
+KG entity:Tanzania, Found in glove:tanzania
+Chose entity:Tanzania
+==========> Malawi SharesBorderWith_reverse
+KG entity:Malawi, Found in glove:malawi
+Chose entity:Malawi
+==========> It shapes like a shrimp HasShape_reverse
+KG entity:It, Found in glove:it
+KG entity:shapes, Found in glove:it shapes
+KG entity:shrimp, Found in glove:it shapes shrimp
+Chose entity:looks like shrimp cocktail
+Zambia	is south of Tanzania	located next to Malawi	It shapes like a shrimp
+ ====> ['Tanzania'],['Tanzania', 'Mozambique', 'Zambia'],['Tanzania', 'Mozambique', 'Zambia', 'Malawi', 'Slovakia'] 
+--------------------------------------------------------------------------
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+KG entity:located, Found in glove:located
+KG entity:next, Found in glove:located next
+KG entity:ocean, Found in glove:located next ocean
+Chose entity:next to ocean
+==========> Europe InContinentLoc_North_reverse
+KG entity:Europe, Found in glove:europe
+Chose entity:Europe
+==========> like a distorted oval HasShape_reverse
+KG entity:distorted, Found in glove:distorted
+KG entity:oval, Found in glove:distorted oval
+Chose entity:oval
+Finland	located in next to ocean	in northern part of Europe	like a distorted oval
+ ====> ['Tanzania'],['Tanzania', 'Germany', 'Hungary'],['Tanzania', 'Germany', 'Hungary', 'Southafrica', 'Poland'] 
+--------------------------------------------------------------------------
+==========> Asia InContinentLoc_North_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> Malaysia IsSouthOf_reverse
+KG entity:Malaysia, Found in glove:malaysia
+Chose entity:Malaysia
+==========> looks like a boat with different fragments HasShape_reverse
+KG entity:boat, Found in glove:boat
+KG entity:different, Found in glove:boat different
+KG entity:fragments, Found in glove:boat different fragments
+Chose entity:a boat
+Indonesia	in south eastern part of Asia	below Malaysia	looks like a boat with different fragments
+ ====> ['Indonesia'],['Indonesia', 'Bulgaria', 'Tanzania'],['Indonesia', 'Bulgaria', 'Tanzania', 'Syria', 'Ethiopia'] 
+--------------------------------------------------------------------------
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+KG entity:located, Found in glove:located
+KG entity:next, Found in glove:located next
+KG entity:ocean, Found in glove:located next ocean
+Chose entity:next to ocean
+==========> San Marino SharesBorderWith_reverse
+KG entity:San, Found in glove:san
+KG entity:Marino, Found in glove:san marino
+Chose entity:San Marino
+==========> It has the shape of a long boot HasShape_reverse
+KG entity:It, Found in glove:it
+KG entity:shape, Found in glove:it shape
+KG entity:long, Found in glove:it shape long
+KG entity:boot, Found in glove:it shape long boot
+Chose entity:long
+Italy	located in next to ocean	located next to San Marino	It has the shape of a long boot
+ ====> ['Italy'],['Italy', 'Germany', 'Hungary'],['Italy', 'Germany', 'Hungary', 'Cameroon', 'Turkey'] 
+--------------------------------------------------------------------------
+==========> Asia InContinent_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> Asia InContinentLoc_North_reverse
+KG entity:Asia, Found in glove:asia
+Chose entity:Asia
+==========> ragged HasSize_reverse
+KG entity:ragged, Found in glove:ragged
+Chose entity:tattered flag
+Japan	in Asia	in north eastern part of Asia	ragged
+ ====> ['Kazakhstan'],['Kazakhstan', 'Russia', 'Indonesia'],['Kazakhstan', 'Russia', 'Indonesia', 'Zambia', 'Japan'] 
+--------------------------------------------------------------------------
+==========> Europe InContinent_reverse
+KG entity:Europe, Found in glove:europe
+Chose entity:Europe
+==========> Turkmenistan IsNorthOf_reverse
+KG entity:Turkmenistan, Found in glove:turkmenistan
+Chose entity:Turkmenistan
+==========> A large squiggly oval HasShape_reverse
+KG entity:A, Found in glove:a
+KG entity:large, Found in glove:a large
+KG entity:squiggly, Found in glove:a large squiggly
+KG entity:oval, Found in glove:a large squiggly oval
+Chose entity:large
+Kazakhstan	in Europe	is north of Turkmenistan	A large squiggly oval
+ ====> ['Kazakhstan'],['Kazakhstan', 'Uzbekistan', 'Canada'],['Kazakhstan', 'Uzbekistan', 'Canada', 'Tanzania', 'Serbia'] 
+--------------------------------------------------------------------------
+==========> Niger IsEastOf_reverse
+KG entity:Niger, Found in glove:niger
+Chose entity:Niger
+==========> Tunisia IsSouthOf_reverse
+KG entity:Tunisia, Found in glove:tunisia
+Chose entity:Tunisia
+==========> Circular HasSize_reverse
+KG entity:Circular, Found in glove:circular
+Chose entity:inverted staircase
+Libya	right of Niger	is south of Tunisia	Circular
+ ====> ['Libya'],['Libya', 'Algeria', 'Chad'],['Libya', 'Algeria', 'Chad', 'Nigeria', 'Benin'] 
+--------------------------------------------------------------------------
+==========> People 's Republic of China SharesBorderWith_reverse
+KG entity:People, Found in glove:people
+KG entity:'s, Found in glove:people 's
+KG entity:Republic, Found in glove:people 's republic
+KG entity:China, Found in glove:people 's republic china
+Chose entity:Central african republic
+==========> located in landlocked HasCapital_reverse
+KG entity:located, Found in glove:located
+KG entity:landlocked, Found in glove:located landlocked
+Chose entity:landlocked
+==========> A rectangle HasShape_reverse
+KG entity:A, Found in glove:a
+KG entity:rectangle, Found in glove:a rectangle
+Chose entity:a rectangle
+Nepal	located next to People's Republic of China	located in landlocked	A rectangle
+ ====> ['Syria'],['Syria', 'Libya', 'Tanzania'],['Syria', 'Libya', 'Tanzania', 'Iran', 'Bulgaria'] 
+--------------------------------------------------------------------------
+==========> India IsNorthOf_reverse
+KG entity:India, Found in glove:india
+Chose entity:India
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+KG entity:located, Found in glove:located
+KG entity:next, Found in glove:located next
+KG entity:ocean, Found in glove:located next ocean
+Chose entity:next to ocean
+==========> Like godzilla HasShape_reverse
+KG entity:Like, Found in glove:like
+KG entity:godzilla, Found in glove:like godzilla
+Chose entity:godzilla
+Pakistan	is north of India	located in next to ocean	Like godzilla
+ ====> ['Pakistan'],['Pakistan', 'Germany', 'Hungary'],['Pakistan', 'Germany', 'Hungary', 'Nepal', 'China'] 
+--------------------------------------------------------------------------
+==========> León SharesBorderWith_reverse
+KG entity:León, Found in glove:león
+Chose entity:Castile and León
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+KG entity:next, Found in glove:next
+KG entity:ocean, Found in glove:next ocean
+Chose entity:next to ocean
+==========> it looks like a rectangle HasShape_reverse
+KG entity:rectangle, Found in glove:rectangle
+Chose entity:rectangle
+Portugal	located next to Castile and León	in next to ocean	it looks like a rectangle
+ ====> ['Portugal'],['Portugal', 'Mediterranean Sea', 'Serbia'],['Portugal', 'Mediterranean Sea', 'Serbia', 'Bulgaria', 'Nepal'] 
+--------------------------------------------------------------------------
+==========> Djibouti SharesBorderWith_reverse
+KG entity:Djibouti, Found in glove:djibouti
+Chose entity:Djibouti
+==========> Ethiopia IsEastOf_reverse
+KG entity:Ethiopia, Found in glove:ethiopia
+Chose entity:Ethiopia
+==========> Flying bird SharesBorderWith_reverse
+KG entity:Flying, Found in glove:flying
+KG entity:bird, Found in glove:flying bird
+Chose entity:a bird flying.
+Somalia	located next to Djibouti	right of Ethiopia	Flying bird
+ ====> ['Somalia'],['Somalia', 'Eritrea', 'Ethiopia'],['Somalia', 'Eritrea', 'Ethiopia', 'Djibouti', 'Kenya'] 
+--------------------------------------------------------------------------
+==========> Africa InContinentLoc_South_reverse
+KG entity:Africa, Found in glove:africa
+Chose entity:South africa
+==========> Namibia IsNorthOf_reverse
+KG entity:Namibia, Found in glove:namibia
+Chose entity:Namibia
+==========> it looks like an oval with a bite taken out of it HasShape_reverse
+KG entity:oval, Found in glove:oval
+KG entity:bite, Found in glove:oval bite
+KG entity:taken, Found in glove:oval bite taken
+Chose entity:an oval
+Zambia	in southern part of Africa	is north of Namibia	it looks like an oval with a bite taken out of it
+ ====> ['Zambia'],['Zambia', 'Botswana', 'Cameroon'],['Zambia', 'Botswana', 'Cameroon', 'Tanzania', 'Angola'] 
+--------------------------------------------------------------------------
+============> Top-1 acc: 51.81818181818182%, Top-3 acc: 75.45454545454545%, Top-5 acc: 83.63636363636364%
