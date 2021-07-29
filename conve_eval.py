@@ -59,6 +59,15 @@ stop_words.append('country')
 from flair.embeddings import WordEmbeddings, DocumentPoolEmbeddings
 from flair.data import Sentence
 
+with open('data/glove.6B.300d.txt','r') as f:
+    word_vocab = set() # not using list to avoid duplicate entry
+    word2vector = {}
+    for line in f:
+        line_ = line.strip() #Remove white space
+        words_Vec = line_.split()
+        word_vocab.add(words_Vec[0])
+        word2vector[words_Vec[0]] = np.array(words_Vec[1:],dtype=float)
+
 class ConvE(torch.nn.Module):
     def __init__(self, args, num_entities, num_relations):
         super(ConvE, self).__init__()
@@ -80,6 +89,7 @@ class ConvE(torch.nn.Module):
         self.ln0 = torch.nn.LayerNorm(args.emb_dim)
         self.register_parameter('b', Parameter(torch.zeros(num_entities)))
         self.fc = torch.nn.Linear(16128,args.emb_dim)
+
     
     def ent2id(self):
         entitymap = {}
@@ -96,20 +106,12 @@ class ConvE(torch.nn.Module):
         return entitymap, identmap
     
     def init_entemb(self):
+        global word2vector
+        global word_vocab
         self.entitymap, self.identmap = self.ent2id()
-        with open('data/glove.6B.300d.txt','r') as f:
-            self.word_vocab = set() # not using list to avoid duplicate entry
-            self.word2vector = {}
-            flag = 0
-            for line in f:
-                line_ = line.strip() #Remove white space
-                words_Vec = line_.split()
-                self.word_vocab.add(words_Vec[0])
-                self.word2vector[words_Vec[0]] = np.array(words_Vec[1:],dtype=float)
                 
         ent_found = 0
         for i in range(self.ne):
-            flag = 0
             found_list = []
             not_found_list = []
             found_list_vec = []
@@ -117,7 +119,6 @@ class ConvE(torch.nn.Module):
             #glove_ent = ' '.join(glove_ent)
             for w in glove_ent:
                 if w.lower() in self.word_vocab:
-                    flag += 1
                     found_list.append(w.lower())
                     found_list_vec.append(self.word2vector[w.lower()])
                 else:
@@ -289,46 +290,13 @@ def eval(args):
             pred_entity = names_dict[id]
             print('id:{} Head:{}, Relation:{}, Pred:{}, Target:{}'.format(id, names_dict[h], rel_dict[r], names_dict[id], names_dict[t[0]]))
 
-# def entity_extraction(recv_msg):
-#     label_list = [
-#     "O",       # Outside of a named entity
-#     "B-MISC",  # Beginning of a miscellaneous entity right after another miscellaneous entity
-#     "I-MISC",  # Miscellaneous entity
-#     "B-PER",   # Beginning of a person's name right after another person's name
-#     "I-PER",   # Person's name
-#     "B-ORG",   # Beginning of an organisation right after another organisation
-#     "I-ORG",   # Organisation
-#     "B-LOC",   # Beginning of a location right after another location
-#     "I-LOC"    # Location
-#     ]
-
-#     # Bit of a hack to get the tokens with the special tokens
-#     tokens = tokenizer.tokenize(tokenizer.decode(tokenizer.encode(recv_msg)))
-#     inputs = tokenizer.encode(recv_msg, return_tensors="pt")
-
-#     outputs = model(inputs)[0]
-#     predictions = torch.argmax(outputs, dim=2)
-
-#     entities = []
-#     #print([(token, label_list[prediction]) for token, prediction in zip(tokens, predictions[0].tolist())])
-#     for token, prediction in zip(tokens, predictions[0].tolist()):
-#         if 'I-LOC' in label_list[prediction]:
-#             entities.append(token)
-#     if '[CLS]' in entities:
-#         entities.remove('[CLS]')
-#     elif '[SEP]' in entities:
-#         entities.remove('[SEP]')
-#     entities = ' '.join(ent for ent in entities)
-
-#     return [entities]
-
 def entity_extraction(recv_msg):
     # NER model to extract the entity information
     ent_list = []
     ent = None
     utt = recv_msg.strip()
-    ner_results = ner_predictor.predict(sentence=utt)
     try:
+        ner_results = ner_predictor.predict(sentence=utt)
         for word, tag in zip(ner_results["words"], ner_results["tags"]): 
                 if 'LOC' in tag:
                     if 'U-LOC' in tag:
@@ -342,8 +310,8 @@ def entity_extraction(recv_msg):
                             ent = ' '.join(ent_list)
         return [ent]
     except:
-        ent = None
-        return None
+        ent = utt
+        return utt
 
 def relation_extraction(recv_msg):
     global rel_model
@@ -393,15 +361,14 @@ def relation_extraction(recv_msg):
         return pred_rel
 
 def infer(args, ent, rel, contains_shape=True):
+    global word2vector
+    global word_vocab
     data = WikiData(args)
     num_entities =  len(data.entity_ids)
     num_relations =  len(data.rel_ids)
 
     entitynames_dict = data.ids2entities
     entityids_dict = data.entity_ids
-
-    glove_embeddings = WordEmbeddings('en-crawl')
-    document_embeddings = DocumentPoolEmbeddings([glove_embeddings])
 
     model = ConvE(args, num_entities, num_relations)
     model.load_state_dict(torch.load(args.modelpath))
@@ -421,12 +388,26 @@ def infer(args, ent, rel, contains_shape=True):
             if t not in stop_words:
                 ent_tokens.append(t)
 
-        ent_tokens = ' '.join(ent_tokens)
-        query_sentence = Sentence(ent_tokens)
-        print('Query sentence:{}'.format(query_sentence))
-        document_embeddings.embed(query_sentence)
-        cos = nn.CosineSimilarity(dim=1, eps=1e-6)
-        np_query_vec = query_sentence.embedding.numpy()
+        # ent_tokens = ' '.join(ent_tokens)
+        # query_sentence = Sentence(ent_tokens)
+        # print('Query sentence:{}'.format(query_sentence))
+        # document_embeddings.embed(query_sentence)
+        # cos = nn.CosineSimilarity(dim=1, eps=1e-6)
+        np_query_vec = np.random.normal(scale=0.6, size=(args.emb_dim, ))
+        found_list = []
+        not_found_list = []
+        found_list_vec = []
+        for i in ent_tokens:
+            glove_ent = nltk.word_tokenize(i)
+            for w in glove_ent:
+                if w.lower() in word_vocab:
+                    found_list.append(w.lower())
+                    found_list_vec.append(word2vector[w.lower()])
+                else:
+                    not_found_list.append(w.lower())
+            if len(found_list) != 0:
+                print('KG entity:{}, Found in glove:{}'.format(' '.join(glove_ent), ' '.join(found_list)))
+                np_query_vec = np.mean(np.asarray(found_list_vec), axis=0)         
         
         for i, ent in enumerate(ent_emb):
             np_ent = ent.numpy()
@@ -449,7 +430,7 @@ def infer(args, ent, rel, contains_shape=True):
     start_time = time.time()
     logits = model.forward(torch.tensor(h_idx), torch.tensor(r_idx), print_pred=False)
     end_time = time.time()
-    print('Inference time:{} ms'.format((end_time-start_time)*1000))
+    #print('Inference time:{} ms'.format((end_time-start_time)*1000))
     pred_scores, pred = torch.topk(logits,args.top_k,1)
 
     # Export to onnx 
@@ -475,14 +456,21 @@ def score(args):
     top_1_score = 0
     top_3_score = 0
     top_5_score = 0
+    num_lines = 0
     with open(args.scoringfilepath, 'r') as f:
         lines = f.readlines()
         #print("--------------------------------------------------------------------------")
         for line in lines:
+            num_lines += 1
             #print(line)
-            game_id, target_country, utterances = line.strip().split('\t')
+            #game_id, target_country, utterances = line.strip().split('\t')
             #print('Game id:{} Target country:{} Utterances:{}'.format(game_id, target_country, utterances))
-            utterances = utterances.split('<br>')
+            #utterances = utterances.split('<br>')
+            utterances = []
+            target_country, utt1, utt2, utt3 = line.strip().split('\t')
+            utterances.append(utt1)
+            utterances.append(utt2)
+            utterances.append(utt3)
             candidates = {}
             mem_dict = {}
             for index, utt in enumerate(utterances):
@@ -498,7 +486,7 @@ def score(args):
                     contains_shape = True
                     new_rel = rel
                 
-                if 'LocatedIn' in rel or 'InContinentLoc' in rel or 'HasSize' in rel or 'InContinent' in rel:
+                if 'LocatedIn' in rel or 'InContinentLoc' in rel or 'HasSize' in rel or 'InContinent' in rel or 'HasLocation' in rel or 'HasCapital' in rel:
                     new_rel = rel
                 
                 if 'OtherRel' in rel:
@@ -541,8 +529,15 @@ def score(args):
             #print(top_1_ent, top_3_ent, top_5_ent)
             print('{} ====> {},{},{} '.format(line, top_1_ent, top_3_ent, top_5_ent))
             print("--------------------------------------------------------------------------")
+            if target_country.capitalize() in top_1_ent:
+                top_1_score += 1
+            if target_country.capitalize() in top_3_ent:
+                top_3_score += 1
+            if target_country.capitalize() in top_5_ent:
+                top_5_score += 1
+    
             #break
-            
+    print('============> Top-1 acc: {}%, Top-3 acc: {}%, Top-5 acc: {}%'.format((top_1_score*100/num_lines), (top_3_score*100/num_lines), (top_5_score*100/num_lines)))       
 
 
 def main(args):
@@ -556,13 +551,13 @@ def main(args):
     #     eval(args)
 
     # Model inference
-    start_time = time.time()
-    infer(args, 'a fetus', 'HasShape_reverse')
-    end_time = time.time()
-    print('Total inference time:{}'.format(end_time-start_time))
+    # start_time = time.time()
+    # infer(args, 'a fetus', 'HasShape_reverse')
+    # end_time = time.time()
+    # print('Total inference time:{}'.format(end_time-start_time))
     
     # Model scoring
-    #score(args)
+    score(args)
 
     
 
@@ -576,7 +571,7 @@ if __name__ == '__main__':
     parser.add_argument('--traindatapath', dest='traindatapath', default='data/wikidata/e1rel_to_e2_train.json', help='Path to the training data file')
     parser.add_argument('--testdatapath', dest='testdatapath', default='data/wikidata/e1rel_to_e2_ranking_test.json', help='Path to the test data file')
     parser.add_argument('--modelpath', dest='modelpath', default='models/conve_glove.pt', help='Path to save the trained model to')
-    parser.add_argument('--scoringfilepath', dest='scoringfilepath', default='data/perfect_segmented_targets_short.tsv', help='Path to file containing the utterances to be used for scoring')
+    parser.add_argument('--scoringfilepath', dest='scoringfilepath', default='data/descriptions_for_select_target_sim_2_des_10_times_with_postentshapes.txt', help='Path to file containing the utterances to be used for scoring')
     
     parser.add_argument('--batch_size', dest='batch_size', default=1, help='Batch size')
     parser.add_argument('--input_dropout', dest='input_dropout', default=0.2, help='Input dropout for the model')
