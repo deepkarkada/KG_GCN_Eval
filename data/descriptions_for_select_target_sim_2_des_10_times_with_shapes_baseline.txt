@@ -1,0 +1,110 @@
+Finland	left of Russia	located next to Norway
+Indonesia	left of Papua New Guinea	above Timor Leste
+Italy	located in Southern Europe	its next to Switzerland
+Japan	in north eastern part of Asia	in Asia
+Kazakhstan	left of China	in central part of Asia
+Libya	above Niger	in northern part of Africa
+Nepal	in southern part of Asia	in landlocked
+Pakistan	is west of China	in Asia
+Portugal	in Europe	its next to Spain
+Somalia	below Ethiopia	located in next to ocean
+Zambia	is south of Democratic Republic of the Congo	located next to Zimbabwe
+Finland	in northern part of Europe	is west of Russia
+Indonesia	is north of Timor Leste	right of Malaysia
+Italy	is south of France	in Mediterranean Basin
+Japan	in Asia	located next to Taiwan
+Kazakhstan	in landlocked	in Europe
+Libya	located in next to ocean	in Africa
+Nepal	is north of India	in Asia
+Pakistan	above India	in southern part of Asia
+Portugal	its next to Spain	left of Spain
+Somalia	is north of Kenya	in Africa
+Zambia	is south of Democratic Republic of the Congo	is west of Zimbabwe
+Finland	is east of Norway	in Europe
+Indonesia	is north of Timor Leste	located in next to ocean
+Italy	is south of Austria	is east of San Marino
+Japan	located next to United States of America	in north eastern part of Asia
+Kazakhstan	in Asia	below Russia
+Libya	right of Niger	is west of Egypt
+Nepal	in Asia	is north of India
+Pakistan	its next to People's Republic of China	located in next to ocean
+Portugal	is south of Spain	located in next to ocean
+Somalia	in next to ocean	in eastern part of Africa
+Zambia	located in landlocked	above Zimbabwe
+Finland	its next to Norway	in Europe
+Indonesia	is south of Malaysia	in next to ocean
+Italy	in Europe	in Mediterranean Basin
+Japan	in Asia	located in next to ocean
+Kazakhstan	is east of Turkmenistan	left of Russia
+Libya	is north of Niger	is east of Tunisia
+Nepal	left of China	in southern part of Asia
+Pakistan	is east of Afghanistan	in Asia
+Portugal	is south of Spain	is west of Spain
+Somalia	is east of Djibouti	located in next to ocean
+Zambia	in Africa	above Malawi
+Finland	right of Sweden	in Europe
+Indonesia	located in next to ocean	below Malaysia
+Italy	in Europe	below France
+Japan	in Asia	in north eastern part of Asia
+Kazakhstan	left of Kyrgyzstan	is south of Russia
+Libya	in next to ocean	above Sudan
+Nepal	left of China	in southern part of Asia
+Pakistan	left of India	its next to People's Republic of China
+Portugal	in Europe	located in next to ocean
+Somalia	in eastern part of Africa	in Africa
+Zambia	above Mozambique	is west of Zimbabwe
+Finland	in northern part of Europe	in Europe
+Indonesia	in next to ocean	in south eastern part of Asia
+Italy	in next to ocean	left of Austria
+Japan	its next to United States of America	located in next to ocean
+Kazakhstan	below Russia	is west of China
+Libya	is east of Algeria	is south of Tunisia
+Nepal	in southern part of Asia	left of China
+Pakistan	above India	in next to ocean
+Portugal	is west of Spain	is south of Spain
+Somalia	below Ethiopia	is north of Kenya
+Zambia	in southern part of Africa	in Africa
+Finland	in Europe	above Russia
+Indonesia	below Malaysia	is north of Timor Leste
+Italy	is west of Slovenia	in Mediterranean Basin
+Japan	in north eastern part of Asia	in Asia
+Kazakhstan	in landlocked	left of Russia
+Libya	left of Egypt	in northern part of Africa
+Nepal	right of India	above India
+Pakistan	below Iran	left of China
+Portugal	in Europe	is west of Spain
+Somalia	in next to ocean	its next to Ethiopia
+Zambia	left of Mozambique	in eastern part of Africa
+Finland	right of Sweden	is north of Russia
+Indonesia	above Timor Leste	in next to ocean
+Italy	in Europe	is west of Slovenia
+Japan	its next to Russia	in next to ocean
+Kazakhstan	its next to Kyrgyzstan	in landlocked
+Libya	in Africa	located next to Niger
+Nepal	in southern part of Asia	its next to India
+Pakistan	left of China	below China
+Portugal	its next to Spain	is west of Spain
+Somalia	right of Kenya	in eastern part of Africa
+Zambia	in southern part of Africa	is east of Namibia
+Finland	is east of Sweden	in northern part of Europe
+Indonesia	its next to Philippines	located in next to ocean
+Italy	its next to France	in Mediterranean Basin
+Japan	in north eastern part of Asia	located in next to ocean
+Kazakhstan	located next to People's Republic of China	below Russia
+Libya	is west of Egypt	in northern part of Africa
+Nepal	is north of India	left of China
+Pakistan	in Asia	above India
+Portugal	its next to Castile and León	left of Spain
+Somalia	in eastern part of Africa	is south of Djibouti
+Zambia	is south of Tanzania	located next to Malawi
+Finland	located in next to ocean	in northern part of Europe
+Indonesia	in south eastern part of Asia	below Malaysia
+Italy	located in next to ocean	located next to San Marino
+Japan	in Asia	in north eastern part of Asia
+Kazakhstan	in Europe	is north of Turkmenistan
+Libya	right of Niger	is south of Tunisia
+Nepal	located next to People's Republic of China	located in landlocked
+Pakistan	is north of India	located in next to ocean
+Portugal	located next to Castile and León	in next to ocean
+Somalia	located next to Djibouti	right of Ethiopia
+Zambia	in southern part of Africa	is north of Namibia
