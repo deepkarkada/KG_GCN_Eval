@@ -1,0 +1,1108 @@
+/home/pegasus/miniconda3/envs/rdgmap/lib/python3.7/site-packages/allennlp/data/token_indexers/token_characters_indexer.py:61: UserWarning: You are using the default value (0) of `min_padding_length`, which can cause some subtle bugs (more info see https://github.com/allenai/allennlp/issues/1954). Strongly recommend to set a value, usually the maximum size of the convolutional layer size when using CnnEncoder.
+  UserWarning,
+Did not use initialization regex that was passed: .*projection.*weight
+Did not use initialization regex that was passed: .*projection.*bias
+Did not use initialization regex that was passed: .*bias_hh.*
+Did not use initialization regex that was passed: .*weight_ih.*
+Did not use initialization regex that was passed: .*weight_hh.*
+Did not use initialization regex that was passed: .*bias_ih.*
+Using TensorFlow backend.
+WARNING:tensorflow:From conve_eval.py:46: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2021-07-31 16:29:55.855380: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcuda.so.1
+2021-07-31 16:29:55.885757: E tensorflow/stream_executor/cuda/cuda_driver.cc:318] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2021-07-31 16:29:55.885790: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (pegasus): /proc/driver/nvidia/version does not exist
+2021-07-31 16:29:55.886063: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-07-31 16:29:55.889904: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 3199980000 Hz
+2021-07-31 16:29:55.890417: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55f2281e5990 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-07-31 16:29:55.890428: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+WARNING:tensorflow:From conve_eval.py:47: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+WARNING:tensorflow:From /home/pegasus/miniconda3/envs/rdgmap/lib/python3.7/site-packages/tensorflow_core/python/keras/initializers.py:119: calling RandomUniform.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+WARNING:tensorflow:From /home/pegasus/miniconda3/envs/rdgmap/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From /home/pegasus/miniconda3/envs/rdgmap/lib/python3.7/site-packages/tensorflow_core/python/ops/math_grad.py:1424: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+==========> Sweden IsNorthOf_reverse
+==========> Norway IsEastOf_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> Like a squished column HasShape_reverse
+Query sentence:Sentence: "Like squished column"   [− Tokens: 3]
+Chose entity:squished heart
+Finland	above Sweden	right of Norway	in next to ocean	Like a squished column
+ ====> ['Finland'],['Finland', 'Mediterranean Sea', 'Russia'],['Finland', 'Mediterranean Sea', 'Russia', 'Sweden', 'Adriatic Sea'] 
+--------------------------------------------------------------------------
+==========> Papua New Guinea IsWestOf_reverse
+==========> Malaysia IsEastOf_reverse
+==========> Asia InContinent_reverse
+==========> it's more like lines and dots IsSouthOf_reverse
+Query sentence:Sentence: "lines dots"   [− Tokens: 2]
+Chose entity:parallelogram
+Indonesia	is west of Papua New Guinea	right of Malaysia	in Asia	it's more like lines and dots
+ ====> ['Indonesia'],['Indonesia', 'Italy', 'Brazil'],['Indonesia', 'Italy', 'Brazil', 'Brunei', 'Madagascar'] 
+--------------------------------------------------------------------------
+==========> Mediterranean Basin HasSize_reverse
+==========> Europe InContinent_reverse
+==========> Slovenia SharesBorderWith_reverse
+==========> looks like a foot with a ball HasShape_reverse
+Query sentence:Sentence: "foot ball"   [− Tokens: 2]
+Chose entity:ball
+Italy	located in Mediterranean Basin	in Europe	located next to Slovenia	looks like a foot with a ball
+ ====> ['Italy'],['Italy', 'Hungary', 'Portugal'],['Italy', 'Hungary', 'Portugal', 'Argentina', 'Serbia'] 
+--------------------------------------------------------------------------
+==========> Asia InContinent_reverse
+==========> Soviet Union SharesBorderWith_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> it is a long skinny shape with a detached head HasShape_reverse
+Query sentence:Sentence: "long skinny detached head"   [− Tokens: 4]
+Chose entity:sideways dog head
+Japan	in Asia	located next to Soviet Union	in next to ocean	it is a long skinny shape with a detached head
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Adriatic Sea', 'Japan'],['Mediterranean Sea', 'Adriatic Sea', 'Japan', 'Indonesia', 'Syria'] 
+--------------------------------------------------------------------------
+==========> Asia InContinent_reverse
+==========> Asia InContinentLoc_Central_reverse
+==========> Europe InContinent_reverse
+==========> It is the shape of a huge fish with a tail HasShape_reverse
+Query sentence:Sentence: "It huge fish tail"   [− Tokens: 4]
+Chose entity:its look like snake shape
+Kazakhstan	in Asia	in central part of Asia	in Europe	It is the shape of a huge fish with a tail
+ ====> ['Syria'],['Syria', 'Indonesia', 'Serbia'],['Syria', 'Indonesia', 'Serbia', 'Nepal', 'Russia'] 
+--------------------------------------------------------------------------
+==========> Sudan IsNorthOf_reverse
+==========> Egypt IsWestOf_reverse
+==========> Tunisia IsSouthOf_reverse
+==========> Motsly like a square with a chunk out of the top left corner HasShape_reverse
+Query sentence:Sentence: "Motsly square chunk top left corner"   [− Tokens: 6]
+Chose entity:ping pong paddle with a dent in the bottom left corner
+Libya	is north of Sudan	left of Egypt	below Tunisia	Motsly like a square with a chunk out of the top left corner
+ ====> ['Libya'],['Libya', 'Algeria', 'Chad'],['Libya', 'Algeria', 'Chad', 'Eritrea', 'Central African Republic'] 
+--------------------------------------------------------------------------
+==========> India IsNorthOf_reverse
+==========> China IsWestOf_reverse
+==========> Asia InContinentLoc_South_reverse
+==========> long rectangle HasShape_reverse
+Query sentence:Sentence: "long rectangle"   [− Tokens: 2]
+Chose entity:irregular trapezoid shape
+Nepal	is north of India	left of China	in southern part of Asia	long rectangle
+ ====> ['Pakistan'],['Pakistan', 'Nepal', 'Russia'],['Pakistan', 'Nepal', 'Russia', 'Slovakia', 'Bulgaria'] 
+--------------------------------------------------------------------------
+==========> Afghanistan IsSouthOf_reverse
+==========> India SharesBorderWith_reverse
+==========> Asia InContinent_reverse
+==========> It looks like a dog that is sitting HasShape_reverse
+Query sentence:Sentence: "It dog sitting"   [− Tokens: 3]
+Chose entity:its the hen chicken shape
+Pakistan	below Afghanistan	located next to India	in Asia	It looks like a dog that is sitting
+ ====> ['Pakistan'],['Pakistan', 'China', 'India'],['Pakistan', 'China', 'India', 'Iran', 'Indonesia'] 
+--------------------------------------------------------------------------
+==========> Spain IsSouthOf_reverse
+==========> León SharesBorderWith_reverse
+==========> Europe InContinent_reverse
+==========> It's in the shape of a vertical rectangle HasShape_reverse
+Query sentence:Sentence: "It 's vertical rectangle"   [− Tokens: 4]
+Chose entity:it looks like square
+Portugal	is south of Spain	its next to Castile and León	in Europe	It's in the shape of a vertical rectangle
+ ====> ['Portugal'],['Portugal', 'Brazil', 'Serbia'],['Portugal', 'Brazil', 'Serbia', 'Syria', 'Argentina'] 
+--------------------------------------------------------------------------
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> Djibouti SharesBorderWith_reverse
+==========> Ethiopia IsSouthOf_reverse
+==========> Flying bird SharesBorderWith_reverse
+Query sentence:Sentence: "Flying bird"   [− Tokens: 2]
+Chose entity:sitting bird
+Somalia	in next to ocean	located next to Djibouti	below Ethiopia	Flying bird
+ ====> ['Somalia'],['Somalia', 'Mediterranean Sea', 'Ethiopia'],['Somalia', 'Mediterranean Sea', 'Ethiopia', 'Sudan', 'Eritrea'] 
+--------------------------------------------------------------------------
+==========> Tanzania IsSouthOf_reverse
+==========> Africa InContinentLoc_South_reverse
+==========> Malawi IsWestOf_reverse
+==========> it looks like an oval with a bite taken out of it HasShape_reverse
+Query sentence:Sentence: "oval bite taken"   [− Tokens: 3]
+Chose entity:small
+Zambia	is south of Tanzania	in southern part of Africa	is west of Malawi	it looks like an oval with a bite taken out of it
+ ====> ['Zambia'],['Zambia', 'Tanzania', 'South Africa'],['Zambia', 'Tanzania', 'South Africa', 'Mozambique', 'Botswana'] 
+--------------------------------------------------------------------------
+==========> Europe InContinent_reverse
+==========> Europe InContinentLoc_North_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> like a tall stomach HasShape_reverse
+Query sentence:Sentence: "tall stomach"   [− Tokens: 2]
+Chose entity:man with long nose and arm extended
+Finland	in Europe	in northern part of Europe	in next to ocean	like a tall stomach
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Adriatic Sea', 'Portugal'],['Mediterranean Sea', 'Adriatic Sea', 'Portugal', 'Syria', 'Serbia'] 
+--------------------------------------------------------------------------
+==========> Timor Leste IsWestOf_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> Asia InContinent_reverse
+==========> like several individual islands HasShape_reverse
+Query sentence:Sentence: "several individual islands"   [− Tokens: 3]
+Chose entity:a house
+Indonesia	is west of Timor Leste	in next to ocean	in Asia	like several individual islands
+ ====> ['Indonesia'],['Indonesia', 'Mediterranean Sea', 'Adriatic Sea'],['Indonesia', 'Mediterranean Sea', 'Adriatic Sea', 'Ligurian Sea', 'Baltic Sea'] 
+--------------------------------------------------------------------------
+==========> Switzerland IsSouthOf_reverse
+==========> Vatican City SharesBorderWith_reverse
+==========> Slovenia IsWestOf_reverse
+==========> Boot sahpe SharesBorderWith_reverse
+Query sentence:Sentence: "Boot sahpe"   [− Tokens: 2]
+Chose entity:Sri lanka
+Italy	below Switzerland	its next to Vatican City	is west of Slovenia	Boot sahpe
+ ====> ['Italy'],['Italy', 'Austria', 'Germany'],['Italy', 'Austria', 'Germany', 'Croatia', 'Spain'] 
+--------------------------------------------------------------------------
+==========> Asia InContinent_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> United States of America LocatedInOrNextToBodyOfWater
+==========> like a boomerang with a ball above it IsSouthOf_reverse
+Query sentence:Sentence: "boomerang ball"   [− Tokens: 2]
+Chose entity:hot air ballon
+Japan	in Asia	in next to ocean	its next to United States of America	like a boomerang with a ball above it
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Adriatic Sea', 'Indonesia'],['Mediterranean Sea', 'Adriatic Sea', 'Indonesia', 'Italy', 'Baltic Sea'] 
+--------------------------------------------------------------------------
+==========> Kyrgyzstan SharesBorderWith_reverse
+==========> Asia InContinentLoc_Central_reverse
+==========> in landlocked HasShape
+Query sentence:Sentence: "landlocked"   [− Tokens: 1]
+Chose entity:landlocked
+==========> sort of round with edges coming out like a puzzle piece HasShape_reverse
+Query sentence:Sentence: "sort round edges coming puzzle piece"   [− Tokens: 6]
+Chose entity:shape of duck`
+Kazakhstan	its next to Kyrgyzstan	in central part of Asia	in landlocked	sort of round with edges coming out like a puzzle piece
+ ====> ['Kazakhstan'],['Kazakhstan', 'Russia', 'Uzbekistan'],['Kazakhstan', 'Russia', 'Uzbekistan', 'Tajikistan', "People's Republic of China"] 
+--------------------------------------------------------------------------
+==========> Tunisia IsEastOf_reverse
+==========> Chad IsNorthOf_reverse
+==========> Egypt IsSouthOf_reverse
+==========> rectangle HasShape_reverse
+Query sentence:Sentence: "rectangle"   [− Tokens: 1]
+Chose entity:unequal rectangle
+Libya	right of Tunisia	is north of Chad	below Egypt	rectangle
+ ====> ['Libya'],['Libya', 'Nigeria', 'Niger'],['Libya', 'Nigeria', 'Niger', 'Algeria', 'Syria'] 
+--------------------------------------------------------------------------
+==========> China IsSouthOf_reverse
+==========> Asia InContinentLoc_South_reverse
+==========> China IsSouthOf_reverse
+==========> Nepal IsSouthOf_reverse
+Nepal	is south of China	in southern part of Asia	below China	The national flag of Nepal is the world's only national flag that is non-quadrilateral in shape
+ ====> ['India'],['India', 'Nepal', 'Pakistan'],['India', 'Nepal', 'Pakistan', 'Russia', 'Japan'] 
+--------------------------------------------------------------------------
+==========> People 's Republic of China SharesBorderWith_reverse
+==========> Asia InContinent_reverse
+==========> India IsNorthOf_reverse
+==========> Like godzilla HasShape_reverse
+Query sentence:Sentence: "Like godzilla"   [− Tokens: 2]
+Chose entity:godzilla without a tail standing up with it's head on the top left
+Pakistan	its next to People's Republic of China	in Asia	above India	Like godzilla
+ ====> ['Pakistan'],['Pakistan', 'Nepal', 'India'],['Pakistan', 'Nepal', 'India', 'Argentina', 'Indonesia'] 
+--------------------------------------------------------------------------
+==========> Europe InContinent_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> Spain IsSouthOf_reverse
+==========> It's Shape is rectangular HasShape_reverse
+Query sentence:Sentence: "It 's Shape rectangular"   [− Tokens: 4]
+Chose entity:its the zig zag shape
+Portugal	in Europe	in next to ocean	is south of Spain	It's Shape is rectangular
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Adriatic Sea', 'Portugal'],['Mediterranean Sea', 'Adriatic Sea', 'Portugal', 'Cantabrian Sea', 'Ligurian Sea'] 
+--------------------------------------------------------------------------
+==========> Djibouti IsEastOf_reverse
+==========> Africa InContinent_reverse
+==========> Djibouti IsSouthOf_reverse
+==========> Distorted Rectangle HasShape_reverse
+Query sentence:Sentence: "Distorted Rectangle"   [− Tokens: 2]
+Chose entity:face of a dog
+Somalia	is east of Djibouti	in Africa	below Djibouti	Distorted Rectangle
+ ====> ['Somalia'],['Somalia', 'Ethiopia', 'Indonesia'],['Somalia', 'Ethiopia', 'Indonesia', 'Eritrea', 'Syria'] 
+--------------------------------------------------------------------------
+==========> Zimbabwe IsWestOf_reverse
+==========> in landlocked HasShape
+Query sentence:Sentence: "landlocked"   [− Tokens: 1]
+Chose entity:landlocked
+==========> Africa InContinentLoc_South_reverse
+==========> Rectangle with a chunk cut out HasShape_reverse
+Query sentence:Sentence: "Rectangle chunk cut"   [− Tokens: 3]
+Chose entity:lightening bolt with the bottom cut off
+Zambia	left of Zimbabwe	in landlocked	in southern part of Africa	Rectangle with a chunk cut out
+ ====> ['Zambia'],['Zambia', 'Botswana', 'South Africa'],['Zambia', 'Botswana', 'South Africa', 'Argentina', 'Italy'] 
+--------------------------------------------------------------------------
+==========> Norway IsEastOf_reverse
+==========> Fennoscandia HasSize_reverse
+==========> Sweden SharesBorderWith_reverse
+==========> a potato HasShape_reverse
+Query sentence:Sentence: "potato"   [− Tokens: 1]
+Chose entity:chicken
+Finland	right of Norway	located in Fennoscandia	located next to Sweden	a potato
+ ====> ['Finland'],['Finland', 'Russia', 'Sweden'],['Finland', 'Russia', 'Sweden', 'Poland', 'Slovakia'] 
+--------------------------------------------------------------------------
+==========> Malaysia IsSouthOf_reverse
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> Malaysia IsSouthOf_reverse
+==========> dispersed shapes HasSize_reverse
+Query sentence:Sentence: "dispersed"   [− Tokens: 1]
+Chose entity:cap
+Indonesia	below Malaysia	located in next to ocean	is south of Malaysia	dispersed shapes
+ ====> ['Indonesia'],['Indonesia', 'Thailand', 'Argentina'],['Indonesia', 'Thailand', 'Argentina', 'Russia', 'Brazil'] 
+--------------------------------------------------------------------------
+==========> France IsWestOf_reverse
+==========> Mediterranean Basin HasSize_reverse
+==========> Austria IsWestOf_reverse
+==========>  boot SharesBorderWith_reverse
+Query sentence:Sentence: "boot"   [− Tokens: 1]
+Chose entity:ant
+Italy	right of France	in Mediterranean Basin	is west of Austria	 boot
+ ====> ['Italy'],['Italy', 'Germany', 'Spain'],['Italy', 'Germany', 'Spain', 'Switzerland', 'Slovakia'] 
+--------------------------------------------------------------------------
+==========> South Korea SharesBorderWith_reverse
+==========> Asia InContinent_reverse
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> It shapes like a J HasShape_reverse
+Query sentence:Sentence: "It J"   [− Tokens: 2]
+Chose entity:its the hen chicken shape
+Japan	its next to South Korea	in Asia	located in next to ocean	It shapes like a J
+ ====> ['Russia'],['Russia', 'Japan', 'North Korea'],['Russia', 'Japan', 'North Korea', "People's Republic of China", 'Syria'] 
+--------------------------------------------------------------------------
+==========> Kyrgyzstan IsWestOf_reverse
+==========> Asia InContinent_reverse
+==========> Kyrgyzstan IsWestOf_reverse
+==========> It shapes like a turtle HasShape_reverse
+Query sentence:Sentence: "It turtle"   [− Tokens: 2]
+Chose entity:turtle
+Kazakhstan	is west of Kyrgyzstan	in Asia	left of Kyrgyzstan	It shapes like a turtle
+ ====> ['Kazakhstan'],['Kazakhstan', 'Uzbekistan', 'Tajikistan'],['Kazakhstan', 'Uzbekistan', 'Tajikistan', 'Turkmenistan', 'Iran'] 
+--------------------------------------------------------------------------
+==========> North Africa InContinentLoc_South_reverse
+==========> Niger IsNorthOf_reverse
+==========> Algeria IsWestOf_reverse
+==========> Circular HasSize_reverse
+Query sentence:Sentence: "Circular"   [− Tokens: 1]
+Chose entity:parallelogram
+Libya	located in North Africa	is north of Niger	right of Algeria	Circular
+ ====> ['Libya'],['Libya', 'Mali', 'Algeria'],['Libya', 'Mali', 'Algeria', 'Niger', 'Morocco'] 
+--------------------------------------------------------------------------
+==========> Asia InContinentLoc_South_reverse
+==========> Asia InContinent_reverse
+==========> Asia InContinentLoc_South_reverse
+==========> A rectangle HasShape_reverse
+Query sentence:Sentence: "A rectangle"   [− Tokens: 2]
+Chose entity:a rectangle
+Nepal	in southern part of Asia	in Asia	in southern part of Asia	A rectangle
+ ====> ['Indonesia'],['Indonesia', 'Nepal', 'Syria'],['Indonesia', 'Nepal', 'Syria', 'India', 'Russia'] 
+--------------------------------------------------------------------------
+==========> Asia InContinent_reverse
+==========> Iran IsSouthOf_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> A bit like a seahorse HasShape_reverse
+Query sentence:Sentence: "A bit seahorse"   [− Tokens: 3]
+Chose entity:looks like a hypen.
+Pakistan	in Asia	is south of Iran	in next to ocean	A bit like a seahorse
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Pakistan', 'Adriatic Sea'],['Mediterranean Sea', 'Pakistan', 'Adriatic Sea', 'Saudi Arabia', 'Turkey'] 
+--------------------------------------------------------------------------
+==========> Spain IsWestOf_reverse
+==========> León SharesBorderWith_reverse
+==========> Europe InContinent_reverse
+==========> rectangle HasShape_reverse
+Query sentence:Sentence: "rectangle"   [− Tokens: 1]
+Chose entity:unequal rectangle
+Portugal	left of Spain	located next to Castile and León	in Europe	rectangle
+ ====> ['Portugal'],['Portugal', 'Morocco', 'Brazil'],['Portugal', 'Morocco', 'Brazil', 'Ireland', 'Argentina'] 
+--------------------------------------------------------------------------
+==========> Kenya SharesBorderWith_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> Djibouti IsSouthOf_reverse
+==========> Distorted Rectangle HasShape_reverse
+Query sentence:Sentence: "Distorted Rectangle"   [− Tokens: 2]
+Chose entity:face of a dog
+Somalia	located next to Kenya	in next to ocean	is south of Djibouti	Distorted Rectangle
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Somalia', 'Ethiopia'],['Mediterranean Sea', 'Somalia', 'Ethiopia', 'Adriatic Sea', 'Indonesia'] 
+--------------------------------------------------------------------------
+==========> Angola IsSouthOf_reverse
+==========> Namibia IsEastOf_reverse
+==========> Zimbabwe IsNorthOf_reverse
+==========> Rectangle with a chunk cut out HasShape_reverse
+Query sentence:Sentence: "Rectangle chunk cut"   [− Tokens: 3]
+Chose entity:lightening bolt with the bottom cut off
+Zambia	is south of Angola	is east of Namibia	is north of Zimbabwe	Rectangle with a chunk cut out
+ ====> ['Zambia'],['Zambia', 'South Africa', 'Namibia'],['Zambia', 'South Africa', 'Namibia', 'Botswana', 'Angola'] 
+--------------------------------------------------------------------------
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> Norway IsEastOf_reverse
+==========> Sweden IsNorthOf_reverse
+==========> It looks like a boot from a certain angle HasShape_reverse
+Query sentence:Sentence: "It boot certain angle"   [− Tokens: 4]
+Chose entity:dog looking to the right
+Finland	located in next to ocean	right of Norway	is north of Sweden	It looks like a boot from a certain angle
+ ====> ['Finland'],['Finland', 'Russia', 'Latvia'],['Finland', 'Russia', 'Latvia', 'Poland', 'Sweden'] 
+--------------------------------------------------------------------------
+==========> Malaysia IsEastOf_reverse
+==========> Papua New Guinea IsWestOf_reverse
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> various thin and fat shapes HasCapital_reverse
+Query sentence:Sentence: "various thin fat"   [− Tokens: 3]
+Chose entity:a tomato
+Indonesia	right of Malaysia	is west of Papua New Guinea	located in next to ocean	various thin and fat shapes
+ ====> ['Indonesia'],['Indonesia', 'Russia', 'Brunei'],['Indonesia', 'Russia', 'Brunei', 'Brazil', 'Republic of Cyprus'] 
+--------------------------------------------------------------------------
+==========> Malta SharesBorderWith_reverse
+==========> Europe InContinent_reverse
+==========> Switzerland IsEastOf_reverse
+==========> boot SharesBorderWith_reverse
+Query sentence:Sentence: "boot"   [− Tokens: 1]
+Chose entity:ant
+Italy	located next to Malta	in Europe	right of Switzerland	boot
+ ====> ['Italy'],['Italy', 'Germany', 'Brazil'],['Italy', 'Germany', 'Brazil', 'Poland', 'France'] 
+--------------------------------------------------------------------------
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> Asia InContinentLoc_North_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> Spherical HasSize_reverse
+Query sentence:Sentence: "Spherical"   [− Tokens: 1]
+Chose entity:unequal rectangle
+Japan	in next to ocean	in north eastern part of Asia	in next to ocean	Spherical
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Adriatic Sea', 'Ligurian Sea'],['Mediterranean Sea', 'Adriatic Sea', 'Ligurian Sea', 'Baltic Sea', 'Cantabrian Sea'] 
+--------------------------------------------------------------------------
+==========> Asia InContinentLoc_Central_reverse
+==========> Turkmenistan IsEastOf_reverse
+==========> Asia InContinentLoc_Central_reverse
+==========> shaped like a human spleen HasShape_reverse
+Query sentence:Sentence: "shaped human spleen"   [− Tokens: 3]
+Chose entity:human arm
+Kazakhstan	in central part of Asia	is east of Turkmenistan	in central part of Asia	shaped like a human spleen
+ ====> ['Kazakhstan'],['Kazakhstan', 'Uzbekistan', 'Russia'],['Kazakhstan', 'Uzbekistan', 'Russia', 'Iran', 'Afghanistan'] 
+--------------------------------------------------------------------------
+==========> Africa InContinentLoc_North_reverse
+==========> Egypt IsSouthOf_reverse
+==========> Algeria IsEastOf_reverse
+==========> Motsly like a square with a chunk out of the top left corner HasShape_reverse
+Query sentence:Sentence: "Motsly square chunk top left corner"   [− Tokens: 6]
+Chose entity:ping pong paddle with a dent in the bottom left corner
+Libya	in northern part of Africa	is south of Egypt	is east of Algeria	Motsly like a square with a chunk out of the top left corner
+ ====> ['Libya'],['Libya', 'Syria', 'Sudan'],['Libya', 'Syria', 'Sudan', 'Somalia', 'Nigeria'] 
+--------------------------------------------------------------------------
+==========> China IsSouthOf_reverse
+==========> Asia InContinentLoc_South_reverse
+==========> China IsSouthOf_reverse
+==========> Nepal IsSouthOf_reverse
+Nepal	is south of China	in southern part of Asia	is south of China	The national flag of Nepal is the world's only national flag that is non-quadrilateral in shape
+ ====> ['India'],['India', 'Nepal', 'Pakistan'],['India', 'Nepal', 'Pakistan', 'Russia', 'Japan'] 
+--------------------------------------------------------------------------
+==========> Asia InContinentLoc_South_reverse
+==========> Iran IsSouthOf_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> A bit like a seahorse HasShape_reverse
+Query sentence:Sentence: "A bit seahorse"   [− Tokens: 3]
+Chose entity:looks like a hypen.
+Pakistan	in southern part of Asia	is south of Iran	in next to ocean	A bit like a seahorse
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Pakistan', 'Adriatic Sea'],['Mediterranean Sea', 'Pakistan', 'Adriatic Sea', 'Turkey', 'Ligurian Sea'] 
+--------------------------------------------------------------------------
+==========> Spain IsSouthOf_reverse
+==========> León SharesBorderWith_reverse
+==========> Spain IsSouthOf_reverse
+==========> It's in the shape of a vertical rectangle HasShape_reverse
+Query sentence:Sentence: "It 's vertical rectangle"   [− Tokens: 4]
+Chose entity:it looks like square
+Portugal	below Spain	its next to Castile and León	below Spain	It's in the shape of a vertical rectangle
+ ====> ['Portugal'],['Portugal', 'Brazil', 'Indonesia'],['Portugal', 'Brazil', 'Indonesia', 'Argentina', 'Nigeria'] 
+--------------------------------------------------------------------------
+==========> Ethiopia IsSouthOf_reverse
+==========> Africa InContinent_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> horn like HasShape_reverse
+Query sentence:Sentence: "horn"   [− Tokens: 1]
+Chose entity:eagle head
+Somalia	is south of Ethiopia	in Africa	in next to ocean	horn like
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Somalia', 'Adriatic Sea'],['Mediterranean Sea', 'Somalia', 'Adriatic Sea', 'Kenya', 'Sudan'] 
+--------------------------------------------------------------------------
+==========> Mozambique SharesBorderWith_reverse
+==========> Democratic Republic of the Congo IsWestOf_reverse
+==========> Africa InContinent_reverse
+==========> It shapes like a shrimp HasShape_reverse
+Query sentence:Sentence: "It shrimp"   [− Tokens: 2]
+Chose entity:crab
+Zambia	its next to Mozambique	right of Democratic Republic of the Congo	in Africa	It shapes like a shrimp
+ ====> ['Zambia'],['Zambia', 'Tanzania', 'Central African Republic'],['Zambia', 'Tanzania', 'Central African Republic', 'Republic of the Congo', 'Uganda'] 
+--------------------------------------------------------------------------
+==========> Norway IsEastOf_reverse
+==========> Russia IsNorthOf_reverse
+==========> Russia IsWestOf_reverse
+==========> like a tall stomach HasShape_reverse
+Query sentence:Sentence: "tall stomach"   [− Tokens: 2]
+Chose entity:man with long nose and arm extended
+Finland	is east of Norway	above Russia	left of Russia	like a tall stomach
+ ====> ['Finland'],['Finland', 'Russia', 'Poland'],['Finland', 'Russia', 'Poland', 'Latvia', 'Kazakhstan'] 
+--------------------------------------------------------------------------
+==========> Timor Leste IsNorthOf_reverse
+==========> Malaysia IsEastOf_reverse
+==========> Philippines SharesBorderWith_reverse
+==========> ROCKY ISLANDS HasShape_reverse
+Query sentence:Sentence: "ROCKY ISLANDS"   [− Tokens: 2]
+Chose entity:looks like the number seven
+Indonesia	above Timor Leste	is east of Malaysia	located next to Philippines	IS IS A COOLECTION OF LONG AND ROCKY ISLANDS
+ ====> ['Indonesia'],['Indonesia', 'Brunei', 'Somalia'],['Indonesia', 'Brunei', 'Somalia', 'Japan', 'Brazil'] 
+--------------------------------------------------------------------------
+==========> Slovenia IsSouthOf_reverse
+==========> Vatican City SharesBorderWith_reverse
+==========> Slovenia IsWestOf_reverse
+==========> boot SharesBorderWith_reverse
+Query sentence:Sentence: "boot"   [− Tokens: 1]
+Chose entity:ant
+Italy	is south of Slovenia	its next to Vatican City	is west of Slovenia	boot
+ ====> ['Italy'],['Italy', 'Austria', 'Croatia'],['Italy', 'Austria', 'Croatia', 'Hungary', 'Argentina'] 
+--------------------------------------------------------------------------
+==========> Asia InContinentLoc_North_reverse
+==========> Asia InContinent_reverse
+==========> Asia InContinentLoc_North_reverse
+==========> like a boomerang with a ball above it IsSouthOf_reverse
+Query sentence:Sentence: "boomerang ball"   [− Tokens: 2]
+Chose entity:hot air ballon
+Japan	in north eastern part of Asia	in Asia	in north eastern part of Asia	like a boomerang with a ball above it
+ ====> ['Indonesia'],['Indonesia', 'Italy', 'Argentina'],['Indonesia', 'Italy', 'Argentina', 'Brazil', 'Ireland'] 
+--------------------------------------------------------------------------
+==========> located in landlocked HasCapital_reverse
+Query sentence:Sentence: "located landlocked"   [− Tokens: 2]
+Chose entity:landlocked
+==========> Russia SharesBorderWith_reverse
+==========> Uzbekistan IsEastOf_reverse
+==========> a rectangle HasShape_reverse
+Query sentence:Sentence: "rectangle"   [− Tokens: 1]
+Chose entity:unequal rectangle
+Kazakhstan	located in landlocked	its next to Russia	right of Uzbekistan	a rectangle
+ ====> ['Kazakhstan'],['Kazakhstan', 'Tajikistan', 'North Korea'],['Kazakhstan', 'Tajikistan', 'North Korea', 'Kyrgyzstan', 'China'] 
+--------------------------------------------------------------------------
+==========> Niger IsNorthOf_reverse
+==========> Egypt SharesBorderWith_reverse
+==========> Chad IsWestOf_reverse
+==========> Circular HasSize_reverse
+Query sentence:Sentence: "Circular"   [− Tokens: 1]
+Chose entity:parallelogram
+Libya	is north of Niger	located next to Egypt	left of Chad	Circular
+ ====> ['Libya'],['Libya', 'Nigeria', 'Central African Republic'],['Libya', 'Nigeria', 'Central African Republic', 'Niger', 'Sudan'] 
+--------------------------------------------------------------------------
+==========> Asia InContinent_reverse
+==========> India IsNorthOf_reverse
+==========> China IsWestOf_reverse
+==========> long rectangle HasShape_reverse
+Query sentence:Sentence: "long rectangle"   [− Tokens: 2]
+Chose entity:irregular trapezoid shape
+Nepal	in Asia	is north of India	is west of China	long rectangle
+ ====> ['Pakistan'],['Pakistan', 'Nepal', 'Russia'],['Pakistan', 'Nepal', 'Russia', 'Slovakia', 'Bulgaria'] 
+--------------------------------------------------------------------------
+==========> Iran IsSouthOf_reverse
+==========> Afghanistan IsEastOf_reverse
+==========> Iran IsSouthOf_reverse
+==========> Like godzilla HasShape_reverse
+Query sentence:Sentence: "Like godzilla"   [− Tokens: 2]
+Chose entity:godzilla without a tail standing up with it's head on the top left
+Pakistan	is south of Iran	is east of Afghanistan	is south of Iran	Like godzilla
+ ====> ['Pakistan'],['Pakistan', 'Turkmenistan', 'China'],['Pakistan', 'Turkmenistan', 'China', 'Afghanistan', 'Iran'] 
+--------------------------------------------------------------------------
+==========> Europe InContinent_reverse
+==========> Spain IsWestOf_reverse
+==========> León SharesBorderWith_reverse
+==========> It's Shape is rectangular HasShape_reverse
+Query sentence:Sentence: "It 's Shape rectangular"   [− Tokens: 4]
+Chose entity:its the zig zag shape
+Portugal	in Europe	is west of Spain	located next to Castile and León	It's Shape is rectangular
+ ====> ['Portugal'],['Portugal', 'Ireland', 'Morocco'],['Portugal', 'Ireland', 'Morocco', 'Brazil', 'Argentina'] 
+--------------------------------------------------------------------------
+==========> Africa InContinentLoc_East_reverse
+==========> Djibouti IsEastOf_reverse
+==========> Africa InContinent_reverse
+==========> Flying bird SharesBorderWith_reverse
+Query sentence:Sentence: "Flying bird"   [− Tokens: 2]
+Chose entity:sitting bird
+Somalia	in eastern part of Africa	right of Djibouti	in Africa	Flying bird
+ ====> ['Somalia'],['Somalia', 'Ethiopia', 'Eritrea'],['Somalia', 'Ethiopia', 'Eritrea', 'Zambia', 'Indonesia'] 
+--------------------------------------------------------------------------
+==========> in landlocked HasShape
+Query sentence:Sentence: "landlocked"   [− Tokens: 1]
+Chose entity:landlocked
+==========> Namibia IsNorthOf_reverse
+==========> Democratic Republic of the Congo IsSouthOf_reverse
+==========> it looks like an oval with a bite taken out of it HasShape_reverse
+Query sentence:Sentence: "oval bite taken"   [− Tokens: 3]
+Chose entity:small
+Zambia	in landlocked	is north of Namibia	is south of Democratic Republic of the Congo	it looks like an oval with a bite taken out of it
+ ====> ['Zambia'],['Zambia', 'Tanzania', 'Angola'],['Zambia', 'Tanzania', 'Angola', 'Botswana', 'Republic of the Congo'] 
+--------------------------------------------------------------------------
+==========> Europe InContinentLoc_North_reverse
+==========> Europe InContinent_reverse
+==========> Russia IsWestOf_reverse
+==========> like a tall stomach HasShape_reverse
+Query sentence:Sentence: "tall stomach"   [− Tokens: 2]
+Chose entity:man with long nose and arm extended
+Finland	in northern part of Europe	in Europe	left of Russia	like a tall stomach
+ ====> ['Portugal'],['Portugal', 'Poland', 'Russia'],['Portugal', 'Poland', 'Russia', 'Serbia', 'Belarus'] 
+--------------------------------------------------------------------------
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> Asia InContinentLoc_North_reverse
+==========> Timor Leste IsNorthOf_reverse
+==========> a lot of triangles HasSize_reverse
+Query sentence:Sentence: "lot triangles"   [− Tokens: 2]
+Chose entity:leaky square
+Indonesia	located in next to ocean	in south eastern part of Asia	is north of Timor Leste	a lot of triangles
+ ====> ['Indonesia'],['Indonesia', 'Russia', 'Turkey'],['Indonesia', 'Russia', 'Turkey', 'Syria', 'Republic of Cyprus'] 
+--------------------------------------------------------------------------
+==========> France IsEastOf_reverse
+==========> San Marino IsSouthOf_reverse
+==========> Europe InContinent_reverse
+==========> boot SharesBorderWith_reverse
+Query sentence:Sentence: "boot"   [− Tokens: 1]
+Chose entity:ant
+Italy	is east of France	below San Marino	in Europe	boot
+ ====> ['Italy'],['Italy', 'Brazil', 'Argentina'],['Italy', 'Brazil', 'Argentina', 'Spain', 'Portugal'] 
+--------------------------------------------------------------------------
+==========> Asia InContinent_reverse
+==========> Asia InContinentLoc_North_reverse
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> 4 islands that are different shapes HasShape_reverse
+Query sentence:Sentence: "4 islands different"   [− Tokens: 3]
+Chose entity:shape of duck`
+Japan	in Asia	in north eastern part of Asia	located in next to ocean	4 islands that are different shapes
+ ====> ['Russia'],['Russia', 'Syria', 'Indonesia'],['Russia', 'Syria', 'Indonesia', 'Finland', 'Turkey'] 
+--------------------------------------------------------------------------
+==========> Turkmenistan IsNorthOf_reverse
+==========> Asia InContinent_reverse
+==========> located in landlocked HasCapital_reverse
+Query sentence:Sentence: "located landlocked"   [− Tokens: 2]
+Chose entity:landlocked
+==========> A large squiggly oval HasShape_reverse
+Query sentence:Sentence: "A large squiggly oval"   [− Tokens: 4]
+Chose entity:looks like a squashed pentagon
+Kazakhstan	is north of Turkmenistan	in Asia	located in landlocked	A large squiggly oval
+ ====> ['Kazakhstan'],['Kazakhstan', 'Uzbekistan', 'Russia'],['Kazakhstan', 'Uzbekistan', 'Russia', 'Iran', 'Indonesia'] 
+--------------------------------------------------------------------------
+==========> Egypt IsWestOf_reverse
+==========> Tunisia IsSouthOf_reverse
+==========> Egypt IsWestOf_reverse
+==========> rectangle HasShape_reverse
+Query sentence:Sentence: "rectangle"   [− Tokens: 1]
+Chose entity:unequal rectangle
+Libya	left of Egypt	below Tunisia	is west of Egypt	rectangle
+ ====> ['Libya'],['Libya', 'Algeria', 'Saudi Arabia'],['Libya', 'Algeria', 'Saudi Arabia', 'Nigeria', 'Israel'] 
+--------------------------------------------------------------------------
+==========> India SharesBorderWith_reverse
+==========> India IsEastOf_reverse
+==========> China IsWestOf_reverse
+==========> long rectangle HasShape_reverse
+Query sentence:Sentence: "long rectangle"   [− Tokens: 2]
+Chose entity:irregular trapezoid shape
+Nepal	its next to India	is east of India	is west of China	long rectangle
+ ====> ['Nepal'],['Nepal', 'Pakistan', 'Bulgaria'],['Nepal', 'Pakistan', 'Bulgaria', 'Indonesia', 'Tanzania'] 
+--------------------------------------------------------------------------
+==========> Afghanistan IsSouthOf_reverse
+==========> India IsNorthOf_reverse
+==========> Asia InContinent_reverse
+==========> It more looks like a Dog shaped HasShape_reverse
+Query sentence:Sentence: "It Dog shaped"   [− Tokens: 3]
+Chose entity:it looks like bird
+Pakistan	below Afghanistan	above India	in Asia	It more looks like a Dog shaped
+ ====> ['Pakistan'],['Pakistan', 'China', 'Iran'],['Pakistan', 'China', 'Iran', 'Nepal', 'India'] 
+--------------------------------------------------------------------------
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> Spain IsWestOf_reverse
+==========> León SharesBorderWith_reverse
+==========> tiny rectangle HasShape_reverse
+Query sentence:Sentence: "tiny rectangle"   [− Tokens: 2]
+Chose entity:unequal rectangle
+Portugal	in next to ocean	left of Spain	located next to Castile and León	tiny rectangle
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Portugal', 'Adriatic Sea'],['Mediterranean Sea', 'Portugal', 'Adriatic Sea', 'Morocco', 'Cantabrian Sea'] 
+--------------------------------------------------------------------------
+==========> Djibouti IsSouthOf_reverse
+==========> Africa InContinentLoc_East_reverse
+==========> Djibouti IsEastOf_reverse
+==========> Distorted Rectangle HasShape_reverse
+Query sentence:Sentence: "Distorted Rectangle"   [− Tokens: 2]
+Chose entity:face of a dog
+Somalia	below Djibouti	in eastern part of Africa	is east of Djibouti	Distorted Rectangle
+ ====> ['Somalia'],['Somalia', 'Ethiopia', 'Indonesia'],['Somalia', 'Ethiopia', 'Indonesia', 'Eritrea', 'Ireland'] 
+--------------------------------------------------------------------------
+==========> Botswana SharesBorderWith_reverse
+==========> Africa InContinent_reverse
+==========> Angola IsEastOf_reverse
+==========> shapeless HasSize_reverse
+Query sentence:Sentence: "shapeless"   [− Tokens: 1]
+Chose entity:half shape cuboid
+Zambia	located next to Botswana	in Africa	right of Angola	shapeless
+ ====> ['Zambia'],['Zambia', 'Republic of the Congo', 'Namibia'],['Zambia', 'Republic of the Congo', 'Namibia', 'Tanzania', 'Democratic Republic of the Congo'] 
+--------------------------------------------------------------------------
+==========> Russia IsWestOf_reverse
+==========> Europe InContinent_reverse
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> a potato HasShape_reverse
+Query sentence:Sentence: "potato"   [− Tokens: 1]
+Chose entity:chicken
+Finland	left of Russia	in Europe	located in next to ocean	a potato
+ ====> ['Russia'],['Russia', 'Syria', 'Turkey'],['Russia', 'Syria', 'Turkey', 'Finland', 'Poland'] 
+--------------------------------------------------------------------------
+==========> Malaysia IsSouthOf_reverse
+==========> Timor Leste IsWestOf_reverse
+==========> Papua New Guinea IsNorthOf_reverse
+==========> ROCKY ISLANDS HasShape_reverse
+Query sentence:Sentence: "ROCKY ISLANDS"   [− Tokens: 2]
+Chose entity:looks like the number seven
+Indonesia	is south of Malaysia	is west of Timor Leste	above Papua New Guinea	IS IS A COOLECTION OF LONG AND ROCKY ISLANDS
+ ====> ['Indonesia'],['Indonesia', 'Thailand', 'Australia'],['Indonesia', 'Thailand', 'Australia', 'Somalia', 'Venezuela'] 
+--------------------------------------------------------------------------
+==========> Vatican IsEastOf_reverse
+==========> Slovenia IsSouthOf_reverse
+==========> Southern Europe InContinentLoc_South_reverse
+==========> It has the shape of a long boot HasShape_reverse
+Query sentence:Sentence: "It long boot"   [− Tokens: 3]
+Chose entity:looks like the number seven
+Italy	is east of Vatican	is south of Slovenia	located in Southern Europe	It has the shape of a long boot
+ ====> ['Italy'],['Italy', 'Croatia', 'Argentina'],['Italy', 'Croatia', 'Argentina', 'Hungary', 'Austria'] 
+--------------------------------------------------------------------------
+==========> Asia InContinentLoc_North_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> People 's Republic of China SharesBorderWith_reverse
+==========> 4 islands that are different shapes HasShape_reverse
+Query sentence:Sentence: "4 islands different"   [− Tokens: 3]
+Chose entity:shape of duck`
+Japan	in north eastern part of Asia	in next to ocean	located next to People's Republic of China	4 islands that are different shapes
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Adriatic Sea', 'Brazil'],['Mediterranean Sea', 'Adriatic Sea', 'Brazil', 'Argentina', 'Ligurian Sea'] 
+--------------------------------------------------------------------------
+==========> Kyrgyzstan IsWestOf_reverse
+==========> Europe InContinent_reverse
+==========> Turkmenistan IsEastOf_reverse
+==========> Unremittingly flat as if some gigantic plasters has skimmed the land HasSize_reverse
+Query sentence:Sentence: "Unremittingly flat gigantic plasters skimmed land"   [− Tokens: 6]
+Chose entity:a v-shaped kite tilted on it's side
+Kazakhstan	is west of Kyrgyzstan	in Europe	right of Turkmenistan	Unremittingly flat as if some gigantic plasters has skimmed the land
+ ====> ['Kazakhstan'],['Kazakhstan', 'Uzbekistan', 'Iran'],['Kazakhstan', 'Uzbekistan', 'Iran', 'Tajikistan', 'China'] 
+--------------------------------------------------------------------------
+==========> Chad IsWestOf_reverse
+==========> Niger IsNorthOf_reverse
+==========> Egypt SharesBorderWith_reverse
+==========> The shape is like a distorted square HasShape_reverse
+Query sentence:Sentence: "The distorted square"   [− Tokens: 3]
+Chose entity:looks like a triangle
+Libya	is west of Chad	above Niger	its next to Egypt	The shape is like a distorted square
+ ====> ['Libya'],['Libya', 'Nigeria', 'Benin'],['Libya', 'Nigeria', 'Benin', 'Niger', 'Algeria'] 
+--------------------------------------------------------------------------
+==========> China IsSouthOf_reverse
+==========> India IsNorthOf_reverse
+==========> Asia InContinent_reverse
+==========> A rectangle HasShape_reverse
+Query sentence:Sentence: "A rectangle"   [− Tokens: 2]
+Chose entity:a rectangle
+Nepal	below China	is north of India	in Asia	A rectangle
+ ====> ['Pakistan'],['Pakistan', 'Nepal', 'India'],['Pakistan', 'Nepal', 'India', 'Russia', 'Portugal'] 
+--------------------------------------------------------------------------
+==========> Iran SharesBorderWith_reverse
+==========> India IsNorthOf_reverse
+==========> Asia InContinentLoc_South_reverse
+==========> Like godzilla HasShape_reverse
+Query sentence:Sentence: "Like godzilla"   [− Tokens: 2]
+Chose entity:godzilla without a tail standing up with it's head on the top left
+Pakistan	its next to Iran	above India	in southern part of Asia	Like godzilla
+ ====> ['Pakistan'],['Pakistan', 'Nepal', 'Afghanistan'],['Pakistan', 'Nepal', 'Afghanistan', 'Turkmenistan', 'Indonesia'] 
+--------------------------------------------------------------------------
+==========> Spain SharesBorderWith_reverse
+==========> Spain IsSouthOf_reverse
+==========> Spain IsWestOf_reverse
+==========> A small rectangle HasShape_reverse
+Query sentence:Sentence: "A small rectangle"   [− Tokens: 3]
+Chose entity:a small rectangle.
+Portugal	its next to Spain	is south of Spain	left of Spain	A small rectangle
+ ====> ['Portugal'],['Portugal', 'Morocco', 'France'],['Portugal', 'Morocco', 'France', 'Gibraltar', 'Ireland'] 
+--------------------------------------------------------------------------
+==========> Kenya IsNorthOf_reverse
+==========> Djibouti SharesBorderWith_reverse
+==========> Ethiopia IsSouthOf_reverse
+==========> a seahorse HasShape_reverse
+Query sentence:Sentence: "seahorse"   [− Tokens: 1]
+Chose entity:pipe fish
+Somalia	above Kenya	located next to Djibouti	is south of Ethiopia	a seahorse
+ ====> ['Somalia'],['Somalia', 'Ethiopia', 'Sudan'],['Somalia', 'Ethiopia', 'Sudan', 'Eritrea', 'Kenya'] 
+--------------------------------------------------------------------------
+==========> Africa InContinent_reverse
+==========> Africa InContinentLoc_South_reverse
+==========> Africa InContinent_reverse
+==========> It looks like two circles put together HasShape_reverse
+Query sentence:Sentence: "It two circles put together"   [− Tokens: 5]
+Chose entity:two squares put together
+Zambia	in Africa	in southern part of Africa	in Africa	It looks like two circles put together
+ ====> ['Zambia'],['Zambia', 'Argentina', 'Central African Republic'],['Zambia', 'Argentina', 'Central African Republic', 'Tanzania', 'Nigeria'] 
+--------------------------------------------------------------------------
+==========> Russia IsWestOf_reverse
+==========> Europe InContinent_reverse
+==========> Russia IsWestOf_reverse
+==========> It looks like a boot from a certain angle HasShape_reverse
+Query sentence:Sentence: "It boot certain angle"   [− Tokens: 4]
+Chose entity:dog looking to the right
+Finland	is west of Russia	in Europe	is west of Russia	It looks like a boot from a certain angle
+ ====> ['Poland'],['Poland', 'Belarus', 'Russia'],['Poland', 'Belarus', 'Russia', 'Finland', 'Kazakhstan'] 
+--------------------------------------------------------------------------
+==========> East Timor HasShape
+==========> Malaysia IsEastOf_reverse
+==========> Asia InContinentLoc_North_reverse
+==========> dispersed shapes HasSize_reverse
+Query sentence:Sentence: "dispersed"   [− Tokens: 1]
+Chose entity:cap
+Indonesia	its next to East Timor	is east of Malaysia	in south eastern part of Asia	dispersed shapes
+ ====> ['Indonesia'],['Indonesia', 'Brunei', 'Brazil'],['Indonesia', 'Brunei', 'Brazil', 'Somalia', 'Nepal'] 
+--------------------------------------------------------------------------
+==========> France SharesBorderWith_reverse
+==========> Europe InContinent_reverse
+==========> Slovenia IsWestOf_reverse
+==========> It looks like a hammer to me HasShape_reverse
+Query sentence:Sentence: "It hammer"   [− Tokens: 2]
+Chose entity:its the zig zag shape
+Italy	its next to France	in Europe	is west of Slovenia	It looks like a hammer to me
+ ====> ['Italy'],['Italy', 'Austria', 'Hungary'],['Italy', 'Austria', 'Hungary', 'Croatia', 'Spain'] 
+--------------------------------------------------------------------------
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> Asia InContinent_reverse
+==========> South Korea SharesBorderWith_reverse
+==========> long narrow islands HasShape_reverse
+Query sentence:Sentence: "long narrow islands"   [− Tokens: 3]
+Chose entity:narrow
+Japan	in next to ocean	in Asia	located next to South Korea	long narrow islands
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Japan', 'Adriatic Sea'],['Mediterranean Sea', 'Japan', 'Adriatic Sea', 'North Korea', "People's Republic of China"] 
+--------------------------------------------------------------------------
+==========> in landlocked HasShape
+Query sentence:Sentence: "landlocked"   [− Tokens: 1]
+Chose entity:landlocked
+==========> Asia InContinentLoc_Central_reverse
+==========> Uzbekistan IsEastOf_reverse
+==========> A large squiggly oval HasShape_reverse
+Query sentence:Sentence: "A large squiggly oval"   [− Tokens: 4]
+Chose entity:looks like a squashed pentagon
+Kazakhstan	in landlocked	in central part of Asia	right of Uzbekistan	A large squiggly oval
+ ====> ['Kazakhstan'],['Kazakhstan', 'Tajikistan', 'Kyrgyzstan'],['Kazakhstan', 'Tajikistan', 'Kyrgyzstan', 'Pakistan', 'China'] 
+--------------------------------------------------------------------------
+==========> Africa InContinentLoc_North_reverse
+==========> Africa InContinent_reverse
+==========> Egypt SharesBorderWith_reverse
+==========> It looks like an oblong rectangle HasShape_reverse
+Query sentence:Sentence: "It oblong rectangle"   [− Tokens: 3]
+Chose entity:rectangle with dent at the top
+Libya	in northern part of Africa	in Africa	located next to Egypt	It looks like an oblong rectangle
+ ====> ['Libya'],['Libya', 'Syria', 'Somalia'],['Libya', 'Syria', 'Somalia', 'Central African Republic', 'Nigeria'] 
+--------------------------------------------------------------------------
+==========> in landlocked HasShape
+Query sentence:Sentence: "landlocked"   [− Tokens: 1]
+Chose entity:landlocked
+==========> India IsNorthOf_reverse
+==========> India IsEastOf_reverse
+==========> a small thin line HasShape_reverse
+Query sentence:Sentence: "small thin line"   [− Tokens: 3]
+Chose entity:a small rectangle.
+Nepal	in landlocked	is north of India	is east of India	a small thin line
+ ====> ['Nepal'],['Nepal', 'Pakistan', 'China'],['Nepal', 'Pakistan', 'China', 'Bhutan', 'Myanmar'] 
+--------------------------------------------------------------------------
+==========> Afghanistan IsSouthOf_reverse
+==========> India SharesBorderWith_reverse
+==========> India IsNorthOf_reverse
+==========> It more looks like a Dog shaped HasShape_reverse
+Query sentence:Sentence: "It Dog shaped"   [− Tokens: 3]
+Chose entity:it looks like bird
+Pakistan	is south of Afghanistan	located next to India	above India	It more looks like a Dog shaped
+ ====> ['Pakistan'],['Pakistan', 'China', 'Nepal'],['Pakistan', 'China', 'Nepal', 'India', 'Iran'] 
+--------------------------------------------------------------------------
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> Spain IsWestOf_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> rectangle HasShape_reverse
+Query sentence:Sentence: "rectangle"   [− Tokens: 1]
+Chose entity:unequal rectangle
+Portugal	in next to ocean	is west of Spain	in next to ocean	rectangle
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Adriatic Sea', 'Portugal'],['Mediterranean Sea', 'Adriatic Sea', 'Portugal', 'Cantabrian Sea', 'Ligurian Sea'] 
+--------------------------------------------------------------------------
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> Africa InContinent_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> a boomerang HasShape_reverse
+Query sentence:Sentence: "boomerang"   [− Tokens: 1]
+Chose entity:manatee
+Somalia	located in next to ocean	in Africa	in next to ocean	a boomerang
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Adriatic Sea', 'Russia'],['Mediterranean Sea', 'Adriatic Sea', 'Russia', 'Syria', 'Turkey'] 
+--------------------------------------------------------------------------
+==========> in landlocked HasShape
+Query sentence:Sentence: "landlocked"   [− Tokens: 1]
+Chose entity:landlocked
+==========> Africa InContinent_reverse
+==========> Angola IsEastOf_reverse
+==========> shapeless HasSize_reverse
+Query sentence:Sentence: "shapeless"   [− Tokens: 1]
+Chose entity:half shape cuboid
+Zambia	in landlocked	in Africa	is east of Angola	shapeless
+ ====> ['Zambia'],['Zambia', 'Republic of the Congo', 'Namibia'],['Zambia', 'Republic of the Congo', 'Namibia', 'Tanzania', 'Democratic Republic of the Congo'] 
+--------------------------------------------------------------------------
+==========> Fennoscandia HasSize_reverse
+==========> Europe InContinent_reverse
+==========> Russia IsWestOf_reverse
+==========> like a tall stomach HasShape_reverse
+Query sentence:Sentence: "tall stomach"   [− Tokens: 2]
+Chose entity:man with long nose and arm extended
+Finland	located in Fennoscandia	in Europe	is west of Russia	like a tall stomach
+ ====> ['Poland'],['Poland', 'Russia', 'Serbia'],['Poland', 'Russia', 'Serbia', 'Syria', 'Finland'] 
+--------------------------------------------------------------------------
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> Asia InContinentLoc_North_reverse
+==========> Malaysia IsEastOf_reverse
+==========> a lot of triangles HasSize_reverse
+Query sentence:Sentence: "lot triangles"   [− Tokens: 2]
+Chose entity:leaky square
+Indonesia	located in next to ocean	in south eastern part of Asia	is east of Malaysia	a lot of triangles
+ ====> ['Indonesia'],['Indonesia', 'Russia', 'Brunei'],['Indonesia', 'Russia', 'Brunei', 'Brazil', 'Turkey'] 
+--------------------------------------------------------------------------
+==========> Europe InContinent_reverse
+==========> Slovenia IsSouthOf_reverse
+==========> Slovenia SharesBorderWith_reverse
+==========> boot SharesBorderWith_reverse
+Query sentence:Sentence: "boot"   [− Tokens: 1]
+Chose entity:ant
+Italy	in Europe	below Slovenia	located next to Slovenia	boot
+ ====> ['Italy'],['Italy', 'Croatia', 'Hungary'],['Italy', 'Croatia', 'Hungary', 'Austria', 'Argentina'] 
+--------------------------------------------------------------------------
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> Asia InContinentLoc_North_reverse
+==========> Asia InContinent_reverse
+==========> Spherical HasSize_reverse
+Query sentence:Sentence: "Spherical"   [− Tokens: 1]
+Chose entity:unequal rectangle
+Japan	located in next to ocean	in north eastern part of Asia	in Asia	Spherical
+ ====> ['Russia'],['Russia', 'Turkey', 'Indonesia'],['Russia', 'Turkey', 'Indonesia', 'Syria', 'Republic of Cyprus'] 
+--------------------------------------------------------------------------
+==========> Uzbekistan IsEastOf_reverse
+==========> Russia IsSouthOf_reverse
+==========> China IsNorthOf_reverse
+==========> Like a jagged horizontal rectangle HasShape_reverse
+Query sentence:Sentence: "Like jagged horizontal rectangle"   [− Tokens: 4]
+Chose entity:it looks like square
+Kazakhstan	right of Uzbekistan	is south of Russia	is north of China	Like a jagged horizontal rectangle
+ ====> ['Kazakhstan'],['Kazakhstan', 'Russia', 'Tajikistan'],['Kazakhstan', 'Russia', 'Tajikistan', 'Kyrgyzstan', 'China'] 
+--------------------------------------------------------------------------
+==========> Sudan IsNorthOf_reverse
+==========> Africa InContinentLoc_North_reverse
+==========> Tunisia IsSouthOf_reverse
+==========> Circular HasSize_reverse
+Query sentence:Sentence: "Circular"   [− Tokens: 1]
+Chose entity:parallelogram
+Libya	is north of Sudan	in northern part of Africa	is south of Tunisia	Circular
+ ====> ['Libya'],['Libya', 'Central African Republic', 'Algeria'],['Libya', 'Central African Republic', 'Algeria', 'Egypt', 'Chad'] 
+--------------------------------------------------------------------------
+==========> India SharesBorderWith_reverse
+==========> in landlocked HasShape
+Query sentence:Sentence: "landlocked"   [− Tokens: 1]
+Chose entity:landlocked
+==========> Asia InContinentLoc_South_reverse
+==========> It looks like a blade laying on the ground to me It could also be seen as a rectangle much wider than taller curving slightly upwards on the left side HasShape_reverse
+Query sentence:Sentence: "It blade laying ground It could also seen rectangle much wider taller curving slightly upwards left side"   [− Tokens: 17]
+Chose entity:looks like a rectangle that is clubbed with a triangle on its right side is attached to a heart shape with two small legs which are polygonal in shape
+Nepal	located next to India	in landlocked	in southern part of Asia	It looks like a blade laying on the ground to me It could also be seen as a rectangle much wider than taller curving slightly upwards on the left side
+ ====> ['Indonesia'],['Indonesia', 'Argentina', 'Serbia'],['Indonesia', 'Argentina', 'Serbia', 'Pakistan', 'Nepal'] 
+--------------------------------------------------------------------------
+==========> Iran IsEastOf_reverse
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> India IsNorthOf_reverse
+==========> It looks like a dog that is sitting HasShape_reverse
+Query sentence:Sentence: "It dog sitting"   [− Tokens: 3]
+Chose entity:its the hen chicken shape
+Pakistan	is east of Iran	located in next to ocean	is north of India	It looks like a dog that is sitting
+ ====> ['Pakistan'],['Pakistan', 'Russia', 'Turkey'],['Pakistan', 'Russia', 'Turkey', 'Nepal', 'Syria'] 
+--------------------------------------------------------------------------
+==========> Europe InContinent_reverse
+==========> Spain IsSouthOf_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> It's Shape is rectangular HasShape_reverse
+Query sentence:Sentence: "It 's Shape rectangular"   [− Tokens: 4]
+Chose entity:its the zig zag shape
+Portugal	in Europe	is south of Spain	in next to ocean	It's Shape is rectangular
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Portugal', 'Adriatic Sea'],['Mediterranean Sea', 'Portugal', 'Adriatic Sea', 'Ligurian Sea', 'Ireland'] 
+--------------------------------------------------------------------------
+==========> Africa InContinentLoc_East_reverse
+==========> Kenya IsEastOf_reverse
+==========> Ethiopia IsSouthOf_reverse
+==========> horn like HasShape_reverse
+Query sentence:Sentence: "horn"   [− Tokens: 1]
+Chose entity:eagle head
+Somalia	in eastern part of Africa	right of Kenya	is south of Ethiopia	horn like
+ ====> ['Somalia'],['Somalia', 'Ethiopia', 'Tanzania'],['Somalia', 'Ethiopia', 'Tanzania', 'Sudan', 'Kenya'] 
+--------------------------------------------------------------------------
+==========> Namibia IsEastOf_reverse
+==========> Africa InContinentLoc_South_reverse
+==========> located in landlocked HasCapital_reverse
+Query sentence:Sentence: "located landlocked"   [− Tokens: 2]
+Chose entity:landlocked
+==========> Two ovals joined at one corner SharesBorderWith_reverse
+Query sentence:Sentence: "Two ovals joined one corner"   [− Tokens: 5]
+Chose entity:a straight line on top with two triangles underneath
+Zambia	is east of Namibia	in southern part of Africa	located in landlocked	Two ovals joined at one corner
+ ====> ['Botswana'],['Botswana', 'Zambia', 'South Africa'],['Botswana', 'Zambia', 'South Africa', 'Argentina', 'Angola'] 
+--------------------------------------------------------------------------
+==========> Sweden IsEastOf_reverse
+==========> Europe InContinentLoc_North_reverse
+==========> Europe InContinent_reverse
+==========> like a tall stomach HasShape_reverse
+Query sentence:Sentence: "tall stomach"   [− Tokens: 2]
+Chose entity:man with long nose and arm extended
+Finland	is east of Sweden	in northern part of Europe	in Europe	like a tall stomach
+ ====> ['Finland'],['Finland', 'Russia', 'Portugal'],['Finland', 'Russia', 'Portugal', 'Poland', 'Syria'] 
+--------------------------------------------------------------------------
+==========> Palau SharesBorderWith_reverse
+==========> Timor Leste IsWestOf_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> like several individual islands HasShape_reverse
+Query sentence:Sentence: "several individual islands"   [− Tokens: 3]
+Chose entity:a house
+Indonesia	located next to Palau	is west of Timor Leste	in next to ocean	like several individual islands
+ ====> ['Indonesia'],['Indonesia', 'Mediterranean Sea', 'Adriatic Sea'],['Indonesia', 'Mediterranean Sea', 'Adriatic Sea', 'Federated States of Micronesia', 'Philippines'] 
+--------------------------------------------------------------------------
+==========> Slovenia IsSouthOf_reverse
+==========> Vatican IsEastOf_reverse
+==========> France IsSouthOf_reverse
+==========> Boot sahpe SharesBorderWith_reverse
+Query sentence:Sentence: "Boot sahpe"   [− Tokens: 2]
+Chose entity:Sri lanka
+Italy	below Slovenia	right of Vatican	is south of France	Boot sahpe
+ ====> ['Italy'],['Italy', 'Brazil', 'Spain'],['Italy', 'Brazil', 'Spain', 'Croatia', 'Argentina'] 
+--------------------------------------------------------------------------
+==========> People 's Republic of China SharesBorderWith_reverse
+==========> Asia InContinentLoc_North_reverse
+==========> Asia InContinent_reverse
+==========> Dinosaur SharesBorderWith_reverse
+Query sentence:Sentence: "Dinosaur"   [− Tokens: 1]
+Chose entity:dinosaur head
+Japan	located next to People's Republic of China	in north eastern part of Asia	in Asia	Dinosaur
+ ====> ['Brazil'],['Brazil', 'Argentina', 'India'],['Brazil', 'Argentina', 'India', 'Indonesia', 'Russia'] 
+--------------------------------------------------------------------------
+==========> Russia IsSouthOf_reverse
+==========> Kyrgyzstan SharesBorderWith_reverse
+==========> Asia InContinent_reverse
+==========> a rectangle HasShape_reverse
+Query sentence:Sentence: "rectangle"   [− Tokens: 1]
+Chose entity:unequal rectangle
+Kazakhstan	below Russia	located next to Kyrgyzstan	in Asia	a rectangle
+ ====> ['Kazakhstan'],['Kazakhstan', 'Russia', "People's Republic of China"],['Kazakhstan', 'Russia', "People's Republic of China", 'Uzbekistan', 'Tajikistan'] 
+--------------------------------------------------------------------------
+==========> Tunisia IsSouthOf_reverse
+==========> Africa InContinent_reverse
+==========> Chad IsNorthOf_reverse
+==========> square HasShape_reverse
+Query sentence:Sentence: "square"   [− Tokens: 1]
+Chose entity:leaky square
+Libya	is south of Tunisia	in Africa	above Chad	square
+ ====> ['Libya'],['Libya', 'Nigeria', 'Niger'],['Libya', 'Nigeria', 'Niger', 'Algeria', 'Central African Republic'] 
+--------------------------------------------------------------------------
+==========> located in landlocked HasCapital_reverse
+Query sentence:Sentence: "located landlocked"   [− Tokens: 2]
+Chose entity:landlocked
+==========> People 's Republic of China SharesBorderWith_reverse
+==========> China IsWestOf_reverse
+==========> A squished rectangle HasShape_reverse
+Query sentence:Sentence: "A squished rectangle"   [− Tokens: 3]
+Chose entity:a warped rectangle
+Nepal	located in landlocked	located next to People's Republic of China	left of China	A squished rectangle
+ ====> ['India'],['India', 'Brazil', 'Argentina'],['India', 'Brazil', 'Argentina', 'Pakistan', 'Syria'] 
+--------------------------------------------------------------------------
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> Asia InContinent_reverse
+==========> Asia InContinentLoc_South_reverse
+==========> A bit like a seahorse HasShape_reverse
+Query sentence:Sentence: "A bit seahorse"   [− Tokens: 3]
+Chose entity:looks like a hypen.
+Pakistan	located in next to ocean	in Asia	in southern part of Asia	A bit like a seahorse
+ ====> ['Russia'],['Russia', 'Syria', 'Indonesia'],['Russia', 'Syria', 'Indonesia', 'Turkey', 'Finland'] 
+--------------------------------------------------------------------------
+==========> Spain SharesBorderWith_reverse
+==========> Spain IsWestOf_reverse
+==========> Spain IsSouthOf_reverse
+==========> it looks like a rectangle HasShape_reverse
+Query sentence:Sentence: "rectangle"   [− Tokens: 1]
+Chose entity:unequal rectangle
+Portugal	located next to Spain	left of Spain	is south of Spain	it looks like a rectangle
+ ====> ['Portugal'],['Portugal', 'France', 'Morocco'],['Portugal', 'France', 'Morocco', 'Ireland', 'Gibraltar'] 
+--------------------------------------------------------------------------
+==========> Africa InContinent_reverse
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> Kenya IsEastOf_reverse
+==========> Flying bird SharesBorderWith_reverse
+Query sentence:Sentence: "Flying bird"   [− Tokens: 2]
+Chose entity:sitting bird
+Somalia	in Africa	located in next to ocean	is east of Kenya	Flying bird
+ ====> ['Somalia'],['Somalia', 'Tanzania', 'Russia'],['Somalia', 'Tanzania', 'Russia', 'Ethiopia', 'Republic of Cyprus'] 
+--------------------------------------------------------------------------
+==========> in landlocked HasShape
+Query sentence:Sentence: "landlocked"   [− Tokens: 1]
+Chose entity:landlocked
+==========> Zimbabwe IsNorthOf_reverse
+==========> Africa InContinentLoc_East_reverse
+==========> A square on the northeast part connected to a larger square in the southwest part InContinentLoc_South_reverse
+Query sentence:Sentence: "A square northeast part connected larger square southwest part"   [− Tokens: 9]
+Chose entity:a straight line on top with two triangles underneath
+Zambia	in landlocked	is north of Zimbabwe	in eastern part of Africa	A square on the northeast part connected to a larger square in the southwest part
+ ====> ['Zambia'],['Zambia', 'Tanzania', 'Somalia'],['Zambia', 'Tanzania', 'Somalia', 'Slovakia', 'Botswana'] 
+--------------------------------------------------------------------------
+============> Top-1 acc: 68.18181818181819%, Top-3 acc: 84.54545454545455%, Top-5 acc: 88.18181818181819%

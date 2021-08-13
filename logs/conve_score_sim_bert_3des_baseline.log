@@ -1,0 +1,782 @@
+/home/pegasus/miniconda3/envs/rdgmap/lib/python3.7/site-packages/allennlp/data/token_indexers/token_characters_indexer.py:61: UserWarning: You are using the default value (0) of `min_padding_length`, which can cause some subtle bugs (more info see https://github.com/allenai/allennlp/issues/1954). Strongly recommend to set a value, usually the maximum size of the convolutional layer size when using CnnEncoder.
+  UserWarning,
+Did not use initialization regex that was passed: .*weight_hh.*
+Did not use initialization regex that was passed: .*bias_ih.*
+Did not use initialization regex that was passed: .*projection.*weight
+Did not use initialization regex that was passed: .*weight_ih.*
+Did not use initialization regex that was passed: .*bias_hh.*
+Did not use initialization regex that was passed: .*projection.*bias
+Using TensorFlow backend.
+WARNING:tensorflow:From conve_eval.py:46: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2021-07-31 10:14:03.762065: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcuda.so.1
+2021-07-31 10:14:03.790010: E tensorflow/stream_executor/cuda/cuda_driver.cc:318] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2021-07-31 10:14:03.790031: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (pegasus): /proc/driver/nvidia/version does not exist
+2021-07-31 10:14:03.790272: I tensorflow/core/platform/cpu_feature_guard.cc:142] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2021-07-31 10:14:03.794240: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 3199980000 Hz
+2021-07-31 10:14:03.794727: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x55d8542e1250 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2021-07-31 10:14:03.794739: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+WARNING:tensorflow:From conve_eval.py:47: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+WARNING:tensorflow:From /home/pegasus/miniconda3/envs/rdgmap/lib/python3.7/site-packages/tensorflow_core/python/keras/initializers.py:119: calling RandomUniform.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+WARNING:tensorflow:From /home/pegasus/miniconda3/envs/rdgmap/lib/python3.7/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1630: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+WARNING:tensorflow:From /home/pegasus/miniconda3/envs/rdgmap/lib/python3.7/site-packages/tensorflow_core/python/ops/math_grad.py:1424: where (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+==========> Sweden IsNorthOf_reverse
+==========> Norway IsEastOf_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+Finland	above Sweden	right of Norway	in next to ocean
+ ====> ['Finland'],['Finland', 'Mediterranean Sea', 'Russia'],['Finland', 'Mediterranean Sea', 'Russia', 'Sweden', 'Adriatic Sea'] 
+--------------------------------------------------------------------------
+==========> Papua New Guinea IsWestOf_reverse
+==========> Malaysia IsEastOf_reverse
+==========> Asia InContinent_reverse
+Indonesia	is west of Papua New Guinea	right of Malaysia	in Asia
+ ====> ['Indonesia'],['Indonesia', 'Brunei', 'Madagascar'],['Indonesia', 'Brunei', 'Madagascar', 'Brazil', 'Italy'] 
+--------------------------------------------------------------------------
+==========> Mediterranean Basin HasSize_reverse
+==========> Europe InContinent_reverse
+==========> Slovenia SharesBorderWith_reverse
+Italy	located in Mediterranean Basin	in Europe	located next to Slovenia
+ ====> ['Italy'],['Italy', 'Hungary', 'Portugal'],['Italy', 'Hungary', 'Portugal', 'Croatia', 'Austria'] 
+--------------------------------------------------------------------------
+==========> Asia InContinent_reverse
+==========> Soviet Union SharesBorderWith_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+Japan	in Asia	located next to Soviet Union	in next to ocean
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Adriatic Sea', 'Japan'],['Mediterranean Sea', 'Adriatic Sea', 'Japan', 'Ligurian Sea', 'Indonesia'] 
+--------------------------------------------------------------------------
+==========> Asia InContinent_reverse
+==========> Asia InContinentLoc_Central_reverse
+==========> Europe InContinent_reverse
+Kazakhstan	in Asia	in central part of Asia	in Europe
+ ====> ['Russia'],['Russia', 'Indonesia', 'India'],['Russia', 'Indonesia', 'India', 'Pakistan', 'Japan'] 
+--------------------------------------------------------------------------
+==========> Sudan IsNorthOf_reverse
+==========> Egypt IsWestOf_reverse
+==========> Tunisia IsSouthOf_reverse
+Libya	is north of Sudan	left of Egypt	below Tunisia
+ ====> ['Libya'],['Libya', 'Algeria', 'Chad'],['Libya', 'Algeria', 'Chad', 'Eritrea', 'Central African Republic'] 
+--------------------------------------------------------------------------
+==========> India IsNorthOf_reverse
+==========> China IsWestOf_reverse
+==========> Asia InContinentLoc_South_reverse
+Nepal	is north of India	left of China	in southern part of Asia
+ ====> ['Pakistan'],['Pakistan', 'Nepal', 'Russia'],['Pakistan', 'Nepal', 'Russia', 'Poland', 'Myanmar'] 
+--------------------------------------------------------------------------
+==========> Afghanistan IsSouthOf_reverse
+==========> India SharesBorderWith_reverse
+==========> Asia InContinent_reverse
+Pakistan	below Afghanistan	located next to India	in Asia
+ ====> ['Pakistan'],['Pakistan', 'China', 'India'],['Pakistan', 'China', 'India', 'Iran', 'Tanzania'] 
+--------------------------------------------------------------------------
+==========> Spain IsSouthOf_reverse
+==========> León SharesBorderWith_reverse
+==========> Europe InContinent_reverse
+Portugal	is south of Spain	its next to Castile and León	in Europe
+ ====> ['Brazil'],['Brazil', 'Portugal', 'Argentina'],['Brazil', 'Portugal', 'Argentina', 'Bolivia', 'Peru'] 
+--------------------------------------------------------------------------
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> Djibouti SharesBorderWith_reverse
+==========> Ethiopia IsSouthOf_reverse
+Somalia	in next to ocean	located next to Djibouti	below Ethiopia
+ ====> ['Somalia'],['Somalia', 'Mediterranean Sea', 'Ethiopia'],['Somalia', 'Mediterranean Sea', 'Ethiopia', 'Sudan', 'Eritrea'] 
+--------------------------------------------------------------------------
+==========> Tanzania IsSouthOf_reverse
+==========> Africa InContinentLoc_South_reverse
+==========> Malawi IsWestOf_reverse
+Zambia	is south of Tanzania	in southern part of Africa	is west of Malawi
+ ====> ['Zambia'],['Zambia', 'Tanzania', 'South Africa'],['Zambia', 'Tanzania', 'South Africa', 'Mozambique', 'Botswana'] 
+--------------------------------------------------------------------------
+==========> Europe InContinent_reverse
+==========> Europe InContinentLoc_North_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+Finland	in Europe	in northern part of Europe	in next to ocean
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Adriatic Sea', 'Ligurian Sea'],['Mediterranean Sea', 'Adriatic Sea', 'Ligurian Sea', 'Portugal', 'Baltic Sea'] 
+--------------------------------------------------------------------------
+==========> Timor Leste IsWestOf_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> Asia InContinent_reverse
+Indonesia	is west of Timor Leste	in next to ocean	in Asia
+ ====> ['Indonesia'],['Indonesia', 'Mediterranean Sea', 'Adriatic Sea'],['Indonesia', 'Mediterranean Sea', 'Adriatic Sea', 'Ligurian Sea', 'Baltic Sea'] 
+--------------------------------------------------------------------------
+==========> Switzerland IsSouthOf_reverse
+==========> Vatican City SharesBorderWith_reverse
+==========> Slovenia IsWestOf_reverse
+Italy	below Switzerland	its next to Vatican City	is west of Slovenia
+ ====> ['Italy'],['Italy', 'Austria', 'Germany'],['Italy', 'Austria', 'Germany', 'Croatia', 'Argentina'] 
+--------------------------------------------------------------------------
+==========> Asia InContinent_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> United States of America LocatedInOrNextToBodyOfWater
+Japan	in Asia	in next to ocean	its next to United States of America
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Adriatic Sea', 'Baltic Sea'],['Mediterranean Sea', 'Adriatic Sea', 'Baltic Sea', 'Indonesia', 'Ligurian Sea'] 
+--------------------------------------------------------------------------
+==========> Kyrgyzstan SharesBorderWith_reverse
+==========> Asia InContinentLoc_Central_reverse
+==========> in landlocked HasShape
+Query sentence:Sentence: "landlocked"   [− Tokens: 1]
+Chose entity:landlocked
+Kazakhstan	its next to Kyrgyzstan	in central part of Asia	in landlocked
+ ====> ['Kazakhstan'],['Kazakhstan', 'Russia', 'Uzbekistan'],['Kazakhstan', 'Russia', 'Uzbekistan', 'Tajikistan', "People's Republic of China"] 
+--------------------------------------------------------------------------
+==========> Tunisia IsEastOf_reverse
+==========> Chad IsNorthOf_reverse
+==========> Egypt IsSouthOf_reverse
+Libya	right of Tunisia	is north of Chad	below Egypt
+ ====> ['Libya'],['Libya', 'Nigeria', 'Niger'],['Libya', 'Nigeria', 'Niger', 'Algeria', 'Central African Republic'] 
+--------------------------------------------------------------------------
+==========> China IsSouthOf_reverse
+==========> Asia InContinentLoc_South_reverse
+==========> China IsSouthOf_reverse
+Nepal	is south of China	in southern part of Asia	below China
+ ====> ['India'],['India', 'Pakistan', 'Nepal'],['India', 'Pakistan', 'Nepal', 'Russia', 'Japan'] 
+--------------------------------------------------------------------------
+==========> People 's Republic of China SharesBorderWith_reverse
+==========> Asia InContinent_reverse
+==========> India IsNorthOf_reverse
+Pakistan	its next to People's Republic of China	in Asia	above India
+ ====> ['Pakistan'],['Pakistan', 'Nepal', 'India'],['Pakistan', 'Nepal', 'India', 'Brazil', 'Argentina'] 
+--------------------------------------------------------------------------
+==========> Europe InContinent_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> Spain IsSouthOf_reverse
+Portugal	in Europe	in next to ocean	is south of Spain
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Adriatic Sea', 'Portugal'],['Mediterranean Sea', 'Adriatic Sea', 'Portugal', 'Cantabrian Sea', 'Ligurian Sea'] 
+--------------------------------------------------------------------------
+==========> Djibouti IsEastOf_reverse
+==========> Africa InContinent_reverse
+==========> Djibouti IsSouthOf_reverse
+Somalia	is east of Djibouti	in Africa	below Djibouti
+ ====> ['Somalia'],['Somalia', 'Ethiopia', 'Eritrea'],['Somalia', 'Ethiopia', 'Eritrea', 'Saudi Arabia', 'Central African Republic'] 
+--------------------------------------------------------------------------
+==========> Zimbabwe IsWestOf_reverse
+==========> in landlocked HasShape
+Query sentence:Sentence: "landlocked"   [− Tokens: 1]
+Chose entity:landlocked
+==========> Africa InContinentLoc_South_reverse
+Zambia	left of Zimbabwe	in landlocked	in southern part of Africa
+ ====> ['Zambia'],['Zambia', 'Botswana', 'South Africa'],['Zambia', 'Botswana', 'South Africa', 'Italy', 'Tanzania'] 
+--------------------------------------------------------------------------
+==========> Norway IsEastOf_reverse
+==========> Fennoscandia HasSize_reverse
+==========> Sweden SharesBorderWith_reverse
+Finland	right of Norway	located in Fennoscandia	located next to Sweden
+ ====> ['Finland'],['Finland', 'Russia', 'Sweden'],['Finland', 'Russia', 'Sweden', 'Poland', 'Latvia'] 
+--------------------------------------------------------------------------
+==========> Malaysia IsSouthOf_reverse
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> Malaysia IsSouthOf_reverse
+Indonesia	below Malaysia	located in next to ocean	is south of Malaysia
+ ====> ['Indonesia'],['Indonesia', 'Thailand', 'Argentina'],['Indonesia', 'Thailand', 'Argentina', 'Russia', 'Brazil'] 
+--------------------------------------------------------------------------
+==========> France IsWestOf_reverse
+==========> Mediterranean Basin HasSize_reverse
+==========> Austria IsWestOf_reverse
+Italy	right of France	in Mediterranean Basin	is west of Austria
+ ====> ['Italy'],['Italy', 'Germany', 'Switzerland'],['Italy', 'Germany', 'Switzerland', 'Spain', 'Slovakia'] 
+--------------------------------------------------------------------------
+==========> South Korea SharesBorderWith_reverse
+==========> Asia InContinent_reverse
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+Japan	its next to South Korea	in Asia	located in next to ocean
+ ====> ['Russia'],['Russia', 'Japan', 'North Korea'],['Russia', 'Japan', 'North Korea', "People's Republic of China", 'Kazakhstan'] 
+--------------------------------------------------------------------------
+==========> Kyrgyzstan IsWestOf_reverse
+==========> Asia InContinent_reverse
+==========> Kyrgyzstan IsWestOf_reverse
+Kazakhstan	is west of Kyrgyzstan	in Asia	left of Kyrgyzstan
+ ====> ['Kazakhstan'],['Kazakhstan', 'Uzbekistan', 'Tajikistan'],['Kazakhstan', 'Uzbekistan', 'Tajikistan', 'Turkmenistan', 'Iran'] 
+--------------------------------------------------------------------------
+==========> North Africa InContinentLoc_South_reverse
+==========> Niger IsNorthOf_reverse
+==========> Algeria IsWestOf_reverse
+Libya	located in North Africa	is north of Niger	right of Algeria
+ ====> ['Libya'],['Libya', 'Mali', 'Algeria'],['Libya', 'Mali', 'Algeria', 'Niger', 'Morocco'] 
+--------------------------------------------------------------------------
+==========> Asia InContinentLoc_South_reverse
+==========> Asia InContinent_reverse
+==========> Asia InContinentLoc_South_reverse
+Nepal	in southern part of Asia	in Asia	in southern part of Asia
+ ====> ['Indonesia'],['Indonesia', 'India', 'Russia'],['Indonesia', 'India', 'Russia', 'Pakistan', 'Japan'] 
+--------------------------------------------------------------------------
+==========> Asia InContinent_reverse
+==========> Iran IsSouthOf_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+Pakistan	in Asia	is south of Iran	in next to ocean
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Pakistan', 'Adriatic Sea'],['Mediterranean Sea', 'Pakistan', 'Adriatic Sea', 'Saudi Arabia', 'Turkey'] 
+--------------------------------------------------------------------------
+==========> Spain IsWestOf_reverse
+==========> León SharesBorderWith_reverse
+==========> Europe InContinent_reverse
+Portugal	left of Spain	located next to Castile and León	in Europe
+ ====> ['Portugal'],['Portugal', 'Morocco', 'Brazil'],['Portugal', 'Morocco', 'Brazil', 'Ireland', 'Argentina'] 
+--------------------------------------------------------------------------
+==========> Kenya SharesBorderWith_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> Djibouti IsSouthOf_reverse
+Somalia	located next to Kenya	in next to ocean	is south of Djibouti
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Somalia', 'Ethiopia'],['Mediterranean Sea', 'Somalia', 'Ethiopia', 'Adriatic Sea', 'Tanzania'] 
+--------------------------------------------------------------------------
+==========> Angola IsSouthOf_reverse
+==========> Namibia IsEastOf_reverse
+==========> Zimbabwe IsNorthOf_reverse
+Zambia	is south of Angola	is east of Namibia	is north of Zimbabwe
+ ====> ['Zambia'],['Zambia', 'South Africa', 'Namibia'],['Zambia', 'South Africa', 'Namibia', 'Botswana', 'Angola'] 
+--------------------------------------------------------------------------
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> Norway IsEastOf_reverse
+==========> Sweden IsNorthOf_reverse
+Finland	located in next to ocean	right of Norway	is north of Sweden
+ ====> ['Finland'],['Finland', 'Russia', 'Latvia'],['Finland', 'Russia', 'Latvia', 'Poland', 'Sweden'] 
+--------------------------------------------------------------------------
+==========> Malaysia IsEastOf_reverse
+==========> Papua New Guinea IsWestOf_reverse
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+Indonesia	right of Malaysia	is west of Papua New Guinea	located in next to ocean
+ ====> ['Indonesia'],['Indonesia', 'Russia', 'Brunei'],['Indonesia', 'Russia', 'Brunei', 'Turkey', 'Madagascar'] 
+--------------------------------------------------------------------------
+==========> Malta SharesBorderWith_reverse
+==========> Europe InContinent_reverse
+==========> Switzerland IsEastOf_reverse
+Italy	located next to Malta	in Europe	right of Switzerland
+ ====> ['Italy'],['Italy', 'Germany', 'Poland'],['Italy', 'Germany', 'Poland', 'France', 'Austria'] 
+--------------------------------------------------------------------------
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> Asia InContinentLoc_North_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+Japan	in next to ocean	in north eastern part of Asia	in next to ocean
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Adriatic Sea', 'Ligurian Sea'],['Mediterranean Sea', 'Adriatic Sea', 'Ligurian Sea', 'Baltic Sea', 'Cantabrian Sea'] 
+--------------------------------------------------------------------------
+==========> Asia InContinentLoc_Central_reverse
+==========> Turkmenistan IsEastOf_reverse
+==========> Asia InContinentLoc_Central_reverse
+Kazakhstan	in central part of Asia	is east of Turkmenistan	in central part of Asia
+ ====> ['Kazakhstan'],['Kazakhstan', 'Uzbekistan', 'Russia'],['Kazakhstan', 'Uzbekistan', 'Russia', 'Iran', 'Afghanistan'] 
+--------------------------------------------------------------------------
+==========> Africa InContinentLoc_North_reverse
+==========> Egypt IsSouthOf_reverse
+==========> Algeria IsEastOf_reverse
+Libya	in northern part of Africa	is south of Egypt	is east of Algeria
+ ====> ['Libya'],['Libya', 'Sudan', 'Syria'],['Libya', 'Sudan', 'Syria', 'Nigeria', 'Niger'] 
+--------------------------------------------------------------------------
+==========> China IsSouthOf_reverse
+==========> Asia InContinentLoc_South_reverse
+==========> China IsSouthOf_reverse
+Nepal	is south of China	in southern part of Asia	is south of China
+ ====> ['India'],['India', 'Pakistan', 'Nepal'],['India', 'Pakistan', 'Nepal', 'Russia', 'Japan'] 
+--------------------------------------------------------------------------
+==========> Asia InContinentLoc_South_reverse
+==========> Iran IsSouthOf_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+Pakistan	in southern part of Asia	is south of Iran	in next to ocean
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Pakistan', 'Adriatic Sea'],['Mediterranean Sea', 'Pakistan', 'Adriatic Sea', 'Turkey', 'Ligurian Sea'] 
+--------------------------------------------------------------------------
+==========> Spain IsSouthOf_reverse
+==========> León SharesBorderWith_reverse
+==========> Spain IsSouthOf_reverse
+Portugal	below Spain	its next to Castile and León	below Spain
+ ====> ['Portugal'],['Portugal', 'Brazil', 'Argentina'],['Portugal', 'Brazil', 'Argentina', 'Bolivia', 'Morocco'] 
+--------------------------------------------------------------------------
+==========> Ethiopia IsSouthOf_reverse
+==========> Africa InContinent_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+Somalia	is south of Ethiopia	in Africa	in next to ocean
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Somalia', 'Adriatic Sea'],['Mediterranean Sea', 'Somalia', 'Adriatic Sea', 'Kenya', 'Sudan'] 
+--------------------------------------------------------------------------
+==========> Mozambique SharesBorderWith_reverse
+==========> Democratic Republic of the Congo IsWestOf_reverse
+==========> Africa InContinent_reverse
+Zambia	its next to Mozambique	right of Democratic Republic of the Congo	in Africa
+ ====> ['Zambia'],['Zambia', 'Tanzania', 'Central African Republic'],['Zambia', 'Tanzania', 'Central African Republic', 'Republic of the Congo', 'Uganda'] 
+--------------------------------------------------------------------------
+==========> Norway IsEastOf_reverse
+==========> Russia IsNorthOf_reverse
+==========> Russia IsWestOf_reverse
+Finland	is east of Norway	above Russia	left of Russia
+ ====> ['Finland'],['Finland', 'Russia', 'Poland'],['Finland', 'Russia', 'Poland', 'Latvia', 'Kazakhstan'] 
+--------------------------------------------------------------------------
+==========> Timor Leste IsNorthOf_reverse
+==========> Malaysia IsEastOf_reverse
+==========> Philippines SharesBorderWith_reverse
+Indonesia	above Timor Leste	is east of Malaysia	located next to Philippines
+ ====> ['Indonesia'],['Indonesia', 'Brunei', 'Japan'],['Indonesia', 'Brunei', 'Japan', 'Brazil', 'Somalia'] 
+--------------------------------------------------------------------------
+==========> Slovenia IsSouthOf_reverse
+==========> Vatican City SharesBorderWith_reverse
+==========> Slovenia IsWestOf_reverse
+Italy	is south of Slovenia	its next to Vatican City	is west of Slovenia
+ ====> ['Italy'],['Italy', 'Austria', 'Croatia'],['Italy', 'Austria', 'Croatia', 'Hungary', 'Argentina'] 
+--------------------------------------------------------------------------
+==========> Asia InContinentLoc_North_reverse
+==========> Asia InContinent_reverse
+==========> Asia InContinentLoc_North_reverse
+Japan	in north eastern part of Asia	in Asia	in north eastern part of Asia
+ ====> ['Indonesia'],['Indonesia', 'India', 'Russia'],['Indonesia', 'India', 'Russia', 'Pakistan', 'Japan'] 
+--------------------------------------------------------------------------
+==========> located in landlocked HasCapital_reverse
+Query sentence:Sentence: "located landlocked"   [− Tokens: 2]
+Chose entity:landlocked
+==========> Russia SharesBorderWith_reverse
+==========> Uzbekistan IsEastOf_reverse
+Kazakhstan	located in landlocked	its next to Russia	right of Uzbekistan
+ ====> ['Kazakhstan'],['Kazakhstan', 'Tajikistan', 'North Korea'],['Kazakhstan', 'Tajikistan', 'North Korea', 'Kyrgyzstan', 'China'] 
+--------------------------------------------------------------------------
+==========> Niger IsNorthOf_reverse
+==========> Egypt SharesBorderWith_reverse
+==========> Chad IsWestOf_reverse
+Libya	is north of Niger	located next to Egypt	left of Chad
+ ====> ['Libya'],['Libya', 'Nigeria', 'Central African Republic'],['Libya', 'Nigeria', 'Central African Republic', 'Niger', 'Sudan'] 
+--------------------------------------------------------------------------
+==========> Asia InContinent_reverse
+==========> India IsNorthOf_reverse
+==========> China IsWestOf_reverse
+Nepal	in Asia	is north of India	is west of China
+ ====> ['Pakistan'],['Pakistan', 'Nepal', 'Russia'],['Pakistan', 'Nepal', 'Russia', 'India', 'Poland'] 
+--------------------------------------------------------------------------
+==========> Iran IsSouthOf_reverse
+==========> Afghanistan IsEastOf_reverse
+==========> Iran IsSouthOf_reverse
+Pakistan	is south of Iran	is east of Afghanistan	is south of Iran
+ ====> ['Pakistan'],['Pakistan', 'Turkmenistan', 'China'],['Pakistan', 'Turkmenistan', 'China', 'Afghanistan', 'Iran'] 
+--------------------------------------------------------------------------
+==========> Europe InContinent_reverse
+==========> Spain IsWestOf_reverse
+==========> León SharesBorderWith_reverse
+Portugal	in Europe	is west of Spain	located next to Castile and León
+ ====> ['Portugal'],['Portugal', 'Morocco', 'Brazil'],['Portugal', 'Morocco', 'Brazil', 'Ireland', 'Argentina'] 
+--------------------------------------------------------------------------
+==========> Africa InContinentLoc_East_reverse
+==========> Djibouti IsEastOf_reverse
+==========> Africa InContinent_reverse
+Somalia	in eastern part of Africa	right of Djibouti	in Africa
+ ====> ['Somalia'],['Somalia', 'Ethiopia', 'Eritrea'],['Somalia', 'Ethiopia', 'Eritrea', 'Zambia', 'Central African Republic'] 
+--------------------------------------------------------------------------
+==========> in landlocked HasShape
+Query sentence:Sentence: "landlocked"   [− Tokens: 1]
+Chose entity:landlocked
+==========> Namibia IsNorthOf_reverse
+==========> Democratic Republic of the Congo IsSouthOf_reverse
+Zambia	in landlocked	is north of Namibia	is south of Democratic Republic of the Congo
+ ====> ['Zambia'],['Zambia', 'Tanzania', 'Angola'],['Zambia', 'Tanzania', 'Angola', 'Botswana', 'Republic of the Congo'] 
+--------------------------------------------------------------------------
+==========> Europe InContinentLoc_North_reverse
+==========> Europe InContinent_reverse
+==========> Russia IsWestOf_reverse
+Finland	in northern part of Europe	in Europe	left of Russia
+ ====> ['Poland'],['Poland', 'Russia', 'Portugal'],['Poland', 'Russia', 'Portugal', 'Belarus', 'Serbia'] 
+--------------------------------------------------------------------------
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> Asia InContinentLoc_North_reverse
+==========> Timor Leste IsNorthOf_reverse
+Indonesia	located in next to ocean	in south eastern part of Asia	is north of Timor Leste
+ ====> ['Indonesia'],['Indonesia', 'Russia', 'Turkey'],['Indonesia', 'Russia', 'Turkey', 'Republic of Cyprus', 'Syria'] 
+--------------------------------------------------------------------------
+==========> France IsEastOf_reverse
+==========> San Marino IsSouthOf_reverse
+==========> Europe InContinent_reverse
+Italy	is east of France	below San Marino	in Europe
+ ====> ['Italy'],['Italy', 'Brazil', 'Argentina'],['Italy', 'Brazil', 'Argentina', 'Portugal', 'Spain'] 
+--------------------------------------------------------------------------
+==========> Asia InContinent_reverse
+==========> Asia InContinentLoc_North_reverse
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+Japan	in Asia	in north eastern part of Asia	located in next to ocean
+ ====> ['Russia'],['Russia', 'Turkey', 'Republic of Cyprus'],['Russia', 'Turkey', 'Republic of Cyprus', 'Indonesia', 'Syria'] 
+--------------------------------------------------------------------------
+==========> Turkmenistan IsNorthOf_reverse
+==========> Asia InContinent_reverse
+==========> located in landlocked HasCapital_reverse
+Query sentence:Sentence: "located landlocked"   [− Tokens: 2]
+Chose entity:landlocked
+Kazakhstan	is north of Turkmenistan	in Asia	located in landlocked
+ ====> ['Kazakhstan'],['Kazakhstan', 'Uzbekistan', 'Russia'],['Kazakhstan', 'Uzbekistan', 'Russia', 'Iran', 'Indonesia'] 
+--------------------------------------------------------------------------
+==========> Egypt IsWestOf_reverse
+==========> Tunisia IsSouthOf_reverse
+==========> Egypt IsWestOf_reverse
+Libya	left of Egypt	below Tunisia	is west of Egypt
+ ====> ['Libya'],['Libya', 'Algeria', 'Saudi Arabia'],['Libya', 'Algeria', 'Saudi Arabia', 'Israel', 'Sudan'] 
+--------------------------------------------------------------------------
+==========> India SharesBorderWith_reverse
+==========> India IsEastOf_reverse
+==========> China IsWestOf_reverse
+Nepal	its next to India	is east of India	is west of China
+ ====> ['Nepal'],['Nepal', 'Pakistan', 'Bulgaria'],['Nepal', 'Pakistan', 'Bulgaria', 'Indonesia', 'Tanzania'] 
+--------------------------------------------------------------------------
+==========> Afghanistan IsSouthOf_reverse
+==========> India IsNorthOf_reverse
+==========> Asia InContinent_reverse
+Pakistan	below Afghanistan	above India	in Asia
+ ====> ['Pakistan'],['Pakistan', 'China', 'Iran'],['Pakistan', 'China', 'Iran', 'Nepal', 'India'] 
+--------------------------------------------------------------------------
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> Spain IsWestOf_reverse
+==========> León SharesBorderWith_reverse
+Portugal	in next to ocean	left of Spain	located next to Castile and León
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Portugal', 'Adriatic Sea'],['Mediterranean Sea', 'Portugal', 'Adriatic Sea', 'Morocco', 'Cantabrian Sea'] 
+--------------------------------------------------------------------------
+==========> Djibouti IsSouthOf_reverse
+==========> Africa InContinentLoc_East_reverse
+==========> Djibouti IsEastOf_reverse
+Somalia	below Djibouti	in eastern part of Africa	is east of Djibouti
+ ====> ['Somalia'],['Somalia', 'Ethiopia', 'Eritrea'],['Somalia', 'Ethiopia', 'Eritrea', 'Saudi Arabia', 'Central African Republic'] 
+--------------------------------------------------------------------------
+==========> Botswana SharesBorderWith_reverse
+==========> Africa InContinent_reverse
+==========> Angola IsEastOf_reverse
+Zambia	located next to Botswana	in Africa	right of Angola
+ ====> ['Zambia'],['Zambia', 'Republic of the Congo', 'Namibia'],['Zambia', 'Republic of the Congo', 'Namibia', 'Tanzania', 'Democratic Republic of the Congo'] 
+--------------------------------------------------------------------------
+==========> Russia IsWestOf_reverse
+==========> Europe InContinent_reverse
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+Finland	left of Russia	in Europe	located in next to ocean
+ ====> ['Russia'],['Russia', 'Turkey', 'Finland'],['Russia', 'Turkey', 'Finland', 'Syria', 'Poland'] 
+--------------------------------------------------------------------------
+==========> Malaysia IsSouthOf_reverse
+==========> Timor Leste IsWestOf_reverse
+==========> Papua New Guinea IsNorthOf_reverse
+Indonesia	is south of Malaysia	is west of Timor Leste	above Papua New Guinea
+ ====> ['Indonesia'],['Indonesia', 'Thailand', 'Australia'],['Indonesia', 'Thailand', 'Australia', 'Venezuela', 'France'] 
+--------------------------------------------------------------------------
+==========> Vatican IsEastOf_reverse
+==========> Slovenia IsSouthOf_reverse
+==========> Southern Europe InContinentLoc_South_reverse
+Italy	is east of Vatican	is south of Slovenia	located in Southern Europe
+ ====> ['Italy'],['Italy', 'Croatia', 'Argentina'],['Italy', 'Croatia', 'Argentina', 'Hungary', 'Austria'] 
+--------------------------------------------------------------------------
+==========> Asia InContinentLoc_North_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> People 's Republic of China SharesBorderWith_reverse
+Japan	in north eastern part of Asia	in next to ocean	located next to People's Republic of China
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Adriatic Sea', 'Brazil'],['Mediterranean Sea', 'Adriatic Sea', 'Brazil', 'Argentina', 'Ligurian Sea'] 
+--------------------------------------------------------------------------
+==========> Kyrgyzstan IsWestOf_reverse
+==========> Europe InContinent_reverse
+==========> Turkmenistan IsEastOf_reverse
+Kazakhstan	is west of Kyrgyzstan	in Europe	right of Turkmenistan
+ ====> ['Kazakhstan'],['Kazakhstan', 'Uzbekistan', 'Iran'],['Kazakhstan', 'Uzbekistan', 'Iran', 'Tajikistan', 'China'] 
+--------------------------------------------------------------------------
+==========> Chad IsWestOf_reverse
+==========> Niger IsNorthOf_reverse
+==========> Egypt SharesBorderWith_reverse
+Libya	is west of Chad	above Niger	its next to Egypt
+ ====> ['Libya'],['Libya', 'Nigeria', 'Benin'],['Libya', 'Nigeria', 'Benin', 'Niger', 'Algeria'] 
+--------------------------------------------------------------------------
+==========> China IsSouthOf_reverse
+==========> India IsNorthOf_reverse
+==========> Asia InContinent_reverse
+Nepal	below China	is north of India	in Asia
+ ====> ['Pakistan'],['Pakistan', 'Nepal', 'India'],['Pakistan', 'Nepal', 'India', 'Russia', 'Japan'] 
+--------------------------------------------------------------------------
+==========> Iran SharesBorderWith_reverse
+==========> India IsNorthOf_reverse
+==========> Asia InContinentLoc_South_reverse
+Pakistan	its next to Iran	above India	in southern part of Asia
+ ====> ['Pakistan'],['Pakistan', 'Nepal', 'Afghanistan'],['Pakistan', 'Nepal', 'Afghanistan', 'Turkmenistan', 'Libya'] 
+--------------------------------------------------------------------------
+==========> Spain SharesBorderWith_reverse
+==========> Spain IsSouthOf_reverse
+==========> Spain IsWestOf_reverse
+Portugal	its next to Spain	is south of Spain	left of Spain
+ ====> ['Portugal'],['Portugal', 'Morocco', 'France'],['Portugal', 'Morocco', 'France', 'Gibraltar', 'Ireland'] 
+--------------------------------------------------------------------------
+==========> Kenya IsNorthOf_reverse
+==========> Djibouti SharesBorderWith_reverse
+==========> Ethiopia IsSouthOf_reverse
+Somalia	above Kenya	located next to Djibouti	is south of Ethiopia
+ ====> ['Somalia'],['Somalia', 'Ethiopia', 'Sudan'],['Somalia', 'Ethiopia', 'Sudan', 'Eritrea', 'Kenya'] 
+--------------------------------------------------------------------------
+==========> Africa InContinent_reverse
+==========> Africa InContinentLoc_South_reverse
+==========> Africa InContinent_reverse
+Zambia	in Africa	in southern part of Africa	in Africa
+ ====> ['Zambia'],['Zambia', 'Central African Republic', 'Tanzania'],['Zambia', 'Central African Republic', 'Tanzania', 'Nigeria', 'Benin'] 
+--------------------------------------------------------------------------
+==========> Russia IsWestOf_reverse
+==========> Europe InContinent_reverse
+==========> Russia IsWestOf_reverse
+Finland	is west of Russia	in Europe	is west of Russia
+ ====> ['Poland'],['Poland', 'Belarus', 'Russia'],['Poland', 'Belarus', 'Russia', 'Finland', 'Kazakhstan'] 
+--------------------------------------------------------------------------
+==========> East Timor HasShape
+==========> Malaysia IsEastOf_reverse
+==========> Asia InContinentLoc_North_reverse
+Indonesia	its next to East Timor	is east of Malaysia	in south eastern part of Asia
+ ====> ['Indonesia'],['Indonesia', 'Brunei', 'Brazil'],['Indonesia', 'Brunei', 'Brazil', 'Somalia', 'Nepal'] 
+--------------------------------------------------------------------------
+==========> France SharesBorderWith_reverse
+==========> Europe InContinent_reverse
+==========> Slovenia IsWestOf_reverse
+Italy	its next to France	in Europe	is west of Slovenia
+ ====> ['Italy'],['Italy', 'Austria', 'Hungary'],['Italy', 'Austria', 'Hungary', 'Croatia', 'Spain'] 
+--------------------------------------------------------------------------
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> Asia InContinent_reverse
+==========> South Korea SharesBorderWith_reverse
+Japan	in next to ocean	in Asia	located next to South Korea
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Japan', 'Adriatic Sea'],['Mediterranean Sea', 'Japan', 'Adriatic Sea', 'North Korea', "People's Republic of China"] 
+--------------------------------------------------------------------------
+==========> in landlocked HasShape
+Query sentence:Sentence: "landlocked"   [− Tokens: 1]
+Chose entity:landlocked
+==========> Asia InContinentLoc_Central_reverse
+==========> Uzbekistan IsEastOf_reverse
+Kazakhstan	in landlocked	in central part of Asia	right of Uzbekistan
+ ====> ['Kazakhstan'],['Kazakhstan', 'Tajikistan', 'Kyrgyzstan'],['Kazakhstan', 'Tajikistan', 'Kyrgyzstan', 'Pakistan', 'China'] 
+--------------------------------------------------------------------------
+==========> Africa InContinentLoc_North_reverse
+==========> Africa InContinent_reverse
+==========> Egypt SharesBorderWith_reverse
+Libya	in northern part of Africa	in Africa	located next to Egypt
+ ====> ['Libya'],['Libya', 'Central African Republic', 'Nigeria'],['Libya', 'Central African Republic', 'Nigeria', 'Syria', 'Saudi Arabia'] 
+--------------------------------------------------------------------------
+==========> in landlocked HasShape
+Query sentence:Sentence: "landlocked"   [− Tokens: 1]
+Chose entity:landlocked
+==========> India IsNorthOf_reverse
+==========> India IsEastOf_reverse
+Nepal	in landlocked	is north of India	is east of India
+ ====> ['Nepal'],['Nepal', 'Pakistan', 'China'],['Nepal', 'Pakistan', 'China', 'Bhutan', 'Myanmar'] 
+--------------------------------------------------------------------------
+==========> Afghanistan IsSouthOf_reverse
+==========> India SharesBorderWith_reverse
+==========> India IsNorthOf_reverse
+Pakistan	is south of Afghanistan	located next to India	above India
+ ====> ['Pakistan'],['Pakistan', 'China', 'Nepal'],['Pakistan', 'China', 'Nepal', 'India', 'Iran'] 
+--------------------------------------------------------------------------
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+==========> Spain IsWestOf_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+Portugal	in next to ocean	is west of Spain	in next to ocean
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Adriatic Sea', 'Portugal'],['Mediterranean Sea', 'Adriatic Sea', 'Portugal', 'Cantabrian Sea', 'Ligurian Sea'] 
+--------------------------------------------------------------------------
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> Africa InContinent_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+Somalia	located in next to ocean	in Africa	in next to ocean
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Adriatic Sea', 'Russia'],['Mediterranean Sea', 'Adriatic Sea', 'Russia', 'Turkey', 'Ligurian Sea'] 
+--------------------------------------------------------------------------
+==========> in landlocked HasShape
+Query sentence:Sentence: "landlocked"   [− Tokens: 1]
+Chose entity:landlocked
+==========> Africa InContinent_reverse
+==========> Angola IsEastOf_reverse
+Zambia	in landlocked	in Africa	is east of Angola
+ ====> ['Zambia'],['Zambia', 'Republic of the Congo', 'Namibia'],['Zambia', 'Republic of the Congo', 'Namibia', 'Tanzania', 'Democratic Republic of the Congo'] 
+--------------------------------------------------------------------------
+==========> Fennoscandia HasSize_reverse
+==========> Europe InContinent_reverse
+==========> Russia IsWestOf_reverse
+Finland	located in Fennoscandia	in Europe	is west of Russia
+ ====> ['Poland'],['Poland', 'Russia', 'Belarus'],['Poland', 'Russia', 'Belarus', 'Serbia', 'Bulgaria'] 
+--------------------------------------------------------------------------
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> Asia InContinentLoc_North_reverse
+==========> Malaysia IsEastOf_reverse
+Indonesia	located in next to ocean	in south eastern part of Asia	is east of Malaysia
+ ====> ['Indonesia'],['Indonesia', 'Russia', 'Brunei'],['Indonesia', 'Russia', 'Brunei', 'Brazil', 'Turkey'] 
+--------------------------------------------------------------------------
+==========> Europe InContinent_reverse
+==========> Slovenia IsSouthOf_reverse
+==========> Slovenia SharesBorderWith_reverse
+Italy	in Europe	below Slovenia	located next to Slovenia
+ ====> ['Italy'],['Italy', 'Croatia', 'Hungary'],['Italy', 'Croatia', 'Hungary', 'Austria', 'Argentina'] 
+--------------------------------------------------------------------------
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> Asia InContinentLoc_North_reverse
+==========> Asia InContinent_reverse
+Japan	located in next to ocean	in north eastern part of Asia	in Asia
+ ====> ['Russia'],['Russia', 'Turkey', 'Republic of Cyprus'],['Russia', 'Turkey', 'Republic of Cyprus', 'Indonesia', 'Syria'] 
+--------------------------------------------------------------------------
+==========> Uzbekistan IsEastOf_reverse
+==========> Russia IsSouthOf_reverse
+==========> China IsNorthOf_reverse
+Kazakhstan	right of Uzbekistan	is south of Russia	is north of China
+ ====> ['Kazakhstan'],['Kazakhstan', 'Russia', 'Tajikistan'],['Kazakhstan', 'Russia', 'Tajikistan', 'Kyrgyzstan', 'China'] 
+--------------------------------------------------------------------------
+==========> Sudan IsNorthOf_reverse
+==========> Africa InContinentLoc_North_reverse
+==========> Tunisia IsSouthOf_reverse
+Libya	is north of Sudan	in northern part of Africa	is south of Tunisia
+ ====> ['Libya'],['Libya', 'Central African Republic', 'Algeria'],['Libya', 'Central African Republic', 'Algeria', 'Egypt', 'Chad'] 
+--------------------------------------------------------------------------
+==========> India SharesBorderWith_reverse
+==========> in landlocked HasShape
+Query sentence:Sentence: "landlocked"   [− Tokens: 1]
+Chose entity:landlocked
+==========> Asia InContinentLoc_South_reverse
+Nepal	located next to India	in landlocked	in southern part of Asia
+ ====> ['Pakistan'],['Pakistan', 'Nepal', 'India'],['Pakistan', 'Nepal', 'India', 'Indonesia', 'Argentina'] 
+--------------------------------------------------------------------------
+==========> Iran IsEastOf_reverse
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> India IsNorthOf_reverse
+Pakistan	is east of Iran	located in next to ocean	is north of India
+ ====> ['Pakistan'],['Pakistan', 'Russia', 'Turkey'],['Pakistan', 'Russia', 'Turkey', 'Libya', 'Nepal'] 
+--------------------------------------------------------------------------
+==========> Europe InContinent_reverse
+==========> Spain IsSouthOf_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+Portugal	in Europe	is south of Spain	in next to ocean
+ ====> ['Mediterranean Sea'],['Mediterranean Sea', 'Portugal', 'Adriatic Sea'],['Mediterranean Sea', 'Portugal', 'Adriatic Sea', 'Ligurian Sea', 'Baltic Sea'] 
+--------------------------------------------------------------------------
+==========> Africa InContinentLoc_East_reverse
+==========> Kenya IsEastOf_reverse
+==========> Ethiopia IsSouthOf_reverse
+Somalia	in eastern part of Africa	right of Kenya	is south of Ethiopia
+ ====> ['Somalia'],['Somalia', 'Ethiopia', 'Tanzania'],['Somalia', 'Ethiopia', 'Tanzania', 'Sudan', 'Kenya'] 
+--------------------------------------------------------------------------
+==========> Namibia IsEastOf_reverse
+==========> Africa InContinentLoc_South_reverse
+==========> located in landlocked HasCapital_reverse
+Query sentence:Sentence: "located landlocked"   [− Tokens: 2]
+Chose entity:landlocked
+Zambia	is east of Namibia	in southern part of Africa	located in landlocked
+ ====> ['Botswana'],['Botswana', 'Zambia', 'South Africa'],['Botswana', 'Zambia', 'South Africa', 'Argentina', 'Angola'] 
+--------------------------------------------------------------------------
+==========> Sweden IsEastOf_reverse
+==========> Europe InContinentLoc_North_reverse
+==========> Europe InContinent_reverse
+Finland	is east of Sweden	in northern part of Europe	in Europe
+ ====> ['Finland'],['Finland', 'Russia', 'Poland'],['Finland', 'Russia', 'Poland', 'Latvia', 'Portugal'] 
+--------------------------------------------------------------------------
+==========> Palau SharesBorderWith_reverse
+==========> Timor Leste IsWestOf_reverse
+==========> in next to ocean LocatedInOrNextToBodyOfWater
+Query sentence:Sentence: "next ocean"   [− Tokens: 2]
+Chose entity:next to ocean
+Indonesia	located next to Palau	is west of Timor Leste	in next to ocean
+ ====> ['Indonesia'],['Indonesia', 'Mediterranean Sea', 'Adriatic Sea'],['Indonesia', 'Mediterranean Sea', 'Adriatic Sea', 'Federated States of Micronesia', 'Philippines'] 
+--------------------------------------------------------------------------
+==========> Slovenia IsSouthOf_reverse
+==========> Vatican IsEastOf_reverse
+==========> France IsSouthOf_reverse
+Italy	below Slovenia	right of Vatican	is south of France
+ ====> ['Italy'],['Italy', 'Brazil', 'Spain'],['Italy', 'Brazil', 'Spain', 'Croatia', 'Argentina'] 
+--------------------------------------------------------------------------
+==========> People 's Republic of China SharesBorderWith_reverse
+==========> Asia InContinentLoc_North_reverse
+==========> Asia InContinent_reverse
+Japan	located next to People's Republic of China	in north eastern part of Asia	in Asia
+ ====> ['Brazil'],['Brazil', 'Argentina', 'India'],['Brazil', 'Argentina', 'India', 'Peru', 'Paraguay'] 
+--------------------------------------------------------------------------
+==========> Russia IsSouthOf_reverse
+==========> Kyrgyzstan SharesBorderWith_reverse
+==========> Asia InContinent_reverse
+Kazakhstan	below Russia	located next to Kyrgyzstan	in Asia
+ ====> ['Kazakhstan'],['Kazakhstan', 'Russia', "People's Republic of China"],['Kazakhstan', 'Russia', "People's Republic of China", 'Uzbekistan', 'Tajikistan'] 
+--------------------------------------------------------------------------
+==========> Tunisia IsSouthOf_reverse
+==========> Africa InContinent_reverse
+==========> Chad IsNorthOf_reverse
+Libya	is south of Tunisia	in Africa	above Chad
+ ====> ['Libya'],['Libya', 'Nigeria', 'Niger'],['Libya', 'Nigeria', 'Niger', 'Algeria', 'Central African Republic'] 
+--------------------------------------------------------------------------
+==========> located in landlocked HasCapital_reverse
+Query sentence:Sentence: "located landlocked"   [− Tokens: 2]
+Chose entity:landlocked
+==========> People 's Republic of China SharesBorderWith_reverse
+==========> China IsWestOf_reverse
+Nepal	located in landlocked	located next to People's Republic of China	left of China
+ ====> ['India'],['India', 'Brazil', 'Argentina'],['India', 'Brazil', 'Argentina', 'Pakistan', 'Peru'] 
+--------------------------------------------------------------------------
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> Asia InContinent_reverse
+==========> Asia InContinentLoc_South_reverse
+Pakistan	located in next to ocean	in Asia	in southern part of Asia
+ ====> ['Russia'],['Russia', 'Turkey', 'Republic of Cyprus'],['Russia', 'Turkey', 'Republic of Cyprus', 'Indonesia', 'Syria'] 
+--------------------------------------------------------------------------
+==========> Spain SharesBorderWith_reverse
+==========> Spain IsWestOf_reverse
+==========> Spain IsSouthOf_reverse
+Portugal	located next to Spain	left of Spain	is south of Spain
+ ====> ['Portugal'],['Portugal', 'France', 'Morocco'],['Portugal', 'France', 'Morocco', 'Ireland', 'Gibraltar'] 
+--------------------------------------------------------------------------
+==========> Africa InContinent_reverse
+==========> located in next to ocean LocatedInOrNextToBodyOfWater_reverse
+Query sentence:Sentence: "located next ocean"   [− Tokens: 3]
+Chose entity:next to ocean
+==========> Kenya IsEastOf_reverse
+Somalia	in Africa	located in next to ocean	is east of Kenya
+ ====> ['Somalia'],['Somalia', 'Tanzania', 'Ethiopia'],['Somalia', 'Tanzania', 'Ethiopia', 'Russia', 'Turkey'] 
+--------------------------------------------------------------------------
+==========> in landlocked HasShape
+Query sentence:Sentence: "landlocked"   [− Tokens: 1]
+Chose entity:landlocked
+==========> Zimbabwe IsNorthOf_reverse
+==========> Africa InContinentLoc_East_reverse
+Zambia	in landlocked	is north of Zimbabwe	in eastern part of Africa
+ ====> ['Zambia'],['Zambia', 'Tanzania', 'Somalia'],['Zambia', 'Tanzania', 'Somalia', 'Slovakia', 'Botswana'] 
+--------------------------------------------------------------------------
+============> Top-1 acc: 67.27272727272727%, Top-3 acc: 85.45454545454545%, Top-5 acc: 87.27272727272727%
