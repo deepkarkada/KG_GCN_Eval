@@ -284,7 +284,7 @@ def score(args):
 
             print(f'Target country ====> {target_country}')
             print(f'Target country predictions ====> Top-1: {top_1_ent}; Top-3: {top_3_ent}; Top-5: {top_5_ent} ')
-            print('--------------------------------------------------------------------------')
+            print('---------------------------------------------------------------------------')
             if target_country.capitalize() in top_1_ent:
                 top_1_score += 1
             if target_country.capitalize() in top_3_ent:
